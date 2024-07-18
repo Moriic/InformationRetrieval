@@ -1,0 +1,46 @@
+{"title":"李漫洁","cnUrl":"http://www.sigs.tsinghua.edu.cn/lmj/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/87/3f/fc5a98e84ed3a348ad069d7a68ed/294739cf-f81b-42f1-a0bd-b9f7b3e1fe5f.png","email":"manjie.li@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+工作经历 
+2022年4月-至今，清华大学深圳国际研究生院，助理教授
+2019年9月-2022年3月，清华大学，博士后
+2018年6月-至今，清华四川能源互联网研究院，助理研究员（兼职）
+学术兼职 
+Water Research, Urban Water Journal, Environmental Science and Pollution Research等期刊审稿人。
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+研究方向为环境水力学，涉及流体力学、环境与材料化学、微生物学等多学科的交叉应用。主要研究内容包括：饮用水的化学和微生物水质稳定性、输水管道的腐蚀问题、流域水环境污染评估分析等。
+主要项目 
+1. 国家自然科学基金青年科学基金项目“供水管网弯管处水流特征及管垢污染物释放的影响机制研究”，主持，在研
+2. 中国博士后科学基金特别资助（站中）项目“供水管网粗糙弯管段的水动力特征与传质过程研究”，主持，完成
+3. 城市水资源与水环境国家重点实验室开放基金课题“供水管道微观水流特征对管壁生物膜附着的影响研究”，主持，在研
+4. 国家自然科学基金面上项目“出水圆柱绕流的尾流特征和流动参数识别研究”，主要参与人，在研
+5. 国家重点研发计划课题“河流-水库系统浮游植物及微生物种群变异过程与调控机制”，主要参与人，结题
+6. 国家科技支撑计划课题“南水北调中线水质差异应对关键技术研究与应用”，主要完成人，结题
+7. 国家自然科学基金面上项目“电站调峰作用下的澜沧江下游水动力及底栖动物变化规律”，主要参与人，结题
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]. Manjie Li, Zhaowei Liu*, Mingdong Zhang, Yongcan Chen, 2021. A workflow for spatio-seasonal hydro-chemical analysis using multivariate statistical techniques. Water Research 188, 116550.
+[2]. Yuhui Wang, Manjie Li*, Zhaowei Liu, Juanjuan Zhao, Yongcan Chen, 2021. Interactions between pyrene and heavy metals and their fates in a soil-maize (Zea mays L.) system: Perspectives from the root physiological functions and rhizosphere microbial community. Environmental Pollution 287, 117616.
+[3]. Manjie Li, Zhaowei Liu*, Qian Yu, Yongcan Chen, 2021. Exploratory analysis on spatio-seasonal variation patterns of hydro-chemistry in the upper Yangtze River basin. Journal of Hydrology 597, 126217.
+[4]. Lingjiang Lu, Manjie Li, Zhaowei Liu, Yongcan Chen, 2021. Simulation of flow characteristics in the near-wall area of a rough pipe. The 5th International Symposium of Shallow Flows.
+[5]. Manjie Li, Yuhui Wang*, Zhaowei Liu*, Yi Sha, Gregory V. Korshin, Yongcan Chen, 2020. Metal-release potential from iron corrosion scales under stagnant and active flow, and varying water quality conditions. Water Research 175, 115675.
+[6]. Manjie Li, Zhaowei Liu, Yongcan Chen, 2020. Sensory assessment of drinking water – the probable influence factors. IWA World Water Congress 2020.
+[7]. Manjie Li*, Zhaowei Liu, Yongcan Chen, Gregory V. Korshin, 2019. Effects of varying temperatures and alkalinities on the corrosion and heavy metal release from low-lead galvanized steel. Environmental Science and Pollution Research 27, 2412-2422.
+[8]. Manjie Li, Zhaowei Liu*, Yongcan Chen, Mingdong Zhang, 2019. Identifying effects of pipe material, hydraulic condition, and water composition on elemental accumulation in pipe corrosion scales. Environmental Science and Pollution Research 26, 19906-19914. 
+[9]. Manjie Li, Qian Yu, Zhaowei Liu, Yongcan Chen, 2019. Practices of low impact development on urban stormwater management in China. International Symposium on Sustainable Urban Drainage 2019.
+[10]. Manjie Li, Zhaowei Liu*, Yongcan Chen, 2018. Physico-chemical characteristics of corrosion scales from different pipes in drinking water distribution systems. Water 10(7), 931-944.
+[11]. Yongyan Wu, Zhaowei Liu*, Yongcan Chen, Manjie Li, 2018. Investigation of velocity distribution and turbulence characteristics in subcritical circular open channel flows using a modified Reynolds stress model. Journal of Hydro-Environment Research 19, 68-77. 
+[12]. Junfeng Wang, Xinshan Song*, Yuhui Wang*, Junhong Bai, Manjie Li, Guoqiang Dong, Fanda Lin, Yanfeng Lv, Denghua Yan, 2017. Bioenergy generation and rhizodegradation as affected by microbial community distribution in a coupled constructed wetland-microbial fuel cell system associated with three macrophytes. Science of the Total Environment 607-608, 53-62.
+[13]. Manjie Li, Zhaowei Liu, Yongcan Chen, Yongyan Wu, 2017. Effect mechanism of flow velocity on iron release from pipe surfaces in drinking water distribution systems. The 37th IAHR World Congress.
+[14]. Manjie Li, Zhaowei Liu*, Yongcan Chen, Yang Hai, 2016. Characteristics of iron corrosion scales and water quality variations in drinking water distribution systems of different pipe materials. Water Research 106, 593-603.
+[15]. Zhaowei Liu, Manjie Li, Yongcan Chen, 2015. Simulation of hydropeaking flows in downstream reservoir of hydropower plants cascade. The 36th IAHR World Congress. 
+代表性著作 
+主要专利成果 
+李漫洁，刘昭伟，陈永灿，王皓冉. 生物膜采样器. 实用新型专利, 2020. 
+其他成果 
+ </研究成果>

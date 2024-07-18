@@ -1,0 +1,44 @@
+{"title":"邓敏聪","cnUrl":"http://www.sigs.tsinghua.edu.cn/dmc/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/57/0a/e0b05d4d4d9b9eca5ed36955160f/0fbcf695-7741-491b-91b1-8b62bf773748.jpg","email":"kobetang2021@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+邓博士任职于清华大学深圳国际研究生院材料研究院任副教授，研究方向着重于发光材料的研究，及其有机发光二极管的应用研究。近年来在高水平期刊上发表论文約30篇，总被引用超过1000次，在中国丶美国及世界各地发多個专利，参与国家自然科学基金项目，并多次应邀参加国际学术会议并作报告。
+欢迎硕士研究生、博士研究生博士后加盟！
+教育经历 
+2010年9月-2015年3月，香港大学，材料化學专业，博士
+2006年9月-2009年9月，香港城市大学，應用化學专业，学士
+工作经历 
+2023年12月至今，清华大学深圳国际研究生院，副教授
+2021年6月-2023年12月，清华大学深圳国际研究生院，助理教授
+2018年4月-2021年5月，香港大学，Research officer
+2016年4月-2018年3月，香港大学，Assistant Research officer
+2015年6月-2016年3月，香港大学，Postdoctoral Fellow
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+邓敏聪博士现为清华大学深圳国际研究生院助理教授、博士生导师。2015年博士毕业于香港大学化学系，师从任咏华院士。先后在香港大学的 Institute of Molecular Functional Materials实验室和香港大学-TCL新型印刷OLED材料与技术联合实验室担任Research Officer (专职研究员)。主要从事金有机配合物的分子设计及合成、发光特性的结构调控及其在有机发光二极管(OLED)中的应用。主要研究方向是储能、有机/无机光电子材料与器件。已经发表三十多篇高质量文章，包括Nature Photonics, J. Am. Chem. Soc., Angew. Chem. Int. Ed., Chem. Rev. 等国外著名期刊, SCI 引用已经超过1300次。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+Selected publications
+[1] M.-C. Tang, D. P.-K. Tsang, M. M.-Y. Chan, et al. Dendritic Luminescent Gold(III) Complexes for Highly Efficient Solution- Processable Organic Light-Emitting Devices. Angew. Chem. Int. Ed. 2013, 52, 446.
+[2] M.-C. Tang, D. P.-K. Tsang, Y.-C. Wong, et al. Bipolar Gold(III) Complexes for Solution-Processable Organic Light-Emitting Devices with a Small Efficiency Roll-Off.J. Am. Chem. Soc. 2014, 136, 17861.
+[3] F. K.-W. Kong, M.-C. Tang, Y.-C. Wong, et al. Design Strategy for High-Performance Dendritic Carbazole-Containing Alkynylplatinum(II) Complexes and Their Application in Solution-Processable Organic Light-Emitting Devices. J. Am. Chem. Soc. 2016, 138, 6281.
+[4] F. K.-W. Kong, M.-C. Tang, Y.-C. Wong, et al. Design Strategy for High-Performance Dendritic Carbazole-Containing Alkynylplatinum(II) Complexes and Their Application in Solution-Processable Organic Light-Emitting Devices. J. Am. Chem. Soc. 2017, 139, 6351.
+[5] M.-C. Tang, C.-H. Lee, S.-L. Lai, et al. Versatile Design Strategy for Highly Luminescent Vacuum-Evaporable and Solution-Processable Tridentate Gold(III) Complexes with Monoaryl Auxiliary Ligands and Their Applications for Phosphorescent Organic Light Emitting Devices. J. Am. Chem. Soc. 2017, 139, 9341.
+[6] C.-H. Lee, M.-C. Tang, Y.-C. Wong, et al. Sky-blue Emitting Dendritic Alkynylgold(III) Complexes for Solution Processible Organic Light Emitting Devices. J. Am. Chem. Soc. 2017, 139, 10539.
+[7] M.-C. Tang, C.-H. Lee, M. Ng, et al.Highly Emissive Fused Heterocyclic Alkynylgold(III) Complexes for Multiple Color Emission Spanning from Green to Red for Solution-Processable Organic Light-Emitting Devices. Angew. Chem. Int. Ed. 2018, 57, 5463.
+[8 M.-C. Tang, M.-Y. Leung, S.-L. Lai, et al. Realization of Thermally Stimulated Delay Phosphorescence in Arylgold(III) Complexes and Efficient Gold(III) Based Blue-Emitting Organic Light-Emitting Devices. J. Am. Chem. Soc. 2018, 140, 13115.
+[9] L.-K. Li, M.-C. Tang, S.-L. Lai, et al. Strategies Towards Rational Design of Gold(III) Complexes for High-Performance Organic Light-Emitting Devices. Nat. Photonics. 2019, 13, 185.
+[10] C.-H. Lee, M.-C. Tang, F. K.-W. Kong, et al. Isomeric Tetradentate Ligand-Containing Cyclometalated Gold(III) Complexes. J. Am. Chem. Soc. 2020, 142, 520.
+[11] M.-Y. Leung, M.-C. Tang, W.-L. Cheung,et al. Thermally Stimulated Delayed Phosphorescence (TSDP)-Based Gold(III) Complexes of Tridentate Pyrazine-Containing Pincer Ligand with Wide Emission Color Tunability and Their Application in Organic Light-Emitting Devices. J. Am. Chem. Soc. 2020, 142, 2448.
+[12] W.-K. Kwok, M.-C. Tang, S.-L. Lai, et al. Judicious Choice of N‐Heterocycles for the Realization of Sky‐Blueto Green‐Emitting Carbazolylgold(III) C^C^N Complexes and Their Applications for Organic Light‐Emitting Devices. Angew. Chem. Int. Ed. 2020, 59, 9684.
+[13] M.-C. Tang, L.-K. Li, S.-L. Lai,et al.Design Strategy Towards Horizontally Oriented Luminescent Tetradentate‐Ligand‐Containing Gold(III) Systems. Angew. Chem. Int. Ed. 2020, 132, 21209.
+[14] Y.-S. Wong, M.-C. Tang, M. Ng, et al. Toward the Design of Phosphorescent Emitters of Cyclometalated Earth-Abundant Nickel(II) and Their Supramolecular Study. J. Am. Chem. Soc. 2020, 142, 7638.
+[15] M.-C. Tang, M.-Y. Chan, V. W.-W. Yam, et al. Molecular Design of Luminescent Gold(III) Emitters as Thermally Evaporable and Solution-Processable Organic Light-Emitting Device (OLED) Materials. Chem. Rev. 2021, 121, 13, 7249–7279
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

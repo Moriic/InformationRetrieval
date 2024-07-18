@@ -1,0 +1,107 @@
+{"title":"耿洪亚","cnUrl":"http://www.sigs.tsinghua.edu.cn/ghy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/2f/61/cdc52ed047a68ec0ec35fc8c6668/600c0d23-10ca-4db2-8633-c64f263db31f.jpg","email":"geng.hongya@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+耿洪亚受聘于清华大学深圳国际研究生院生物医药与健康工程研究院，担任助理教授（特别研究员），博士生导师，耿洪亚领衔的仿生功能性水凝胶课题组主要开展生物材料、仿生功能水凝胶、导电高分子和有机无机杂合纳米结构的制备和加工，及其在组织工程假体和冷冻保存方面的应用研究。课题组采用先进生物制造技术包括3D打印、冰模板技术、湿化学纺丝、激光直写技术和激光刻蚀技术，实现了对高分子水凝胶在纳米-微米-米级有序多级结构的精准调控和界面工程化改造；通过天然多糖、多肽、蛋白和导电高分子的有机复合，制备了光-热-电响应的多功能水凝胶体系，可以促进软组织、血管和神经的再生，实现伤口愈合和神经修复；设计了新型融冰-抑冰材料，致力于实现器官、类器官高效冷冻保存；发展了界面引发自由基反应策略，在有机/无机界面上自发形成自由基并同步构建水凝胶与基底两相间的牢固界面，该策略可以用常规水溶性高分子和多肽作为骨架结构和桥连元件，形成有机、无机、空气一体化水凝胶，从而集成光热、酶响应、药物载体等单元；实现了无干预环境向导光驱动液体传输、水汽蒸发、长效抗菌和光热诊疗等新应用。
+作为项目负责人，承担了国家自然科学基金委青年项目，深圳市孔雀计划项目，清华大学战略项目等10余项，发表SCI论文30余篇，其中以通讯或一作在相关领域发表论文20余篇包括Nature Communications, Journal of the American Chemical Society, Angewandte Chemie Advanced Healthcare Materials, Account of Chemical Research, Advanced Functional Materials, Advanced Energy Materials等国际知名期刊，截止到2024年6月文章累计他引1500+次。申报和授权国家、香港地区和国际发明专利16项，入选国家海外青年引才计划，深圳市孔雀计划海外高层次人才，欧盟“玛丽居里”学者。
+教育经历 
+2014年9月-2017年7月，中国科学院化学研究所，物理化学，博士
+2011年9月-2014年7月，上海大学/环境与化学工程学院，化学工程与技术，硕士
+2007年9月-2011年7月，上海大学/合肥师范学院，化学，学士
+工作经历 
+2022年8月-今，清华大学深圳国际研究生院，助理教授，特别研究员，博士生导师
+2021年8月-2022年8月，瑞典卡罗琳医学院（The Stevens Group），“玛丽居里”学者
+2019年8月-2022年8月，英国帝国理工学院（The Stevens Group），助理研究员
+2017年7月-2019年7月，清华大学，博士后
+学术兼职 
+《Military Medical Research》青年编委
+《Brain-X》青年编委
+《Biosensors》客座主编
+《Gels》客座主编
+中国生化制药工业协会专家委员
+中国细胞精益制造平台专家委员
+江苏科技大学兼职教授
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+清华大学深圳国际研究生院，交叉创新实践课—冷冻保存原理及应用（65990262）
+清华大学深圳国际研究生院，生物材料与组织工程学（85991302）
+清华大学深圳国际研究生院，再生医学技术进展（86000553）
+清华大学深圳国际研究生院，医学科学研究（82917002）
+清华大学深圳国际研究生院，机械生物学（86000542）
+清华大学深圳国际研究生院，干细胞与再生医学进展（84000441）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+导电高分子/功能性生物分子复合水凝胶设计、结构改造和界面工程研究
+抑冰纳米升温材料开发、及其在类器官和器官低温存储的应用研究
+近红外光-电-生物信号响应组织假体的设计及其在组织工程中的应用研究
+主要项目 
+1. 国家海外青年人才项目（HW）
+2. 国家自然科学委青年基金项目（项目编号：2205141）
+3. 清华大学战略项目（项目编号：2023ZLA005）
+4. 清华大学深圳国际研究生院交叉科研创新基金项目（项目编号：JC2023001）
+5. 清华大学深圳国际研究生院概念验证项目（项目编号：03040100003）
+6. 清华大学化工系-iBHE联合基金（项目编号：01020100019）
+7. 清华大学深圳国际研究生院科研启动经费（项目编号：QD2022027C）
+ </研究领域>
+<研究成果>
+代表性论文 
+1. Lu, Q.; Wang, X.; Fan, X.; Lin, J.; Hu, J.; Duan, G.; Yu, H.; Geng, Z.; Wang X.; Dai, H.; Liu, F.; Wen, L.; Geng, H.* Wintersweet-like nanohybrids of titanium-doped cerium vanadate loaded with polypyrrole for tumor theranostic. Adv. Healthc. Mater. 2024, 24000830.
+2. Liu, L.; Fan, X.; Lu, Q.; Wang, P.; Wang, X.; Han, Y.; Geng, H. *; Antimicrobial research of carbohydrate polymer-and protein-based hydrogels as reservoirs for the generation of reactive oxygen species: A review. Int. J. Bio. Macro. 2024, 129251.
+3. Wang, Z.; Dai, H.; Chen, B.; Cheng, S.; Sun, Y.; Zhao, J.; Geng, H. *; Effluent quality prediction of the sewage treatment based on a hybrid neural network model: Comparison and application. J. Environ. Manage. 2024, 351, 119900.
+4. Cui, J.; Liu, L.; Chen, B.; Hu, J.; Song, M.; Dai, H.; Geng, H. *; A comprehensive review on the inherent and enhanced antifouling mechanisms of hydrogels and their applications. Int. J. Bio. Macro. 2024, 130994.
+5. Jia, X.; Fan, X.; Chen, C.; Lu, Q.; Zhou, H.; Zhao, Y.; Geng, H. *; Chemical and structural engineering of gelatin-based delivery systems for therapeutic applications: a review. Biomacromolecules 2024, 25, 564-589.
+6. Tsoy, A.; Liu, Z.; Zhang, H.; Zhou, M.; Yang, W.; Geng, H.; Jiang, K.; Yuan, X.; Geng, Z.; Image-free single-pixel keypoint detection for privacy preserving human pose estimation. Opt. Lett. 2024, 49, 546-549.
+7. Xiao, T.; He, G.; Geng, H.; Wang, Y.; Sun, S.; Microneedle assisted delivery of epidermal and dermal stem cells to promote hair growth. J. Mater. Sci. 2024, 59, 8427-8440.
+8. Geng, H.; Lupton, E. J.; Ma, Y.; Grigsby, C. L.; Brachi, G.; Stuckey, D. J.; Stevens M. M.* Bandgap engineering of conductive polymer nanosheets for precise raman/photoacoustic imaging and photothermal therapy, Adv. Healthc. Mater. 2023, 12, 2301148.
+9. Wang, P.; Liu, Q.; Fu, W.; Zhang, C.; Cai, G.; Xing, W.; Dai, H.; Geng, H. *; Xu, D. Modulation of non-covalent wet adhesion and cohesion via proximally immobilized non-lysine pair structure. Chem. Eng. J. 2023, 461, 141738.
+10. Dai, H.; Geng. H. *; Wang, X. Optimal control of sewage treatment process using a dynamic multi-objective particle swarm optimization based on crowding distance. J. Environ. Chem. Eng. 2023, 11, 109484.
+11. Chen, C.; Jia, X.; Li, X.; Shi, M.; Hu, J.; Song, M.; Geng, H. *; Scalable wet-spinning of wearable chitosan-silica textile for all-day radiative cooling. Chem. Eng. J. 2023, 475, 146307.
+12. Wu, M.; Sun, K.; He, J.; Huang, Q.; Zhan, W.; Lu, Z.; Geng, H. *; Zou, Z; Hierarchically 3D fibrous electrode for high‐performance flexible ac‐line filtering in fluctuating energy harvesters. Adv. Funct. Mater. 2023, 33, 2305039.
+13. Li, X.; Wang, P.; Lu, Q.; Yao, H.; Yang, C.; Zhao, Y.; Geng, H. *; A hierarchical porous aerohydrogel for enhanced water evaporation. Water Res. 2023, 244, 120447.
+14. Zhao, J.; Dai, H.; Wang, Z.; Chen, C.; Cai, X.; Song, M.; Geng, H. *; Self-organizing modeling and control of activated sludge process based on fuzzy neural network. J. Water Process Eng. 2023, 53, 103641.
+15. Dai, H.; Zhao, J.; Wang, Z.; Chen, C.; Liu, X.’ Guo, Z.; Geng, H. *; Wang, X. (2023). Optimal control of sewage treatment process using a dynamic multi-objective particle swarm optimization based on crowding distance. J. Environ. Chem. Eng. 2023, 11, 109484.
+16. Geng, H.; Pedersen, S. V.; Ma, Y.; Haghighi, T.; Dai, H.; Dowes, P. D.; Stevens, M. M.* Noble Metal Nanoparticle Biosensors: From Fundamental Studies toward Point-of-Care Diagnostics, Acc. Chem. Res., 2022, 55, 593-604.
+17. Wu, M.; Geng, H.; Hu, Y.; Ma, H.; Yang, C.; Chen, H.; Wen, Y.; Chen, H.; Li, C.; Liu, F.; Jiang, L.; Qu, L.; Superelastic graphene aerogel-based metamaterials. Nat. Commun. 2022, 13, 4561.
+18. Dai, H.; Sun Y.; Wan D.; Geng, H.; Wang, X. Simultaneous denitrification and phosphorus removal: a review on the functional strains and activated sludge processes. Sci. Total Enviro. 2022, 835, 155409.
+19. Sun, R.; Song, X.; Zhou, K.; Zuo, Y.; Wang, R.; Rifaie, O.; Peeler, D.; Xie, R.; Leng, Y.; Geng, H.; Brachi, G.; Ma, Y.; Liu, Y.; Barron, L.; Stevens, M. Assembly of fillable microrobotic systems by microfluidic loading with dip sealing. Adv. Mater. 2022, 2207791.
+20. Wang, X.; Han, T.; Geng, H.; Dai, H.* Effects of nano metal oxide particles on activated sludge system: Stress and performance recovery mechanism, Environ. Pollut., 2021, 285, 117408.
+21. Geng, H.; Peng, Y.; Qu, L.;* Zhang, H.;* Wu, M.* Structure Design and Composition Engineering of Carbon‐Based Nanomaterials for Lithium Energy Storage, Adv. Energy Mater. 2020, 10, 1903030.
+22. Geng, H.; Lv, C.; Wu, M.; Ma, H.; Cheng, H.; Li, C.; Yuan, J.; Qu, L.*, Biomimetic antigravity water transport and remote harvesting powered by sunlight, Global Challenges., 2020, 4, 2000043.
+23. Wu, C.; Geng, H.; Tan, S.; Lv, J.; Wang, H.; He, Z.; Wang, J.* Highly Efficient Solar Anti-Icing/Deicing via A Hierarchical Structured Surface, Mater. Horiz. 2020, 7, 2097-2104.
+24. Liu, X.; Geng, H.; Sheng, N.; Wang, J.; Shi, G.* Suppressing Ice Growth By Integrating The Dual Characteristics of Antifreeze Proteins into Biomimetic Two-Dimensional Graphene Derivatives, J. Mater. Chem. A, 2020, 8, 23555-23562.
+25. Geng, H.; Xu, Q.; Wu, M.; Ma, H.; Zhang, P.; Gao, T.; Qu, L.;* Ma, T.;* Li, C.* Plant Leaves Inspired Sunlight-Driven Purifier for High-Efficiency Clean Water Production, Nat. Commun., 2019, 10, 1-10.
+26. Ma, H.; Geng, H.; Yao, B.; Wu, M.; Li, C.; Zhang, M.; Chi, F.; Qu, L.* Highly Ordered Graphene Solid: An Efficient Platform for Capacitive Sodium-Ion Storage with Ultrahigh Volumetric Capacity and Superior Rate Capability, ACS Nano, 2019, 13, 9161-9170.
+27. Xu, X.; Liu, L.; Geng, H.; Wang, J.; Zhou, J.; Jiang, Y.; Doi, M. Directional Freezing of Binary Colloidal Suspensions: A Model for Size Fractionation of Graphene Oxide, Soft Matter, 2019, 15, 243-251.
+28. Wu, M.; Chi, F.; Geng, H.; Ma, H.; Zhang, M.; Gao, T.; Li, C.; Qu, L.* Arbitrary Waveform AC Line Filtering Applicable to Hundreds of Volts Based on Aqueous Electrochemical Capacitors, Nat. Commun., 2019, 10, 1-9.
+29. Geng, H.; Zhou, K.; Zhou, J.; Ma, H.; Lv, C.; Li, C.; Xu, Z.; Qu, L.* Sunlight‐Driven Water Transport via A Reconfigurable Pump. Angew. Chem. Int. Ed., 2018, 130, 15661-15666.
+30. Zhang, P.; Liu, P.; Liao, Q.; Geng, H.; Cheng, H.; Li, C.; Qu, L.* A Microstructured Graphene/Poly(N‐isopropylacrylamide) Membrane for Intelligent Solar Water Evaporation, Angew. Chem. Int. Ed. 2018, 57, 16343-16347.
+31. Geng, H.; Liu, X.; Shi, G.; Bai, G.; Ma, J.; Chen, J.; Wu, Z.; Song, Y.; Fang, H.; Wang, J.* Graphene Oxide Restricts Growth and recrystallization of ice crystals, Angew. Chem. Int. Ed., 2017, 129, 1017-1021.
+32. Geng, H.; Yao, B.; Zhou, J.; Liu, K.; Bai, G.; Li, W.; Song, Y.; Shi, G.; Doi, M.; Wang, J.* Size Fractionation of Graphene Oxide Nanosheets via Controlled Directional Freezing, J. Am. Chem. Soc., 2017, 139, 12517-12523.
+33. Geng, H.; Chen, W.; Xu, Z.; Qian, G.; An, J.; Zhang, H.* Shape‐Controlled Hollow Mesoporous Silica Nanoparticles with Multifunctional Capping for In Vitro Cancer Treatment, Chem. A Eur. J, 2017, 23, 10878-10885.
+34. Bai, G.; Song, Z.; Geng, H.; Gao, D.; Liu, K.; Wu, S.; Rao, W.; Wang, J.* Oxidized Quasi‐Carbon Nitride Quantum Dots Inhibit Ice Growth, Adv. Mater. 2017, 29, 1606843.
+代表性著作 
+主要专利成果 
+1. 一种可用于伤口修复和清创的氧喷雾及其制备方法和应用，CN202311259474.3（公开）
+2. 一种钛掺杂/导电高分子负载的钒酸铈纳米酶及其制备方法与应用，CN202311010693.8（公开）
+3. 一种兼具抗菌和近红外响应的可注射伤口敷料及其制备方法，CN202310803007.6（公开）
+4. 一种抗菌树枝状聚酯高分子及其制备方法和应用，CN202310807148.5（公开）
+5. 一种新型抑菌抗冰寡肽及其在细胞冷冻保存中的应用，202410728037.X（申请）
+6. 一种抑冰高分子复合导电高分子纳米颗粒在细胞冷冻保存中的应用，CN202311772312.X（公开）
+7. 一种抑冰高分子复合导电高分子纳米颗粒在细胞冷冻保存中的应用，PCT/CN2024/084265（公开）
+8. 一种多孔的双网络空气水凝胶及其制备和应用，CN202211403578.2（授权）
+9. 一种基于光响应结构可逆重塑的水定向传输材料及其制备方法与应用，CN201811182574.X（授权）
+10. 一种氧化石墨烯尺寸分离的方法，CN201611063598.4（授权）
+11. 一种冷冻保存液及其制备方法和应用，KC28262（授权）
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2021 欧盟玛丽居里学者
+2020 英国帝国理工关键岗位员工
+2018 中国博士后特别资助
+2017 中国博士后基金会面上一等资助
+2017 中国科学院3D一等奖学金
+ </奖励荣誉>

@@ -1,0 +1,57 @@
+{"title":"余龙飞","cnUrl":"http://www.sigs.tsinghua.edu.cn/ylf/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/96/f2/aa6dc7304cdb805887639e9e4f5f/330be52e-1eb3-4f56-a746-a31c64c71cf1.png","email":"longfei.yu@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2012.09－2016.11，挪威生命科学大学，环境科学专业，博士
+2009.09－2012.07，中国科学院生态环境研究中心, 环境科学专业，硕士
+2005.09－2009.07，北京科技大学，环境工程专业，学士
+工作经历 
+2022.03至今，清华大学深圳国际研究生院，助理教授
+2020.04－2022.02，暨南大学，副教授
+2016.12－2020.02，苏黎世联邦理工材料科学研究院（EMPA），博士后
+学术兼职 
+期刊编委：中国土壤学会《土壤通报》青年编委
+学术组织成员：美国地球物理（AGU）和欧洲地球物理（EGU）学会会员
+期刊审稿人：Global Change Biology, Global Biogeochemical Cycles, Atmospheric Chemistry and Physics, Biogeochemistry, Plant and Soil, Agricultural and Forest Meteorology, Environmental Pollution, Atmospheric Environment
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+研究生指导 
+Master’s & PhD Advising/硕士博士导师研究方向：
+土壤生物地球化学，全球变化生态学，同位素地球化学
+ </教学>
+<研究领域>
+研究领域 
+氮素生物地球化学循环，地表温室气体排放与大气观测，稳定同位素技术应用
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+Selected Publications/代表性论文: 
+[1] Yu L, Zhu J*, Ji H, Bai X, Lin Y, Zhang Y, Sha L, Liu Y, Song Q, Dörsch P, Mulder J, Zhou W* (2021) Topography-related controls on N2O emission and CH4 uptake in a tropical rainforest catchment. Science of The Total Environment. 775: 145616. Doi.org/10.1016/j.scitotenv.2021.145616.
+[2] Yu L*, Harris E, Lewick-Szczebak D, Barthel M, Blomberg MRA, Harris SJ, Johnson MS, Lehmann MF, Liisberg J, Muller C, Ostrom NE, Six J, Toyoda S, Yoshida N, Mohn J (2020) What can we learn from N2O isotope data? – Analytics, processes and modelling. Rapid Communications in Mass Spectrometry. 34: e8858. Doi.org/10.1002/rcm.8858.
+[3] Yu L*, Harris E, Henne S, Eggleston S, Steinbacher M, Emmenegger L, Zellweger C, Mohn J (2020) Atmospheric nitrous oxide isotopes observed at the high-altitude research station Jungfraujoch, Switzerland. Atmospheric Chemistry and Physics. 20: 6495-6519. Doi.org/10.5194/acp-2019-829.
+[4] Yu L, Zhu J*, Zhang X, Wang Z, Dörsch P, Mulder J* (2019) Humid subtropical forests contribute a net methane source: a catchment-scale study. Journal of Geophysical Research: Biogeosciences. 124. DOI: 10.1029/2019JG005210.
+[5] Yu L, Mulder J*, Zhu J, Zhang X, Wang Z, Dörsch P (2019) Denitrification as a major nitrogen sink in forested monsoonal headwater catchments in the sub-tropics: evidence from multi-site dual nitrate isotopes. Global Change Biology. 25: 1765-1778. DOI: 10.1111/gcb.14596.
+[6] Yu L, Wang Y, Zhang X, Dörsch P, Mulder J* (2017) Phosphorus addition mitigates N2O and CH4 emissions in N-saturated subtropical forest, SW China. Biogeosciences. 14: 3097–3109.
+[7] Yu L, Kang R, Mulder J, Zhu J, Dörsch P* (2017) Distinct fates of atmogenic NH4+ and NO3− in subtropical, N-saturated forest soils. Biogeochemistry. 133: 279–294. 
+[8] Yu L, Zhu J, Mulder J, Dörsch P* (2016) Multiyear dual nitrate isotope signatures suggest that N-saturated subtropical forested catchments can act as robust N sinks. Global Change Biology. 22: 3662–3674.
+[9] Kantnerova K, Yu L, Zindel D, Zahniser M, Nelson D, Tuzson B, Emmenegger L, Bernasconi S, Mohn J (2020). First investigation and absolute calibration of clumped isotopes in N2O by mid-IR laser spectroscopy. Rapid Communications in Mass Spectrometry. 34: e8836. DOI: 10.1002/rcm.8836.
+[10] Kang R, Yu L, Dörsch P, Mulder J* (2020) Nitrification is the primary source for NO in N-saturated sub-tropical forest soils: results from in-situ 15N labeling. Rapid Communications in Mass Spectrometry. 34:e8700. DOI: 10.1002/rcm.8700.
+[11] Zhu J, Yu L, Bakken LR, Mørkved PT, Mulder J, Dörsch P* (2018) Controlled induction of denitrification in Pseudomonas aureofaciens: A simplified denitrifier method for dual isotope analysis in NO3−. Science of The Total Environment. 633: 1370-1378.
+[12] Liu W, Yu L, Zhang T, Kang R, Zhu J, Mulder J*, Huang Y, Duan L* (2017) In situ 15N labeling experiment reveals different long-term responses to atmogenic ammonium and nitrate inputs in N-saturated subtropical forest. Journal of Geophysical Research: Biogeosciences. 122: 2251-2264.
+[13] Harris SJ*, Liisberg J, Xia L, Wei J, Zeyer K, Yu L, Barthel M, Wolf B, Kelly BFJ, Cendon DI, Blunier T, Six J, Mohn J (2020) N2O isotopocule measurements using laser spectroscopy: analyzer characterization and intercomparison. Atmospheric Measurement Techniques. 13: 2797-2831. DOI.org/10.5194/amt-2019-451).
+[14] Wang P, Lu Y*, Su H, Su C, Johnson AC, Yu L, Jenkins A (2020) Managing health risks of perfluoroalkyl acids in aquatic food from a river- estuary-sea environment affected by fluorochemical industry. Environment International. 138: 105621. DOI.org/10.1016/j.envint.2020.105621.
+[15] Ibraim E*, Wolf B, Harris E, Gasche R, Wei J, Yu L, Kiese R, Eggleston S, Butterbach-Bahl K, Zeeman M, Tuzson B, Emmenegger L, Six J, Henne S, Mohn J (2019) Attribution of N2O sources in a grassland soil with laser spectroscopy based isotopocule analysis, Biogeosciences. 16: 3247–3266.
+[16] Verhoeven E*, Barthel M, Yu L, Celi L, Pullicino DS, Sleutel S, Six J, Decock C (2019) Early season N2O emissions under variable water management in rice systems: source-parititioning emissions using isotopocule signatures across a depth profile. Biogeosciences. 16: 383–408.
+[17] Yu Q, Duan L*, Yu L, Chen X, Si G, Ke P, Ye Z, Mulder J. (2018) Threshold and multiple indicators for nitrogen saturation in subtropical forests. Environmental Pollution. 241: 664-673.
+[18] Ostrom NE*, Gandhi H, Coplen TB, Toyoda S, Böhlke JK, Brand WA, Casciotti KL, Dyckmans J, Giesemann A, Mohn J, Well R, Yu L, Yoshida N (2018) Preliminary assessment of stable nitrogen and oxygen isotopic composition of USGS51 and USGS52 nitrous oxide reference gases and perspectives on calibration needs. Rapid Communications in Mass Spectrometry. 32:1207–1214.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2018年获得欧盟“玛丽居里学者”称号。
+ </奖励荣誉>

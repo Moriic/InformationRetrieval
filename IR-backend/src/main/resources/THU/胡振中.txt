@@ -1,0 +1,111 @@
+{"title":"胡振中","cnUrl":"http://www.sigs.tsinghua.edu.cn/hzz/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/a4/f7/360a14994cd1bbe6aa7f599c8951/c0ed02af-389c-4528-ae63-16067aed47f5.jpg","email":"hu.zhenzhong@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2005 - 2009，博士生，清华大学土木工程系
+2001 - 2005，本科生，清华大学土木工程系
+工作经历 
+2021 – 至今，副教授，清华大学深圳国际研究生院
+2012 - 2021，副教授，清华大学土木工程系
+2011 - 2012，讲师，清华大学土木工程系
+2009 - 2011，博士后，清华大学深圳国际研究生院
+学术兼职 
+中国图学学会理事
+中国图学学会BIM专业委员会副主任委员
+中国图学学会组织工作委员会委员
+Automation in Construction（领域顶刊）、Sustainability（JCR Q2）、Advances in Civil Engineering（JCR Q3）、《图学学报》编委会成员
+CIB W78国际学术年会国际学术委员会委员
+《Expert Systems with Applications》、《Energy and Buildings》、《Developments in the Built Environment》、《Building and Environment》、《Journal of Building Engineering》等期刊评阅人
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《工程硕士数学》，研究生学位课程（公共基础课）
+《土木与建筑工程CAE》，研究生学位课程
+研究生指导 
+独立指导博士生3名、硕士研究生14名（其中7名已毕业）
+ </教学>
+<研究领域>
+研究领域 
+土木与海洋工程信息技术、数字孪生、建筑与城市信息模型（BIM/CIM）、数字海洋和数字防灾技术
+主要项目 
+作为负责人，承担国家项目9项(含国家科学基金项目3项、科技部子项目3项等)、企事业单位咨询项目10余项，包括（部分）：
+“基于GIS/BIM的轻量化平台框架与接口技术”，国家重点研发计划子课题，2018/12 - 2022/12。
+“基于能耗监测系统的建筑及其机电系统标准化大数据提取技术研究”，国家重点研发计划子课题，2017/07 - 2020/06。
+“信息驱动下既有建筑物/群多尺度性能模拟与分析技术研究”，国家自然科学基金面上，2018/01 - 2021/12。
+“基于 BIM 的大型公共建筑运维期安全管理技术研究”，国家自然科学基金面上，2015/01 - 2018/12。
+“基于全生命期绿色住宅产品化数字运营管理技术研究”，国家863项目子课题，2013/10 - 2016/09。
+“面向设计和施工期的建筑物时变结构安全性能的4D模拟和分析”，国家自然科学青年基金项目，2011/01-2013/12。
+ “基于中江高速公路改扩建项目的安全数据标准体系建设及应用研究”，企业委托项目，2021/11-2023/10。
+“车陂路--新滘东路隧道工程（黄埔大道至新港东路）基于BIM技术的隧道工程精细化设计与施工研究”，企业委托项目，2017/10-2018/08。
+“轨道交通BIM管理平台研究与开发”，企业委托项目，2014/12-2017/12。
+“建筑信息模型（BIM）联合研究中心一期项目”，企业委托项目，2013/07-2016/07。
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Wu, L.T., Lin, J.R., Leng, S., Li, J.L., Hu, Z.Z. Rule-based information extraction for mechanical-electrical-plumbing-specific semantic web[J]. Automation in Construction, 2021, 135:104108.
+[2] Liu, Y., Guo, X.Q., Li, S.W., Zhang, J.M., Hu, Z.Z. Discharge of treated Fukushima nuclear accident contaminated water: macroscopic and microscopic simulations[J]. National Science Review, 2022, 9(1): nwab209.
+[3] Leng, S., Lin, J.R., Li, S.W., Hu, Z.Z. A Data Integration and Simplification Framework for Improving Site Planning and Building Design[J]. IEEE Access, 2021(9): 148845-148861.
+[4] Zhou, Y.C., Hu, Z.Z., Yan, K.X., Lin, J.R. Deep Learning-Based Instance Segmentation for Indoor Fire Load Recognition[J]. IEEE Access, 2021(9): 148771-148782.
+[5] Hu, Z.Z., Leng, S., Lin, J.R., Li, S.W., Xiao, Y.Q. Knowledge Extraction and Discovery Based on BIM: A Critical Review and Future Directions[J]. Archives of Computational Methods in Engineering, 2021: 1-22.
+[6] Zhang, Y.Y., Hu, Z.Z., Lin, J.R., Zhang, J.P. Linking data model and formula to automate KPI calculation for building performance benchmarking[J]. Energy Reports, 2021, 7, 1326-1337.
+[7] Yuan, S., Hu, Z.Z., Lin, J.R., Zhang, Y.Y. A Framework for the Automatic Integration and Diagnosis of Building Energy Consumption Data[J]. Sensors, 2021, 21(4): 1395.
+[8] Lin, J.R., Hu, Z.Z., Li, J.L., Chen, L.M. Understanding On-Site Inspection of Construction Projects Based on Keyword Extraction and Topic Modeling[J]. IEEE Access, 2020, 8: 198503-198517.
+[9] Li, W., Li, J., Hu, Z.Z., Li, S.W., Chan, P.W. A Novel Probabilistic Approach to Optimize Stand-Alone Hybrid Wind-Photovoltaic Renewable Energy System[J]. Energies, 2020, 13(18): 4945.
+[10] Leng, S., Lin, J.R., Hu, Z.Z., Shen, X. A Hybrid Data Mining Method for Tunnel Engineering Based on Real-Time Monitoring Data From Tunnel Boring Machines[J]. IEEE Access, 2020, 8: 90430-90449.
+[11] Liu, M.L., Chen, X.S., Hu, Z.Z., Liu, S.Y. Active Earth Pressure of Limited C-φ Soil Based on Improved Soil Arching Effect[J]. Applied Sciences-Basel, 2020, 10(9), 3243.
+[12] Li, W., Hu, Z.Z., Pei, Z.N., Li, S.W., Chan, P.W. A discussion on influences of turbulent diffusivity and surface drag parameterizations using a linear model of the tropical cyclone boundary layer wind field[J]. Atmospheric Research, 2020, 237, 104847.
+[13] Wen, Q., Zhang, J.P., Hu, Z.Z., Xiang, X.S., Shi, T. A Data-Driven Approach to Improve the Operation and Maintenance Management of Large Public Buildings[J]. IEEE Access, 2019, 7: 176127-176140.
+[14] Hu, Z.Z., Yuan, S., Benghi, C., Zhang, J.P., Zhang, X.Y., Li, D., Kassem, M. Geometric optimization of building information models in MEP projects:Algorithms and techniques for improving storage, transmission and display[J]. Automation in Construction, 2019, 107, 102941.
+[15] Zhou, Y.W., Hu, Z.Z., Lin, J.R., Zhang, J.P. A Review on 3D Spatial Data Analytics for Building Information Models[J]. Archives of Computational Methods in Engineering, 2019, 27, 5, 1449-1463.
+[16] Peng, Y., Li, S.W., Hu, Z.Z. A Self-Learning Dynamic Path Planning Method for Evacuation in Large Public Buildings Based on Neural Networks[J]. NeuroComputing, 2019, 365C: 71-85.
+[17] Xiao, Y.Q., Li, S.W., Hu, Z.Z. Automatically Generating a MEP Logic Chain from Building Information Models with Identification Rules[J]. Applied Sciences-Basel, 2019, 9(11), 2204.
+[18] Lin, J.R., Zhang, J.P., Zhang, X.Y., Hu, Z.Z. Automating closed-loop structural safety management for bridge construction through multisource data integration[J]. Advances in Engineering Software, 2019, 128: 152-168.
+[19] Hu, Z.Z., Tian, P.L., Li, S.W., Zhang J.P. BIM-based integrated delivery technologies for intelligent MEP management in the operation and maintenance phase[J]. Advances in Engineering Software. 2018, 115: 1-16.
+[20] Weerasuriya, A.U., Hu, Z.Z., Zhang, X.L., Tse, K.T., Li, S., Chan, P.W. New inflow boundary conditions for modeling twisted wind profiles in CFD simulation for evaluating the pedestrian-level wind field near an isolated building[J]. Building and Environment. 2018, 132: 303-318.
+[21] Zhou, Y., Hu, Z.Z., Zhang, W.Z. Development and Application of an Industry Foundation Classes-Based Metro Protection Information Model[J]. Mathematical Problems in Engineering, vol. 2018, Article ID 1820631, 20 pages, 2018. 8. https://doi.org/10.1155/2018/1820631.
+[22] Peng, Y., Lin, J.R., Zhang, J.P., Hu, Z.Z. A hybrid data mining approach on BIM-based building operation and maintenance[J]. Building and Environment. 2017, 126: 483-495.
+[23] Li, S.W., Hu, Z.Z., Chan, P.W., Hu, G. A study on the profile of the turbulence length scale in the near-neutral atmospheric boundary for sea (homogeneous) and hilly land (inhomogeneous) fetches[J]. Journal of Wind Engineering & Industrial Aerodynamics, 2017, 168: 200-210.
+[24] Zhang, J.P., Liu, Q., Hu, Z.Z., Lin, J.R., Yu, F.Q. A multi-server information-sharing environment for cross-party collaboration on a private cloud[J]. Automation in Construction, 2017, 81: 180-195.
+[25] Hu, Z.Z., Zhang, J.P., Yu, F.Q., Tian, P.L., Xiang, X.S. Construction and facility management of large MEP projects using a multi-Scale building information model[J]. Advances in Engineering Software. 2016, 100: 215-230.
+[26] Weerasuriya, A.U., Hu, Z.Z., Li, S.W., Tse, K.T. Wind direction field under the influence of topography, part I: A descriptive model[J]. Wind and Structures. 2016, 22(4): 455-476.
+[27] Li, S.W., Hu, Z.Z., Tse, K.T., Weerasuriya, A.U. Wind direction field under the influence of topography, part II: CFD investigations[J]. Wind and Structures. 2016, 22(4): 477-501.
+[28] Hu, Z.Z., Zhang, X.Y., Wang, H.W., Kassem, M. Improving interoperability between architectural and structural design models: An industry foundation classes-based approach with web-based tools[J]. Automation in Construction. 2016, 66: 29-42.
+[29] Lin, J.R., Hu, Z.Z., Zhang, J.P., Yu, F.Q. A natural-language-based approach to intelligent data retrieval and representation for cloud BIM[J]. Computer-Aided Civil and Infrastructure Engineering. 2016, 31:18–33.
+[30] Zhang, J.P., Yu, F.Q., Li, D., Hu, Z.Z. Development and Implementation of an Industry Foundation Classes-Based Graphic Information Model for Virtual Construction[J]. Computer-Aided Civil and Infrastructure Engineering, 2014, 29: 60-74.
+[31] Hu, Z.Z., Zhang, J.P. BIM-and 4D-based integrated solution of analysis and management for conflicts and structural safety problems during construction: 2. Development and site trials[J]. Automation in Construction, 2011, 20(2): 167-180.
+[32] Zhang, J.P., Hu, Z.Z. BIM-and 4D-based integrated solution of analysis and management for conflicts and structural safety problems during construction: 1. Principles and methodologies[J]. Automation in construction, 2011, 20(2): 155-166.
+[33] 张嘉鸿, 冷烁, 胡振中. 面向乡村住宅的数据集成与轻量化技术研究. 土木建筑工程信息技术, 2021.
+[34] 胡振中, 冷烁, 袁爽. 基于BIM和数据驱动的智能运维管理方法. 清华大学学报（自然科学版）, 2021.
+[35] 冷烁, 李孙伟, 胡振中. 基于开源技术的城市地理信息平台构建方法研究. 图学学报, 2020, 41 (6), 1001-1011.
+[36] Wang, HW., Lin, JR., Hu, ZZ. Bibliometric review of visual computing in the construction industry. Visual Computing for Industry, Biomedicine, and Art, 2020, 3 (1), 1-15. （中文）
+[37] 胡振中, 袁爽. 建筑能耗与环境监测系统标准化数据提取技术. 清华大学学报（自然科学版）, 2020, 60(04): 357-364.
+[38] 文桥, 张建平, 向雪松, 石涛, 胡振中. 基于GIS的大型公共建筑轻量级运维管理平台研发与应用. 图学学报, 2019, 40(4): 751-760.
+[39] 冷烁, 胡振中. 基于BIM的人工智能方法综述. 图学学报, 2018, 39(5): 797-805.
+[40] 胡振中, 田佩龙, 李久林. 基于IFC的传感器信息存储与应用研究. 图学学报, 2018, 39(3): 522-529.
+代表性著作 
+《全国BIM技能等级考试试题集》
+《数字化运维》
+主要专利成果 
+基于浓度分析的水体污染扩散模拟预测方法和装置（2022）
+基于粒子运动的水体污染扩散模拟预测方法和装置（2022）
+基坑柔性挡墙墙后有限黏性土主被动土压力模型试验装置（2020）
+基于IFC标准的建筑信息模型数据集成与交换引擎装置和方法（2012）
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+《基于BIM和人工智能的超大型工程虚拟建造关键技术与应用》，上海市土木工程学会科技进步奖二等奖 （2021）
+《基于BIM的建设工程一体化信息集成技术与平台研究》，华夏建设科学技术奖二等奖（2018）
+《北京市中心城区特大型地下生态水厂现代化建造技术研究与应用》，华夏建设科学技术奖三等奖 （2018）
+《建筑全生命期BIM信息集成与应用技术研究》，北京市科学技术进步奖三等奖 （2018）
+《北京市中心城区大型地下生态水厂现代化建造技术研究与应用》，中施企协科学技术进步奖一等奖 （2017）
+《基于自主BIM平台的建筑机电安装工程模块化生产、集成交付及运维技术》，华夏建设科学技术奖二等奖（2015）
+《基于BIM的机电设备智能管理系统》，中国安装协会科学技术进步奖三等奖（2015）
+《北京英特宜家二期机电安装工程—基于BIM的建筑工厂化管理系统》，中国工程建设BIM应用大赛一等奖 （2013）
+《嘉里建设广场二期工程——基于BIM的建筑机电智能管理系统》，中国工程建设BIM应用大赛一等奖（2013）
+《基于BIM的机电设备智能管理系统》，中建总公司科学技术奖二等奖（2013）
+《基于BIM的机电设备智能管理系统在嘉里中心II期的应用》，“创新杯”BIM设计大赛最佳拓展应用奖（2012）
+《青岛海湾大桥建设工程项目管理信息系统》，华夏建设科学技术奖一等奖 （2010）
+《基于IFC标准的建筑工程4D施工管理系统的研究和应用》，华夏建设科学技术奖一等奖（2010）
+ </奖励荣誉>

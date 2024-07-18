@@ -1,0 +1,44 @@
+{"title":"李斐然","cnUrl":"http://www.sigs.tsinghua.edu.cn/lfr/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/72/5e/07e6759d458c82a480227b30af21/6c1adb0f-adfc-45ef-a326-490351e2767c.jpg","email":"feiranli@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+李斐然，清华大学深圳国际研究生院，助理教授，博士生导师。2021年博士毕业于瑞典查尔姆斯理工大学生物及生物工程系，师从中国工程院外籍院士Jens Nielsen教授。长期致力于通过开发新方法和新技术分析生物大数据和研究生物系统，揭示内在机理，促进合成生物学和生物医药研究。研究涉及计算生物学、系统生物学、机器学习、化学、药物代谢等多个领域。近年来，共发表同行评议SCI论文20篇，其中第一/通讯作者（含共同）文章发表在Nature Catalysis，Nature Communications，Molecular Systems Biology，Nucleic Acids Research等国际高水平期刊。担任Frontiers in Bioengineering and Biotechnology杂志客座编辑以及PNAS，Genome Biology, iScience等期刊审稿人。
+教育经历 
+2017年-2021年，查尔姆斯理工大学，系统生物学专业，博士（导师：Jens Nielsen院士）
+2014年-2017年，天津大学，生物化工专业，硕士（导师：赵学明教授）
+2010年-2014年，天津师范大学，化学生物学专业，学士
+工作经历 
+2023年2月-至今，清华大学深圳国际研究生院，助理教授，博士生导师
+2021年-2023年，查尔姆斯理工大学，博士后（合作导师：Jens Nielsen院士）
+学术兼职 
+Frontiers in Bioengineering and Biotechnology期刊客座编辑（Review Editor）
+PNAS，Genome Biology,iScience等期刊审稿人
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+致力于通过开发新方法和新技术分析生物大数据和研究生物系统，揭示内在机理，促进合成生物学和生物医药研究。研究涉及计算生物学、系统生物学、机器学习、化学、药物代谢等多个领域。
+主要有以下三个研究方向：
+1面向医药健康，开发及分析哺乳动物细胞、器官及人体的代谢模型或调控模型。
+2探索细胞代谢暗物质，促进新途径及新酶挖掘，加速生物合成途径设计以及生物合成潜力挖掘。
+3开发深度学习模型，助力理解蛋白序列-功能-参数关系。
+课题组招收博士后、科研助理、博士研究生、以及硕士研究生，诚邀具有合成生物学、计算生物学、机器学习、化学、生物化工、生物工程、制药工程、药物代谢、生物信息学等背景并有志从事生物系统模型相关研究的同学加盟。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1. Li F#, *, Chen Y#, Anton M# and Nielsen J*. GotEnzymes: an extensive database of enzyme parameter predictions. Nucleic Acids Research 2023, D1, D583-D586.
+2. Li F#, Yuan L#, Lu H, Li G, Chen Y, Engqvist MKM, Kerkhoven EJ and Nielsen J. Deep learning based kcat prediction enables improved enzyme constrained model reconstruction. Nature Catalysis 2022, 5, 662-672. 
+3. LiF, ChenY, QiQ, WangY, YuanL, HuangM, ElsemmanIE, FeiziA, etal. Improving recombinant protein production by yeast through genome-scale modeling using proteome constraints. Nature Communications2022, 13, 2969.
+4. Li F*. Filling gaps in metabolism using hypothetical reactions. Proceedings of the National Academy of Sciences 2022.
+5. Lu H#,Li F#,Yuan L#,Domenzain I,Yu R,et al.Yeast metabolicinnovations emergedviaexpanded metabolic network and gene positive selection. Molecular Systems Biology 2021,17, e10427.
+6. Domenzain I#, Li F#, Kerkhoven EJ, and Siewers V. Evaluating accessibility, usability and interoperability of genome-scale metabolic models for diverse yeasts species. FEMS Yeast Research 2021, 21, foab002
+7. Lu H#, Li F#, Sánchez BJ, Zhu Z, Li G, et al. Aconsensus S. cerevisiae metabolic model Yeast8 and its ecosystem for comprehensively probing cellular metabolism. Nature Communications 2019, 10, 3586
+8. Li F#, Xie W#, Yuan Q, Luo H, Li P, et al. Genome-scale metabolic model analysis indicates low energy production efficiency in marine ammonia-oxidizing archaea. AMB Express 2018.
+# Co-first author, * Corresponding author
+其他相关发表论文:
+Google scholar：https://scholar.google.com/citations?user=Zn6Gy-IAAAAJ&hl=en
+ORCID: https://orcid.org/0000-0001-9155-5260
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

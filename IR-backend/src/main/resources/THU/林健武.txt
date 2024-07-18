@@ -1,0 +1,77 @@
+{"title":"林健武","cnUrl":"http://www.sigs.tsinghua.edu.cn/ljw/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/20/df/9786949a4e1ea42260379f21eee6/1af069ae-e4e8-4b42-85ea-38881f94ab0b.jpg","email":"lin.jianwu@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1998-2004 美国宾夕法尼亚大学(University of Pennsylvania)
+获系统工程博士学位及系统工程和网络工程双硕士学位
+1996-1998 清华大学
+获电机工程系生物医学工程工学硕士学位，并提前一年毕业;
+1992-1996 清华大学
+获电机工程系生物医学工程工学和经管学院经济学双学士，并提前一年毕业;
+工作经历 
+2021.6起 清华大学深圳国际研究生院 教学系列副教授
+2013.3-2021.6 清华大学深圳研究生院 金融学教授
+2012.6起 中国量化投资研究院(香港)常务副院长
+2010.5-2012.5 美国迈格尼塔投资公司 (Magnetar Capital, LLC)
+资深定量金融分析师，全球股票量化投资交易总监
+2007.2-2010.5 美国高盛投资银行 (Goldman Sachs)
+股票投资战略副总裁, 组合算法交易首席分析师
+2000.8-2007.2 美国摩根斯坦利投资银行(Morgan Stanley)
+定量金融分析师，金融实验室主要成员之一
+学术兼职 
+《量化投资与对冲基金》杂志副主编
+清华大学深圳校友会金融协会 理事
+国信证券博士后工作站 合作导师
+美国学术刊物Journal of Simulation modeling practice and theory的审稿专家
+国际金融工程师协会(IAFE)资深会员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+在华尔街金融量化投资实践、量化投资系统研发和量化投资理论研究十多年，具体包括金融量化投资、投资风险控制、程序化交易和算法交易、高频交易；量化投资系统研发、风险控制模型研发、交易成本模型研发；量化投资理论研究、市场微观理论研究、行为金融学研究、组合优化理论研究、个人投资理财研究、随机系统仿真优化理论研究，等等。具体的研究专长包括大型量化投资基金管理与评估；大型量化投资系统研发的项目管理；基于市场微观理论的全球交易冲击成本模型建模；基于时间序列分析的日内交易流量预测模型建模；基于APT理论的量化多因子风险控制模型建模；基于组合优化理论和运筹学理论的投资组合优化和风险对冲系统的研发；组合算法交易系统的研发；投资收益绩效分析和投资策略管理系统的研发；统计套利策略和全自动交易系统的研发；行业分析师的荐股行为分析；高性能金融量化分析计算技术的研发。
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+现在主要的研究领域包括中国金融市场微观结构、供应链金融、量化投资和对冲基金、量化舆情分析和风险管理等。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1. 林健武、林宁、贾淑琴，阿尔法因子和风险因子的变迁，《中国证券期货》，2014.3
+2. 林健武、吴穗华、吴图涂，算法交易中对于涨跌停板的处理方式，21世纪数量经济，第十四卷，2013.10
+3. 林健武，全球金融量化投资发展及其策略思考，《量化投资与对冲基金》，Dec. 2012
+4. 贾淑芹、林健武，静态最优VWAP策略模型实证分析，《量化投资与对冲基金》，Dec. 2012
+5. 林健武主编，中国量化投资2012年上半年研究报告，中国量化投资研究院，Sept. 2012
+6. Ning Lin, Jianwu Lin，Optimal Scale Parameter Setting of Nelson-Siegel Model in Pricing Convertible Bonds in China，第二届中国量化投资国际峰会论文集，September 2012
+7. 曹大海、林健武， 基于沪深300的市场情绪因子测定及相关交易策略研究，第二届中国量化投资国际峰会论文集，September 2012
+8. 王志伟、林健武，关于中国股市成交量的若干探索，第二届中国量化投资国际峰会论文集，September 2012
+9. Oliver Hansch，Jianwu Lin，Killian Mie, Ingrid Tierens, Overnight risk and multi-day trading, GSET Street Color, Issue 5, Jan. 2010
+10. Oliver Hansch，Jianwu Lin，Killian Mie, Ingrid Tierens, Optimal usage of portfolio algorithms, GSET Street Color, Issue 3, Nov. 2009
+11. Chun-Hung Chen, Karen Donohue, Enver Y&uuml;cesan, Jianwu Lin, Optimal Computing Budget Allocation for Monte Carlo Simulation with Application to Product Design, Journal of Simulation Modeling Practice and Theory, Vol. 11, No. 1, pp. 57-74, March 2003
+12. Chun-Hung Chen, Karen Donohue, Jianwu Lin, Enver Y&uuml;cesan, Efficient Approach for Monte Carlo Simulation Experiments and Its Applications to Circuit Systems Design, Annual Simulation Symposium 2001: 65-71
+13. Chun-Hung Chen, Jianwu Lin, Enver Y&uuml;cesan, Stephen E. Chick, Simulation Budget Allocation for Further Enhancing the Efficiency of Ordinal Optimization, Journal of Discrete Event Dynamic Systems: Theory and Applications, Vol. 10, pp. 251-270, July 2000
+14. Hsiao-Chang Chen, Chun-Hung Chen, Jianwu Lin, Enver Y&uuml;cesan，An asymptotic allocation for simultaneous simulation experiments, Winter Simulation Conference 1999: 359-366
+15. Jing Bai，Jianwu Lin，A pacemaker working status telemonitoring algorithm, IEEE Transactions on Information Technology in Biomedicine 3(3): 197-204 (1999)
+16. Jianwu Lin, Jian Chen, Jing Bai, Using human factors engineering as the basis for developing medical human-computer systems, IEEE International conference on systems, man and cybernetics, vol. 2, pp. 1202-1207, 1996 (获IEEE 学生论文奖)
+代表性著作 
+林健武编著，量化投资分析，清华大学出版社，计划2014年下半年出版
+Chun-Hung Chen, Loo Hey Lee, Jianwu Lin (Chapter Author and major theory contributor)，Stochastic Simulation Optimization: An Optimal Computing Budget Allocation, World Scientific Publishing Co., 2011，248 pages
+林功实、林健武主编《信用卡》，清华大学出版社，2006，共428页
+林功实、王宗旨、林健武《个人投资理财》，清华大学出版社，2003，共409页
+主要专利成果 
+海量高速缓存技术，专利初审通过
+—种股票或股票投资组合波动率的预测方法，专利初审通过
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2014 深圳市孔雀计划专家
+2013 中国数量经济学会年会 优秀论文奖
+2003 美国摩根斯坦利投资银行优秀员工奖 (Outstanding employee award, Morgan Stanley)
+1999 宾夕法尼亚大学校级奖学金 (University fellowship, University of Pennsylvania)
+1998 清华大学优秀硕士毕业生
+1997 IEEE优秀学生论文奖
+1996 清华大学全校学生最高奖--特等奖学金，北京市三好学生，经管学院一等奖学金
+作为清华学生代表团成员到香港.台湾多所高校进行访问交流
+ </奖励荣誉>

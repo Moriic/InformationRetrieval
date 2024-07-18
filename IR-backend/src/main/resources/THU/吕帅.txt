@@ -1,0 +1,51 @@
+{"title":"吕帅","cnUrl":"http://www.sigs.tsinghua.edu.cn/ls/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/b3/5e/46ba106e47e8967410fd220bb6c6/eb27a646-e8b7-49ef-8a16-01b6e15fdf36.jpg","email":"shuai.lu@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2017年，清华大学，建筑科学专业，博士
+2012年，清华大学，建筑学专业，学士
+工作经历 
+2022年-至今，清华大学深圳国际研究生院，副教授
+2020年-2022年，悉尼大学，讲师（助理教授）
+2015年-2016年，亚琛工业大学，访问学者
+学术兼职 
+英国高等教育研究会（Advance Higher Education）会士
+悉尼大学建筑、设计与规划学院荣誉讲师
+中国声学学会建筑声学分会学术委员
+中国虚拟仿真教学创新联盟建筑类学术委员
+Building Simulation期刊编委
+Buildings、Sustainability期刊客座编辑
+Acoustics期刊专题咨询组成员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+设计软件基础（国际院）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 专注于建筑设计、建筑科学与计算机科学的交叉领域，探索如何通过人工智能、最优化、模拟仿真等方法打开设计黑箱，促进设计问题的科学化、自动化、智能化，并以此获得高性能、可解释的设计结果。在Building and Environment、Energy and Buildings、Building Simulation等建成环境领域的著名期刊发表了一系列文章，主持包括国家自然科学基金面上、青年项目在内的多个科研项目，并担任多家国际权威期刊及学术会议审稿人。长期招募计算机、建筑科学、建筑学等领域的博士后及研究生，欢迎邮件咨询。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Rapp, M., Cabrera, D., & Lu, S. (2022). A polytrihedral dome for acoustic retroreflection, and its application to creative-arts practice-led research. Applied Acoustics, 195, 108860.
+[2]Densil Cabrera, Shuai Lu, Jonothan Holmes & Manuj Yadav 2022, ‘Sound Reflections in Indian Stepwells: Modelling Acoustically Retroreflective Architecture’, Acoustics, vol. 4, no. 1, pp. 227–247, doi:10.3390/acoustics4010014 
+[3]Lu, Shuai, Wang, Chunxiao, Fan, Yue & Lin, Borong 2021, ‘Robustness of building energy optimization with uncertainties using deterministic and stochastic methods: Analysis of two forms’, Building and Environment, vol. 205, pp. 108185 
+[4]Wang, Chunxiao, Lu, Shuai, Chen, Hongzhong, Li, Ziwei & Lin, Borong 2021, ‘Effectiveness of one-click feedback of building energy efficiency in supporting early-stage architecture design: An experimental study’, Building and Environment, vol. 196, pp. 107780
+[5]Lin, Borong, Chen, Hongzhong, Yu, Qiong, Zhou, Xiaoru & Lu, Shuai et al. 2021, ‘MOOSAS–A systematic solution for multiple objective building performance optimization in the early design stage’, Building and Environment, pp. 107929
+[6]Lu, Shuai, Li, Jingyu & Lin, Borong 2020, ‘Reliability analysis of an energy-based form optimization of office buildings under uncertainties in envelope and occupant parameters’, Energy and Buildings, vol. 209, pp. 109707 
+[7]Lu, Shuai, Lin, Borong & Wang, Chunxiao 2020, ‘Investigation on the potential of improving daylight efficiency of office buildings by curved facade optimization’, Building Simulation, vol. 13, no. 2, pp. 287–303 
+[8]Li, Junjie, Jin, Yichun, Lu, Shuai, Wu, Wei & Wang, Pengfei 2020, ‘Building environment information and human perceptual feedback collected through a combined virtual reality (VR) and electroencephalogram (EEG) method’, Energy and Buildings, vol. 224, pp. 110259
+[9]吕帅, 李靖宇, 李珺杰*. 基于机器学习的建筑形体性能评价与修改辅助方法. 建筑学报, 2019(02): 31-37. 
+[10]Lu, Shuai, Xu, Weiguo, Chen, Yuxiao & Yan, Xiang 2017, ‘An experimental study on the acoustic absorption of sand panels’, Applied Acoustics, vol. 116, pp. 238–248
+[11]吕帅, 徐卫国*, 燕翔. 基于快速反馈的建筑方案数字设计方法研究. 建筑学报, 2017(05):18-23.
+[12]Yan, Xiang, Lu, Shuai & Li, Junjie 2016, ‘Experimental studies on the rain noise of lightweight roofs: Natural rains vs artificial rains’, Applied Acoustics, vol. 106, pp. 63–76
+[13]Lu, Shuai, Yan, Xiang, Xu, Weiguo, Chen, Yuxiao & Liu, Jie 2016, ‘Improving auditorium designs with rapid feedback by integrating parametric models and acoustic simulation’, Building Simulation, vol. 9, no. 3, pp. 235–250 
+[14]Lu, Shuai, Yan, Xiang, Li, Junjie & Xu, Weiguo 2016, ‘The influence of shape design on the acoustic performance of concert halls from the viewpoint of acoustic potential of shapes’, Acta Acustica united with Acustica, vol. 102, no. 6, pp. 1027–1044 
+[15]Li, Junjie, Song, Yehao, Lu, Shuai & Wang, Qingguo 2015, ‘Impact evaluation of the indoor environmental performance of animate spaces in buildings’, Building and environment, vol. 94, pp. 353–370
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

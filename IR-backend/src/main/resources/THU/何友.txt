@@ -1,0 +1,67 @@
+{"title":"何友","cnUrl":"http://www.sigs.tsinghua.edu.cn/heyou/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/ea/00/01a27a474e7ebda4d11d12888a42/daf4b37e-ef2f-4f11-94fd-6211c64fe6f9.jpg","email":"heyou@tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1994年9月-1997年6月，清华大学，通信与信息系统，博士；
+1991年10月-1992年11月，德国布伦瑞克工业大学学习
+工作经历 
+2014年6月-至今，清华大学，教授、博士生导师
+学术兼职 
+曾兼任CAAI/CIE/CAA/CIC/CSF/IET Fellow，国务院学科评议组成员，国家杰出青年科学基金评审委员会委员，国家自然科学基金委信息学部咨询专家委员会委员，中国人工智能学会名誉副理事长，中国航空学会名誉副理事长，中国指挥与控制学会副理事长、中国电子学会和航空学会常务理事，中国航空学会信息融合分会主任委员等。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《工业互联网与大数据应用》工程博士班
+《人工智能发展前沿》专业硕士班
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+研究方向为信号检测、信息融合、深度学习及应用、强化学习及应用、智能融合、智能博弈等。
+曾获全国百篇优秀博士学位论文。以第一完成人获国家科技进步二等奖4项、国家教学成果一、二等奖各1项，获省部级一等奖11项。在IEEE会刊等发表重要论文260余篇，出版专著6部，论著他引20000余次，培养博士后、博士、硕士180余人。
+主要在研课题：
+主持国家自然科学基金重大项目一项，作为首席顾问参与国家重点研发计划一项，主持科研启动项目一项，主持省部级重大项目两项。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+近五年发表的高水平论文：
+[1] Wang X, Li G, Plaza A, andHe Y. Revisiting SLIC: Fast Superpixel Segmentation of Marine SAR Images Using Density Features[J]. IEEE Transactions on Geoscience and Remote Sensing, 2022. 
+[2] Jiang Z, He Y*, Li G, Zhang X-P Robust STAP Detection Based on Volume Cross-Correlation Function in Heterogeneous Environments[J]. IEEE Geoscience and Remote Sensing Letters, 2022, 19: 1-5.
+[3] Wang X, Zhu D, Li G, Zhang X-P and He Y. Proposal-Copula-Based Fusion of Spaceborne and Airborne SAR Images for Ship Target Detection[J]. Information Fusion, 2022, 77: 247-260.
+[4] Zhao W, Hou X, He Y*,Lu H. Defocus Blur Detection via Boosting Diversity of Deep Ensemble Networks[J]. IEEE Transactions on Image Processing, 2021, 30:5426 - 5438.
+[5] Wang X, Li G, Plaza A and He Y. Ship Detection in SAR Images by Aggregating Densities of Fisher Vectors: Extension to a Global Perspective[J]. IEEE Transactions on Geoscience and Remote Sensing, 2021, 60: 1-13. 
+[6] Li Y, Li G, Liu Y, Zhang X-P and He Y. A Hybrid SVSF Algorithm for Automotive Radar Tracking[J]. IEEE Transactions on Intelligent Transportation Systems, 2021.
+[7] Jiang Z, Wang X, Li G, Zhang X-P, He Y. Space-time adaptive processing by employing structure-aware two-level block sparsity[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, 14: 6386-6397.
+[8] Wang X, He Y*, Li G and Plaza A. Adaptive superpixel segmentation of marine SAR images by aggregating Fisher vectors[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, 14: 2058-2069.
+[9] Li Y, Li G, Liu Y,Zhang X-P and He Y*. A novel smooth variable structure filter for target tracking under model uncertainty[J]. IEEE Transactions on Intelligent Transportation Systems, 2021.
+[10] Wang X, Li G, Plaza A and He Y, Ship Detection in SAR Images via Enhanced Nonnegative Sparse Locality-Representation of Fisher Vectors, IEEE Transactions on Geoscience and Remote Sensing, 2021, 59(11): 9424-9438.
+[11] Jiang X, Li G, Zhang X-P and He Y. A semisupervised Siamese network for efficient change detection in heterogeneous remote sensing images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2021, 60: 1-18.
+[12] Wang X, Li G, Zhang X-P and He Y, A Fast CFAR Algorithm Based on Density-Censoring Operation for Ship Detection in SAR Images, IEEE Signal Processing Letters, 2021 28: 1085-1089.
+[13] Liu S, Zhang L, Lu H, He Y. Center-Boundary Dual Attention for Oriented Object Detection in Remote Sensing Images[J]. IEEE Transactions on Geoscience and Remote Sensing, 2021, PP(99):1-14.
+[14] Zhao W, Hou X, Yu X, He Y*, Lu H. Towards Weakly-Supervised Focus Region Detection via Recurrent Constraint Network. IEEE Transactions on Image Processing,2020, 29:1356–1367
+[15] Wang Y, Wang L, Lu H, He Y. Segmentation based rotated bounding boxes prediction and image synthesizing for object detection of high resolution aerial images[J]. Neurocomputing, 2020, 388: 202-211.
+[16] Jiang X, Li G, Liu Y, Zhang X-P and He Y, Change Detection in Heterogeneous Optical and SAR Remote Sensing Images Via Deep Homogeneous Feature Fusion,IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020, 13: 1551-1566.
+[17] Wang X, Li G, Zhang X-P and He Y. Ship detection in SAR images via local contrast of Fisher vectors[J]. IEEE Transactions on Geoscience and Remote Sensing, 2020, 58(9): 6467-6479.
+[18] Jiang X, He Y, Li G, Liu Y and Zhang X-P, Building Damage Detection via Superpixel-Based Belief Fusion of Space-Borne SAR and Optical Images, IEEE Sensors Journal, 2020 20(4): 2008-2022.
+[19] Li C, He Y, Wang X, Li G and Varshney P. K., Distributed Detection of Sparse Stochastic Signals via Fusion of 1-bit Local Likelihood Ratios, IEEE Signal Processing Letters, 2019, 26(12): 1738-1742.
+[20] 张菁,何友,彭应宁,李刚.基于神经网络和人工势场的协同博弈路径规划[J].航空学报,2019,40(03):228-238.
+[21] Sun Y, Sun C, Dong Wang D, He Y, Lu H. ROI Pooled Correlation Filters for Visual Tracking. 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).2019, 5776-5784
+[22] Zhang L, Lin Z, Zhang J, Lu H, He Y*. Fast video object segmentation via dynamic targeting network. IEEE Conference on Computer Vision (ICCV), Seoul, 2019: 5581-5590. 
+[23] Zhang L, Zhang J, Lin Z, Lu H, He Y*. CapSal: Leveraging captioning to boost semantics for salient object detection. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, USA: IEEE, 2019: 6024-6033.
+[24] 张菁,何友,彭应宁,李刚.新一代战斗机技术特征论证[J].系统工程与电子技术,2018,40(08):1754-1759.
+[25] 张菁,何友,邓瑛,张正勇,方学立,冯彦辉.战斗机智能航电系统[J].航空计算技术, 2018,48(04):125-129.
+[26] Zhang L, Dai J, Lu H, He Y*, Wang G. A bi-directional message passing model for salient object detection. IEEE Conference on Computer Vision and Pattern Recognition, 2018: 1741-1750.
+代表性著作 
+[1] 何友，等，雷达目标检测与恒虚警处理（第3版），清华大学出版社，将于2022年8月出版；
+[2] 何友，等，雷达数据处理及应用（第4版），电子工业出版社，将于2022年8月出版。
+[3] He You, et al, Radar data processing with applications[M]. John Wiley & Publishing house of electronics industry, 2016.
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+中共“十七大”代表，第十二届全国政协委员，全国优秀教师。曾获全国百篇优秀博士学位论文。
+以第一完成人获国家科技进步二等奖4项、国家教学成果一、二等奖各1项，获省部级一等奖11项。享受国务院政府特殊津贴。荣获何梁何利基金科学与技术进步奖、“求是”工程奖、全国留学回国人员成就奖、山东省科学技术最高奖等，2013年当选为中国工程院院士。
+ </奖励荣誉>

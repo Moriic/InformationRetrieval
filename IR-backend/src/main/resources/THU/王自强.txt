@@ -1,0 +1,32 @@
+{"title":"王自强","cnUrl":"http://www.sigs.tsinghua.edu.cn/wzq/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/3d/23/0ca80d59451a99ccaddef01e01e7/437a0e49-2b6d-43a3-b844-46c9993e34e1.png","email":"wangziqiang@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2019年，美国麻省理工学院，材料科学与工程，博士学位
+2013年，清华大学，材料科学与工程，硕士学位
+2010年，清华大学，物理系数理基础科学，学士学位
+工作经历 
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+原位/分析电子显微学、固态锂金属电池、能源材料
+长期招收博士、硕士研究生和博士后，欢迎有意者将个人简历发至wangziqiang@sz.tsinghua.edu.cn
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Yuming Chen#; Ziqiang Wang#; Xiaoyan Li; Xiahui Yao; Chao Wang; Yutao Li; Weijiang Xue; Daiwei Yu; So Yeon Kim; Fei Yang; Akihiro Kushima; Guoge Zhang; Haitao Huang; Nan Wu; Yiu-Wing Mai; John B. Goodenough; Ju Li*； Li metal deposition and stripping in a solid-state battery via Coble creep, Nature, 2020, 578: 251-255. 
+[2] Ziqiang Wang; Xiaoyan Li*; Yuming Chen*; Kai Pei; Yiu-Wing Mai; Sulin Zhang*; Ju Li*; Creep-enabled 3D solid-state lithium-metal battery, Chem, 2020,6(11): 2878-2892.
+[3] Ziqiang Wang; Xiaoyan Zhong*; Rong Yu; Zhiying Cheng; Jing Zhu*; Quantitative experimental determination of site-specific magnetic structures by transmitted electrons, Nature Communications, 2013, 4: 1395.
+[4] Xiaoyan Li; Weichen Chen; Qingrong Qian; Haitao Huang; Yuming Chen*; Ziqiang Wang*; Qinghua Chen*; Jing Yang*; Ju Li*; Yiu-Wing Mai*; Electrospinning-Based Strategies for Battery Materials, Advanced Energy Materials, 2021, 11(2):20000845.
+代表性著作 
+[1] 段晓峰、高尚鹏、张志华、谢琳、王自强译《电子显微镜中的电子能量损失谱学》R.F. Egerton著高等教育出版社 2011年
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+清华大学优秀硕士学位论文奖
+ </奖励荣誉>

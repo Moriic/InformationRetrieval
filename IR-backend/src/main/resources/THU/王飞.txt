@@ -1,0 +1,92 @@
+{"title":"王飞","cnUrl":"http://www.sigs.tsinghua.edu.cn/wf/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/6c/76/432ae252450da7367101eda5f91c/376af02f-9a5f-4ddc-8f97-9f5b6abcd8aa.jpg","email":"feiwang@tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2002年9月-2008年7月，德国慕尼黑联邦国防军大学地理信息学，博士
+2000年9月-2002年5月，德国斯图加特应用科技大学航空摄影测量与地理信息学，硕士
+1996年9月-2000年7月，武汉大学地理信息工程专业，学士 
+工作经历 
+2014年12月-至今，清华大学深圳国际研究生院安全科学与技术研究所（清华大学公共安全研究院广东分院），副教授
+2011年9月-2014年11月，清华大学深圳国际研究生院 安全科学与技术研究所（清华大学公共安全研究院广东分院），讲师
+2009年9月 -2011年8月，清华大学公共安全研究院，博士后
+学术兼职 
+《应用科学学报》青年编委
+《Fire》青年编委
+广东省安全生产科学技术研究院应急信息化专委副主任委员
+深圳市应急管理专家
+佛山市应急管理专家
+深圳市消防协会灭火救援专业委员会专家
+中国测绘学会智慧城市工作委员会委员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+1)“应急空间信息学技术”，安全工程硕士专业核心课程，48学时，国际院
+2)“应急空间信息学实验”，安全工程硕士专业核心课程，32学时，国际院
+3)“应急演练设计与推演”，安全工程硕士专业核心课程，16学时，国际院
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事安全韧性城市规划、灾害建模（森林城镇交界域火灾、道路地面塌陷等）、应急演练设计与推演、VR严肃游戏、UAV数据融合等多学科交叉领域的研究，在智慧应急信息化建设方面有丰富的工程经验，多项成果应用转化（广东省、浙江省、黑龙江省、四川省、湖北省等）。在公共安全应急工程与地理空间信息学等交叉领域开展教学工作和科学研究，在灾害建模、灾害数据融合分析推演等理论方法和技术方面提出创新的教学与科研思路。主持和参与过博士后科学基金、科技部863计划、科技部十三五重点研发计划、国家自然科学基金、广东省“防灾减灾与应急救援”领域重点专项、深圳市科创委学科布局等科研项目。获国家级标准创新贡献奖一等奖1项、省部级科技进步一等奖3项、特等奖2项，授权发明专利11项、实用新型5项，发表论文60余篇、专著2部，教材4部，起草国家标准4项、地方标准2项。
+主要项目 
+1)欧盟第六框架IST项目“PARAMOUNT”
+2)德国科学基金会项目“Advancement of Geoservices”
+3)德国宇航中心与经济技术部项目“3D Indoor Navigation”
+4)国家“十三五”重点研发计划“一体化综合减灾智能服务研究及应用示范”
+5)广东省重点领域研发计划专项“多灾种耦合和灾害事件链综合监测预警关键技术及装备的研发与示范”
+6)深圳市科技创新委员会学科布局项目“城市综合场景混合火灾建模方法与VR智能推演研究”
+7)某市五年综合应急能力提升计划研究
+8)某市综合防灾减灾、安全生产、应急管理体系和能力建设十四五规划编制
+9)某市安全韧性社区指标体系研究
+10)某市三防应急演练推演技术研究
+11)某区应急预案体系规划研究
+ </研究领域>
+<研究成果>
+代表性论文 
+Jiang, W., Qiao, Y., Zheng, X., Zhou, J., Jiang, J., Meng, Q., Su, G., Zhong, S., Wang, F.*, , Wildfire risk assessment using deep learning in Guangdong Province, China, International Journal of Applied Earth Observation and Geoinformation, Volume 128, 2024.
+Qiao, Y., Jiang, W., Su, G., Jiang, J., Li, X. and Wang, F.* (2024), A transformer-based neural network for ignition location prediction from the final wildfire perimeter, Environmental Modelling & Software, vol. 172, p. 105915
+Lu, S., Feng, Z., Lovreglio, R., Wang, F.*, & Yuan, X. (2023). Comparing the productive failure and directive instruction for declarative safety knowledge training using virtual reality. Journal of Computer Assisted Learning, 1–12. 
+Qiao, Y., Jiang, W., Wang, F.* and etc. (2023). FireFormer: an efficient Transformer to identify forest fire from surveillance cameras, International Journal of Wildland Fire.
+Jiang, J., Wang, F.* and etc. (2023). An Urban Road Risk Assessment Framework Based on Convolutional Neural Networks, International Journal of Disaster Risk Science, vol. 14, no. 3, pp. 475-487
+姜文宇, 王飞*等（2023），基于元胞自动机的以火灭火动态建模方法, 清华大学学报(自然科学版), vol. 63, no. 06, pp. 926-933
+姜文宇, 王飞*等（2022）, 面向森林火灾的应急管理信息化关键技术, 中国安全科学学报, vol. 32, no. 09, pp. 182-191
+Jiang, W., Wang, F.*, Fang, L., Zheng, X., Qiao, X., Li, Z., & Meng, Q. (2021). Modelling of wildland-urban interface fire spread with the heterogeneous cellular automata model. Environmental Modelling & Software, 135, 104895.
+Zheng, X., Wang, F.*, Qi, M., & Meng, Q. (2021). Planning remote sensing emergency services: Bridging the gap between remote sensing science and emergency practice in China. Safety Science, 141, 105346.
+王飞, 姜文宇, 刘彬彬, 郑晓翠, & 房龄航. (2020). 利用灾害链规则的灾害模型服务链编制方法. 武汉大学学报：信息科学版, 45(8), 1168-1178.
+Zheng, L., Wang, F.*, Zheng, X., & Liu, B. (2019). Discovering the relationship of disasters from big scholar and social media news datasets. International Journal of Digital Earth, 12(11), 1341-1363.
+Zheng, X., Wang, F.*, & Li, Z. (2018). A multi-UAV cooperative route planning methodology for 3D fine-resolution building model reconstruction. ISPRS Journal of Photogrammetry and Remote Sensing, 146, 483-494.
+Wang, F., & Yuan, H. (2010). Challenges of the Sensor Web for disaster management. International Journal of Digital Earth, 3(3), 260-279.
+代表性著作 
+1)《应急平台体系关键技术研究的理论与实践》，清华大学学术著作和重点图书，清华大学出版社，2012年12月
+2)《应急空间信息学实验》，清华大学出版社，2016年11月
+3)《应急演练设计与推演》，清华大学出版社，2020年6月
+主要专利成果 
+1） 交界域火灾蔓延预测方法、计算机装置及存储介质
+2） 灾害模型群服务链编排方法及装置、终端、存储介质
+3） 一种基于无人机的全景图像拼接方法及装置
+4）用于三维模型重建的无人机路径确定方法及装置
+5）用于三维模型重建的多条无人机路径确定方法及装置
+6）一种无人机便携式地面站处理方法及系统
+7）一种无人机云台
+8）一种应急数据质量控制系统及方法
+9）一种无人机地面站
+10）一种基于三维展示平台的水利监测方法
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1) 2023年中国安全生产协会安全科技进步奖一等奖
+2) 2023年深圳市第二届深圳市应急管理数据创新大赛一等奖
+3) 2023年广东省安全生产协会应急与安全生产科技进步奖特等奖
+4) 2023年中国测绘学会测绘科技奖一等奖
+5) 2022年广东省第二届应急管理优秀宣传作品展播图书类二等奖
+6) 2022年广东省安全生产协会应急与安全生产科技进步奖特等奖
+7) 2022年中国标准创新贡献奖一等奖
+8) 2022年清华大学精品课《应急空间信息学实验》
+9) 2021年佛山市“最美应急人”称号
+10) 2021年第四届中国虚拟现实大赛优秀指导教师奖
+11) 2020年教育部在线教学中心“智慧教学之星”称号
+12) 2020年清华大学在线创新课程
+13) 2015年中国地理信息产业协会地理信息科技进步一等奖
+ </奖励荣誉>

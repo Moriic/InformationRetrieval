@@ -1,0 +1,111 @@
+{"title":"王晓浩","cnUrl":"http://www.sigs.tsinghua.edu.cn/wxh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/12/af/c3267cf9456bb6eb99367a511969/71140024-f955-493d-bcef-b2345651332c.jpg","email":"wang.xiaohao@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1994.9-1999.4 清华大学精密仪器与机械学系 直博 获工学硕士和工学博士学位
+1989.9-1994.7 清华大学精密仪器与机械学系 大学本科 获工学学士学位
+工作经历 
+2022年8月-至今，自然资源部海洋人因与环境测评技术创新中心，主任
+2020年6月-至今，清华大学深圳国际研究生院海洋工程研究院，常务副院长
+2020年6月-至今，清华大学海洋工程研究院，副院长
+2014年10月-2019年12月，清华大学深圳研究生院，副院长
+2012年12月-2014年10月，清华大学精密仪器系，党委书记
+2011年12月-至今，清华大学海洋技术研究中心，副主任
+2011年3月-2015年7月，清华大学深圳研究生院先进制造学部，主任
+2010年12月-至今，清华大学，研究员
+2009年12月-2017年12月，清华大学质谱仪器研究中心，副主任、主任
+2008年9月-至今，清华大学，博士生导师
+2007年1月-2008年5月，德国柏林工业大学，访问学者
+2006年6月-2021年2月，清华大学微米纳米技术研究中心，副主任、主任
+2003年7月-2012年12月，清华大学精密仪器系，副系主任、党委副书记、工会主席
+2001年8月-2010年11月，清华大学，副研究员
+1999年4月-2003年7月，清华大学机械工程学院，院长助理
+1999年1月-2003年8月，清华大学精密仪器系仪器科学与技术研究所，副所长
+1998年8月-2001年8月，清华大学，讲师
+1995年7月-1997年7月，清华大学，本科生辅导员、级主任
+学术兼职 
+中国科协智能制造学会联合体主席团成员
+中国科协微流控决策咨询团队负责人、首席专家
+中国微米纳米技术学会副理事长、党委书记
+中国高等教育学会仪器科学与测试技术专业委员会副主任
+中国机器人产业联盟教育培训咨询委员会副主任
+深圳市微米纳米技术学会副理事长
+深圳市先进制造业促进会专家委员会副主任
+深圳市鹏城国家实验室兼聘研究员
+社会兼职 
+清华校友总会先进制造专委会副会长
+清华校友总会城乡建设专委会专家委员
+清华校友总会精密仪器系校友会副会长
+清华校友总会深圳国际研究生院校友会副会长
+清华大学深圳校友会精仪系粤港澳大湾区校友分会副会长
+ </个人简历>
+<教学>
+教学课程 
+在清华大学深圳国际研究生院开设专业课：《MEMS AND ITS APPLICATION》、《科学仪器》、《仪器行业》、《工程测量》、《MICRO SENSORS》，参与《职业伦理》讲授。
+先后培养44名博士，99名硕士，所率领团队校内在职教工和在读博士硕士生190余人。2021年获得教育部课程思政示范课程、深圳市教育教学科研优秀成果一等奖和二等奖各1项、清华大学教学成果二等奖、校课程思政示范课程，2020年获得清华大学年度教学优秀奖。
+近五年（2018年至2022年）所培养研究生在各级科研、实践、创新、创业活动中获得了多个奖项，包括：
+1)清华大学优秀毕业生2人次，清华大学优秀博士论文1人次，清华大学优秀硕士论文5人次。
+2)博士毕业生楚尧2019年入选清华大学第一批“水木学者”，2021年入选青年人才托举工程。第三届“合智”智能穿戴+创新设计大赛“创新设计评委推介奖”。2017年“深创杯”全国大学生创新创业大赛“杰出创新项目奖”。首届中国专利产业化运营大会微纳制造技术产业化分论坛一等奖。
+3)博士研究生周果2022年获得全国第二届工业数字孪生大赛三等奖。
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+研究领域涵盖仪器仪表、测控技术、装备制造、海洋装备、微机电系统（MEMS）、医疗器械、传感器、光学工程等。
+分析仪器：高场非对称波形离子迁移谱（FAIMS）、便携式质谱、开放式离子源、矩形离子阱、小型离子迁移谱仪器、激光诱导击穿光谱（LIBS）；便携式仪器集成技术；分析仪器在食品安全、环境监测等领域的应用。
+生物医疗器械：无创血糖检测技术、人工心脏辅助装置等。
+微型机电系统（MEMS）：MEMS高温传感技术、MEMS可穿戴设备、MEMS微流体器件和系统、MEMS能量采集等应用研究 
+精密测控技术和装备制造：解决一些企业在自动化生产和检测装备上的需求，包括精密测量、图像处理和识别、自动装配等技术和设备研发。
+先后承担国家级科研项目40余项，作为负责人承担或完成包括国家863高科技计划、自然科学基金、国防预研、深圳市杰青等十余项课题。先后获得包括国家技术发明二等奖在内的国家级和省部级科技奖励7次，教学奖励2次，2017年和2020年两次入围全国创先争优团队评审。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+工作以来，王晓浩教授发表学术论文400多篇，授权发明专利340余项，团队在深入开展关键科学问题研究的同时，在工程化和成果转化方面也投入了大量精力，成功创建了多个高科技公司，产业覆盖深圳、北京、合肥、佛山、珠海、东莞、桂林、南宁等地，主要业务包括智能制造装备、特种机器人、医疗器械、分析仪器、环保装备、教育装备等。其中已经有四家公司获得国家级高新技术企业称号，深圳至秦仪器获得2020年深圳市创新创业大赛一等奖，广西桂华获得2021年国创赛优秀奖等荣誉。
+[1] Yao Chu; Junwen Zhong,* Huiliang Liu; Yuan Ma; Nathaniel Liu; Yu Song; Jiaming Liang; Zhichun Shao; Yu Sun; Ying Dong,* Xiaohao Wang; and Liwei Lin*, Human Pulse Diagnosis for Medical Assessments Using a Wearable Piezoelectret Sensing System; Adv. Funct. Mater.; 1803413; 2018
+[2] Rui Feng; Fei Tang*; Ning Zhang; Xiaohao Wang, Flexible; High-Power Density; Wearable Thermoelectric Nanogenerator and Self-Powered Temperature Sensor. Acs Applied Materials & Interfaces, 2019. 11(42): p.38616-38624.
+[3] Yichuan Wu; Justin K. Yim; Jiaming Liang; Zhichun Shao; Mingjing Qi; Junwen Zhong,* Zihao Luo; Xiaojun Yan; Min Zhang,* Xiaohao Wang; Ronald S. Fearing; Robert J. Full; Liwei Lin*, Insect-scale fast moving and ultrarobust soft robot. Sci. Robot.4, eaax1594 (2019)
+[4] Rizwan Ur Rehman Sagar; Khurram Shehzad Ayaz Ali Florian J. Stadler; Qasim Khan; Jingjing Zhao; Xiaohao Wang; Min Zhang*, Defect-induced; temperature-independent; tunable magnetoresistance of partially fluorinated graphene foam. CARBON 2019(143) , 179-188 
+[5] Wenying Qiu, Zhaoyang Li, Guocheng Wang, Yande Peng, Min Zhang*, Xiaohao Wang, Junwen Zhong*, and Liwei Lin*, A moisture-resistant soft actuator with low driving voltages for haptic stimulations in virtual games. ACS Applied Materials & Interfaces. 2022, 14, 27, 31257–31266
+[6] Tao Jiang; Lirong Deng; Wenying Qiu; Jiaming Liang; Yichuan Wu; Zhichun Shao; Dongkai Wang; Min Zhang; Xiang Qian*; Junwen Zhong*; Xiaohao Wang; Liwei Lin*, Wearable breath monitoring via a hot-film/calorimetric airflow sensing system. Biosensors & Bioelectronics, 2020. 163.
+[7] Jiangfeng Lu, Zicong Miao, Zihan Wang, Ying Liu, Dekuan Zhu, Jihong Yin, Xiaohao Wang, Wenbo Ding*, Min Zhang* ,Piezoelectric soft robot driven by mechanical energy, Nano Research. (2022).
+[8] Ying Liu, Jiaming Liang, Jiangfeng Lu, Huimin Chen, Zicong Miao, Dongkai Wang, Xiaohao Wang and Min Zhang*, Complex Three-Dimensional terrains traversal of insect-scale soft robot. Soft Robotics, 2022,
+[9] Jiaming Liang; Yichuan Wu; Justin K. Yim; Huimin Chen; Zicong Miao; Hanxiao Liu; Ying Liu; Yixin Liu; Dongkai Wang; Wenying Qiu; Zhichun Shao; Min Zhang*; Xiaohao Wang; Junwen Zhong*; Liwei Lin*, Electrostatic footpads enable agile insect-scale soft robots with trajectory control. Sci. Robot.6, eabe7906 (2021)
+[10] Tao Jiang; Wenying Qiu; Zhaoyang Li; Xing Ye; Yuhan Liu; Yushi Li; Xiaohao Wang; Junwen Zhong*; Xiang Qian*; Liwei Lin*, Programmable Tactile Feedback Patterns for Cognitive Assistance by Flexible Electret Actuators. Advanced Functional Materials.
+[11] Wenying Qiu; Junwen Zhong*; Tao Jiang; Zhaoyang Li; Mingze Yao; Zhichun Shao; Qilong Cheng; Jiaming Liang; Dongkai Wang; Yande Peng; Peisheng He; David B. Bogy*; Min Zhang*; Xiaohao Wang; Liwei Lin*, A low voltage-powered soft electromechanical stimulation patch for haptics feedback in human-machine interfaces. Biosensors and Bioelectronics 193 (2021) 113616
+[12] Xing Ye; Shidong Zhu; Xiang Qian*; Min Zhang; and Xiaohao Wang, V-Shape Pneumatic Torsional Actuator: A Building Block for Soft Grasper and Manipulator. Soft Robotics: p. 15.
+[13] Shi Wenyan, Huo Xinming, Ding Xinyue, Zhu Peiyuan, Wan Yutong, Lu Xinqiong, Feng Rui, Yu Quan*, Wang Xiaohao, Rapid screening of illegally added drugs in functional food using a miniature ion trap mass spectrometer, Food Chemistry, 2022, 386, 132808.
+[14] Jingjing Zhao, Junwen Deng, Weijin Liang, Liuyan Zhao, Ying Dong*, Xiaohao Wang*, Liwei Lin , Water-retentive, 3D knitted textile electrode for long-term and motion state bioelectrical signal acquisition, Composites Science and Technology, 227(2022), 109606
+[15] Lyuming Pan, Liuyang Han, Hanxiao Liu, Jingjing Zhao, Ying Dong*, Xiaohao Wang* , Flexible sensor based on Hair-like microstructured ionic hydrogel with high sensitivity for pulse wave detection，Chemical Engineering Journal, 450(2022),137929
+代表性著作 
+主要专利成果 
+1.王晓浩；朱培源；钱翔；李星辉；冯峰；赵骞；一种单线激光的三维轮廓扫描装置及方法，中国，CN201810443974.5
+2.王晓浩；倪凯；郭开泰；唐彬超；史渊；余泉；钱翔；空间分辨图谱采集设备、荧光显影设备及离子迁移谱仪，中国，CN201610343841.1
+3.王晓浩；吴一川；张旻；一种梳齿电容式压力传感器，中国，CN201610437118.X
+4.王晓浩；李保忠；赵骞；倪凯；一种分线机构，中国，CN201710021325.1
+5.王晓浩；赵骞；倪凯；李保忠；基于视觉识别的USB线分线排线机构，中国，CN201610289268.0
+6.王晓浩;周倩;胡海飞;李星辉;倪凯;燕鹏;张锦超;逄锦超；一种在光学元件上制作涂镀层的方法及光学元件，中国，CN201610232252.6
+7.王晓浩；余泉；姜滔；钱翔；倪凯；一种金属管切割及弯曲矫直装置，中国，CN201610224905.6
+8.王晓浩；鲁信琼；余泉；倪凯；钱翔；一种质谱仪用射频电源及质谱仪，中国，CN201610414749.X
+9.王晓浩；林森森；钱翔；余泉；倪凯；一种等离子电离离子源装置，中国，CN201610311686.5
+10.王晓浩;唐飞;李华；多层平板结构高场非对称波形离子迁移谱仪，中国，CN200910086487.9
+11.王晓浩;唐飞;张亮；一种阵列式微法拉第筒，中国，CN200910119886.0
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2021年获得教育部课程思政示范课程（3/5）
+2021年获得深圳市教育教学科研优秀成果一等奖1项（1/6）、二等奖1项（3/5）
+2021年获得清华大学教学成果二等奖（4/5）、校课程思政示范课程（2/5）
+2020年获得清华大学年度教学优秀奖
+2012年获得清华大学先进工作者 
+2011年获得清华大学百年校庆先进个人 
+2010年研究成果“微型泵（喷）的设计理论与技术基础”获得北京市科学技术奖（二等），个人排名第五
+2009年作为主要成员入选教育部创新团队 
+2005年研究成果“基于MEMS的载体测控系统及其关键技术研究”获得国家科学技术发明奖（二等），个人排名第四 
+2004年获得教育部首届“新世纪优秀人才”称号及支持 
+2004年研究成果“基于MEMS的载体测控系统及其关键技术研究”获得教育部提名国家科学技术奖技术发明奖（一等），个人排名第四 
+2003年研究成果“新型微流体器件、结构加工和相关应用研究”获得教育部提名国家科学技术奖（一等），个人排名第三
+2000年研究成果“微小型泵及其相关技术研究”获得国家技术发明奖（四等），个人排名第六
+1999年研究成果“微小型泵及其制造测试技术研究”获得教育部科技进步奖（发明类）二等奖，个人排名第六
+ </奖励荣誉>

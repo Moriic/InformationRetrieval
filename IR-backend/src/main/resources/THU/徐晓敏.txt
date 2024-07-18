@@ -1,0 +1,94 @@
+{"title":"徐晓敏","cnUrl":"http://www.sigs.tsinghua.edu.cn/xxm/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/d9/05/f4aa572e47f98700fdb329e12f20/afe20a2a-e1ea-470e-8f8e-5363e7bc3e2f.jpg","email":"xu.xiaomin@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+徐晓敏，清华大学深圳国际研究生院副教授、博士生导师，材料研究院生物医用材料与器件研究中心副主任。2011年本科毕业于中国科学技术大学高分子科学与工程系，2015年于香港中文大学获化学博士学位。2016至2019年先后在日本理化学研究所（RIKEN）新兴物质科学中心和德国柏林洪堡大学物理系任职博士后（获“洪堡学者”荣誉）。2019年9月全职加入清华-伯克利深圳学院（TBSI）低维材料与器件实验室和深圳盖姆石墨烯中心。从事柔性材料和生物电子器件研究工作，成果发表在PNAS, Nat. Energy, Chem, Adv. Mater., J. Am. Chem. Soc.等知名期刊，被引逾2300次，H因子22；担任Appl. Phys. Rev.青年编委，Nat. Commun., Adv. Electron. Mater., J. Mater. Chem. C, Mater. Today Phys.等期刊审稿人。曾获中国科学技术大学优秀毕业生、香港政府奖学金（HKPFS）、德国“洪堡学者”、深圳市海外高层次人才等荣誉。主持科技部重点研发计划（政府间国际科技创新合作项目）、国家自然科学基金面上及青年项目、广东省自然科学基金、深圳市优青、深圳市高等院校稳定支持计划重点项目等；广东省“珠江人才计划”引进创新创业团队及深圳市海外高层次人才创新创业团队（孔雀团队）核心骨干。
+教育经历 
+2011年8月-2015年8月，香港中文大学，化学，博士
+2007年7月-2011年7月，中国科学技术大学，化学（高分子科学与工程），学士
+工作经历 
+2022年6月至今  副教授，清华大学深圳国际研究生院，清华大学
+2019年9月-2022年6月  助理教授，清华-伯克利深圳学院，清华大学深圳国际研究生院，清华大学
+2017年8月-2019年9月，柏林洪堡大学，博士后（洪堡学者）
+2016年7月-2017年7月，日本理化学研究所，博士后
+2015年12月-2016年6月，香港中文大学，博士后
+2015年9月-2015年12月，中国科学院化学研究所，（高级）访问学者
+学术兼职 
+Applied Physics Reviews青年编委
+中国微米纳米技术学会（CSMNT）高级会员
+中国材料研究学会（C-MRS）高级会员
+材料研究院生物医用材料与器件研究中心副主任
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+Organic Electronics: Materials and Emerging Technologies
+有机电子：材料与新兴技术 (86000943), TBSI
+Flexible Materials and Electronics 
+柔性电子：从材料到器件 (86001013), TBSI
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+从事柔性材料和生物电子器件领域的研究工作，包括有机功能分子、低维材料的新型结构构筑，皮肤集成电子、神经界面等生物电子器件的构建与应用。研究成果发表在PNAS, Nat. Energy, Chem, Adv. Mater., J. Am. Chem. Soc.等知名期刊，被引逾2300次，H因子22，担任Appl. Phys. Rev.青年编委。
+主要项目 
+1. 科技部重点研发计划-政府间国际科技创新合作专项，主持。
+2. 国家自然科学基金委员会，面上项目，主持。
+3. 国家自然科学基金委员会，青年科学基金，主持。
+4. 广东省自然科学基金，面上项目，主持。
+5. 深圳市科技创新委员会，深圳市优秀科技创新人才培养项目，主持。
+6. 深圳市科技创新委员会，深圳市高等院校稳定支持计划重点项目，主持。
+7. 清华大学深圳国际研究生院海外科研合作基金，主持。
+8. 清华大学深圳国际研究生院启动经费，主持。
+9. 科技部重点研发计划-纳米前沿专项，骨干。
+10.广东省科学技术厅“珠江人才计划”引进创新创业团队项目，骨干。
+11.深圳市科技创新委员会，深圳市高层次人才团队项目，骨干。
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] S. Cheng, Z. Lou, L. Zhang, H. Guo, Z. Wang, C. Guo, K. Fukuda, S. Ma, G. Wang, T. Someya, H.-M. Cheng, X. Xu. Ultrathin hydrogel films toward breathable skin-integrated electronics. Adv. Mater.2023, 35, 2206793.
+[2] B. Wei, Z. Wang, H. Guo, F. Xie, S. Cheng, Z. Lou, C. Zhou, H. Ji, M. Zhang, X. Wang, X. Jiao, S. Ma, H.-M. Cheng, X. Xu. Ultraflexible tattoo electrodes for epidermal and in vivo electrophysiological recording. Cell Reports Physical Science. 2023, 4, 101335.
+[3] W. Xu, J. Wang, S. Cheng, X. Xu. Flexible Organic Transistors for Neural Activity Recording. App. Phys. Rev. 2022, 9, 031308. Featured article.
+[4] H. Zhao, M. Shu, Z. Ai, Z. Lou, K.-W. Sou, C. Lu, Y. Jin, Z. Wang, J. Wang, Y. Cao, Q. Li, X. Xu, W. Ding. A Highly Sensitive Triboelectric Vibration Sensor for Machinery Condition Monitoring. Adv. Energy Mater. 2022, 12, 2201132.
+[5] H. Guo, S. Saifi, K. Fukuda, H.-M. Cheng, Z. Lou, X. Xu. Flexible organic photodetectors and their use in wearable systems. Digit. Signal Process. 2022, 125, 103145.
+[6] X. Xu, Z. Lou, S. Cheng, P. C. Y. Chow, N. Koch, H.-M. Cheng. Van der Waals organic /inorganic heterostructures in the two-dimensional limit. Chem 2021, 7, 2989–3026.
+[7] J. Ma, P. Amsalem,T. Schultz, D. Shin, X. Xu,N. Koch. Energy level alignment at the C60/monolayer-WS2 interface on insulating and conductive substrates. Adv. Electron. Mater. 2021, 7, 2100425.
+[8] S. Park, N. Mutz, S. A. Kovalenko, T. Schultz, D. Shin, A. Aljarb, L.-J. Li, V. Tung, P. Amsalem, E. J. W. List-Kratochvil, J. Stähler, X. Xu, S. Blumstengel, N. Koch. Type-I energy level alignment at the PTCDA - monolayer MoS2 interface promotes resonance energy transfer and luminescence enhancement. Adv. Sci. 2021, 8, 2100215.
+[9] X. Xu, T. Schultz, Z. Qin, N. Severin, B. Haas, S. Shen, J. N. Kirchhof, A. Opitz, C. T. Koch, K. Bolotin, J. P Rabe, G. Eda, N. Koch. Microstructure and elastic constants of transition metal dichalcogenide monolayers from friction and shear force microscopy. Adv. Mater.2018, 30, 1803748.
+[10] X. Xu, K. Fukuda, A. Karki, S. Park, H. Kimura, H. Jinno, N. Watanabe, S. Yamamoto, S. Shimomura, D. Kitazawa, T. Yokota, S. Umezu, T.-Q. Nguyen, T. Someya. Thermally stable, highly efficient, ultraflexible organic photovoltaics. Proc. Natl. Acad. Sci. U.S.A. (PNAS) 2018,115, 4589–4594.
+[11] Z. Jiang, K. Fukuda, X. Xu, S. Park, D. Inoue, H. Jin, M. Saito, I. Osaka, K. Takimiya, T. Someya. Reverse-offset printed Ag mesh for stretchable transparent electrodes with strong mechanical robustness. Adv. Mater. 2018, 30, 1707526.
+[12] H. Jinno, K. Fukuda, X. Xu, S. Park, Y. Suzuki, M. Koizumi, T. Yokota, I. Osaka, K. Takimiya, T. Someya. Stretchable and waterproof elastomer-coated organic photovoltaics for washable electronic textile applications. Nature Energy 2017, 2, 780–785.
+[13] D. Ji, X. Xu, L. Jiang, S. Amirjalayer, L. Jiang, Y. Zhen, Y. Zou, Y. Yao, H. Dong, J. Yu, H. Fuchs, W. Hu. Surface polarity and self-structured nanogrooves collaborative oriented molecular packing for high crystallinity towards efficient charge transport. J. Am. Chem. Soc. 2017, 139, 2734–2740. 
+[14] X. Xu,Y. Yao, B. Shan, X. Gu, D. Liu, J. Liu, J. Xu, N. Zhao, W. Hu, Q. Miao. Electron Mobility exceeding 10 cm2V-1s-1 and band-like charge transport in solution-processed n-channel organic thin-film transistors. Adv. Mater. 2016, 28, 5276–5283.
+[15] X. Gu, X. Xu,H.Li, Z. Liu, Q. Miao. Synthesis, molecular packing, and thin film transistors ofdibenzo[a,m]rubicenes. J. Am. Chem. Soc. 2015, 137, 16203–16208.
+[16] X. Xu,T. Xiao, X. Gu, X. Yang, S. V. Kershaw, N. Zhao, Q. Miao. Solution-processed ambipolar organic thin film transistors by blending p- and n-type semiconductors: solid solution versus microphase separation. ACS Appl. Mater. Interfaces 2015, 7, 28019–28026. 
+[17] K. Y. Cheung, X. Xu,Q.Miao. Aromatic saddles containing two heptagons. J. Am. Chem. Soc. 2015, 137, 3910–3914.
+[18] X. Xu,B.Shan, S. Kalytchuk, M. Xie, S. Yang, D. Liu, S. V. Kershaw, Q. Miao. Synthesis, Solution-processed thin film transistors and solid solutions of silylethynylated diazatetracenes. Chem. Commun.2014, 50, 12828–12831 (Inside front cover ofChem. Commun. 2014, volume 50, issue 85).
+For the complete publication list, please refer to:
+ORCID: 0000-0002-9903-3798
+Google scholar: PaTbsjMAAAAJ&hl=en
+代表性著作 
+主要专利成果 
+1. 一种基于有机光电探测器的多体征检测系统及方法（202310353314.9）2. 基于有机光电探测器的黄疸检测贴片、系统及制备方法（202310317503.0）3. 一种高导电水凝胶的制备方法与应用（202211733930.9）4. 一种高导电高生物相容性的水凝胶及其制备方法与应用（202211731290.8）5. 一种超柔性生物电-光电信号贴片传感器及其制备方法与应用（202210507406.3）6. PEDOT:PSS/EG/LiTFSI导电墨水与超柔性电极及电生理信号的监测方法（202210227885.3）7. 一种可剥离式超薄水凝胶、制备方法与应用（202110980155.6）8. Photovoltaic power device, Japanese Patent, Application No. 2017-181840.9. Electronic device and method of manufacturing, Japanese Patent, Application No. 2017-179452.
+其他成果 
+1. Invited talk: Flexible Materials for Skin-Integrated Electronics and Implantable Neural Interfaces. The Brain Cognition and Brain Disease Institute of Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Nov. 09, 2022.
+2. Invited talk: Ultraflexible Organic Optoelectronics and Skin-Integrated Systems. 2021 Smart Wearable Technology Innovation Forum for Young Scientists, Nov. 06, 2022.
+3. Invited talk: Ultraflexible (Opto)electronics and the Applications in Wearable Systems. Ajou University, Korea (online symposium), Dec. 03, 2021.
+4. Invited talk: Ultraflexible Organic Optoelectronics and the Applications in Wearable Systems. The 10th Celebration ICAFPM 2021, Shanghai, China, Oct. 17-20, 2021.
+5. Invited talk: Ultraflexible (Opto)electronics: From Microstructure Engineering to Wearable Applications. The 7th International Symposium of Flexible & Stretchable Electronics 2021 (ISFSE 2021), Wuhan, China, June 29-30, 2021.
+6. Invited talk: Ultraflexible (Opto)electronics: From Microstructure Engineering to Wearable Applications at Southern University of Science and Technology (SUSTech), Shenzhen, China, May 21, 2021.
+7. Invited talk: Solution-Processed Organic Electronics: from Microstructure Engineering to Ultraflexible Devices. The 3rd Symposium on the Development of Organic Optoelectronic Materials and Devices, Shanghai, China, May 15-16, 2021.
+8. Invited talk: From Microstructure Engineering of Semiconductors to Ultraflexible (Opto)electronics. Hybrid Inorganic/Organic Systems for Opto-Electronics (HIOS Symposium 2020), Berlin (online), Germany,September 10-11, 2020.
+9. Invited talk:Visualizing microstructure of the low-dimensional materials and controlling molecular assembly on the heterointerface.LDMO 2019 (The 2nd International Symposium on Low Dimensional Materials for Optoelectronics) Shenzhen, China, December 12-15, 2019.
+10. Invited talk: Solution-processed organic electronics and beyond: from molecular assembly to the ultraflexible devices. IOP CAS (SLAB, Institute of Physics Chinese Academy of Sciences) – IRIS Humboldt University of Berlin Workshop, Songshan Lake, Dongguan, China, October 8-10, 2019.
+Conference organizing activities 
+1. MRS (Materials Research Society) 2022 Spring Meeting, Symposium co-organizer, Honolulu, Hawaii, May 09-13 (onsite) & May 23-25 (virtual), 2022.
+2. 2021, 2022, & 2023 International Forum on Graphene in Shenzhen, Session Chair, Shenzhen, China
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+· 2022 深圳市优青
+· 2019 深圳市海外高层次人才
+· 2017 洪堡学者（德国）
+· 2011 香港政府奖学金
+· 2011 中国科学技术大学优秀毕业生
+ </奖励荣誉>

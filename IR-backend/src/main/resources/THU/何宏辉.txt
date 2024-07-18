@@ -1,0 +1,53 @@
+{"title":"何宏辉","cnUrl":"http://www.sigs.tsinghua.edu.cn/hhh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/b6/a0/c61c9c814ef0ae4bfec8cbf6cd71/bb33761f-f18e-4053-ae9f-b65b53fdac73.jpg","email":"he.honghui@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2006年09月-2011年07月，清华大学，物理系，博士
+2002年09月-2006年07月，北京师范大学，材料科学与工程系，学士
+工作经历 
+2019年08月至今，清华大学深圳国际研究生院，副研究员
+2017年12月-2019年08月，清华大学深圳研究生院，副研究员
+2013年09月-2017年12月，清华大学深圳研究生院，讲师
+2011年09月-2013年09月，清华大学深圳研究生院，博士后
+学术兼职 
+中国光学学会生物医学光子学专业委员会青年委员；
+国际光学工程学会SPIE会员；
+美国光学学会Optica会员；
+《中国激光》生物医学光子学专题青年编委；
+Frontiers in Chemistry 客座编辑；
+Applied Sciences客座编辑。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《医学物理和物理治疗》-清华大学国际研究生院；
+《生物组织物理模型与医学应用》清华大学国际研究生院；
+《生物光子学方法与实践》-TBSI。
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事光学成像方法及其在生物医学应用方面的研究，具体研究领域包括偏振散射成像原理，偏振光与生物组织相互作用模型，偏振散射成像在癌变检测方面的应用等。现任中国光学学会生物医学光子学专业委员会青年委员（第三届、第四届），《中国激光》生物医学光子学专题青年编委，国际光学工程学会SPIE会员，美国光学学会Optica会员。主要从事光学成像方法及其生物医学应用方面的研究。具体研究领域包括偏振散射成像原理，偏振光与生物组织相互作用模型，偏振散射成像在组织病理检测方面的应用，偏振显微镜、偏振内窥镜等仪器设备开发等，在Light: Science & Applications, Nature Communications, Optics Letters, Biomedical Optics Express等国内外刊物发表学术论文九十余篇。作为负责人承担科技部国家重点研发计划-重大科学仪器设备开发项目、国家自然科学基金项目、深圳市科技研发资金项目等，有效的推动了偏振散射方法学以及潜在生物医学产业化的进展。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Chao He*, Jintao Chang, Patrick S. Salter, Yuanxing Shen, Ben Dai, Pengcheng Li, Yihan Jin, Samlan Chandran Thodika, Mengmeng Li, Aziz Tariq, Jingyu Wang, Jacopo Antonello, Yang Dong, Ji Qi, Jianyu Lin, Daniel S. Elson, Min Zhang, Honghui He*, Hui Ma*, and Martin J. Booth*. “Revealing complex optical phenomena through vectorial metrics,” Advanced Photonics 4(2): 026001, 2022. (Cover)
+[2]Haoyu Zhai, Yanan Sun, Honghui He*, Binguo Chen, Chao He, Yi Wang*, and Hui Ma. “Distinguishing tissue structures via polarization staining images based on different combinations of Mueller matrix polar decomposition parameters,” Optics and Lasers in Engineering 152: 106955, 2022.
+[3]Chao He*, Honghui He*, Jintao Chang, Binguo Chen, Hui Ma and Martin J. Booth*. “Polarisation optics for biomedical and clinical applications: a review,” Light: Science & Applications 10: 194, 2021. (Cover)
+[4]Pengcheng Li, Yang Dong, Jiachen Wan, Honghui He*, Tariq Aziz and Hui Ma*. “Polaromics: deriving polarization parameters from a Mueller matrix for quantitative characterization of biomedical specimen,” Journal of Physics D: Applied Physics 55(3): 034002, 2021.
+[5]Binguo Chen, Weipeng Li, Honghui He*, Chao He*, Jun Guo, Yuanxing Shen, Shaoxiong Liu, Tao Sun, Jian Wu, and Hui Ma. “Analysis and calibration of linear birefringence orientation parameters derived from Mueller matrix for multi-layered tissues,” Optics and Lasers in Engineering 146: 106690, 2021.
+[6]Yuanxing Shen, Rongrong Huang, Honghui He*, Shaoxiong Liu, Yang Dong, Jian Wu, and Hui Ma*. “Comparative study of the influence of imaging resolution on linear retardance parameters derived from the Mueller matrix,” Biomedical Optics Express 12(1): 211-225, 2021.
+[7]Yang Dong, Shaoxiong Liu*, Yuanxing Shen, Honghui He*, and Hui Ma*. “Probing variations of fibrous structures during the development of breast ductal carcinoma tissues via Mueller matrix imaging,” Biomedical Optics Express 11(9): 4960-4975, 2020.
+[8]Honghui He*, Ran Liao, Nan Zeng, Pengcheng Li, Zhenhua Chen, Xi Liu, and Hui Ma*. “Mueller matrix polarimetry - an emerging new tool for characterizing the microstructural feature of complex biological specimen,” Journal of Lightwave Technology 37(11): 2534-2548, 2019.
+[9]Chao He*, Jintao Chang, Qi Hu, Jingyu Wang, Jacopo Antonello, Honghui He, Shaoxiong Liu, Jianyu Lin, Ben Dai, Daniel S. Elson, Peng Xi, Hui Ma, and Martin J. Booth*. “Complex vectorial optics through gradient index lens cascades,” Nature Communications 10: 4264, 2019.
+[10]Teng Liu, Min Lu, Binguo Chen, Qinsong Zhong, Jingyu Li, Honghui He*, Hua Mao*, and Hui Ma*. “Distinguishing structural features between Crohn's disease and gastrointestinal luminal tuberculosis using Mueller matrix derived parameters,” Journal of Biophotonics 12(12): e201900151, 2019. (Back Cover)
+[11]Tao Sun, Teng Liu, Honghui He*, Jian Wu, and Hui Ma*. “Distinguishing anisotropy orientations originated from scattering and birefringence of turbid media using Mueller matrix derived parameters,” Optics Letters 43(17): 4092-4095, 2018.
+[12]Honghui He, Minghao Sun, Nan Zeng, E Du, Shaoxiong Liu, Yihong Guo, Jian Wu, Yonghong He, and Hui Ma*. “Mapping local orientation of aligned fibrous scatterers for cancerous tissues using backscattering Mueller matrix imaging,” Journal of Biomedical Optics 19(10):106007, 2014.
+[13]Honghui He, Nan Zeng, E Du, Yihong Guo, Dongzhi Li, Ran Liao, and Hui Ma*. “A possible quantitative Mueller matrix transformation technique for anisotropic scattering media,” Photonics & Lasers in Medicine 2(2):129-137, 2013.
+[14]Honghui He, Nan Zeng, Ran Liao, Tianliang Yun, Wei Li, Yonghong He, and Hui Ma*. “Application of sphere-cylinder scattering model to skeletal muscle,” Optics Express 18(14): 15104-15112, 2010.
+[15]Honghui He, Nan Zeng, Wei Li, Tianliang Yun, Ran Liao, Yonghong He, and Hui Ma*. “Two-dimensional backscattering Mueller matrix of sphere-cylinder scattering medium,” Optics Letters 35(14): 2323-2325, 2010.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

@@ -1,0 +1,72 @@
+{"title":"高本河","cnUrl":"http://www.sigs.tsinghua.edu.cn/gbh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/1c/d7/c49abf104bdbaa6497a0f7a2cc59/3b4a502d-56df-43a1-bd92-5a6ff035c59d.jpg","email":"gaobh@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1997年09月-2000年05月，西安交通大学，机械工程专业，博士
+1994年09月-1997年07月，西安石油学院，机械工程专业，硕士
+1990年09月-1994年07月，西安石油学院，机械工程专业，学士
+工作经历 
+2019年08月至今，清华大学，深圳国际研究生院，副教授
+2006年12月-2019年08月，清华大学，深圳研究生院，副教授
+2003年03月-2006年12月，清华大学，深圳研究生院，讲师
+2001年01月-2003年01月，清华大学工业工程系，博士后
+2000年06月-2000年12月，广东TCL集团有限公司，产品设计
+学术兼职 
+中国海事仲裁委员会物流专业仲裁员
+深圳市机械工程学会常务理事兼副秘书长
+中国机械工程学会高级会员
+T-LOG国际会议审稿人
+国家劳动与社会保障部物流职业资格认证专家库专家
+广东省物流职业资格认证专家
+深圳市科技专家委员会专家库成员
+东莞市科技专家委员会专家库成员
+深圳市物流师职业资格认证专家
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+主讲两门研究生专业课程：
+1.供应链管理
+2.设施规划与物流分析
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事物流与供应链的理论和应用研究，包括：
+1. 区域物流规划：针对目前物流业在我国所受的重视和快速发展的现状，从地区经济发展的角度以及多区域之间的相互衔接和优势互补原则出发，对区域性物流产业的发展布局和发展策略进行规划。目前规划的重点主要集中在市区级和企业级的物流规划项目上，规划时以区域经济的辐射范围和能力为主要依据。
+2. 绿色物流与绿色供应链理论：该研究主要集中在物流企业对环境的影响因素分析、物流绿色化的标准化体系构建、建立绿色化物流企业的评价标准体系、绿色物流的政策研究以及企业推动绿色物流的动因分析等方面。
+主要项目 
+主持或参与的研究项目主要有：
+考虑不确定性的港口资源调度问题研究；考虑货位共享和不确定性的多载具自动化存取系统作业优化研究；全球供应链企业发展环境问题研究；企业物流管理流程优化与仓库规划设计仿真；入网物资质量管控实施评估及发展研究；深圳市宝荷物流中心可行性研究；深圳市龙岗区物流业发展规划；深圳市电子商务发展战略研究；新一代互联网对物流链和招标影响及发展趋势；深圳市南山区应急救援机制研究；顺丰集团航空物流网络规划研究；深圳市公安局福田分局五星单位标准作业及工作流程研究等。
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]高本河，吴序堂，王世清,与阿基米德螺旋平面齿轮啮合的弧齿线圆柱齿轮齿形研究，机械科学与技术，Vol.17，No.6：893~894，900，1998（EI）
+[2]Gao Benhe,Wu Xutang,Xiong Zhenqin,Wang Shiqing：A Study on Torsional Vibration Reduction Mechanism and Effect in Vibration Drilling，Proceeding of 1999 International Conference on Advanced Manufacturing Technology，June 16~18，1999，Xi’an，China：1111~1114（EI）
+[3]高本河,吴序堂，熊镇芹，王世清,振动钻削的切屑尺寸控制研究，机械工程学报，Vol.35,No.6,1999：102~104（EI）
+[4]高本河，熊镇芹，王世清，刘战锋，吴序堂，低频轴向振动钻削钛合金深小孔的试验研究，西安石油学院学报（自然科学版），Vol.15,No.4，2000：76~79（EI）
+[5]高本河，吴序堂，熊镇芹，王世清,振动钻削改善排屑效果机理的研究，机械科学与技术，Vol.19,No.2,2000：281~283（EI）
+[6]Gao Benhe，Zheng Li，Liu Dacheng，Li Zhizhong， A Research to the Stress Model of the Non-completely Chip-breaking in Vibration Drilling，Proceedings of the 5th International Conference on Frontiers of Design and Manufacturing，Printed by DUT Printing House， Dalian， China：263~269.，July，2002（EI）
+[7]高本河，魏际刚，缪立新，我国物流学科人才培养的现状与发展对策，学位与研究生教育，2004，No.5：39~43（CSSCI）
+[8]Tang Dunbing，Gao Benhe，Feature-based Metal Stamping Part and Process Design. Part I: Stampability Evaluation，International Journal of Production Research，2007，Vol.45, No.12:2673-2695（SCI和EI）
+[9]Tang Dunbing，Gao Benhe，Feature-based Metal Stamping Part and Process Design.Part II: Stamping Process Planning，International Journal of Production Research，2007，Vol.45, No.13:2997-3015（SCI和EI）
+[10]Lin Jiahong,Gao Benhe and Zhang Canrong，Simulation-based investment planning for Humen Port. Simulation Modelling Practice and Theory,2014, 40: 161-175.（SCI和EI）
+[11]Shuai Liu,Benhe Gao, Erchao Liu,Yukun Liu，Distribution Center Multi-objective Location Problem Using NSGA-II. Advanced Materials Research, Vol.998-999(2014),pp1133-1127 （EI）
+[12]Benhe Gao,Yili Jiang，An Inventory Strategy with Emergency Order in Cluster Supply Chain.2014 2nd International Conference on Teaching and Computational Science, July 29-30,2014,Shenzhen,China:44-47（CPCI-S）
+[13]B.H. Gao, L. Xiao，The Decision Models of Retailer and Supplier Under Delay in Payments.2015 International Conference on Advanced Management Science and Information Engineering(AMSIE 2015),September 20-21,2015,Hong Kong:55-62（CPCI-S）
+[14]Benhe Gao,Rongzhi Liu,Yanbei Zhao,Pingyuan Liu,The Study on Dynamic Supply Chain Coordination under the Premise of Risk-neutral,Proceeding of the 2015 International Conference on Computer Science and Intelligent Communication,Zhengzhou,China,July 18-19,2015:42-46 （CPCI-S）
+代表性著作 
+1、主编《物流学概论》（教育部人才培养模式改革和开放教育试点教材），中央广播电视大学出版社，2005年1月出版
+2、主编《现代生产物流》（普通高等教育十一五规划教材），清华大学出版社，2009年10月出版 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1. 清华大学教学成果一等奖(2次)
+2. 中国物流与采购联合会科技进步一等奖
+3. 中国物流与采购联合会科技进步二等奖
+4. 宝供物流科技创新一等奖
+5. 深圳市龙岗区科技创新奖
+6. 清华大学深圳研究生院优秀班主任
+ </奖励荣誉>

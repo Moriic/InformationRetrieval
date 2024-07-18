@@ -1,0 +1,99 @@
+{"title":"江勇","cnUrl":"http://www.sigs.tsinghua.edu.cn/jy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/17/b1/d56681194c2086d228ab6dd3b55f/e1cf8e6a-2729-4830-b90c-082b9ec527f9.jpg","email":"jiangy@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1993年9月-1998年7月，清华大学计算机科学与技术专业，学士
+1998年9月-2002年7月，清华大学计算机系统结构专业，工学博士
+2002年9月-2005年11月，清华大学深圳研究生院，讲师
+2005年12月-2013年11月，清华大学深圳研究生院，副教授
+2013年12月-2019年8月，清华大学深圳研究生院，教授
+2019年8月至今，清华大学深圳国际研究生院，教授
+教育经历 
+工作经历 
+学术兼职 
+ACM及中国计算机学会会员
+深圳信息主管协会副会长
+深圳信息行业专家委委员
+深圳电脑学会理事
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+学生培养
+专业实践/交换机会：Google、微软、腾讯、搜狗、头条、阿里等
+鹏城实验室：优秀学生参与1-2年（比例超60%），月补助：博士5000-10000，硕士4000-6000
+学生毕业去向：华为（天才少年）、腾讯、微软、阿里、头条、搜狗、网易等
+智能网络已经成为Google、华为、阿里、亚马逊、腾讯的研究重点包括智能数据中心网络架构、智能传输、智能调度、智能路由、智能网络感知。 
+博士后招聘，博士、硕士招生
+欢迎有志于互联网+人工智能创新的同学，申请博士后、博士、硕士，加入未来智能网络小组，一起改变互联网！
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事未来网络体系架构与传输协议、端到端智能传输控制、基于边缘计算的智能视频传输、基于深度学习的网络智能路由、基于深度学习的网络智能故障检测、网络智能流量识别与应用等领域的研究工作。主持完成10余项国家级科研项目，包括国家八六三项目、国家973课题、国家自然科学基金等。研究成果获得2012年中国电子学会科技进步一等奖，已经发表学术论文100余篇，主要的论文发表在NIPS、INFOCOM、ICDCS、IWQoS、ACM Multimedia等顶级会议及TON、TOIT、TNSM、COMNET、Information Science等权威期刊。学生多人次获得国家奖学金、清华大学优秀学位论文、清华大学优秀毕业生等，学生在2018全球智能网络竞赛中获得优秀团队奖。 
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Jin-Yuan Chen, Hai-Tao Zheng, Yong Jiang, Shu-Tao Xia, and Cong-Zhi Zhao. A probabilistic model for se- mantic advertising. Knowledge and Information Systems, 59(2):387–412, 2019.
+[2] Jia, Xuya, Dan Li, Jing Zhu, and Yong Jiang. “Metro: An Efficient Traffic Fast Rerouting Scheme With Low Overhead.” IEEE/ACM Transactions on Networking 27, no. 5 (October 2019): 2015–27.
+[3] Jin-Yuan Chen, Hai-Tao Zheng, Yong Jiang, Shu-Tao Xia, and Cong-Zhi Zhao. A probabilistic model for se- mantic advertising. Knowledge and Information Systems, 59(2):387–412, 2019.
+[4] Qing Li, Nanyang Huang, Dingmin Wang, Xiaowen Li, Yong Jiang, and Zhendong Song. “HQTimer: A Hybrid Q-Learning-Based Timeout Mechanism in Software-Defined Networks.” IEEE Transactions on Network and Service Management 16, no. 1 (March 2019): 153–66.
+[5]. Qing Li*, Yang Liu, Zhijie Zhu, Hengtong Li, and Yong Jiang. “BOND: Flexible Failure Recovery in Software Defined Networks.” Computer Networks 149 (February 11, 2019): 1–12.
+[6] Lei Wang, Qing Li*, Yong Jiang, Xuya Jia, and Jianping Wu, “Woodpecker: Detecting and Mitigating Link-Flooding Attacks via SDN.” Computer Networks 147 (December 24, 2018): 1–13.
+[7] Jia, Xuya, Yong Jiang, Zehua Guo, Gengbiao Shen, and Lei Wang. “Intelligent Path Control for Energy-Saving in Hybrid SDN Networks.” Computer Networks 131 (February 11, 2018): 65–76.
+[8] Lei Wang, Qing Li*, Richard Sinnott, Yong Jiang, and Jianping Wu, “An Intelligent Rule Management Scheme for Software Defined Networking.” Computer Networks 144 (October 24, 2018): 77–88.
+[9] Qing Li, Xin He, Mingwei Xu, Yong Jiang and Lei Wang, “Unified Middlebox Model Design and Deployment with Dynamic Resources,” IEEE Transactions on Network and Service Management, 2018.
+[10] Qing Li, Lei Wang, Yong Jiang, Mingwei Xu, and Jianping Wu. “A Fast and Incremental Update Scheme for SDN Based on a Relation Graph.” Computer Networks, Softwarization and Caching in NGN, 125 (October 9, 2017): 41–52.
+[11] Qing Li, Mingwei Xu, Qi Li, Dan Wang, Yong Jiang, Shu-Tao Xia. “Scale the Internet Routing Table by Generalized next Hops of Strict Partial Order.” Information Sciences 412 (Oct. 1, 2017): 101–15.
+[12] Xuya Jia, Qing Li*, Yong Jiang, Zehua Guo, and Jie Sun. “A Low Overhead Flow-Holding Algorithm in Software-Defined Networks.” Computer Networks 124 (September 4, 2017): 170–80.
+[13] Qing Li, Yong Jiang, Yalei Tan, and Mingwei Xu. “Improving the Transmission Control Efficiency in Content Centric Networks.” Computer Communications 109 (September 1, 2017): 76–88.
+[14] Qing Li, Zongyi Zhao, Mingwei Xu, Yong Jiang, and Yuan Yang. “A Smart Routing Scheme for Named Data Networks.” Computer Communications 103 (May 1, 2017): 83–93.
+[15] Qing Li, Yong Jiang, Pengfei Duan, Mingwei Xu, and Xi Xiao. “Quokka: Latency-Aware Middlebox Scheduling with Dynamic Resource Allocation.” Journal of Network and Computer Applications 78 (January 15, 2017): 253–66.
+[16] Qing Li, Mingwei Xu, Dan Wang, Jun Li, Yong Jiang, and Jiahai Yang. “Nexthop-Selectable FIB Aggregation: An Instant Approach for Internet Routing Scalability.” Elsevier Computer Communications 67 (August 1, 2015): 11–22.
+[17] Qing Li, Kun Zhao, Yong Jiang, Mingwei Xu, and Shu-Tao Xia. “SARD: A Smart Approach of Rule Division for Fast Flow-Level Consistent Update in SDN.” Elsevier Computer Networks, Software Defined Networks and Virtualization, 92, Part 2 (December 9, 2015): 287–99.
+[18] Shu-Tao Xia, Xin-Ji Liu, Yong Jiang, and Hai-Tao Zheng. Deterministic constructions of binary measurement matrices from finite geometry. IEEE Transactions on Signal Processing, 63(4):1017–1029, 2014.
+会议论文 
+[1] Qing Li, Nanyang Huang, Yong Jiang, Richard Sinnott, Mingwei Xu, Scale the Data Plane of Software-Defined Networks: a Lazy Rule Placement Approach, accepted by ICDCS 2020.
+[2] Xuesong Chen, Xiyu Yan, Feng Zheng, Yong Jiang, Shu-Tao Xia, Yong Zhao, Rongrong Ji. “One-shot Adversarial Attacks on Visual Tracking with Dual Attention”. Accepted by IEEE/CVF Computer Vision and Pattern Recognition (CVPR), Seattle, Washington, USA, 2020
+[3] Haoxiang Zhong, Xiyu Yan, Yong Jiang, Shu-Tao Xia. “IMPROVED REAL-TIME VISUAL TRACKING VIA ADVERSARIAL LEARNING”. Accepted by 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020.
+[4] Xiyu Yan, Xuesong Chen, Yong Jiang, Shu-Tao Xia, Yong Zhao, Feng Zheng. “HIJACKING TRACKER: A POWERFUL ADVERSARIAL ATTACK ON VISUAL TRACKING”. Accepted by 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020.
+[5] Xinyi Liu, Yang Bai, Yong Jiang, Shu-Tao Xia. “SELF-ADAPTIVE FEATURE FOOL”. Accepted by 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020.
+[6] Gengbiao Shen, Qing Li*, Yong Jiang, Richard Sinnott, Dong Lin, Zehua Guo, and Yi Wang. Chunk-Level Request-Grant-Transfer Mode for QoE-Sensitive Video Delivery in CDN, in IEEE/ACM IWQoS, Phoenix, USA, 2019.
+[7] Huang S, Wang Z, Cui L, Yong Jiang. Fine-grained Fitting Experience Prediction: A 3D-slicing Attention Approach[C]//Proceedings of the 27th ACM International Conference on Multimedia. ACM MM, 2019: 953-961.
+[8] Wanxin Shi, Qing Li*, Chao Wang, Gengbiao Shen, Weichao Li, Yu Wu, and Yong Jiang. LEAP: Learning-Based Smart Edge with Caching and Prefetching for Adaptive Video Streaming, in IEEE/ACM IWQoS, Phoenix, USA, 2019.
+[9] Xiaoteng Ma, Qing Li*, Jimeng Chai, Xi Xiao, Shu-tao Xia, and Yong Jiang. Steward: Smart Edge based Joint QoE Optimization for Adaptive Video Streaming in ACM NOSSDAV, Amherst, MA, USA, 2019.
+[10] Gengbiao Shen, Qing Li*, Shuo Ai, Yong Jiang, Mingwei Xu, and Xuya Jia. How Powerful Switches Should be Deployed: A Precise Estimation Based on Queuing Theory. In IEEE INFOCOM, Paris, France, 2019.
+[11] Nanyang Huang, Qing Li*, Dong Lin, Xiaowen Li, Gengbiao Shen, and Yong Jiang. “Software-Defined Label Switching: Scalable Per-flow Control in SDN,” in IEEE/ACM International Symposium on Quality and Service (IWQoS), Banff, Canada, 2018. (Best Paper Award)
+[12] Lei Wang, Qing Li*, Yang Liu, Yong Jiang, Jianping Wu. “Simplifying Network Updates in SDN and NFV Networks Using GUM,” in IEEE ICCCN, Hangzhou, China, 2018.
+[13] Guang Yang, Yong Jiang, Qing Li, Xuya Jia, and Mingwei Xu. “Cross-Layer Self-Similar Coflow Scheduling for Machine Learning Clusters.” in IEEE ICCCN, Hangzhou, China, 2018.
+[14] Chaobing Song, Shaobo Cui, Yong Jiang, and Shu- Tao Xia. Accelerated stochastic greedy coordinate de- scent by soft thresholding projection onto simplex. In Advances in Neural Information Processing Systems(NIPS), pages 4838–4847, 2017.
+[15] Qing Li, Bin Gan, Guangwu Hu, Yong Jiang, Qingmin Liao, and Mingwei Xu. “MSRT: Multi-Source Request and Transmission in Content-Centric Networks,” in IEEE/ACM International Symposium on Quality and Service (IWQoS), Beijing, China, 2016.
+[16] Qing Li, Lei Wang, Yong Jiang, Guangwu Hu, Mingwei Xu, and Qingmin Liao. “FICUS: Fast Incremental Consistent Update in SDN Based on Relation Graph,” in IEEE/ACM International Symposium on Quality and Service (IWQoS), Beijing, China, 2016.
+代表性著作 
+主要专利成果 
+[1] 一种解决SDN流级别配置一致性更新的方法和装置，发明专利[中国]，201410416521.5，李清，江勇，赵坤，2014.8.21（授权日期：2017.8.25，公开号：104202183A）
+[2] 移动云计算迁移方法及系统，发明专利[中国]，201410416522.X，李清，江勇，贺菊华，谭亚垒，2014.8.21（授权日期：2017.12.12，公开号：104202373A）
+[3] 一种基于增量部署SDN网络的链路洪泛攻击的防御方法，发明专利[中国]，201511029017.0，李清，王磊，江勇，2015.12.31（授权日期：2018.7.27，公开号：105516184A）[清华大学深圳研究生院]
+[4] 内容中心网络的内容请求及传输方法和系统，发明专利[中国]， 201510131520.0，李清，江勇，夏树涛，甘斌，2015.3.14（授权日期：2018.3.2，公开号：104780205A）
+[5] 一种分布式软件定义网络及在其中动态控制控制器的方法，发明专利[中国]，201510152981.6，李清，夏树涛 江勇，陈艳毓，赵宗义，2015.4.1（授权日期：2017.12.19，公开号：104754053A）
+[6] 软件定义网络中的中间盒调度方法及系统，发明专利[中国]，201510133399.5，李清，江勇，夏树涛，段鹏飞，2015.3.25（授权日期：2017.11.7，公开号：104796285A）
+[7] 一种基于选择性缓存的内容中心网络动态路由方法，发明专利[中国]，201510167265.5，李清，徐明伟，江勇，赵宗义，2015.4.9（授权日期：2017.8.25，公开号：104753797A）
+[8] 一种基于优先级的数据中心网络传输层数据流传输方法，发明专利[中国]，201610369912.5，李清，赵宗义，徐明伟，江勇，2016.5.31（授权日期：2018.11.2，公开号：105827540A）
+[9] 一种基于CDN的直播流自适应方法和系统，发明专利[中国]，201610356339.4，李清，甘斌，江勇，2016.5.25（授权日期：2019.3.26，公开号：106060605A）
+[10] 一种中间件部署方法、装置及系统，发明专利[中国]，201611110572.0，江勇，刘睿彤，李清，2016.12.2（授权日期：2019.4.30，公开号：106550049A）
+[11] 一种服务链动态调度方法与装置，发明专利[中国]，201810765659.4，江勇，刘璐，李清，2018.7.12. (公开号：108881046A)
+[12] 一种面向机器学习架构的流量调度方案，发明专利[中国]，201810569876.6，江勇，杨光，李清，2018.6.5.(公开号：108768876A)
+[13] 一种数据中心网中混合式负载均衡方法，发明专利[中国]，201810369090.X，江勇，宋紫嫣，李清，2018.4.23（公开号：108289064A）
+[14] 一种延迟保证的NFV云平台动态扩缩容方法及系统，发明专利[中国]，201910199568.3，江勇，艾硕，李清，2019.3.15（公开号：109995583A）
+[15] 视频传输方法、系统、计算机设备和存储介质, 发明专利[中国], 201910530061.1, 李清, 石婉欣, 王潮, 林栋, 邓轻松, 2019.6.19.（公开号：110430440A）
+[16] 一种图像超分辨方法和系统，发明专利[中国]，201910439532.8，夏树涛，戴涛，李清，林栋，汪漪，2019.5.24（公开号：110175953A）
+[17] 数据传输方法及装置、存储介质及电子设备，发明专利[中国]，201910456765.9，江勇，马晓腾，李清，汪漪，夏树涛（受理）
+[18] 数据包传输方法及相关装置，发明专利[中国]，201911107825.2，江勇，祝轲轲，李清，宛考，李伟超，吴宇（受理） 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+IEEE/ACM IWQoS 2018 Best Paper（唯一）
+2012年，中国电子学会科技进步一等奖
+2008年、2013年，深圳市优秀教师
+ </奖励荣誉>

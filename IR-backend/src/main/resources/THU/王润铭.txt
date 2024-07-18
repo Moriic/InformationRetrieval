@@ -1,0 +1,82 @@
+{"title":"王润铭","cnUrl":"http://www.sigs.tsinghua.edu.cn/wrm/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/6a/64/56c7ac554d8d9311e71f4d1d3a51/bd901345-2b0d-4462-83d6-68f79fb8ea97.jpg","email":"runmingwang@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+王润铭博士，主要从事金属化学生物学、合成生物学、合成化学和计算生物学等领域的交叉研究。通过研发创新药物及相关的化学/生物学工具，对病原细菌、病毒和真核细胞中关键金属蛋白（酶）的结构和功能进行调控，在攻克新发传染性疾病（抗菌素耐药菌感染和COVID-19）、恶性肿瘤及衰老等重大科学问题中取得一定的研究基础。主持科技部重点研发计划课题、优秀青年科学基金项目（海外）、国家自然科学基金青年项目、广东省自然科学基金面上项目、深圳市医学科学院青年探索基金等多项基金。近五年以一作（含同等贡献）或通讯身份在Nat Microbiol, Nat Commun, Proc Natl Acad Sci USA，Chem Sci, iScience等国际学术期刊上发表论文，总引用数>2200，h-因子23，i10-因子27（基于谷歌学术数据）。相关研究已申请授权/公开USPTO/PCT专利5项，授权中国专利1项。相关研究工作多次受邀召开媒体发布会并受中外数十家媒体广泛报道(新华网、CGTV、路透社、参考消息、凤凰网、南华早报、Science Daily等)。
+课题组招收博士后、科研助理、博士研究生、以及硕士研究生，欢迎具有化学、生物学、化学工程、食品科学与工程、计算机科学或相关专业背景的同学加盟。应聘者请将应聘材料（个人简介，科研成果，未来工作计划等）发送至runmingwang@sz.tsinghua.edu.cn。
+教育经历 
+2014年01月-2018年02月，香港大学，生物无机化学专业，博士（导师：孙红哲教授，高一村副教授）
+2012年09月-2013年12月，武汉工程大学，分析化学，其他（导师：陈嵘教授）
+2008年09月-2012年07月，武汉工程大学，食品科学与工程专业，学士
+工作经历 
+2022年02月-至今，清华大学深圳国际研究生院，助理教授
+2018年10月-2021年10月，香港大学，博士后
+2018年4月-2018年9月，香港大学，研究助理
+学术兼职 
+国际生物无机化学学会委员，中国生化制药工业协会专家委员会委员、中国生物化工青年委员会委员，深圳国家高技术产业创新中心专家库成员，Infectious Diseases Reviews 编辑委员会委员，Frontiers in Environmental Chemistry 客座编辑，Frontiers in Chemistry 客座编辑
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+细胞培养工程（国际院）、循证医学与真实世界研究（国际院）、现代生命科学与生物技术实验课（国际院）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+王润铭博士从事金属化学生物学、合成生物学、合成化学和计算生物学等领域的交叉研究。前期通过研发创新药物及相关的（纳米）化学/生物学工具，对病原细菌、病毒和真核细胞中关键金属蛋白（酶）的结构和功能进行调控，在攻克新发传染性疾病（抗菌素耐药菌感染和COVID-19）、恶性肿瘤及衰老等重大科学问题的研究中取得一定的成果。
+主要研究方向：
+（1） 金属药物化学及应用。面向超级细菌耐药性逆转、RNA病毒感染治疗、慢病管理和肿瘤治疗等应用场景，设计与创制金属基蛋白肽和小分子药物，通过多模态组学技术揭示药物靶点与作用网络并完成药剂学研究。
+（2） 金属生物分子的合成生物制造。聚焦蛋白肽和含糖生物分子合成分泌中的（金属）酶元件挖掘、分子线路和生命系统的设计、构建与优化，开发细胞内生物大分子金属化修饰技术，实现功能性金属生物分子的合成生物制造和功效发掘与评价；
+（3） 蛋白质深度学习与计算病理。关注金属蛋白肽从头设计、共进化预测及其与疾病的关联网络构建。聚焦基于病理图像的癌症分类任务和多模态药物预后模型构建。
+主要项目 
+[1] 国家重点研发计划项目, 2023-12 至 2028-12, 在研, 课题主持。
+[2] 国家自然科学基金优秀青年科学基金项目（海外）, 2023-09 至 2026-08, 在研, 主持； 
+[3] 国家自然科学基金青年科学基金, 2024/01-2026/12，在研，主持；
+[4] 广东省自然科学基金面上项目, 2023-01 至 2025-12, 在研, 主持； 
+[5] 深圳市医学研究专项资金项目，2024-01至2026-12，在研，主持；
+[6] 清华大学深圳国际研究生院发展研究基金, 2022-07 至 2025-06, 在研, 主持；
+[7] 清华大学深圳国际研究生院交叉科研研究基金, 2023-07 至 2026-06，在研, 主持； 
+[8] 清华大学深圳国际研究生院交叉科研研究基金, 2023-01 至 2025-12，在研, 主持；
+[9] University Research Committee of The University of Hong Kong, Seed Fund for Basic Research, 2021-04 至 2023-03, 结题, 共同主持
+[10] The Hong Kong Research Grants Council, PROCORE-France/Hong Kong Joint Research Scheme, F-HKU704/19, 2020-02 至 2022-01, 结题, 共同主持
+ </研究领域>
+<研究成果>
+代表性论文 
+# Co-first author, * Correspondence author
+1. Qi Z#, Wang R#, Wang M, Liu C, Koohi-Moghadam M, Wang H, Ho P-L, Li H, Sun H*,“Re-sensitization of mcr carrying multidrug resistant bacteria to 3 colistin by silver, Proc. Natl. Acad. Sci. U.S.A., 2022, 119, e2119417119.
+2. Wang R#, Chan J. F-W#, Wang S#, Li H, Zhao J, Ip K-Y, Zuo Z, Yuen K-K, Yuan S*, Sun H*, Orally administrated bismuth drug together with N-acetyl cysteine as a broad-spectrum anti-coronavirus cocktail therapy. Chem. Sci., 2022, 13, 2238-2248 [Back cover]
+3. Yuan S#, Wang R#, Chan FW#, Zhang J, Cheng T, Chik KH, Ye Z-W, Wang S, Jin L, Li H, Jin DY, Yuen KY*, Sun H*, Metallodrug ranitidine bismuth citrate suppresses SARS-CoV-2 replication and relieves virus-associated pneumonia in Syrian hamsters, Nat. Microbiol, 2020, 5, 1439–1448. [Local Top Ten innovation and technology news in 2020]]
+4. Sun H# *, Zhang Q#, Wang R# *, Wang H, Wong YT, Wang M, Hao Q, Yan A, Kao YT, Ho PL, Li H, Resensitizing superbugs carrying both blaMBL and mcr genes to antibiotics by auranofin, Nat. Commum., 2020, 11, 5263.
+5. Wang R, Wang S, Chan S, Wang Y, Zhang Y, Zuo Z, Chan CF, Li H, Sun H*, Bismuth porphyrin antagonizes cisplatin-induced nephrotoxicity via unexpected metallothionein-independent mechanisms, iScience, 2020, 23, 101054.
+6. Wang R#, Lai TP#, Gao P#, Zhang H#, Ho PL, Woo PC, Ma G, Kao RYT, Li H, Sun H*. Bismuth antimicrobial drugs serve as broad-spectrum metallo-β-lactamase inhibitors, Nat. Commum., 2018, 9, 439.[Highly cited paper]
+7. WangR#, Cheng G#, Dai Z, Ding J, Liu Y, Chen R*, Ionic liquid-employed synthesis of Bi2E3 (E=S, Se, and Te) hierarchitectures: the case of Bi2S3 with superior visible-light-driven Cr(VI) photoreduction capacity, Chem. Engineer. J., 2017, 327, 371-386.
+8. Chan S#, Wang R#, Man K, Nicholls J, Li H, Sun H*, Chan GC*.Transl Oncol. 2016, 12, 788-799
+9. Yuan S, Yin X, Meng X, Chan F-W, Ye Z-W, Riva L, Pache L, Chan C-Y, Lai P-M, Chan C-S, Poon K-M, Lee C-Y, Matsunaga N, Pu Y, Yuen C-K, Cao J, Liang R, Tang K, Sheng L, Du Y, Xu W, Lau C-Y, Sit KY, Au W-K, Wang R, Zhang Y-Y, Tang Y, Clausen T, Pihl J, Oh J, Sze K-H, Zhang J, Chu H, Kok K-H, Wang D, Cai X-H, D. Esko J, Hung F-N, Li R, Chen H, Sun H, Jin D-Y, Sun R, K. Chanda S, Yuen K-Y. Clofazimine broadly inhibits coronaviruses including SARS-CoV-2, Nature, 2021, 593, 418–423.
+10. Li H, Wang R, Sun H. Systems approaches for unveiling the mechanism of action of bismuth drugs: new medicinal applications beyond helicobacter pylori infection accounts of chemical research, Acc. Chem. Res. 2019 52, 216-227
+Other relevant publications can be accessed via the following ways：
+Google scholar link: https://scholar.google.com/citations?user=DWNINfAAAAAJ&hl=en&oi=ao
+ORCID link: https://orcid.org/0000-0001-8525-5659
+Research gate link：https://www.researchgate.net/profile/Runming-Wang
+代表性著作 
+1. Wang R, Li H, Ip K-Y, Sun H. Chapter Six - Bismuth drugs as antimicrobial agents, Academic Press; 1st edition, 2020
+2. Wang R,Li H,Sun H. Bismuth: Environmental Pollution and Health Effects, Elsevier, 2019
+主要专利成果 
+[1] Hongzhe Sun; Richard Yi Tsun Kao; Runming Wang; Tsz Pui Lai; Hongmin Zhang; Hongyan Li ;Bismuth (III) compounds and methods thereof, US10201518B2 (Granted)。
+[2] Hongzhe Sun; Chi-Fung Godfrey Chan; Shing Chan; Runming Wang; Bismuth(III) complexes as adjuvants in the treatment of cancer using platinum-based chemotherapy, US11554138B2 (Granted)。
+[3] Hongzhe Sun; Pak-Leung Ho; Runming Wang; Hongyan Li; Qi Zhang; Silver-/gold-compounds and methods thereof, 2019-8-23, US20220296639A1。
+[4] Hongzhe Sun; Kwok-Yung Yuen; Shuofeng Yuan; Runming Wang; Hongyan Li; Fuk-Woo Chan; Tianfan Cheng; Suyu Wang ; Compositions and methods for treating a SARS-CoV-2 infection, US20230218663A1。
+[5] 孙红哲; 高一村; 王润铭; 黎梓培; 张宏民; 李洪艳。铋(III)化合物及其方法，专利授权号：CN110121349B。
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1. 日内瓦国际发明展金奖(2023)
+2. 英国皇家化学会道尔顿探索奖(2023)
+3. 《麻省理工科技评论》“35岁以下科技创新35人” 亚太区 (2022)
+4. 国家海外高层次人才（青年）项目(2022)
+5. “鹏城孔雀计划”特聘岗位B类人才 (2022)
+6. 香港十大创科新闻 (2021)
+7. 香港大学知识交流奖 (2021)
+8. 香港大学-巴斯德所研究极奖学金(唯二) (2021)
+9. AsBIC9最佳展示奖 (2018) 
+10. 英国皇家化学会书籍奖 (2016)
+ </奖励荣誉>

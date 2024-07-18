@@ -1,0 +1,71 @@
+{"title":"Peter Búš ","cnUrl":"http://www.sigs.tsinghua.edu.cn/Peter Bus/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/ec/26/71096abd4a39a60e628184d94f51/8e1b03db-dea5-46d7-9ce8-f4712ba40e50.jpg","email":"peter_bus@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+09/19-12/2021, Master of Architecture in Design for Manufacture (MARCH with Distinction), The Bartlett School of Architecture University College London (UCL), United Kingdom
+09/10-02/16 Ph.D. in Architecture and Urbanism, The Department of Architectural Modelling MOLAB, Faculty of Architecture, Czech Technical University in Prague, Czech Republic
+09/02-06/04 Master of Arts in Architecture (Mgr. art.), Department of Architecture, Academy of Fine Arts and Design in Bratislava, Slovakia
+09/98-08/02 Bachelor of arts in Architecture (Bc), Department of Architecture, Academy of Fine Arts and Design in Bratislava, Slovakia
+09/96-06/99 Bachelor of Interior Design (Bc), Faculty of Wood Technology, Technical University Zvolen, Slovakia
+工作经历 
+11/ 2022 - present, Assistant Professor, Tsinghua Shenzhen International Graduate School, China
+09/18-12/21, Lecturer in Digital Architecture, University of Kent, Kent School of Architecture and Planning, Canterbury, Kent, UK
+11/20-11/21, Senior Postgraduate Teaching Assistant, Part time, The Bartlett School of Architecture, University College London UCL, London, UK
+10/20-01/21, Visiting lecturer, University of Applied Sciences (FACHHOCHSCHULE GRAUBÜNDEN FHGR) Chur, Switzerland
+05/16-08/18, Postdoctoral Researcher, Chair of Information Architecture, Department of Architecture, Swiss Federal Institute of Technology ETH Zurich, Switzerland
+01/15-08/15, Research Assistant, Simulation Platform Module IX, Future Cities Laboratory, Singapore ETH Centre, Singapore
+09/10-12/14, Design Studio Teaching Assistant, Czech Technical University in Prague, Faculty of Architecture
+From 01/05, CEO, Self-run Architectural Practice ARCHA PETER BUŠ ARCHITECTURE | COMPUTATIONAL DESIGN | RESEARCH
+学术兼职 
+Certified Authorized Architect in the Slovak Chamber of Architects (EU);
+CAAD Futures, CAADRIA, eCAADe conferences review committee member;
+External examiner, Academy of Fine Arts and Design, Department of Architecture, Bratislava, Slovakia, 
+External examiner and reviewer, Faculty of Architecture CTU Prague, Czech Republic
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+l Computational Design for Future Human Habitats I and II (to be confirmed, from Fall 2023)
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+l Design for Manufacture and Assembly (DfMA), advanced design-to-production workflows development, computational generative models and training data generation for built scenarios and construction deliveries , Machine learning-driven fabrication and prototyping based on builders inputs, end-user inputs and on-demand customization, XR digital guidance for assemblies, digital twins modelling, digital assembly instruction manuals for self-builders, advanced computational design strategies, collective Intelligence and participatory strategies in design, robotics and automation in the AECO sector, artificial intelligence in the AECO, bio-integrated architectural design, emergence in urban environments and architecture, urban autopoiesis
+主要项目 
+l SGS Grant FA CTU Prague, Emergent City – EmCity (2012-2015)
+l Cooler Calmer Singapore SEC Future Cities Laboratory (2015) Singapore, CityHeat modelling tool
+l ETH Zurich, Urban Autopoiesis (2017)
+l ETH Zurich, EmpowerShack, Interactive Urban Synthesis (2017)
+l NRF, ETH Zurich, ESUM (2018)
+l ETH Zurich, Urban Identity (2018)
+l RRF 2018, Large-scale Urban Prototyping (2018)
+l User-driven Configurable Assemblies (2020)
+l UCL Bartlett, Timber Shell Structure for Self-builders (2021/22)
+l Software developments: 
+-DeCodingSpaces Toolbox (2016–2018) - generative components for algorithmic architectural and urban planning, development collaboration | https://toolbox.decodingspaces.net/ 
+-ESUM (2018) - visualisation tool for urban space-related human response based on thermo-dermal electro signals activity | http://esum.arch.ethz.ch/about | 
+-EmCity (2011-2016)- Agent-based model of the city to explore potentials and tendencies of bottom-up urban growth and investigation of urban graininess | https://github.com/peterbus/EmCity 
+-CityHeat – Game-engine based visualisation tool to explore urban traffic heat propagation in the selected area in Singapore 
+-Hydroscape (2017) –a web interface for the modular arrangement of components to create floating urban structures in Tanjong Pagar area in Singapore 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Buš, Peter, Wu, Shi-Yen, Tartar, Ayça (2020). On-site Participation for Proto-architectural Assemblies Encompassing Technology and Human Improvisation: “Fish Trap” and “Orchid” Architectural Interventions. Complexity, special issue ‘Tales of Two Societies: On the Complexity of the Coevolution between the Physical Space and the Cyber Space’. ISSN 1076-2787. E-ISSN 1099-0526. (DOI: https://doi. org/10.1155/2020/4505064).
+[2] Buš, Peter. (2019). Large-scale Urban Prototyping for Responsive Urban Environments: A conceptual framework. Frontiers in Digital Humanities, Digital Architecture 6 (1), 1. (https://doi.org/10.3389/ fdigh.2019.00001).
+[3] Ojha, Varun, Kumar, Griego, Danielle, Kuliga, Saskia, Bielik, Martin, Buš, Peter, Schaeben, Charlotte, Treyer, Lukas, Standfest, Matthias, Schneider, Sven, König, Reinhard, and others. (2019). Machine learning approaches to understand the influence of urban environments on human physiological response. Information Sciences, 474. pp. 154-169. ISSN 0020-0255. (doi:10.1016/j.ins.2018.09.061).
+[4] Miao, Yufan, König, Reinhard, Knecht, Katja, Konieva, Kateryna, Buš, Peter, Chang, Mei-Chih (2018). Computational urban design prototyping: Interactive planning synthesis methods—a case study in Cape Town. International Journal of Architectural Computing, 16 (3). pp. 212-226. ISSN 1478-0771. (doi:10.1177/1478077118798395).
+[5] Buš, Peter, Treyer, Lukas, Schmitt, Gerhard (2017). Urban Autopoiesis: Towards Adaptive Future Cities. In: Janssen, P. and Loh, P. and Raonic, A. and Schnabel, M.A., eds. Protocols, Flows, and Glitches - Proceedings of the 22nd CAADRIA Conference. . pp. 695-704. The Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) ISBN 978-988-19026-8-9. http://papers.cumincad.org/ data/works/att/caadria2017_057.pdf
+[6] Buš, Peter (2020). User-driven Configurable Architectural Assemblies: Towards Artificial Intelligence-embedded Responsive Environments. Werner, L.C., Köring D. (eds.) Anthropologic - Architecture and Fabrication in the Cognitive Age: From Smart to Behavioral / From Digital to Material- Proceedings of the 38th eCAADe Conference, TU Berlin, Germany, 16-18 September 2020. http://papers.cumincad.org/data/works/att/ecaade2020_253.pdf
+[7] Koenig, Reinhard and Miao, Yufan and Knecht, Katja and Buš, Peter and Chang, Mei-Chih (2017). Interactive Urban Synthesis: Computational Methods for Fast Prototyping of Urban Design Proposals. In: Çağdaş, G. and Özkar, M. and Gül, L. and Gürer, E., eds. Computer-Aided Architectural Design. Future Trajectories: 17th International Conference, CAAD Futures 2017, Istanbul, Turkey, July 12-14, 2017, Selected Papers. Communications in Computer and Information Science. Springer, Istanbul, Turkey, pp. 23-41. ISBN 978-981-10-5196-8. E-ISBN 978-981-10-5197-5. (doi:10.1007/978-981-10-5197-5_2).
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+Honorable Mention, Tokyo Pop Culture Lab Design International Architectural Competition Bee Breeders, Hong Kong, 2016.
+Richard Rogers Fellowship Spring 2018: Large-scale Urban Prototyping for Responsive Cities award by the Harvard Graduate School of Design. 
+APC Fund University of Kent, 2020. Incentivisation fund Faculty of Humanities 2019, Digital Architecture, University of Kent. 
+Strategic Partnership Fund, 2019, University of Kent. 
+The Grant Agency of the Czech Technical University in Prague, 2012- 2014, “Emergent urban strategies - simulation model of environment reconfiguration”. 
+ </奖励荣誉>

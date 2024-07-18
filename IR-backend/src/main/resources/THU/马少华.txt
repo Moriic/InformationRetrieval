@@ -1,0 +1,74 @@
+{"title":"马少华","cnUrl":"http://www.sigs.tsinghua.edu.cn/msh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/39/8e/03527a9149fbac0ac3fc90748494/e92c0889-57a0-4a36-a8a1-43896e62c98d.jpg","email":"ma.shaohua@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2013年11月—2017年08月 牛津大学 博士后
+2010年10月—2013年10月 剑桥大学 博士
+2009年10月—2010年10月 剑桥大学 硕士
+2005年09月—2009年06月 中山大学 学士
+工作经历 
+2021年01月—至今，清华大学深圳国际研究生院（SIGS），副教授（特别研究员）
+2020年06月—至今，清华大学清华-伯克利深圳学院（TBSI）副教授（特别研究员），博士生导师
+2017年09月—2020年06月，清华大学清华-伯克利深圳学院（TBSI），助理教授（特别研究员），博士生导师
+学术兼职 
+《新型碳材料》杂志副主编（中科院煤化所主办）；
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+机械生物学介绍 TBSI
+再生医学技术进展 TBSI
+精准医疗平台的设计及其疾病诊断和治疗应用 TBSI
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+研究领域：类器官与器官打印、器官芯片与微流控、类器官移植与再生修复、活体组织多模信息获取精准医疗平台的设计
+主持项目：国自然面上项目、深圳市科创委基础研究重点项目和深圳湾开放基金项目等。
+成果：以一作/通讯共发表论文22篇，其中以通讯作者发表Nature Machine Intelligence, Matter, Cell Reports Medicine, Cell Reports Physical Science, Patterns等CNS子刊，申报中国发明专利17项（含PCT专利四项）。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Shengwei Jiang, Haoran Zhao, Weijie Zhang, Jiaqi Wang, Yuhong Liu, Yuanxiong Cao, Honghui Zheng, Zhiwei Hu, Shubin Wang, Yu Zhu, Wei Wang, Shuzhong Cui, Peter E. Lobie, Laiqiang Huang*, Shaohua Ma*, An automated organoid platform with inter-organoid homogeneity and inter-patient heterogeneity, Cell Reports Medicine (Cell Press), 2020, 1, 100161.
+[2] Haoran Zhao, Zitian Wang, Shengwei Jiang, Jiaqi Wang, Zhiwei Hu, Peter E. Lobie, Shaohua Ma*, Microfluidics synthesis of injectable angiogenic microgels, Cell Reports Physical Science (Cell Press), 2020, 1, 100047. 
+[3] Yong Wang, Mengqi Ji, Shengwei Jiang, Xukang Wang, Jiamin Wu, Jintao Fan, Shaohua Ma*, Lu Fang*, Qionghai Dai*, Augmenting vascular disease diagnosis by vasculature-aware unsupervised learning, Nature Machine Intelligence, 2020, 2, 337–346. 
+[4] Edgar A. Galan, Haoran Zhao, Xukang Wang, Qionghai Dai, Wilhelm Huck, Shaohua Ma*, Intelligent microfluidics: The convergence of machine learning and microfluidics in materials science and biomedicine, Matter (Cell Press), 2020, 3, 1893–1922. 
+[5] Yichao Zheng, Yinheng Zhu, Mengqi Ji, Rongpin Wang, Xinfeng Liu, Mudan Zhang, ChooHui Qin, Lu Fang*, Shaohua Ma*, A Learning-based Model to Evaluate Hospitalization Priority in COVID-19 Pandemics, Patterns (Cell Press), 2020, 1, 100092.
+[6] Shaohua Ma*, Haoran Zhao, Edgar A. Galan, Integrating Engineering, Automation, and Intelligence to Catalyze the Biomedical Translation of Organoids, Advanced Biology, 2021, 4, accepted.
+[7] Weijie Zhang*, Donghui Li, Shengwei Jiang, Edgar A Galan, Laiqiang Huang*, Shaohua Ma*, Microfluidic droplets as structural templates for Matrigel to enable 1-week large organoid modeling, Chemical Engineering Science, 2021, 238, 116632.
+[8] L. Zeng, Q. Liao, H. Zhao, S. Jiang*, X. Yang, H. Tang, Q. He, X. Yang, S. Fang, J. He, W. Cui, L. Huang, Shaohua Ma, Shuzhong Cui*, Raltitrexed as a synergistic hyperthermia chemotherapy drug screened in patient-derived colorectal cancer organoids, Cancer Biology and Medicine, 2021. doi: 10.20892/j.issn.2095-3941.2020.0566. 
+[9] Bing Xu, Yuanxiong Cao, Zheng Zheng, Edgar A. Galan, Zhiwei Hu, Jun Ge, Xinhui Xing, Shaohua Ma*, Injectable mesenchymal stem cell-laden Matrigel microspheres for endometrium repair and regeneration, Advanced Biology, 2021, 4, accepted.
+[10] Shaohua Ma*, Haoran Zhao, Edgar A. Galan, Modulating flow topology in microdroplets to control reaction kinetics, Advanced Biosystems, 2021, 4, 2000309.
+[11] Jiaqi Wang, Xiaowei Tang, Zitian Wang, Jiawei Li, Shaohua Ma*, Extracellular scaffold design for ultra-soft microtissue engineering, Light: Advanced Manufacturing, 2021, 2, 11. 
+[12] Yifan Xing, Junyu Liu, Xiaojie Guo, Haipeng Liu, Wen Zeng, Yi Wang, Chong Zhang, Yuan Lu, Dong He, Shaohua Ma, Yonghong He, Xinhui Xing*, Engineering organoid microfluidic system for biomedical and health engineering: A review, Chinese Journal of Chemical Engineering, 2021, accepted. https://doi.org/10.1016/j.cjche.2020.11.013.
+[13] Yuanxiong Cao, Haoran Zhao, Shaohua Ma*, Cascade pumping overcomes hydraulic resistance and moderates shear conditions for slow gelatin fiber shaping in narrow tubes, iScience (Cell Press), 2020, 23, 101228.
+[14] Chengyong He, Fengkai Ruan, Shengwei Jiang, Jie Zeng, Hanying Yin, Rong Liu, Yongxing Zhang, Laiqiang Huang, Chonggang Wang, Shaohua Ma*, Zhenghong Zuo*, Black Phosphorus Quantum Dots Cause Nephrotoxicity in Organoids, Mice, and Human Cells, Small, 2020, 16, 2001371.
+[15] Xinlong Pang, Haoran Zhao, Shaohua Ma*, A microfluidics reaction system for a multi- component reaction with automation and high chemoselectivity, Advanced Intelligent System, 2020, 2, 1900191.
+[16] Swati Kaushik, Sonu Gandhi, Mehak Chauhan, Shaohua Ma, et al. Deepa Suhag*, Water-templated, Polysaccharide-rich, Bio-artificial 3D Microarchitectures as Extra-Cellular Matrix Bioautomatons, ACS Applied Materials & Interfaces, 2020, 12, 20912–20921.
+[17] Shaohua Ma*, Microfluidics tubing as a synthesizer for ordered microgel networks, Soft Matter, 2019, 15, 3848–3853. 
+[18] Shaohua Ma*, Engineering inverse opals with enclosed voids via bottom-up assembly of double emulsions, Chemical Engineering Science, 2019, 205, 414-419. 
+[19] Shaohua Ma*, Gelatin-based microfluidics device with the feature sizes smaller than 100 μm for the production of oil-in-water emulsions, Microfluidics & Nanofluidics, 2019, 23, 35.
+[20] Shaohua Ma*, N. Mukherjee, Microfluidics fabrication of soft microtissues and bottom-up assembly, Advanced Biosystems, 2018, 2, 1800119. 
+[21] Shaohua Ma, N. Mukherjee, E. Mikhailova, H. Bayley, Gel microrods for 3D tissue printing, Advanced Biosystems, 2017, 1, 1700075.
+[22] Shaohua Ma, S. Balabani, W. T. S. Huck, Deformation of double emulsions under conditions of flow cytometry hydrodynamic focusing, Lab on a Chip, 2015, 15, 4291-4301. 
+[23] Shaohua Ma, J. Sherwood, W. T. S. Huck, S. Balabani, The microenvironment of double emulsions in rectangular microchannels, Lab on a Chip, 2015, 15, 2327-2334. 
+[24] Shaohua Ma, J. Sherwood, W. T. S. Huck, S. Balabani, On the flow topology inside droplets moving in rectangular microchannels, Lab on a Chip, 2014, 14, 3611-3620. 
+[25] J. Thiele, Y. Ma, S. M. C. Bruekers, Shaohua Ma, W. T. S. Huck, Designer hydrogels for cell cultures: A materials selection guide, Advanced Materials, 2014, 26, 125-148. 
+[26] Shaohua Ma, M. Natoli, X. Liu, M. P. Neubauer, F. M. Watt, A. Fery, W. T. S. Huck, Monodisperse collagen-gelatin beads as potential platforms for 3D cell culturing, Journal of Materials Chemistry B2013, 1, 5128-5136. 
+[27] Shaohua Ma, J. Thiele, X. Liu, Y. Bai, C. Abell, W. T. S. Huck, Fabrication of Microgel Particles with Complex Shapes via Selective Polymerization of Aqueous Two-Phase System, Small2012, 8, 2356-2360. 
+[28] J. Thiele, V. Chokkalingam, Shaohua Ma, D. A. Wilson, W. T. S. Huck, Vesicle budding from polymersome templated by microfluidically prepared double emulsions, Materials Horizons2014, 1, 96-101. 
+代表性著作 
+主要专利成果 
+国际专利： 1. H. Bayley, S. Ma, PCT/GB2017/051598, pending.
+其他成果 
+1. Shaohua Ma, Nobina Mukherjee, Ellina Mikhailova, Hagan Bayley. Gel Microrods for 3D Tissue Printing. Advanced Biosystems, 2017, 1, 1700075. (Cover)
+2. Ma S, Huck WT, Balabani S. Deformation of double emulsions under conditions of flow cytometry hydrodynamic focusing. Lab on a Chip, 2015, 15, 4291-4301. (Cover)
+3. Ma S, Sherwood JM, Huck WT, Balabani S. The microenvironment of double emulsions in rectangular microchannels. Lab on a Chip, 2015, 15, 2327-2334.
+4. Ma S, Sherwood JM, Huck WT, Balabani S. On the flow topology inside droplets moving in rectangular microchannels. Lab on a Chip, 2014, 14, 3611-3620.
+5. Thiele J, Ma Y, Bruekers SM, Ma S, Huck WT. 25th anniversary article: Designer hydrogels for cell cultures: a materials selection guide. Advanced Materials, 2014, 26, 125-148.
+6. J. Thiele, V. Chokkalingam, S. Ma, D. A. Wilson, W. T. S. Huck, Vesicle budding from polymersome templated by microfluidically prepared double emulsions. Materials Horizons 2014, 1, 96-101.
+7. S. Ma, M. Natoli, X. Liu, M. P. Neubauer, F. M. Watt, A. Fery, W. T. S. Huck, Monodisperse collagen-gelatin beads as potential platforms for 3D cell culturing. Journal of Materials Chemistry B 2013, 1, 5128-5136.
+8. S. Ma, J. Thiele, X. Liu, Y. Bai, C. Abell, W. T. S. Huck, Fabrication of Microgel Particles with Complex Shapes via Selective Polymerization of Aqueous Two-Phase System, Small 2012, 8, 2356 – 2360.
+9. B. Zhang, X. Chen, S. Ma, Y. Chen, J. Yang, M. Zhang, The Enhancement of photoresponse of an ordered inorganic-organic hybrid architecture by increasing interfacial contacts, Nanotechnology 2010, 21, 065304.
+ </研究成果>

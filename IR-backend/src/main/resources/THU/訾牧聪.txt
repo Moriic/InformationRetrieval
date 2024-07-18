@@ -1,0 +1,64 @@
+{"title":"訾牧聪","cnUrl":"http://www.sigs.tsinghua.edu.cn/zmc/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/c0/94/6383c95546cd9bb6dd868353aa1a/febffb4c-b2f0-4c41-a542-ad9e2c416b56.jpg","email":"zimucong@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+訾牧聪，博士，清华大学深圳国际研究生院助理教授，特别研究员，博士生导师。深圳市海外高层次人才引进：鹏城孔雀计划学者。2013年本科毕业于武汉大学。2019年获清华大学环境科学与工程学科工学博士学位，导师为陈道毅教授。2019-2021年于美国科罗拉多矿业大学化学与生物工程系任博士后，合作导师为Amadeu Sum教授。主要研究方向与学术兴趣包括：海洋天然气水合物高效开采技术、水合物法新型应用技术（气体固态储运、分离）、油气运输管道流动安全保障，新型多孔材料开发及其应用等。已累计发表SCI论文20篇。
+教育经历 
+2013年9月-2019年1月，清华大学，环境科学与工程专业，博士
+2009年9月-2013年6月，武汉大学，环境工程专业，学士
+工作经历 
+2021年12月-至今，清华大学深圳国际研究生院，助理教授
+2019年6月-2021年5月，科罗拉多矿业大学，博士后
+学术兼职 
+期刊审稿人：Chemical Engineering Journal，Applied Energy，Fuel，Langmuir，Energy & Fuels等
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+1. 《海洋天然气水合物基础与应用》，国际院
+2. 《海洋油气运输管道流动安全保障》，国际院
+3. 《海洋无机化学过程》，国际院
+4. 《海洋天然气水合物前沿进展与综合利用技术》，国际院
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事气体水合物基础科学与应用技术相关研究
+具体研究领域与兴趣包括（但不限于）：
+1. 水合物法气体（CH4、H2、CO2等）固态储存。
+2. 油气运输管道流动安全保障与新型水合物抑制剂开发
+3. 海洋天然气水合物高效开采方法
+4. 新型多孔介质材料（MOFs、COFs等）开发及其在水合物等领域的应用潜力探索
+主要项目 
+1. 深圳市技术攻关重点项目，深圳市科技创新委员会，在研，项目合作单位负责人，经费270/1000万元
+2. 清华大学深圳国际研究生院-科研启动费，深圳市财政局，在研，项目负责人，经费300万元
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Xue Zou, Mucong Zi*, Kai Liu, Tiantian Wu, Daoyi Chen. The molecular chain’s length effect of alcohol and ether for synergistic enhancement with novel kinetic hydrate inhibitors in hydrate inhibition[J]. Fuel, 2024, 371: 131987.
+[2]Hongyu Ye, Daoyi Chen, Yuanxin Yao, Xuezhen Wu, Dayong Li, Mucong Zi*. Exploration of production capacity-geomechanical evaluation and CO2 reinjection repair strategy in natural gas hydrate production by multilateral horizontal wells[J]. Energy, 2024, 296: 131097.
+[3]Shujun Chen, Jun Duan, Xianfeng Xie, Yue Fu, Mucong Zi. Adsorption enhances CH4 transport-driven hydrate formation in size-varied ZIF-8: Micro-mechanism for CH4 storage by adsorption-hydration hybrid technology[J]. Chemical Engineering Journal, 2024, 482: 148957.
+[4]Hongyu Ye, Daoyi Chen, Xuezhen Wu, Dayong Li, Yisong Yu, Mucong Zi*. Systematic analysis of reservoir properties on gas recovery from natural gas hydrate by multi-branch vertical wells: Examples from the Shenhu Sea of China[J]. Gas Science and Engineering, 2024, 122: 205216.
+[5]Jianhua Wang, Hongyu Ye, Jingyu Chen, Qichao Huang, Gaoqiang Gu, Xuhong Huang, Mucong Zi, Dayong Li, Xuezhen Wu. Marine Natural Gas Hydrate Self-Entry Exploitation Device: Evaluation of Production Enhancement Measures[J]. Journal of Marine Science and Engineering, 2023, 11(3): 543.
+[6]Xue Zou, Mucong Zi, TianTian Wu, Yuanxin Yao, Caifeng Yang, Daoyi Chen. Synthesis and evaluation investigation of novel kinetic hydrate inhibitors at high subcooling conditions[J]. Fuel, 2023, 341:127014.
+[7]Jun Duan, Xinyu Jiang, Yue Fu, Shujun Chen, Mucong Zi. Molecular insights into CH4/H2O transport and hydrate formation in hydrophobic metal-organic frameworks ZIF-8: Implication for CH4 storage by adsorption-hydration hybrid method[J]. Fuel, 2023, 337: 126851.
+[8]Mengya Niu, Yuanxin Yao, Zhenyuan Yin, Kai Liu, Peiming Bian, Mucong Zi, Daoyi Chen. Synergistic CH4 hydrate recovery and CO2 storage by coupling depressurization with CO2/N2 injection: A pilot-scale investigation[J]. Chemical Engineering Journal, 2023.
+[9]Caifeng Yang, Daoyi Chen, Xue Zou, Yuanxin Yao, Tiantian Wu, Mucong Zi*. Experimental Investigation of the Weakening Effect of Corrosion Inhibitors on the Performance of Kinetic Hydrate Inhibitors[J]. Energy & Fuels, 2023.
+[10]Xue Zou, Mucong Zi*, Caifeng Yang, Kai Liu, Chen Zhao, Daoyi Chen. High-throughput sapphire reaction system: A new experimental apparatus to evaluate hydrate kinetic inhibitors with high efficiency[J]. Journal of Natural Gas Science and Engineering, 2022, 104: 104687.
+[11]Caifeng Yang, Mucong Zi*, Guozhong Wu, Xue Zou, Kai Liu, Daoyi Chen. Concentration effect of kinetic hydrate inhibitor on hydrate formation and inhibition[J]. Fuel, 2022, 323: 124448
+[12]Mucong Zi, Xianwei Zhang, Luqman Mahir, Khalid Mateen, Thierry Palerm, Amadeu K. Wax Deposition Characterization under Flowing Conditions Using an Oscillatory Flow Setup[J]. Energy & Fuels, 2021, 35(22): 18495-18503.
+[13]Mucong Zi, Guozhong Wu, Jiang Wang, Daoyi Chen. Investigation of gas hydrate formation and inhibition in oil-water system containing model asphaltene[J]. Chemical Engineering Journal, 2021, 412: 128452.
+[14]Mucong Zi, Daoyi Chen, Jiang Wang, Peng Hu, Daoyi Chen. Kinetic and rheological study of methane hydrate formation in water-in-oil emulsion: Effects of emulsion composition and silica sands[J]. Fuel, 2019, 255: 115708.
+[15]Peng Hu, Guozhong Wu, Mucong Zi, Daoyi Chen. Effects of modified metal surface on the formation of methane hydrate[J]. Fuel, 2019, 255: 115720.
+[16]Peng Hu, Daoyi Chen, Mucong Zi, Guozhong Wu. Effects of carbon steel corrosion on the methane hydrate formation and dissociation[J]. Fuel, 2018, 230: 126-133.
+[17]Mucong Zi, Daoyi Chen, Guozhong Wu. Molecular dynamics simulation of methane hydrate formation on metal surface with oil[J]. Chemical Engineering Science, 2018, 191: 253-261.
+[18]Mucong Zi, Guozhong Wu, Lei Li, Daoyi Chen. Molecular dynamics simulations of methane hydrate formation in model water-in-oil emulsion containing asphaltenes[J]. The Journal of Physical Chemistry C, 2018, 122(41): 23299-23306.
+[19]Mucong Zi, Daoyi Chen, Haoqing Ji, Guozhong Wu. Effects of asphaltenes on the formation and decomposition of methane hydrate: a molecular dynamics study[J]. Energy & Fuels, 2016, 30(7): 5643-5650.
+[20]Haoqing Ji, Guozhong Wu, Mucong Zi, Daoyi Chen. Microsecond molecular dynamics simulation of methane hydrate formation in humic-acid-amended sodium montmorillonite[J]. Energy & Fuels, 2016, 30(9): 7206-7213.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+清华大学博士研究生综合奖学金一等奖（2018）
+ </奖励荣誉>

@@ -1,0 +1,64 @@
+{"title":"Vijay Kumar Pandey","cnUrl":"http://www.sigs.tsinghua.edu.cn/Vijay/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/f8/97/5e75d51c486eacf8f651b13affec/54c93bb1-f0e7-45ff-b0bc-524361adf46b.png","email":"vijay.pandey@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2006年9月- 2010年5月，奥克兰大学（新西兰），分子医学，博士
+2000年9月-2003年6月，普纳大学（印度），微生物学，硕士
+1996年9月-1999年6月，萨达尔帕特尔大学（印度），微生物学，学士
+工作经历 
+2021年12月-至今清华大学，深圳国际研究生院，副教授
+2019年5月-2021年11月 清华大学，清华伯克利深圳学院，助理教授
+2018年1月-2019年6月 清华大学，清华伯克利深圳学院，研究科学家
+2010年8月-2017年12月 新加坡国立大学（新加坡），癌症研究院，研究员
+2009年9月-2010年8月 弗吉尼亚联邦大学（美国），博士后研究员
+2004-2006 Triesta科技公司（印度），研究助理
+2003-2004 圣约翰研究所（印度），研究助理
+学术兼职 
+1.内分泌学会会员
+2.美国癌症研究协会会员
+3.Nature Communications, BMC cancer, Frontiers of Oncology, Cancer Molecular Targets and Therapeutics, Pharmacological Research, Seminars in Cancer Biology, Science Translation Medicine等国际学术期刊评审编辑
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+癌症的分子基础（The molecular basis of cancer）
+癌症研究中的新兴概念（Emerging concepts in cancer research）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要研究方向：
+（1）发现和验证人类恶性肿瘤中的新分子治疗靶点；
+（2）肿瘤细胞生物学，主要包括与癌细胞干细胞相关的细胞代谢、转移、治疗耐药性和肿瘤复发相关机制的研究；
+（3）转化研究：开发针对致癌标记物的治疗诊断技术。
+主要项目 
+海外科研合作基金科研合作项目
+深圳市重点实验室和启动项目
+高校稳定资助重点项目
+国家自然科学基金委员会面上项目
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Pandey, V., Wu, Z. S., Zhang, M., Li, R., Zhang, J., Zhu, T. and Lobie, P. E., Trefoil factor 3 promotes metastatic seeding and predicts poor survival outcome of patients with mammary carcinoma. Breast Cancer Res, 2014. 16(5): p. 429.
+[2] Pandey V, Zhang M, Chong QY, You M, Raquib AR, Pandey AK, Liu DX, Liu L, Ma L, Jha S, Wu ZS, Zhu T, Lobie PE. Hypomethylation associated enhanced transcription of trefoil factor-3 mediates tamoxifen-stimulated oncogenicity of ER+ endometrial carcinoma cells. Oncotarget. 2017 Aug 24;8(44):77268-77291. doi: 10.18632/oncotarget.20461. PMID: 29100386; PMCID: PMC5652779.
+[3] Pandey, V., Wang, B., Mohan, C. D., Raquib, A. R., Rangappa, S., Srinivasa, V., Fuchs, J. E., Girish, K. S., Zhu, T., Bender, A., Ma, L., Yin, Z., Basappa, Rangappa, K. S. and Lobie, P. E., Discovery of a small-molecule inhibitor of specific serine residue BAD phosphorylation. Proc Natl Acad Sci U S A, 2018. 115(44): p. E10505-e10514.
+[4] Pandey, V., Zhang, M., You, M., Zhang, W., Chen, R., Zhang, W., Ma, L., Wu, Z. S., Zhu, T., Xu, X. Q., and Lobie, P. E., Expression of two non-mutated genetic elements is sufficient to stimulate oncogenic transformation of human mammary epithelial cells. Cell Death Dis, 2018. 9(12): p. 1147.
+[5] Tan, Y. Q., Zhang, X., Zhang, S., Zhu, T., Garg, M., Lobie, P. E. and Pandey, V., Mitochondria: The metabolic switch of cellular oncogenic transformation. Biochim Biophys Acta Rev Cancer, 2021. 1876(1): p. 188534.
+[6] Cheng F, Wang X, Chiou YS, He C, Guo H, Tan YQ, Basappa B, Zhu T, Pandey V, Lobie PE. Trefoil factor 3 promotes pancreatic carcinoma progression via WNT pathway activation mediated by enhanced WNT ligand expression. Cell Death Dis. 2022 Mar 25;13(3):265. doi: 10.1038/s41419-022-04700-4. PMID: 35332126; PMCID: PMC8948291.
+[7] Bhardwaj V, Tan YQ, Wu MM, Ma L, Zhu T, Lobie PE, Pandey V. Long non-coding RNAs in recurrent ovarian cancer: Theranostic perspectives. Cancer Lett. 2021 Apr 1;502:97-107. doi: 10.1016/j.canlet.2020.12.042. Epub 2021 Jan 8. PMID: 33429007.
+[8] Zhuang QS, Sun XB, Chong QY, Banerjee A, Zhang M, Wu ZS, Zhu T, Pandey V, Lobie PE. ARTEMIN Promotes Oncogenicity and Resistance to 5-Fluorouracil in Colorectal Carcinoma by p44/42 MAPK Dependent Expression of CDH2. Front Oncol. 2021 Aug 6;11:712348. doi: 10.3389/fonc.2021.712348. PMID: 34422665; PMCID: PMC8377398.
+代表性著作 
+主要专利成果 
+1. Title: Compounds as modulator of JAK-STAT pathway, methods, and applications thereof (co-inventor)US Patent number 9604974, Application number 15/004,114 (Industry Liaison Office (ILO) NUS Ref: 15042N-US
+2. Title: Adamantyl-tethered thiazolyl-pyrazolines, methods and applications thereof (co-inventor), Indian complete patent application No. 201641024910 (ILO NUS Ref: 2016-239-01)
+3. Title: Compounds (co-inventor) application number PCT/SG2018/050194, NUS, ILO Ref: 15044N-UK/PRV.
+4. Title: Compounds As Inhibitors of Tff3 Dimerization, Methods and Applications Thereof (co-inventor)Singapore provisional application number 10201704579V. ILO, NUS Ref: 2016-238-01.
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2009 Postdoctoral Fellowship, Dept. of Human & Molecular Genetics, VCU, USA
+2009 Travel Award, 21st Lorne Cancer Conference, Lorne, Australia
+2007, 2008, 2009 Travel Award, National Research Centre for Growth and Development (NRCGD), NZ
+2006 International Doctoral Scholarship, NRCGD, NZ
+ </奖励荣誉>

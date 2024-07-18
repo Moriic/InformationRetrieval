@@ -1,0 +1,50 @@
+{"title":"陈谦","cnUrl":"http://www.sigs.tsinghua.edu.cn/cq2/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/2d/50/dfba150c4a02916a9d70a4b73c60/8cd6b676-ee69-4d07-b3f6-27bd19f2a573.png","email":"qian.chen@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2014年7月-2018年8月，新加坡国立大学，机械工程专业，博士
+2010年9月-2014年6月，上海交通大学，机械与动力工程专业，学士
+工作经历 
+2022年8月-至今，清华大学深圳国际研究生院，助理教授
+2021年7月-2022年6月，阿卜杜拉国王科技大学，研究科学家
+2019年6月-2021年6月，阿卜杜拉国王科技大学，博士后
+2018年9月-2019年6月，新加坡国立大学，博士后
+学术兼职 
+Frontiers in Energy Research 期刊（SCI）客座编辑，主持Solar Desalination特刊 
+Frontiers in Built Environment 期刊（ESCI）客座编辑，主持Indoor Environment 特刊
+期刊审稿人：Energy, Applied Energy, Desalination, Energy Conversion and Management, Solar Energy, Energy and Buildings, International Journal of Energy Research等
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+1. 热驱动海水淡化技术：喷洒式闪蒸海水淡化，吸附式海水淡化，真空膜蒸馏，蒸汽压缩；
+2. 废水处理和与资源化：零排放水处理系统，新型加湿-除湿结晶器；
+3. 新型空调技术：蒸发冷却-蒸汽压缩混合系统，固体/液体除湿剂；
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Chen Qian, Faheem Hassan Akhtar, Muhammad Burhan, M Kumja, Kim Choon Ng, A novel zero-liquid discharge desalination system based on the humidification-dehumidification process: a preliminary study, Water Research, 2021, 117794, (https://doi.org/10.1016/j.watres.2021.117794)
+[2] Chen, Qian, Burhan, M., Ja, M. K., Li, Y., & Ng, K. C. (2021). An ocean thermocline desalination system using the direct spray method. Desalination, 520, 115373, https://doi.org/10.1016/j.desal.2021.115373
+[3] Chen Qian, M Kumja Muhammad Burhan, Muhammad Wakil Shahzad, Doskhan Ybyraiymkul, Zheng Hongfei & Ng Kim Choon. Experimental study of a sustainable cooling process hybridizing indirect evaporative cooling and mechanical vapor compression. Energy Reports, 8, 7945-7956. https://doi.org/10.1016/j.egyr.2022.06.019 
+[4] Chen, Qian, Ja, M. K., Burhan, M., Akhtar, F. H., Shahzad, M. W., Ybyraiymkul, D., & Ng, K. C. (2021). A hybrid indirect evaporative cooling-mechanical vapor compression process for energy-efficient air conditioning. Energy Conversion and Management, 248, 114798, https://doi.org/10.1016/j.enconman.2021.114798 
+[5] Chen Qian, Burhan, M., Akhtar, F. H., Ybyraiymkul, D., Shahzad, M. W., Li, Y., & Ng, K. C. (2021). A decentralized water/electricity cogeneration system integrating concentrated photovoltaic/thermal collectors and vacuum multi-effect membrane distillation. Energy, 120852, https://doi.org/10.1016/j.energy.2021.120852 
+[6] Chen, Qian, Burhan, M., Ja, M. K., Li, Y., & Ng, K. C. (2021). A spray-assisted multi-effect distillation system driven by ocean thermocline energy. Energy Conversion and Management, 245, 114570, https://doi.org/10.1016/j.enconman.2021.114570 
+[7] Chen Qian, Burhan Muhammad, Faheem Hassan Akhtar, Doskhan Ybyraiymkul, Wakil Shahzad Muhammad, Yong Li, and Kim Choon Ng. (2020). Thermo-economic analysis and optimization of a vacuum multi-effect membrane distillation system. Desalination, 483, 114413. https://doi.org/10.1016/j.desal.2020.114413
+[8] Chen Qian, Seung Jin Oh, and Muhammad Burhan. (2020). Design and optimization of a novel electrowetting-driven solar-indoor lighting system. Applied Energy, 269, 115128. https://doi.org/10.1016/j.apenergy.2020.115128
+[9] Chen Qian, Raid Alrowais, Muhammad Burhan, Doskhan Ybyraiymkul, Muhammad Wakil Shahzad, Yong Li, and Kim Choon Ng. (2020). A self-sustainable solar desalination system using direct spray technology. Energy, 118037. https://doi.org/10.1016/j.energy.2020.118037
+[10] Chen Qian, Muhammad Burhan, Muhammad Wakil Shahzad, Doskhan Ybyraiymkul, Faheem Hassan Akhtar, and Kim Choon Ng. (2020). Simultaneous production of cooling and freshwater by an integrated indirect evaporative cooling and humidification-dehumidification desalination cycle. Energy Conversion and Management, 221,113169, https://doi.org/10.1016/j.enconman.2020.113169
+[11] Chen Qian, Muhammad Burhan, Muhammad Wakil Shahzad, Doskhan Ybyraiymkul, Faheem Hassan Akhtar, Yong Li, and Kim Choon Ng (2020). A zero liquid discharge system integrating multi-effect distillation and evaporative crystallization for desalination brine treatment. Desalination,502,114928, https://doi.org/10.1016/j.desal.2020.114928
+[12] Chen Qian, M. Kum Ja, Yong Li, and Kian Jon Chua. (2019). Energy, exergy and economic analysis of a hybrid spray-assisted low-temperature desalination/thermal vapor compression system. Energy, 166, 871-885. https://doi.org/10.1016/j.energy.2018.10.154
+[13] Chen Qian, Seungjin Oh, Yong Li, and M. Kum Ja. (2019). Thermodynamic optimization of a spray-assisted low-temperature desalination system driven by sensible heat. Energy, 192, 116633, https://doi.org/10.1016/j.energy.2019.116633
+代表性著作 
+[1] Chen Qian & Chua Kian Jon (2018). A spray assisted low-temperature desalination technology. In Emerging Technologies for Sustainable Desalination Handbook (pp. 255-284). Elsevier
+[2] Chen Qian, Muhammad Burhan, Muhammad Wakil Shahzad, Raid Alrowais, Doskhan Ybyraiymkul, Faheem Akhtar, Li Yong & Ng Kim Choon. (2020). A Novel Low-Temperature Thermal Desalination Technology Using Direct-Contact Spray Method. In Desalination-Challenges and Opportunities. IntechOpen.
+[3] Chen Qian, Muhammad Burhan, Faheem Akhtar, Doskhan Ybyraiymkul, Muhammad Wakil Shahzad, M Kum Ja & Ng Kim Choon. (2022). Adsorption Processes for Seawater Desalination. In Sustainable Separation Engineering: Materials, Techniques and Process Development. Wiley
+主要专利成果 
+【1】 Chen Qian, Raid Alrowais, Muhammad Burhan, Muhammad Wakil Shahzad, Doskhan Ybyraiymkul, Faheem Hassan Akhtar, and Kim Choon Ng，TUBELESS, MULTI-EFFECT DISTILLATION SYSTEM AND METHOD, PCT International Application No. PCT/IB2020/060864
+【2】Chen Qian, Muhammad Wakil Shahzad, Muhammad Burhan, Doskhan Ybyraiymkul, Faheem Hassan Akhtar, M Kumja and Kim Choon Ng，SOLAR-POWERED TEMPERATURE CASCADING SYSTEM FOR ELECTRICITY GENERATION AND SEAWATER DESALINATION，PCT International Application No.PCT/IB2021/057524
+【3】Chen Qian, Muhammad Wakil Shahzad, M Kumja, Faheem Hassan Akhtar, Muhammad Burhan, Doskhan Ybyraiymkul and Kim Choon Ng, Hybrid air-conditioning system for efficient cooling and dehumidification, PCT International Application No.PCT/IB2021/054689.
+【4】Chen Qian, Muhammad Wakil Shahzad, M Kumja, Muhammad Burhan, Faheem Hassan Akhtar, Doskhan Ybyraiymkul, Raid Alrowais and Kim Choon Ng，A hybrid air-conditioning system for decoupled sensible and latent heat removal and method, International Application No. PCT/IB2022/054621.
+其他成果 
+ </研究成果>

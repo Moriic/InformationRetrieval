@@ -1,0 +1,120 @@
+{"title":"周光敏","cnUrl":"http://www.sigs.tsinghua.edu.cn/zgm/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/9a/fd/13d01aa344dda7989c3faebc72eb/394820be-fe1f-45b3-a0b2-36fb9685cb32.jpg","email":"guangminzhou@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+周光敏，副教授，博士生导师。2014年博士毕业于中国科学院金属研究所，导师为成会明院士和李峰研究员。2014-2015年于美国UT Austin从事博士后研究，合作导师为Arumugam Manthiram教授。2015-2019年在斯坦福大学崔屹教授课题组从事博士后研究。主要研究方向为电化学储能材料及器件与电池回收，已发表论文150余篇，其中第一作者及通讯作者论文包括Nature Nanotechnology, Nature Energy, Chemical Reviews，Nature Communications, Science Advances, PNAS，Advanced Materials等。论文被引用 28800多次(Google Scholar)，38篇入选ESI高被引论文，H-index为72，2018-2021连续4年入选科睿唯安全球高被引科学家。著作书籍Design, Fabrication and Electrochemical Performance of Nanostructured Carbon Based Materials for High-Energy Lithium-Sulfur Batteries以及≤Graphene Science Handbook≥书中章节一章。担任期刊Energy Storage Materials副编辑/科学执行编辑及多个期刊青年编委，入选海外高层次人才（青年），目前承担国家科技部重点研发项目（课题负责）、国家自然科学基金面上项目等，获得包括侯德榜化工科学技术奖青年奖、广东省材料研究学会青年科技奖、能源存储材料青年科学家奖、中国科学院院长特别奖、中国科学院优秀博士论文、Materials Today Rising Star Awards等奖励。
+课题组常年招收博士后、博士、硕士、科研助理，欢迎感兴趣的同学联系，也欢迎访问学者等，请联系guangminzhou@sz.tsinghua.edu.cn。
+课题组主页：https://www.zhougroup-sigs.cn/
+教育经历 
+2008年9月-2014年7月，博士学位，中国科学院金属研究所，导师为成会明院士和李峰研究员
+2004年9月-2008年7月，学士学位，南京理工大学（入选全校培优班），材料成型及控制工程，GPA: 3.8/4.0 
+工作经历 
+2021.01-至今副教授清华大学深圳国际研究生院
+2019.11-2020.12副教授清华-伯克利深圳学院 
+2015.07-2019.11博士后美国斯坦福大学
+2014.07-2015.06博士后美国德州大学奥斯汀分校
+学术兼职 
+2022.3-至今 Advisory Board of Global Challenges
+2022.1-至今  CarbonEnergy青年编委
+2022.1-至今  BatteryEnergy青年编委
+2022.1-至今 Energy Storage Materials副编辑 (影响因子 17.789) 
+2020.2-至今 Energy Storage Materials科学执行编辑 (影响因子 17.789) 
+2021.1-至今 Science China Materials青年编委
+2021.2-至今  Rare Metals青年编委
+2021.8-至今 Chinese Chemical Letters青年编委
+2021.10-至今  SusMat青年编委
+2020.12-至今 广东省材料学会青年工作委员会副主任
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+Fall: Principles and Applications of Electrochemistry
+Spring: Materials and Devices for Sustainable Energy 
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+Design of high energy rechargeable batteries
+Design and assembly of all solid-state lithium batteries
+Battery recycling and reutilization
+3D printing techniques for electrode materials and devices
+Development of flexible energy-storage materials and devices
+In situ characterization techniques for electrode reaction and failure mechanism
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+Published more than 150 papers in prestigious journals with total citations >28800 and H-index of 72.
+Google scholar link:
+https://scholar.google.com/citations?user=smzbtMcAAAAJ&hl=en
+Selected publications
+1. Zhou, G. M.; Paek, E., Hwang, G. S.; Manthiram, A.*, Long-life Li/polysulphide batteries with high sulphur loading enabled by lightweight three-dimensional nitrogen/sulphur codoped graphene sponge. Nature Communications, 2015, 6, 7760.
+2. Zhou, G. M.#; Yang, A.#; Wang, Y.; Gao, G.; Pei, A.; Yu, X.; Zhu, Y.; Zong, L.; Liu, B.; Xu, J.; Liu, N.; Zhang, J.; Li, Y.; Wang, L.; Hwang, H.; Brongersma, M.; Chu, S.; Cui, Y.*; Electrotunable liquid sulphur microdroplets, Nature Communications, 2020, 11, 606.
+3. Zhou, G. M.#; Chen, H.#; Cui, Y.*; Formulating energy density for designing practical lithium-sulfur batteries, Nature Energy, 2022, in press.
+4. Zhou, G. M.#; Xu, L.#; Hu, G; Mai, L.*; Cui, Y.*, Nanowires for Electrochemical Energy Storage, Chemical Reviews, 2019, 119, 11042-11109. 
+5. Zhou, G. M.#; Pei, S. F.#; Li, L.; Wang, D. W; Wang, S. G; Huang, K.; Yin, L. C.; Li, F.*; Cheng, H.-M.*, A Graphene-Pure Sulphur Sandwich Structure for Ultrafast, Long-Life Lithium–Sulphur Batteries, Adv. Mater., 2014, 26, 625–631.
+6. Zhou, G. M.#; Sun, J.#; Jin, Y.; Chen, W.; Zu, C. X.; Zhang, R.; Qiu, Y.; Zhao, J.; Zhuo, D.; Liu, Y. Y.; Tao, X.; Liu, W.; Yan, K.; Lee, H. Y.; Cui, Y.*, Sulfiphilic nickel phosphosulfide enabled Li2S impregnation in 3D graphene cages for Li-S batteries, Adv. Mater., 2017, 29, 1603366. 
+7. Zhou, G. M.#; Tian, H.#; Jin, Y.#; Tao, X.; Liu, B.; Zhang, R.; Seh, Z.; Zhuo, D.; Liu, Y. Y.; Sun, J.; Zhao, J.; Zu, C. X.; Wu, S. D.; Zhang, Q. F.; Cui, Y.*, Catalytic oxidation of Li2S on the surface of metal sulphides for Li-S batteries, PNAS, 2017, 114, 840-845.
+8. Zhou, G. M.; Li, L; Wang, D. W; Shan, X. Y.; Pei, S. F.; Li, F.*; Cheng, H.-M.*, A Flexible Sulfur-Graphene-Polypropylene Separator Integrated Electrode for Advanced Li–S Batteries. Advanced Materials, 2015,  27, 641-647. 
+9. Zhou, G. M.#; Yang, A.#; Gao, G.#; Yu, X.; Xu, J.; Liu, C.; Ye, Y.; Pei, A.; Wu, Y.; Peng, Y.; Li, Y.; Liang, Z.; Liu, K.; Wang, L.; Cui, Y.*; Super-cooled liquid sulfur maintained in three-dimensional current collector for high performance Li-S batteries, Science Advances, 2020, 6, eaay5098.
+10. Zhou, G. M.; Li, F.; Cheng, H.-M.*, Progress in flexible lithium batteries and future prospects, Energy Environ. Sci., 2014, 7(4), 1307–1338. 
+11. Zhou, G. M.; Wang, D. W; Li, F.*; Zhang, L. L.; Li, N.; Wu, Z. S.; Wen, L.; Lu, G. Q.; Cheng, H.-M.*, Graphene-wrapped Fe3O4 anode material with improved reversible capacity and cyclic stability for lithium ion batteries, Chem. Mater., 2010, 22, 5306–5313.
+12. Zhou, G. M.; Wang, D. W; Yin, L. C.; Li, N.; Li, F.*; Cheng, H.-M., Oxygen bridges between NiO nanosheets and graphene for improvement of lithium storage, ACS Nano, 2012, 6, 3214–3223. 
+13. Zhou, G. M.; Yin, L. C.; Wang, D. W; Li, L; Pei, S.F.; Gentle, I; Li, F.*, and Cheng, H.-M.*, Fibrous Hybrid of Graphene and Sulfur Nanocrystals for High Performance Lithium-Sulfur Batteries. ACS Nano, 2013, 7, 5367–5375. 
+14. Zhou, G. M.#; Wang, D. W#; Li, F.*; Hou, P. X.; Yin, L. C.; Liu, C; Lu, G. Q.; Gentle, I; Cheng, H.-M.*, A flexible nanostructured sulphur-carbon nanotube cathode with high rate performance for Li-S batteries, Energy Environ. Sci., 2012, 5, 8901–8906.
+15. Zhou, G. M.#; Li, L#; Ma, C. Q; Wang, S. G; Shi, Y; Koratkar, N; Ren, W. C; Li, F.*; Cheng, H.-M.*, A graphene foam electrode with high sulfur loading for flexible and high energy Li-S batteries. Nano Energy, 2015, 11, 356-365. 
+16. Zhou, G. M.; Zhao, Y; Zu, C; Manthiram, A.*, Free-standing TiO2 nanowire-embedded graphene hybrid membrane for advanced Li/dissolved polysulfide batteries. Nano Energy, 2015, 12, 240-249. 
+17. Zhou, G. M.; Zhao, Y; Manthiram, A.*, Dual-confined Flexible Sulfur Cathodes Encapsulated in Nitrogen-doped Double-shelled Hollow Carbon Spheres and Wrapped with Graphene for Li-S Batteries. Adv. Energy Mater., 2015, 5, 1402263.
+18. Wu, Z. S.;# Zhou, G. M.;# (#Equally Contributed) Yin, L. C.; Ren W. C.; Li, F.; Cheng, H.-M.*, Graphene/Metal Oxide Composite Electrode Materials for Energy Storage. Nano Energy, 2012, 1, 107-131. 
+19. Zhou, G. M.; Paek, E., Hwang, G. S.; Manthiram, A.*, High-Performance Lithium-Sulfur Batteries with a Self-Supported, 3D Li2S-Doped Graphene Aerogel Cathode. Adv. Energy Mater., 2016, 6, 1501355.
+20. Chen, L.;# Zhou, G. M.;# (#Equally Contributed), Liu, Z.; Ma, X.; Chen, J.; Zhang, Z. Y.; Ma, X. L.; Li, F.; Cheng, H.-M. Ren, W. C*, Scalable Clean Exfoliation of High-Quality Few-Layer Black Phosphorus for a Flexible Lithium Ion Battery, Adv. Mater., 2016, 28, 510–517. 
+21. Zhao, J.#; Zhou, G. M.#; (#Equally Contributed), Yan, K.; Xie, J.; Li, Y.; Liao, L.; Jin, Y.; Liu, K.; Hsu, P.; Wang, J.; Cheng, H.-M.; Cui, Y.*; Air-stable and freestanding lithium alloy/graphene foil as an alternative to lithium metal anodes, Nature Nanotechnology, 2017, 12, 993-999. 
+22. Jin, Y.#; Zhou, G. M.;# (#Equally Contributed), Shi, F.; Zhuo. D.; Zhao, J.; Liu, K.; Liu, Y.; Zu, C.; Chen, W.; Zhang, R.; Cui, Y.*, Reactivation of dead sulphide species in lithium polysulphide flow battery for grid scale energy storage, Nature Communications, 2017, 8, 462.
+23. Huang, Z.#; Zhou, G. M.#; Lv, W.*; Deng. Y.; Zhang. Y.; Zhang, C.; Kang. F.Y.; Yang, Q.H.*, Seeding lithium seeds towards uniform lithium deposition for stable lithium metal anodes, Nano Energy, 2019, 61, 47-53. 
+24. Zhou, G. M.#; Liu, K.#; Fan, Y.#; Yuan, M.; Liu, B.; Liu, W.; Shi, F.; Liu, Y.; Chen, W.; Lopez, J.; Zhuo, D.; Zhao, J.; Tsao, Y.; Huang, X.; Zhang, Q. F.; Cui, Y.*, An aqueous inorganic polymer binder for high performance lithium-sulfur batteries with flame-retardant properties, ACS Central Science, 2018, 4, 260-267. 
+25. Liu, N.#; Zhou, G. M.#; (#Equally Contributed), Yang, A.; Yu, X.; Shi, F.; Sun, J.; Zhang, J.; Liu, B.; Wu, C.; Tao, X.; Sun, Y.; Cui, Y.*; Chu, S.*, Direct electrochemical generation of super-cooled sulfur microdroplets well below their melting temperature, PNAS, 2019, 116 (3) 765-770. 
+26. Yang, A.#; Zhou, G. M.#; (#Equally Contributed), Kong, X.; Vilá, R.; Pei, A.; Wu, Y.; Yu, X.; Zheng, X.; Wu, C.; Liu, B.; Chen, H.; Xu, Y.; Chen, D.; Li, Y.; Fakra, S.; Hwang, H.; Qin, J.; Chu, S.; Cui, Y.*; Electrochemical generation of liquid and solid sulfur on two-dimensional layered materials with distinct areal capacities, Nature Nanotechnology, 2020, 15, 231-237. 
+27. Zhou, G. M.#; Zhao, S.#; Wang, T.#; Yang, S.; Johannessen, B.; Chen, H.; Liu, C.; Ye, Y.; Wu, Y.; Peng, Y.; Liu, C.; Jiang, S.; Zhang, Q.; Cui, Y.*; Theoretical Calculation Guided Design of Single-Atom Catalysts toward Fast Kinetic and Long-Life Li–S Batteries, Nano Letters, 2020, 20, 1252-1261. 
+As Corresponding Author:
+28. Sun, C.#; Liu, Y.#; Sheng, J.#; Huang, Q.; Lv, W.; Zhou, G. M.*; Cheng, H.-M.*, Status and Prospects of Porous Graphene Networks for Lithium-Sulfur Batteries, Materials Horizons, 2020, 7, 2487-2518. (Time Cited: 14)
+29. Xu, Q.; Lin, J.; Ye, C.; Jin, X.; Ye, D.; Lu, Y.; Zhou, G. M.*; Qiu, Y.*; Li, W.*, Air‐Stable and Dendrite‐Free Lithium Metal Anodes Enabled by a Hybrid Interphase of C60 and Mg, Adv. Energy Mater., 2020, 10, 1903292. 
+30. Huang, Z.#; Kong. D.#; Zhang. Y.; Deng, Y.; Zhou, G. M.*; Zhang, C.; Kang. F.Y.; Lv, W.*; Yang, Q.H.*, Vertical graphenes grown on a flexible graphite paper as an all-carbon current collector towards stable Li deposition, Research, 2020, 7163948. 
+31. Wang, R.#; Luo. C.#; Wang. T.#; Zhou, G. M.*; Deng. Y.; He, Y.; Zhang. Q.*; Kang. F.Y.; Lv, W.*; Yang, Q.H.*, Bidirectional catalysts for liquid-solid redox conversion in lithium-sulfur batteries, Adv. Mater., 2020, 2000315.
+32. Zhao, Y.; Liang, Z.*; Kang, Y.Q.; Zhou, Y.; Li, Y.; He, X.M.; Wang, L.;* Mai, C.; Wang, X.; Zhou, G. M.*; Wang, J.; Li, J.; Tavajohi, N.; Li, B.;* Rational Design of Functional Binder Systems for High-Energy Lithium-based Rechargeable Batteries, Energy Stoarge Materials, 2021, 35, 353-377. 
+33. Sheng, J.#; Wang, T.#; Tan, J.; Lv, W.; Qiu, L.; Zhang, Q.;  Zhou, G. M.*; Cheng, H.-M.*, Intercalation-Induced Conversion Reactions Give High-Capacity Potassium Storage, ACS Nano, 2020, 14, 10, 14026–14035.
+34. Huang, Q.#; Ni, S.#; Jiao, M.#; Zhong, X.; Zhou, G. M.*; Cheng, H.-M., Aligned carbon-based electrodes for fast-charging batteries: A Review, Small, 2021, 2007676.
+35. Chen, B.#; Wang, D.#; Zhang, B.; Zhong, X.; Liu, Y.; Sheng, J.; Zhang, Q; Zou, X*.;  Zhou, G. M.*; Cheng, H.-M.*, Engineering the Active Sites of Graphene Catalyst: From CO2 Activation to Activate Li-CO2 Batteries, ACS Nano, 2021, 15, 6, 9841–9850.
+36. Xiao, P.#; Luo, R.#; Piao, Z.; Li, C.; Wang, J.; Yu, K*.;  Zhou, G. M.*; Cheng, H.-M.*, High-Performance Lithium Metal Batteries with a Wide Operating Temperature Range in Carbonate Electrolyte by Manipulating Interfacial Chemistry, ACS Energy Letters, 2021, 6, 3170-3179.
+37. Yang, T.#; Xia, J.#; Piao, Z.; Yang, L.; Zhang, S*.; Xing, Y;* Zhou, G. M.*. Graphene-Based Materials for Flexible Lithium–Sulfur Batteries, ACS Nano, 2021, 15, 9, 13901–13923.
+38. Sheng, J.#; Zhang, Q.#; Liu, M.#; Han, Z.; Li, C.; Sun, C.; Chen. B.; Zhong. X.; Qiu, L.*; Zhou, G. M.*, Stabilized Solid Electrolyte Interphase Induced by Ultrathin Boron Nitride Membranes for Safe Lithium Metal Batteries, Nano Letters, 2021, 21, 19, 8447–8454.
+39. Yang, M.; Xu, Z.; Xiang, W.; Xu, H.; Ding, M.*; Li, L.; Tan. A*.; Gao. R.; Zhou, G. M.*; Jia, C.*. High performance and long cycle life neutral zinc-iron flow batteries enabled by zinc-bromide complexation, Energy Stoarge Materials, 2022, 44, 433-440.
+40. Zhao, Y.; Kang, Y.Q.; Fan, M.; Li, T.; Wozny, J.; Zhou, Y.; Wang, X.; Chueh, Y.; Liang, Z.*; Zhou, G. M.*; Wang, J.; Tavajohi, N.*; Kang, F.; Li, B.;* Precise separation of spent lithium-ion cells in water without discharging for recycling, Energy Stoarge Materials, 2022, 45, 1092-1099.
+41. Chen, B.;  Zhong, X.; Zhou, G. M.*; Zhao, N.; Cheng, H.-M.*, Graphene-Supported Atomically Dispersed Metals as Bifunctional Catalysts for Next-Generation Batteries Based on Conversion Reactions, Adv. Mater., 2022, 34, 5, 2105812.
+42. Han, Z.#; Zhao, S.#*; Xiao, J.#; Zhong. X.; Sheng, J.; Lv, W.; Zhang, Q.*; Zhou, G. M.*; Cheng, H.-M.*, Engineering d‐p Orbital Hybridization in Single‐Atom Metal‐Embedded Three‐Dimensional Electrodes for Li–S Batteries, Advanced Materials, 2021, 2105947.
+43. Piao, Z.#; Xiao, P.#; Luo, R.; Ma, J.; Gao, R.; Li, C.; Tan, J.; Yu, K.*; Zhou, G. M.*; Cheng, H.-M.*, Constructing a Stable Interface Layer by Tailoring Solvation Chemistry in Carbonate Electrolytes for High Performance Lithium Metal Batteries. Adv. Mater. 2021, 2108400.
+44. Liu, Y.#; Zhao, S.#; Wang, D.#; Chen, B.; Zhang, Z.; Sheng, J.; Zhong, X.; Zou, X.; Jiang, S. P.*; Zhou, G. M.*; Cheng, H.-M.*, Toward an Understanding of the Reversible Li-CO2 Batteries over Metal–N4-Functionalized Graphene Electrocatalysts, ACS Nano, 2022, 16, 1, 1523–1532.
+45. Xia, J.#; Chen, W.#; Yang, Y.#; Guan, X.; Yang, T.; Xiao, M.; Zhang, S*.; Xing, Y;* Lu, X; Zhou, G. M.*. In-Situ Growth of Ultrathin Sulfur Micro-Crystal on MXene-based 3D Matrice for Flexible Lithium–Sulfur Batteries, EcoMat, 2022, e12183.
+46. Huang, Q.#; Zhong, X.#; Zhang, Q.#; Wu, X.; Jiao, M.; Chen, B.; Sheng, J.; Zhou, G. M.*, Co3O4/Mn3O4 hybrid catalysts with heterointerfaces as bifunctional catalysts for Zn-air batteries, Journal of Energy Chemistry, 2022, 68, 679-687.
+47. Wang, J.; Liang, Z.*; Zhao, Y.; Sheng, J.; Ma, J.; Jia, K.; Li, B.; Zhou, G. M.*; Cheng, H.-M., Direct Conversion of Degraded LiCoO2 Cathode Materials into High Performance LiCoO2: A Closed-Loop Green Recycling Strategy for Spent Lithium-Ion Batteries, Energy Stoarge Materials, 2022, 45, 768-776.
+48. Zhong, X.#; Wang, D.#; Sheng, J.; Han, Z.; Sun, C.; Tan, J.; Gao, R.; Lv, W.; Xu, X.; Wei, G.; Zou, X.; Zhou, G. M.*, Freestanding and Sandwich MXene-based Cathode with Suppressed Lithium Polysulfides Shuttle for Flexible Lithium-Sulfur Batteries, Nano Letters, 2022, 22, 3, 1207–1216.
+49. Gao, R.#; Zhang, Q.#; Zhao, Y.; Han, Z.; Sun, C.; Sheng, J.; Zhong, X.; Chen, B.; Li, C.; Piao, Z.; Li, B.; Zhou, G. M.*, Regulating Polysulfide Redox Kinetics on a Self-Healing Electrode for High-Performance Flexible Lithium-Sulfur Batteries, Adv. Funct. Mater., 2022, 2110313.
+50. Ni, S.#; Sheng, J.#; Zhang, C.; Wu, X.; Yang, C.; Pei, S.; Gao, R.; Liu, W.; Qiu, L.*; Zhou, G. M.*, Dendrite-free lithium deposition and stripping regulated by aligned microchannels for stable lithium metal batteries, Adv. Funct. Mater., 2022, 2200682.
+51. Yang, C.#; Wu, X.#; Xia, H.; Zhou, J.; Wu, Y.; Yang, R.; Zhou, G. M.*; Qiu, L.*, 3D Printed Template-Assisted Assembly of Additive-Free Ti3C2Tx MXene Microlattices with Customized Structures towards High Areal Capacitance. ACS Nano 2022, 16, 2, 2699–2710.
+52. Chen, B.#; Wang, D.#; Tan, J.; Liu, Y.; Jiao, M.; Liu, B.; Zhao, N.; Zou, X*.; Zhou, G. M.*; Cheng, H.-M.*, Designing electrophilic and nucleophilic dual centers in ReS2 plane towards efficient bifunctional catalysts for Li-CO2 batteries, Journal of the American Chemical Society, 2022, 144, 7, 3106-3116.
+53. Chen, B.#; Wang, T.#; Zhao, S.#; Tan, J.; Zhao, N.; Jiang, S*.; Zhang, Q*.; Zhou, G. M.*; Cheng, H.-M.*, Efficient Reversible Conversion between MoS2 and Mo/Na2S Enabled by Graphene-Supported Single Atom Catalysts, Adv. Mater., 2021, 33, 2007090. 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2022  Journal of Materials Chemistry A Emerging Investigators Award 
+2021 Materials Today Rising Star Award
+2018-2021 连续4年入选全球高被引科学家（科睿唯安）
+2021  The World’s Top 2% Scientists by Stanford University 
+2021 侯德榜化工科学技术奖青年奖
+2020 广东省材料研究学会青年科技奖
+2018 能源存储材料青年科学家奖（爱思唯尔出版社）
+2015 中国科学院优秀博士学位论文
+2015 Carbon Journal Prize
+2014 中国科学院院长特别奖
+ </奖励荣誉>

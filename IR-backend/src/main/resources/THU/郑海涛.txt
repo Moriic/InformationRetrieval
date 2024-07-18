@@ -1,0 +1,52 @@
+{"title":"郑海涛","cnUrl":"http://www.sigs.tsinghua.edu.cn/zht/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/38/89/e65cf61040bd8a655c3239979510/84d0349d-4b3f-4a43-b12f-4d9ad8aa00d0.jpg","email":"zheng.haitao@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2006年03月-2009年08月，韩国国立首尔大学，医疗信息学专业，博士
+2001年09月-2004年12月，中山大学，计算机软件与理论专业，硕士
+1997年09月-2001年07月，中山大学，计算机软件专业，学士
+工作经历 
+2009年09月-至今，清华大学，副教授
+2005年07月-2006年02月，华南农业大学，讲师
+学术兼职 
+长期担任国际顶级期刊/会议NIPS、ACL、KDD、TKDE、TOC、TIT的审稿人
+担任2010年和2012年中国语义网会议组委会主席
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+近五年在深圳国际研究生院开设《人工智能程序设计》、《面向对象技术与应用》、《游戏引擎原理与实践》、《知识工程》和《信息技术创新实验课》等研究生专业基础课或专业课，五年内总共授课672课时，年均授课134.4课时，无任何教学事故，其中主讲的《知识工程》和《面向对象技术与应用》两门研究生专业基础课，曾获得教评前15%。
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+郑海涛长期深耕于人工智能和语义挖掘领域理论和应用的研究工作，在智能计算和知识工程领域有着深厚的研究基础。带领团队所获研究成果处于世界领先地位并已经得到了国内外同行的认可，已在ICLR、ACL、EMNLP、AAAI、IJCAI、TKDE、Information Sciences等国际顶级会议/期刊上共发表论文80余篇，其中在人工智能顶级期刊/会议发表33篇论文，包括CCF A类/清华计算机A类论文19篇，JCR 一区SCI期刊11篇；Google scholar引用数3250次。曾担任1项国家863项目副组长，主持国家自然科学基金4项，负责教育部博士点基金1项，广东省自然科学基金项目2项，深圳市基础研究重点项目2项。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Ma Ningning, Xiangyu Zhang, Zheng Hai-Tao*, Jian Sun. ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design. Proceedings of the European Conference on Computer Vision (ECCV), 2018, pp. 116-131. (ECCV2018, CCF B类会议，Best Paper，谷歌学术引用量2141次)
+[2]Dong Wang, Ning Ding, Piji Li, Hai-Tao Zheng*. CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). 2021: 2332-2342. (ACL2021, CCF A类会议)
+[3]Ning Ding, Guangwei Xu, Yulin Chen, Xiaobin Wang, Xu Han, Pengjun Xie, Hai-Tao Zheng*, Zhiyuan Liu. Few-NERD: A Few-shot Named Entity Recognition Dataset. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). 2021: 3198-3213. (ACL2021, CCF A类会议)
+[4]Ning Ding, Xiaobin Wang, Yao Fu, Guangwei Xu, Rui Wang, Pengjun Xie, Ying Shen, Fei Huang, Hai-Tao Zheng*, Rui Zhang. Prototypical Representation Learning for Relation Extraction. Proceedings of the International Conference on Learning Representations. 2021 (ICLR2021, CCF A类会议)
+[5]Wei Wang, Piji Li, Hai-Tao Zheng*. Generating Diversified Comments via Reader-Aware Topic Modeling and Saliency Detection. Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(16): 13988-13996 (AAAI 2021, CCF A类会议)
+[6]Wei Wang, Piji Li, Hai-Tao Zheng*. Learning to Augment for Data-scarce Domain BERT Knowledge Distillation. Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(8): 7422-7430. (AAAI 2021, CCF A类会议)
+[7]Zibo Lin, Ziran Li, Ning Ding, Hai-Tao Zheng*, Ying Shen, Wei Wang, Cong-Zhi Zhao. Integrating Linguistic Knowledge to Sentence Paraphrase Generation. Proceedings of the AAAI Conference on Artificial Intelligence. 2020, 34(05): 8368-8375. (AAAI2020, CCF A类会议)
+[8]Zihan Xu, Hai-Tao Zheng*, Shaopeng Zhai, Dong Wang. Knowledge and Cross-Pair Pattern Guided Semantic Matching for Question Answering. Proceedings of the AAAI Conference on Artificial Intelligence. 2020, 34(05): 9370-9377. (AAAI2020, CCF A类会议)
+[9]Ning Ding, Dingkun Long, Guangwei Xu, Muhua Zhu, Pengjun Xie, Xiaobin Wang, Hai-Tao Zheng*. Coupling Distant Annotation and Adversarial Training for Cross-Domain Chinese Word Segmentation. Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020: 6662-6671. (ACL2020, CCF A类会议)
+[10]Yang Bai, Ziran Li, Ning Ding, Ying Shen and Hai-Tao Zheng*. Infobox-to-text Generation with Tree-like Planning based Attention Network. Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence. 2021: 3773-3779. (IJCAI 2021, CCF A类会议)
+[11]Ziran Li, Zibo Lin, Ning Ding, Hai-Tao Zheng* and Ying Shen. Triple-to-Text Generation with a Anchor-to-Prototype Framework. Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence. 2021: 3773-3779. (IJCAI 2021, CCF A类会议)
+[12]Xiao Xi, Li Rui, Zheng Hai-Tao*, Ye Runguo, Sangaiah Arun Kumar, Xia Shutao. Novel dynamic multiple classification system for network traffic. Information Sciences. (2019) 479: 526-541. (SCI JCR一区，IF: 5.524)
+[13]Ziran Li, Ning Ding, Zhiyuan Liu, Haitao Zheng*, Ying Shen. Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge. Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. 2019: 4377-4386. (ACL2019, CCF A类会议)
+[14]Haozhuang Liu, Ziran Li, Dongming Sheng, Hai-Tao Zheng, Ying Shen. Multi-entity collaborative relation extraction. ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2021: 7678-7682. (ICASSP 2021, CCF B类会议)
+[15]Zibo Lin, Deng Cai, Yan Wang, Xiaojiang Liu, Hai-Tao Zheng*, Shuming Shi. The World is not Binary: Learning to Rank with Grayscale Data for Dialogue Response Selection. Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2020: 9220-9229. (EMNLP 2020, CCF B类会议)
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+主持多项国家自然科学基金和国家863课题的研究工作，以及多项教育部、省市级项目
+代表作之一ShuffleNet V2获得2019年VALSE年度杰出学生论文奖
+与腾讯AI Lab合作研究课题《融合多类型多知识结构的预训练神经网络语言模型》在2020年度腾讯AI Lab犀牛鸟专项研究计划结题评优交流会中，荣获技术创新奖（全国仅2名）
+ </奖励荣誉>

@@ -1,0 +1,49 @@
+{"title":"马岚","cnUrl":"http://www.sigs.tsinghua.edu.cn/ml/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/ab/1f/6d2efb0a4454a128490ef7e3b191/560b9c9d-b46d-4c13-b66a-f281361fb7d5.jpg","email":"malan@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1983年09月-1987年07月，武汉大学生物系遗传专业，本科
+1990年09月-1993年07月，北京大学生命科学院细胞生物学，硕士
+1997年09月-2003年08月，中科院昆明动物研究所博士干细胞生物学，博士
+1997年12月-1998年06月，美国威斯康星大学灵长类动物研究中心，访问学者
+1987年08月-1990年08月，中科院昆明动物研究所工作
+1993年08月-2005年04月，云南大学生命科学学院，先后任助教、讲师、副教授
+2005年04月至今，清华大学深圳研究生院，历任副教授，研究员
+教育经历 
+工作经历 
+学术兼职 
+任中国微米纳米技术学会纳米科学技术分会理事
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+主要研究方向包括干细胞生物学，肿瘤生物学及新型纳米免疫检测技术的研究开发三个方向。干细胞方面近年来主要致力于胚胎干细胞及其相关神经等分化细胞表面标志物的寻找及其分子机理的研究，以及胚胎干细胞定向诱导分化及其相关机理的研究。肿瘤方面近来来主要致力于妇女宫颈癌致癌病毒乳头瘤状病毒HPV的致癌和逃逸机制的研究，以及对HPV检测、预防和治疗性抗体药物及其疫苗的研究等。纳米检测方面主要致力于金属、磁性和荧光量子点等纳米材料的制备、修饰、表征及其在生物检测等方面的应用研究等。
+共主持及参加过相关的国家、部级和省市级科研项目20多项。发表相关学术论文30多篇。获得4项发明专利授权和8项实用新型专利授权。
+十五期间通过实施国家863和发改委等项目，建成了国家单抗基地，实现了检测用单抗国产化，形成4项医用胶体金检测产品并获SFDA文号上市销售，产品标准获准形成国家标准。2006年10月获第一届中国标准创新贡献奖。还曾获得过中国专利十五年成就展项目奖、全国妇联巾帼杯发明大奖和香港国际发明展览会金奖等奖项。
+十一五期间通过实施国家863专题计划等课题，形成了自主创新的纳米材料快速高灵敏免疫检测技术平台。研制形成的乙肝和艾滋病等荧光检测试纸成果突破了荧光量子点纳米材料制备、包覆、表面基团修饰、与生物分子定向偶联及批量生产等核心关键技术，实现了对乙肝和艾滋病病毒的快速超灵敏定量测定，形成了完整的具有自主知识产权的新型纳米快速检测技术体系。通过实施国家质检局和深圳科信局相关科研项目，研制形成了系列食品安全检测的磁性试纸和荧光量子点高灵敏检测试剂盒。共申报了17项中国发明专利。盐酸克伦特罗及莱克多巴胺纳米磁快速检测试纸法被评为国家检验检疫行业标准。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1. WeiweiXu, Huaibin Shen, Jin Zhong Niu, Changhua Zhou, Cailan Yu,Xiaomin Li, Yuan Hang, Hongzhe Wang, Lan Ma* and Lin Song Li*. Facile synthesis and observation of discontinuous red-shift photoluminescence of CdTe/CdS core/shell nanocrystals. CrystEngComm, 2012, 14, 272–277.
+2. Huaibin Shen,Hongzhe,Wang, Hang Yuan, Lan Ma* and Lin Song Li*. Size-, shape-, and assembly-controlled synthesis of Cu2xSe nanocrystals via a non-injection phosphine-free colloidal method. CrystEngComm, 2012, 14, 555–560.
+3. Huaibin Shen, HangYuan, Jin Zhong Niu, Shasha Xu, ChanghuaZhou, Lan Ma* and Lin Song Li*. Phosphine-free synthesis of high-quality reverse type-I ZnSe/CdSe core with CdS/CdxZn1&minus;xS/ZnS multishell nanocrystals and their application for detection of human hepatitis B surface antigen, Nanotechnology., 2011,22, 375602 (10pp).
+4. Huaibin Shen, HongzheWangChanghuaZhou,Jin Zhong Niu, Hang Yuan, Lan Ma* and Lin Song Li*. Large scale synthesis of stable tricolor Zn1 - xCdxSe core/multishell nanocrystals via a facile phosphine-free colloidal method, Dalton Trans., 2011, 40, 9180-9188.
+5. ChanghuaZhou,HangYuan, Huaibin Shen, Yi Guo, Xiaomin Li, Dan Liu, Li Xu*, Lan Ma* and Lin Song Li*. Synthesis of size-tunable photoluminescent aqueous CdSe/ZnS microspheres via a phase transfer method with amphiphilic oligomer and their application for detection of HCG antigen, J. Mater. Chem., 2011, 21, 7393–7400.
+6. Xu, Shasha; Shen, Huaibin; Zhou, Changhua; Hang, Yuan; Liu, Changsong; Wang, Hongzhe; Ma Lan*; Li, Lin Song*. Effect of Shell Thickness on the Optical Properties in CdSe/CdS/Zn0.5Cd0.5S/ZnS and CdSe/CdS/ZnxCd1-xS/ZnS Core/Multishell Nanocrystals. J. Phys. Chem. C 2011, 115, 20876–20881.
+7. Zhuokun Li, Jiusong Fan, Wenxiu Zhao, Lei Jin and Lan Ma*. The Specific Binding of Peptide Ligands to Cardiomyocytes Derived from Mouse Embryonic Stem Cells. Journal of Peptide Science 2011，17，771-782.
+8. Xiaomin Li, Honglei Si, Jinzhong Niu, Huaibin Shen, Changhua Zhou, Hang Yuan, Hongzhe Wang, Lan Ma* and Lin Song Li*. Size-controlled syntheses and hydrophilic surface modification of Fe3O4, Ag, and Fe3O4/Ag heterodimer nanocrystals，Dalton Trans., 2010, 39, 10984–10989.
+9. Zhao S, Zhao W, Ma L*. Novel peptide ligands that bind specifically to mouse embryonic stem cells. Peptides. 2010，31，2027-2034.
+10. Lu S, Xu X, Zhao W, Wu W, Yuan H, Shen H, Zhou C, Li LS, Ma L*. Targeting of embryonic stem cells by peptide-conjugated quantum dots. PLoS One. 2010 Aug 10;5(8):e12075.
+11. Zhao W, Yuan H, Xu X, Ma L*. Isolation and initial application of a novel peptide that specifically recognizes the neural stem cells derived from rhesus monkey embryonic stem cells. J Biomol Screen. 2010 Jul;15(6):687-94. Epub 2010 May 27.
+代表性著作 
+主要专利成果 
+1、用于检测安全期避孕的方法及监测用试纸，ZL 99 1 14667.0
+2、一种优生试纸及其检测方法， ZL 00 1 12780.2
+3、一种不孕症检测试纸及其检测方法， ZL 00 1 12779.9
+4、一种人体全血或血清总前列腺特征性抗原值，总前列腺特征性抗原灰区值检测方法，ZL 01 1 29174.5
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+曾获得过“新世纪巾帼优秀发明者”、“全国三八红旗手”、“2003”中国经济女性年度人物和“全国创新能手”等荣誉称号。
+ </奖励荣誉>

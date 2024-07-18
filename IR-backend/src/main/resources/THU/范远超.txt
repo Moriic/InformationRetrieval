@@ -1,0 +1,70 @@
+{"title":"范远超","cnUrl":"http://www.sigs.tsinghua.edu.cn/fyc/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/a9/ae/9f652ee44eae9a10c233981753fd/6a846867-82fd-4617-9a99-6c4af75e1961.jpg","email":"yuanchao.fan@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2012年11月-2016年6月，德国哥廷根大学，生物气候学专业，博士
+2012年11月-2016年6月，法国生命与环境科学与工业学院，功能生态学与农业科学专业，博士
+2008年7月-2011年8月，美国内达华大学（里诺），环境与资源科学专业，硕士
+2010年2月-2010年7月，维也纳自然资源和生命科学大学，硕士联合培养
+2003年9月-2008年6月，武汉大学，遥感科学与技术专业，学士
+工作经历 
+2023年1月-至今，清华大学深圳国际研究生院，助理教授
+2019年10月-2022年10月，美国哈佛大学，研究学者
+2016年9月-2019年8月，挪威研究中心&比耶克内斯气候研究中心，博士后
+2011年9月-2012年10月，美国史密森学会保护生物学研究所，研究助理
+学术兼职 
+Farming System期刊编委（中国农业大学主办）
+Nature Climate Change, NatureFood, (Nature) CommunicationsEarth&Environment,  GeoscientificModelDevelopment,Scienceof TheTotal Environment, Agricultural and Forest Meteorology, ClimateDynamics, ClimaticChange 等国际学术期刊审稿人
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《生态气候学导论》，48学时，SIGS
+《能源与大气环境》，16学时，SIGS
+《生态系统碳汇评估与增汇技术》，32学时，SIGS（校本部平行课程）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+气候变化及影响与应对领域，围绕气候-土地-生态-社会关联系统，从跨学科视角研究气候变化及气候干预策略（包括气候工程）对农业、生态和人类宜居环境的影响，以及地表变化对气候的反馈，为气候变化减缓与适应提供决策支持。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+完整学术论文列表：
+https://scholar.google.com/citations?user=0Nj_pzQdGbMC
+https://www.researchgate.net/profile/Yuanchao-Fan
+1. Fan, Y.*, 2023. Unequal effects of climate intervention on agriculture. Nature Food4, 835–836.
+2. Fan, Y.*, Tjiputra, J., Muri, H., Lombardozzi, D., Park, C.-E., Wu, S., Keith, D., 2021. Solar geoengineering can alleviate climate change pressures on crop yields. Nature Food 2, 373–381. (Featured in News & Views, and in the media: Harvard University; NCAR; Sigma2)
+3. Ali, A.A.*, Fan, Y. (equal contribution), Corre, M.D., Kotowska, M.M., Preuss-Hassler, E., Cahyo, A.N., Moyano, F.E., Stiegler, C., Röll, A., Meijide, A., Olchev, A., Ringeler, A., Leuschner, C., Ariani, R., June, T., Tarigan, S., Kreft, H., Hölscher, D., Xu, C., Koven, C.D., Dagon, K., Fisher, R.A., Veldkamp, E., Knohl, A., 2022. Implementing a rubber plant functional type in the Community Land Model (CLM5) improves the accuracy of carbon and water flux estimation. Land 11, 183.
+4. Park, C., Jeong, S., Fan, Y.*, Tjiputra, J., Muri, H., Zheng, C.*, 2019. Inequal responses of drylands to radiative forcing geoengineering methods. Geophysical Research Letters 46 (23), 14011–14020. 
+5. Fan, Y.*, Meijide, A., Lawrence, D., Roupsard, O., Calson, K., Chen, H-Y., Röll, A., Niu, F., Knohl, A., 2019. Reconciling canopy interception parameterization and rainfall forcing frequency in CLM for simulating evapotranspiration of rainforests and oil palm plantations in Indonesia. Journal of Advances in Modeling Earth Systems, 11(3), 732–751.
+6. Fan, Y.*, Roupsard, O., Bernoux, M., Le Maire, G., Panferov, O., Kotowska, M. M., Knohl, A., 2015. A sub-canopy structure for simulating oil palm in the Community Land Model (CLM-Palm): phenology, allocation and yield. Geoscientific Model Development, 8(11), 3785-3800. 
+7. Fan, Y.*, Koukal, T., and Weisberg, P. J., 2014. A sun–crown–sensor model and adapted C-correction logic for topographic correction of high-resolution forest imagery. ISPRS Journal of Photogrammetry and Remote Sensing, 96, 94-105. 
+8. Fan, Y.*, Weisberg, P. J., and Nowak, R. S., 2014. Spatio-temporal analysis of remotely sensed forest mortality associated with road de-icing salts. Science of The Total Environment, 472, 929-938. 
+9. Fan, Y.*, 2007. The measure of utilizing rural biomass resource rationally. Journal of Agricultural Mechanization Research (12), 200-202, 217. In Chinese. 
+10. Fan, Y.*, 2007. “Hollow villages” exhausted rural areas. Ecological Economy (8), 18-21. In Chinese.
+11. Futerman, G., Adhikari, M., Duffey, A., Fan, Y., Irvine, P., Gurevitch, J., Wieners. C.，2024. The interaction of solar radiation modification and Earth system tipping elements. Earth System Dynamics.
+12. Ji, Y., Zeng, S., Tang, Q., Yan, L., Wu, S., Fan, Y., Chen, J., 2023. Spatiotemporal variations and driving factors of China’s ecosystem water use efficiency. Ecological Indicators 148,110077.
+13. Chen, J., Gao, X., Ji, Y., Luo, Y., Yan, L., Fan, Y., Tan, D., 2022. China’s Greening Modulated the Reallocation of the Evapotranspiration Components during 2001–2020. Remote Sensing14, 6327.
+14. Yan, L., Chen, J., He, L., Ji, Y., Tang, Q., Fan, Y., Tan, D., 2022. Dynamics of the Evaporation of Intercepted Precipitation during the Last Two Decades over China. Remote Sensing14, 2474.
+15. Bethke, I., Wang, Y., Counillon, F., Keenlyside, N., Kimmritz, M., Fransner, F., Samuelsen, A., Langehaug, H., Svendsen, L., Chiu, P.-G., Passos, L., Bentsen, M., Guo, C., Gupta, A., Tjiputra, J., Kirkevåg, A., Olivié, D., Seland, Ø., Solsvik Vågane, J., Fan, Y., Eldevik, T., 2021. NorCPM1 and its contribution to CMIP6 DCPP. Geoscientific Model Development14, 7073–116. 
+16. Peano, D., Hemming, D., Materia, S., Delire, C., Fan, Y., Joetzjer, E., Lee, H., Nabel, J.E.M.S., Park, T., Peylin, P., Wårlind, D., Wiltshire, A., Zaehle, S., 2021. Plant phenology evaluation of CRESCENDO land surface models – Part 1: Start and end of the growing season. Biogeosciences 18, 2405–2428.
+17. Seland, Ø., Bentsen, M., Olivié, D., Toniazzo, T., Gjermundsen, A., Graff, L.S., Debernard, J.B., Gupta, A.K., He, Y.-C., Kirkevåg, A., Schwinger, J., Tjiputra, J., A as, K.S., Bethke, I., Fan, Y., Griesfeller, J., Grini, A., Guo, C., Ilicak, M., Karset, I.H.H., Landgren, O., Liakka, J., Moseid, K.O., Nummelin, A., Spensberger, C., Tang, H., Zhang, Z., Heinze, C., Iversen, T., Schulz, M., 2020. Overview of the Norwegian Earth System Model (NorESM2) and key climate response of CMIP6 DECK, historical, and scenario simulations. Geoscientific Model Development 13, 6165–6200.  
+18. Chadburn, S.E., Aalto, T., Aurela, M., Baldocchi, D., Biasi, C., Boike, J., Burke, E.J., Comyn‐Platt, E., Dolman, A.J., Duran‐Rojas, C., Fan, Y., Friborg, T., Gao, Y., Gedney, N., Göckede, M., Hayman, G.D., Holl, D., Hugelius, G., Kutzbach, L., Lee, H., Lohila, A., Parmentier, F.-J.W., Sachs, T., Shurpali, N.J., Westermann, S., 2020. Modeled microbial dynamics explain the apparent temperature sensitivity of wetland methane emissions. Global Biogeochemical Cycles 34.  
+19. Davies-Barnard, T., Meyerholt, J., Zaehle, S., Friedlingstein, P., Brovkin, V., Fan, Y., Fisher, R.A., Jones, C.D., Lee, H., Peano, D., Smith, B., Wårlind, D., Wiltshire, A.J., 2020. Nitrogen cycling in CMIP6 land surface models: progress and limitations. Biogeosciences 17, 5129-5148.  
+20. Stiegler, C., Meijide, A., Fan, Y., Ali, A., June, T., Knohl, A., 2019. El Niño –Southern Oscillation (ENSO) event reduces CO2 uptake of an Indonesian oil palm plantation. Biogeosciences, (16): 2873-2890. 
+21. Meijide, A., Röll, A., Fan, Y., Herbst, M., Niu, F., Tiedemann, F., June, T., Rauf, A., Hölscher, D., Knohl, A., 2017. Controls of water and energy fluxes in oil palm plantations: effect of environmental variables and oil palm age. Agricultural and Forest Meteorology, 239, 71-85. 
+22. Thompson, J. R., K. F. Lambert, D. R. Foster, E. N. Broadbent, M. Blumstein, A. M. Almeyda Zambrano, and Fan, Y., 2016. The consequences of four land-use scenarios for forest ecosystems and the services they provide. Ecosphere7(10):e01469.
+23. Van Gunst, K., Weisberg, P. J., Yang, J., and Fan, Y., 2015.Do denser forests have greater risk of tree mortality: A remote sensing analysis of density-dependent forest mortality. Forest Ecology and Management, 359, 19-32.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+美国哈佛大学气候工程研究计划学者奖学金（Harvard’s Solar Geoengineering Research Program Fellowship）(2019-2021年)
+最佳博士论文奖summa cum laude（德国）与Très Honorable（法国）(2016年)
+欧盟伊拉莫斯世界计划博士奖学金（Erasmus Mundus PhD Fellowship）(2012-2015年)
+奥地利马歇尔计划奖学金(Marshall Plan Scholarship)(2010年)
+ </奖励荣誉>

@@ -1,0 +1,79 @@
+{"title":"彭乐乐","cnUrl":"http://www.sigs.tsinghua.edu.cn/pll/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/e5/f8/3f903e754b1c88bd96c071dd354e/3c407304-b9f8-41e2-b1b1-fbb85f707c0b.png","email":"penglele@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+ 彭乐乐博士，清华大学国际深圳研究生院教研系列副教授、博士生导师。2012年本科毕业于中国科学技术大学(USTC)，指导老师为谢毅院士和吴长征教授；2017年博士毕业于美国德克萨斯大学奥斯汀分校(UT-Austin)，导师为Guihua Yu教授；2018年在美国加州大学洛杉矶分校(UCLA)从事博士后研究，合作导师是Xiangfeng Duan和Yu Huang教授。彭博士于2021年5月入职清华大学国际研究生院材料研究院，开展二维纳米材料的电化学储能与催化研究。已在Science, Nature Catalysis, Nature Reviews Materials, Chemical Society Reviews, Nature Communications, JACS, Angewandte Chemie, Advanced Materials, Advanced Energy Materials, Energy Environmental Science, Nano Letters, ACS Nano等重要学术期刊发表论文55篇，被引10000余次，H-index为42。已获授权专利3项，其中包括1项第一完成人的美国专利。曾获科睿唯安高被引学者(2019、2020)，国家优秀自费留学生奖(2017)，Link Foundation Energy Fellowship优秀研究计划奖(2015)等荣誉和奖励。
+Opening:
+We are seeking highly motivated Graduate Students and Postdoctoral Fellows to work in the Institute of Materials Research at Tsinghua Shenzhen International Graduate School, Tsinghua University. Applicants should send the application to penglele@sz.tsinghua.edu.cn.
+教育经历 
+2013年8月-2017年5月  博士，美国德克萨斯大学奥斯汀分校，材料科学与工程，导师为Guihua Yu教授
+2008年9月-2012年6月 学士，中国科学技术大学，材料科学与工程系，指导老师为吴长征教授和谢毅院士
+工作经历 
+2023年12月-至今
+副教授，清华大学深圳国际研究生院，清华大学
+2021年5月-2023年12月 
+助理教授，清华大学深圳国际研究生院，清华大学
+2018年2月-2020年8月 
+博士后，美国加州大学洛杉矶分校，合作导师为Xiangfeng Duan和Yu Huang教授
+2017年6月-2018年1月 
+博士后，美国德克萨斯大学奥斯汀分校，合作导师为Guihua Yu教授
+2016年6月-2016年9月 
+实习生，美国IBM，合作导师为Qinghuang Lin博士
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+Rational synthesis and structural engineering of 2D energy and catalysis materials
+Fundamental research on electrocatalytic sulfur reduction reaction
+Materials and devices on multi-electron redox reaction
+In situ liquid-cell TEM characterization techniques for multi-electron redox reaction
+Material design and thermal management for safe energy storage devices
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+Published more than 55 papers in prestigious journals with total citations >10000 and H-index of 42.
+Google scholar link:
+https://scholar.google.com/citations?user=noXELXYAAAAJ&hl=zh-CN
+Selected publications
+1. L. Wang,† T. Wang,†L. Peng,† (equal contribution) Y. Wang, M. Zhang, J. Zhou, M. Chen, J. Cao, H. Fei, X. Duan, J. Zhu*, X. Duan*, The promises, challenges and pathways to room-temperature sodium-sulfur batteries, Nat. Sci. Rev., 2021, in press.
+2. L. Peng, Z. Wei, C. Wan, J. Li, Z. Chen, D. Zhu, D. Baumann, H. Liu, C. S. Allen, X. Xu, A. I. Kirkland, I. Shakir, Z. Almutairi, S. Tolbert, B. Dunn, Y. Huang*, P. Sautet*, X. Duan*, A fundamental look at electrocatalytic sulfur reduction reaction, Nat. Catal., 2020, 3, 762
+3. H. Sun, J. Zhu, D. Baumann, L. Peng, Y. Xu, I. Shakir, Y. Huang, X. Duan*, Hierarchical 3D electrodes for electrochemical energy storage, Nat. Rev. Mater., 2019, 4, 45 (Highly cited paper)
+4. X. Xu, Q. Zhang, M. Hao, Y. Hu, Z. Lin, L. Peng, T. Wang, X. Ren, C. Wang, Z. Zhao, C. Wan, H. Fei, L. Wang, J. Zhu, H. Sun, W. Chen, T. Du, B. Deng, G. J. Cheng, I. Shakir, C. Dames, T. S. Fisher, X. Zhang, H. Li*, Y. Huang*, X. Duan*, Double-negative-index ceramic aerogels for thermal superinsulation, Science, 2019, 363, 723 (Highly cited paper)
+5. Z. Fang,†L. Peng,† (equal contribution) Y. Qian, X. Zhang, Y. Xie, J. Cha, G. Yu*, Dual tuning of Ni-Co-A nanosheets by anion substitution and holey engineering for efficient hydrogen evolution, J. Am. Chem. Soc., 2018, 140, 5241 (Highly cited paper)
+6. L. Peng, Z. Fang, J. Li, L. Wang, A. Bruck, Y. Zhu, Y. Zhang, K. Takeuchi, A. Marschilok, E. Stach*, E. Takeuchi*, G. Yu*, Two-dimensional holey nanoarchitectures created by confined self-assembly of nanoparticles via block copolymers: from synthesis to energy storage property, ACS Nano, 2018, 12, 820 
+7. Y. Zhu,†L. Peng,† (equal contribution) Z. Fang, C. Yan, X. Zhang, G. Yu*, Structural engineering of two-dimensional materials for energy storage and catalysis, Adv. Mater., 2018, 30, 1706347 (Highly cited paper)
+8. L. Peng, Z. Fang, Y. Zhu, C. Yan, G. Yu*, Holey two-dimensional nanomaterials for electrochemical energy storage, Adv. Energy Mater., 2018, 8, 1702179 (Highly cited paper) 
+9. L. Peng, X. Zhang, Z. Fang, Y. Zhu, Y. Xie, J. J. Cha, G. Yu*, General facet-controlled synthesis of single-crystalline {010}-oriented LiMPO4 (M = Mn, Fe, Co) nanosheets, Chem. Mater., 2017, 29, 10526 
+10. Z. Fang,†L. Peng,† (equal contribution) H. Lv, Y. Zhu, C. Yan, S. Wang, P. Kalyani, X. Wu, G. Yu*, Metallic transition metal selenide holey nanosheets for efficient oxygen evolution electrocatalysis, ACS Nano, 2017, 11, 9550 
+11. L. Peng, Y. Zhu, X. Peng, Z. Fang, W. Chu, Y. Wang, Y. Xie, Y. Li, J. Cha, G. Yu*, Effective interlayer engineering of 2D VOPO4 nanosheets via organic intercalation for improving alkali ion storage, Nano Lett., 2017, 17, 6273 
+12. L. Peng, P. Xiong, L. Ma, Y. Yuan, Y. Zhu, D. Chen, X. Luo, J. Lu*, K. Amine, G. Yu*, Holey two-dimensional transition metal oxide nanosheets for efficient energy storage, Nat. Commun., 2017, 8, 15139 (Highly cited paper)
+13. D. Chen,†L. Peng,† (equal contribution) Y. Yuan,† Y. Zhu, Z. Fang, C. Yan, G. Chen, R. Shahbazian-Yassar, J. Lu, K. Amine, G. Yu*, Two-dimensional holey Co3O4 nanosheets for high-rate alkali-ion batteries: from rational synthesis to in situ probing, Nano Lett., 2017, 17, 3907 
+14. H. Li,†L. Peng,† (equal contribution) Y. Zhu, X. Zhang, G. Yu*, Achieving high energy–high power density in a flexible quasi-solid-state sodium ion capacitor, Nano Lett., 2016, 16, 5938 
+15. L. Peng, Y. Zhu, H. Li, G. Yu*, Chemically integrated two-dimensional hybrid materials for flexible energy storage devices, Small, 2016, 12, 6183 
+16. H. Li,†L. Peng,† (equal contribution) Y. Zhu, D. Chen, X. Zhang*, G. Yu*, An advanced high-energy sodium ion full battery based on nanostructured Na2Ti3O7/VOPO4 layered materials, Energy Environ. Sci., 2016, 9, 3399 (Highly cited paper) 
+17. L. Peng, Y. Zhu, D. Chen, R. Ruoff, G. Yu*, Two-dimensional materials for beyond-lithium-ion batteries, Adv. Energy Mater., 2016, 6, 1600025 (Highly cited paper)
+18. Y. Zhu,†L. Peng,† (equal contribution) D. Chen, G. Yu*, Intercalation pseudocapacitance in ultrathin VOPO4 nanosheets: towards high-rate alkali-ion based electrochemical energy storage, Nano Lett., 2016, 16, 742 
+19. Y. Shi,†L. Peng,† (equal contribution) G. Yu*, Nanostructured conducting polymer hydrogels for energy storage applications, Nanoscale, 2015, 7, 12796 
+20. L. Peng, Y. Zhu, Y. Zhao, U. Khakoo, G. Yu*, Self-assembled LiNi1/3Co1/3Mn1/3O2 nanosheet cathodes with tunable rate capability, Nano Energy, 2015, 17, 36
+21. Y. Shi,†L. Peng,† (equal contribution) Y. Ding, Y. Zhao, G. Yu*, Nanostructured conductive polymers for advanced energy storage, Chem. Soc. Rev., 2015, 44, 6684 (Highly cited paper)
+22. Y. Zhao, Y. Ding, Y. Li, L. Peng, H. R. Byon, J. B. Goodenough and G. Yu*, A chemistry and material perspective on lithium redox flow batteries towards high-density electrical energy storage, Chem. Soc. Rev., 2015, 44, 7968 (Highly cited paper)
+23. P. Xiong,†L. Peng,† (equal contribution) D. Chen, Y. Zhao, X. Wang*, G. Yu*, Two-dimensional nanosheets based Li-ion full batteries with high rate capability and flexibility, Nano Energy, 2015, 12, 816 
+24. Y. Zhao,†L. Peng,† (equal contribution) B. Liu, G. Yu*, Single-crystalline LiFePO4 nanosheets for high-rate Li-ion batteries, Nano Lett., 2014, 14, 2849 (Highly cited paper)
+25. L. Peng, Y. Zhao, Y. Ding, G. Yu*, Self-assembled LiFePO4 nanowires with high rate capability for Li-ion batteries, Chem. Commun., 2014, 50, 9569 
+26. X. Peng, L. Peng, C. Wu*, Yi Xie*, Two dimensional nanomaterials for flexible supercapacitors, Chem. Soc. Rev., 2014, 43, 3303 (Selected as cover) (Highly cited paper)
+27. L. Peng, X. Peng, B. Liu, C. Wu*, Y. Xie*, G. Yu*, Ultrathin two-dimensional MnO2/graphene hybrid nanostructures for high-performance, flexible planar supercapacitors, Nano Lett., 2013, 13, 2151 (Highly cited paper)
+28. C. Wu, X. Lu, L. Peng, K. Xu, X. Peng, J. Huang, G. Yu, Y. Xie*, Two-dimensional vanadyl phosphate ultrathin nanosheets for high energy density and flexible pseudocapacitors, Nat. Commun., 2013, 4, 2431 (Highly cited paper)
+29. C. Lin, X. Zhu, J. Feng, C. Wu*, S. Hu, J. Peng, Y. Guo, L. Peng, J. Zhao, J. Huang, J. Yang, Y. Xie*, Hydrogen-incorporated TiS2 ultrathin nanosheets with ultrahigh conductivity for stamp-transferrable electrodes, J. Am. Chem. Soc., 2013, 135, 5144
+30. J. Feng, L. Peng, C. Wu,* X. Sun, S. Hu, C. Lin, J. Dai, J. Yang, Yi Xie*, Ultrathin nanosheets: giant moisture responsiveness of VS2 ultrathin nanosheets for novel touchless positioning interface, Adv. Mater., 2012, 24, 1917 (Selected as Cover Image) (Highly cited paper)
+31. J. Feng, X. Sun, C. Wu*, L. Peng, C. Lin, S. Hu, J. Yang, Y. Xie*, Metallic few-layered VS2 ultrathin nanosheets: high two-dimensional conductivity for in-plane supercapacitors, J. Am. Chem. Soc., 2011, 133, 17832 (Highly cited paper)
+32. C. Wu, F. Feng, J. Feng, J. Dai, L. Peng, J. Zhao, J. Yang, C. Si, Z. Wu, Y. Xie*, Hydrogen-incorporation stabilization of metallic VO2 (R) phase to room temperature, displaying promising low-temperature thermoelectric effect, J. Am. Chem. Soc., 2011, 133, 13798
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1. Highly Cited Researchers by Web of Science (Clarivate), 2019 & 2020
+2. Chinese Government Award for Outstanding Self-Financed Students Abroad, 2017 4. Outstanding Award for UT ME Graduate Student Poster Competition, 2017 5. Competitive Nominee of MRS Poster Prize, MRS Fall Meeting, 2016 6. UT Professional Development Award, 2016, 2017 7. Honorable Mention Award for Link Foundation Energy Fellowship, 2015
+ </奖励荣誉>

@@ -1,0 +1,143 @@
+{"title":"吴志勇","cnUrl":"http://www.sigs.tsinghua.edu.cn/zywu/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/7c/ca/f0b2155d445da5946800d180bc79/9ee845a3-ba54-489a-a8c9-e43efe2f87a9.jpg","email":"zywu@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1995年7月-1999年7月，清华大学计算机科学与技术系，获学士学位
+1999年7月-2005年6月，清华大学计算机科学与技术专业，获工学博士学位
+2005年8月-2007年8月，香港中文大学博士后研究员
+2007年8月-2008年12月，清华大学深圳研究生院讲师
+2008年5月至今，香港中文大学荣誉副研究员
+2008年12月至今，清华大学深圳研究生院副研究员
+教育经历 
+工作经历 
+学术兼职 
+2018-
+中国计算机学会(CCF)语音对话与听觉专业组
+委员/秘书组成员
+2011-
+中国计算机学会(CCF)
+会员
+2006-
+国际语音通讯协会(ISCA)
+会员
+2005-
+国际电子电气工程师学会(IEEE) 
+会员
+2007-
+IEEE计算智能协会智能系统应用委员会(CIS ISATC)
+委员
+2005-
+国际互联网联盟(W3C)语音合成标记语言(SSML)工作组
+成员
+2009-
+中国声学学会：语言、音乐和听觉声学分会
+委员
+2009-
+全国人机语音通讯学术会议(NCMMSC)常设机构
+委员
+2005-
+IEEE/ACM Trans. Audio, Speech and Language Processing
+期刊审稿人
+2011-
+ACM Trans. Asian Language Processing
+期刊审稿人
+2013-
+Speech Communication
+期刊审稿人
+2013-
+Multimedia Tools and Applications
+期刊审稿人
+2006-
+INTERSPEECH; ICASSP; ISCSLP; NCMMSC; ACL; IJCNLP; NeurIPS; AAAI; IJCAI
+会议审稿人
+2012
+ISCSLP 2012
+程序委员会出版主席
+2015 
+第8届京港国际博士生论坛
+指导委员会主席
+2015 
+NCMMSC 2015
+Special Session主席
+2016 
+ISCSLP 2016
+Session主席
+2018
+第11届国际博士生论坛
+指导委员会主席
+2020 
+INTERSPEECH 2020
+Special Session主委会主席
+2021 
+SLT 2020
+本地主席
+2022 
+ICASSP 2022
+深圳分会场本地主席
+2006-
+国家自然科学基金（NSFC）
+函评专家
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《语音信号数字处理》
+《大数据分析（B）》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 主要从事智能语音交互技术研究，包括：语音处理、表现力语音合成、个性化表现力可视语音合成（语音合成及虚拟说话人唇动、表情、头动等相关技术）、语音转换、歌唱合成、语音识别、自然语言理解与生成、音视联合建模、情感计算、机器学习等。
+ 在IEEE/ACM TASLP、Speech Communications, MTAP、AAAI、IJCAI、ACM Multimedia、EMNLP、ICASSP、ICME、INTERSPEECH等领域顶级学术期刊和会议上发表论文100余篇。参与撰写和翻译著作各1部。负责承担国家自然科学基金青年基金项目、面上项目、香港特区政府研究资助局联合项目，粤港科技合作计划项目，深港创新圈项目等。参与国家自然科学基金重点项目、国家社会科学基金重大项目、国家高技术研究发展计划863重大项目。获得教育部科学技术进步奖二等奖2项。连续三年获得腾讯AI Lab犀牛鸟专项研究及访问学者计划优秀项目（2018、2019年度卓越奖，2020年度优秀奖）。指导的学生多人次获得国家奖学金、清华大学优秀学位论文、清华大学优秀毕业生、北京市优秀毕业生，在2017全球极客大赛“AI仿声验声攻防赛”中获得第一。获得2020年度清华大学年度教学优秀奖。
+主要项目 
+1.国家自然科学基金-面上项目：“面向智能语音交互的语音副语言信息解耦表征学习与可控语音生成研究”
+2.国家自然科学基金-香港政府研究资助局(NSFC-RGC)合作项目：“面向互联网口语对话的交互属性挖掘与特色语音生成的研究”
+3.国家自然科学基金-重点项目：“互联网话语理解的心理机制与计算建模”
+4.国家社会科学基金-重大项目：“社会情感的语音生成与认知的跨语言跨文化研究”
+5.国家863重点专题项目子课题：“多方言的高表现力情感语音交互系统”
+6.国家自然科学基金-面上项目：“面向自然口语对话的深层次信息感知与表达方法研究”
+7.广东省科技计划-粤港关键领域重点突破项目：“基于云计算可管理的实时视听平台研究和产业化”
+8.国家自然科学基金-青年科学基金项目：“音视融合的韵律模式的个性化研究”
+9.教育部博士点新教师基金：“语音生成中表达要素的层级建模”
+10.国家自然科学基金-海外及港澳学者合作研究基金：“具有多模态发音模型及矫正性认知反馈的交互式在线语言学习平台”
+11.国家863重点专题项目子课题：“便捷交互界面管理技术—普适计算基础软硬件关键技术及系统”
+12.香港政府创新及科技支持计划之粤港科技合作计划项目：“面向固定及移动设备应用的汉语双语（普通话和广东话）可视语音合成系统”
+13.香港政府研究资助局基金项目：“面向语音合成的音视频时序相关性建模”
+ </研究领域>
+<研究成果>
+代表性论文 
+1. Xixin WU, Yuewen CAO, Hui LU, Songxiang LIU, Disong WANG, Zhiyong WU, Xunying LIU, Helen MENG, Speech Emotion Recognition Using Sequential Capsule Networks, IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), vol. 29, pp. 3280-3291, 2021. (SCI, EI) (CCF A)
+2. Xixin WU, Yuewen CAO, Hui LU, Songxiang LIU, Shiyin KANG, Zhiyong WU, Xunying LIU, Helen MENG, Exemplar-Based Emotive Speech Synthesis, IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), vol. 29, pp. 874-886, 2021. (SCI, EI) (CCF A)
+3. Yingmei GUO, Linjun SHOU, Jian PEI, Ming GONG, Mingxing XU, Zhiyong WU and Daxin JIANG, Learning from Multiple Noisy Augmented Data Sets for Better Cross-Lingual Spoken Language Understanding, [in] Proc. EMNLP, pp. 1-12. Punta Cana, Dominican Republic, 7-11 November, 2021. (EI) (THU A)
+4. Yaohua BU, Tianyi MA, Weijun LI, Hang ZHOU, Jia JIA, Shengqi CHEN, Kaiyuan XU, Dachuan SHI, Haozhe WU, Zhihan YANG, Kun LI, Zhiyong WU, Yuanchun SHI, Xiaobo LU, Ziwei LIU, PTeacher: a Computer-Aided Personalized Pronunciation Training System with Exaggerated Audio-Visual Corrective Feedback, [in] Proc. CHI, pp. 1-14. Yokohama, Japan, 8-13 May, 2021. (EI) (CCF A)
+5. Suping ZHOU, Jia JIA, Zhiyong WU, Zhihan YANG, Yanfeng WANG, Wei CHEN, Fanbo MENG, Shuo HUANG, Jialie SHEN, Xiaochuan WANG, Inferring Emotion from Large-Scale Internet Voice Data: A Semi-supervised Curriculum Augmentation based Deep Learning Approach, [in] Proc. AAAI, pp. 6039-6047. 2-9 February, 2021. (EI) (CCF A)
+6. Runnan LI, Zhiyong WU, Jia JIA, Yaohua BU, Sheng ZHAO, Helen MENG, Towards Discriminative Representation Learning for Speech Emotion Recognition, [in] Proc. IJCAI, pp. 5060-5066. Macao, China, 10-16 August, 2019. (EI) (CCF A)
+7. Yishuang NING, Sheng HE, Zhiyong WU, Chunxiao XING, Liangjie ZHANG, A Review of Deep Learning Based Speech Synthesis, Applied Sciences-Basel, vol. 9, no. 19, pp. 4050, September 2019. (SCI, EI)
+8. Runnan LI, Zhiyong WU, Jia JIA, Jingbei LI, Wei CHEN, Helen MENG, Inferring User Emotive State Changes in Realistic Human-Computer Conversational Dialogs, [in] Proc. ACM Multimedia, pp. 136-144. Seoul, Korea, 22-26 October, 2018. (EI) (CCF A)
+9. Kun LI, Shaoguang MAO, Xu LI, Zhiyong WU, Helen MENG, Automatic Lexical Stress and Pitch Accent Detection for L2 English Speech using Multi-Distribution Deep Neural Networks, Speech Communication, vol. 96, pp. 28-36, Elsevier, February 2018. (SCI, EI) (CCF B)
+10. Yishuang NING, Jia JIA, Zhiyong WU, Runnan LI, Yongsheng AN, Yanfeng WANG, Helen MENG, Multi-task Deep Learning for User Intention Understanding in Speech Interaction Systems, [in] Proc. AAAI, pp. 161-167. San Francisco, USA, 4-9 February, 2017. (EI) (CCF A)
+11. Zhiyong WU, Yishuang NING, Xiao ZANG, Jia JIA, Fanbo MENG, Helen MENG, Lianhong CAI, Generating Emphatic Speech with Hidden Markov Model for Expressive Speech Synthesis, Multimedia Tools and Applications, vol. 74, pp. 9909-9925, Springer, 2015. (SCI, EI) (CCF C)
+12. Zhiyong WU, Kai ZHAO, Xixin WU, Xinyu LAN, Helen MENG, Acoustic to Articulatory Mapping with Deep Neural Network, Multimedia Tools and Applications, vol. 74, pp. 9889-9907, Springer, 2015. (SCI, EI) (CCF C)
+13. Qi LYU, Zhiyong WU, Jun ZHU, Polyphonic Music Modelling with LSTM-RTRBM, [in] Proc. ACM Multimedia, pp. 991-994. Brisbane, Australia, 26-30 October, 2015. (EI) (CCF A)
+14. Qi LYU, Zhiyong WU, Jun ZHU, Helen MENG, Modelling High-dimensional Sequences with LSTM-RTRBM: Application to Polyphonic Music Generation, [in] Proc. IJCAI, pp. 4138-4139. Buenos Aires, Argentina, 25-31 July, 2015. (EI) (CCF A)
+15. Jia JIA, Zhiyong WU, Shen ZHANG, Helen MENG, Lianhong CAI, Head and Facial Gestures Synthesis using PAD Model for an Expressive Talking Avatar, Multimedia Tools and Applications, vol. 73, no. 1, pp. 439-461, Springer, 2014. (SCI, EI) (CCF C)
+16. Zhiyong WU, Helen M. MENG, Hongwu YANG, Lianhong CAI, Modeling the Expressivity of Input Text Semantics for Chinese Text-to-Speech Synthesis in a Spoken Dialog System, IEEE Transaction on Audio, Speech and Language Processing (TASLP), vol. 17, no. 8, pp. 1567-1577, November, 2009. (SCI, EI) (CCF A)
+代表性著作 
+主要专利成果 
+1. 吴志勇, 刘良琪. 一种基于多模态特征的重音检测方法及系统, 2019-10-18, 中国, ZL201910995480.2
+2. 吴志勇, 张坤. 一种语音关键词检测方法及系统, 2019-10-17, 中国, ZL201910990230.X
+3. 吴志勇, 代东洋. 一种基于对抗学习的端到端的跨语言语音情感识别方法, 2019-08-08, 中国, ZL201910731716.1
+4. 吴志勇, 杜耀, 康世胤, 苏丹, 俞栋. 一种韵律层级标注的方法、模型训练的方法及装置, 2019-01-22, 中国, ZL201910751371.6
+5. 吴志勇, 代东洋, 康世胤, 苏丹, 俞栋. 确定多音字发音的方法及装置, 2019-06-25,中国, ZL201910555855.3
+6. 金欣, 姜奕祺, 张磊, 张新, 吴志勇. 一种视频镜头分割边界检测的方法及装置, 2015-12-29, 中国, ZL201511020545.X
+7. 金欣, 姜奕祺, 张磊, 吴志勇. 一种视频中的污染区域的内容补绘方法, 2015.11.10, 中国, ZL201510760914.2
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1.教育部科技进步二等奖（2016）：第四完成人，获奖项目“汉语言语感知与交互的建模及其应用”
+2.教育部科技进步二等奖（2009）：第三完成人，获奖项目“多模态的多语种语音、语言交互的研究与应用”
+3.深圳市科技创新奖（2007）：第八完成人，获奖项目“P2P架构的流媒体数字版权保护平台”
+4.极棒（GeekPwn）全球极客大赛“AI仿声验声攻防赛”第一（2017）：“清晨李唐王”团队（王木、黄雨晨、李润楠、唐耀东，导师：吴志勇）
+5.清华大学年度教学优秀奖（2020）
+6. 腾讯AI Lab犀牛鸟专项研究及访问学者计划卓越奖（2018、2019）、优秀奖（2020）
+ </奖励荣誉>

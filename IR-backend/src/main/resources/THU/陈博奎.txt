@@ -1,0 +1,75 @@
+{"title":"陈博奎","cnUrl":"http://www.sigs.tsinghua.edu.cn/cbk/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/1c/60/8be6ad6e47db8fc2273aa7f77efc/ec1b8bf2-1e36-4493-a1e5-b03de069a849.jpg","email":"chen.bokui@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+招生学科：人工智能、电子信息、交通运输工程、物流工程与管理
+欢迎数学大类、物理大类、计算机、人工智能、交通与物流等专业，及其它理工科专业学生报考。
+教育经历 
+2008年9月-2013年7月，中国科学技术大学，数学物理，硕博连读
+工作经历 
+2018年1月-至今，清华大学深圳国际研究生院，讲师、硕士生导师
+2016年1月-2018年1月，新加坡国立大学，计算机学院，资深研究员
+2015年1月-2016年1月，南洋理工大学，博士后研究员
+学术兼职 
+期刊编委
+1. Guest Editors: Transportation Research Part D
+2. International Journal of Transportation Engineering and Technology
+3. Transportation Engineering Technology--Part III
+国际期刊审稿人
+1. Transportation Research Part E (中科院一区)
+2. Applied Mathematical Modelling (中科院二区)
+3. Environmental Research (中科院二区)
+4. Transportmetrica A: Transport Science (中科院二区)
+5. Journal of Advanced Transportation (中科院二区)
+6. Physica A: Statistical Mechanics and its Applications (中科院二区)
+7. Journal of Computational Science
+8. Communications in Theoretical Physics
+9. IET Intelligent Transportation Systems
+10. ACM Transactions on Internet Technology
+11. International Journal of Modern Physics B
+12. International Journal of Modern Physics C
+13. International Journal of Modern Mathematical Sciences
+14. Journal of Franklin Institute--Engineering and Applied Mathematics
+15. Journal of Transportation Engineering, Part A: Systems
+16. IEEE Transactions on Intelligent Transportation Systems
+17. Transportation Research Interdisciplinary Perspectives
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《高级运筹学》
+《随机系统建模与分析》
+《离散选择模型及其应用》
+《交通运输工程导论》
+《物流技术与管理职业素养讲座》
+《文献检索与论文写作》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+【研究方向】
+1. 人工智能算法
+2. 自动驾驶车辆
+3. 交通互联网
+4. 智能交通仿真控制平台
+5. 路径规划与导航系统
+6. 交通碳减排与碳中和
+7. 大模型训练方法
+8. 持续学习和提示学习
+主要项目 
+主持和参与各类科研项目20余项，包括国家重点研发计划，深圳市重点项目，深圳市面上项目，新加坡政府科研项目，新加坡教育部科研项目，香港政府科研项目等。
+ </研究领域>
+<研究成果>
+代表性论文 
+发表SCI\SSCI\EI三大检索论文和CCF-A、CCF-B论文50余篇。获得授权发明专利5项，软件著作权10项。
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1. 中国智能交通协会科学技术三等奖，
+2. 广东省智能交通科学技术一等奖
+3. 清华大学青年教师教学能力进阶项目比赛三等奖
+4. 清华大学青年教师教学能力进阶项目比赛最佳人气奖
+5. 清华大学教师年度考核优秀奖
+ </奖励荣誉>

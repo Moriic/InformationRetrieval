@@ -1,0 +1,49 @@
+{"title":"汪鸿章","cnUrl":"http://www.sigs.tsinghua.edu.cn/whz/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/a8/f5/edbdb595405abeeddd831870a527/a60099eb-a8c7-4931-9392-95c90ebb57fb.jpg","email":"wanghz@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+汪鸿章博士于2023年加入清华大学深圳国际研究生院，主要致力于液态金属机器人先进材料技术及其交叉应用研究，在新兴液态金属智能材料方面取得系列研究成果，包括多孔液态金属、导电绝缘转变弹性体、多场调控相变材料，进一步拓展此类材料在软体机器人、液态抓手、柔性电子皮肤、外骨骼绷带等领域的应用。共发表学术论文41篇，其中以（共同）第一或通讯作者在Matter，Advanced Materials，Accounts of Materials Research, Advanced Functional Materials等期刊发表学术论文16篇，获授权国家发明专利10项，部分工作被中央电视台、国家外文局、东方卫视、经济日报、凤凰网等媒体报道。曾获得清华大学特等奖学金、北京市优秀博士学位论文等荣誉。
+招聘信息
+课题组招收博士后、博士与硕士研究生，欢迎具有液态金属功能材料，软体机器人，机械制造，生物医学工程等交叉学科背景的同学加入。感兴趣的同学请发邮件至wanghz@sz.tsinghua.edu.cn
+教育经历 
+2015年8月-2021年1月，清华大学，生物医学工程专业，博士
+2019年4月-2019年10月，芝加哥大学，柔性电子专业，联合培养博士生
+2011年9月-2015年7月，南昌大学，本硕实验班生物技术，学士
+工作经历 
+2023年6月-至今，清华大学深圳国际研究生院，助理教授/特别研究员
+2021年1月-2023年5月，清华大学，博士后（水木学者）
+学术兼职 
+2023.07-至今，青年编委，The Innovation（影响因子：32.1） 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+汪鸿章博士主要致力于液态金属机器人基础材料技术及其交叉应用研究，在新兴液态金属智能材料方面取得系列研究成果，包括多孔液态金属材料、导电绝缘转变弹性体、多场调控相变材料，进一步拓展此类材料在软体机器人、液态抓手、柔性电子皮肤、外骨骼绷带等领域的应用。共发表学术论文41篇，其中以（共同）第一或通讯作者在Matter，Advanced Materials，Accounts of Materials Research, Advanced Functional Materials等期刊发表学术论文16篇，2本学术专著出版中，获得国家授权发明专利10项。所设计液态金属相变机器入选外太空实验计划，观测零重力情况下的金属相变行为。部分工作被中央电视台、国家外文局、东方卫视、经济日报、凤凰网等媒体报道。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] H Wang#, Y Yao#, Z He, W Rao, J Liu* et al. A Highly Stretchable Liquid Metal Polymer as Reversible Transitional Insulator and Conductor[J]. Advanced Materials, 2019, 31, 1901337. 
+[2] H Wang # *, S Chen #, X Zhu, B Yuan, Liu J* et al. Phase transition science and engineering of room temperature liquid metal. Matter. 2022, 5, 2054.
+[3] H Wang, S Chen,H Li, X Chen, J Liu* et al. A liquid gripper based on phase transitional metallic ferrofluid, Advanced Functional Materials, 2021, 2100274. 
+[4] H Wang#, B Yuan#, S Liang, R Guo, J Liu* et al. PLUS-M: a Porous Liquid-metal enabled Ubiquitous Soft Material. Materials Horizons, 2018, 5, 222-229. 
+[5] H Wang, R Li, S Chen, B Yuan, J Liu*. Liquid metal fibers, Advanced Fiber Materials, 2022, 4, 987. 
+[6] H Wang#, S Chen#, B Yuan, X Sun*, J Liu*. Liquid metal transformable machines. Accounts of Materials Research. 2021, 2, 1227.
+[7] B Yuan, X Sun, Q Wang, H Wang*. Direct fabrication of liquid-metal multifunctional paper based on force-responsive adhesion, Cell Reports Physical Science, 2023, 4, 101419.
+[8] H Wang, Y Yao, X Wang, L Sheng, J Liu* et al. Large-Magnitude Transformable Liquid-Metal Composites[J]. ACS Omega, 2019, 4, 2311-2319.
+[9] X Sun*, TWu, M Duan, B Yuan, X Zhu, H Wang*et al. Flexible Skin Patch Enabled Tumor Hybrid Thermophysical Therapy and Adaptive Antitumor Immune Response, Advanced Healthcare Materials, 12, 2202872.
+[10] 汪鸿章*陈森单晓晖；液态金属可变形机器人：科幻走进现实；科学，2022：3 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+清华大学特等奖学金（10/30000） 2019
+清华大学水木学者 2020
+北京市优秀毕业生 2021
+清华大学优秀博士学位论文（获出版） 2021
+清华大学优秀毕业生 2021
+中国材料大会优秀青年学术报告 2021
+北京市青年学术演讲比赛优秀奖 2022
+北京市优秀博士学位论文 2022
+ </奖励荣誉>

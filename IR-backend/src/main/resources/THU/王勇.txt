@@ -1,0 +1,56 @@
+{"title":"王勇","cnUrl":"http://www.sigs.tsinghua.edu.cn/wy1/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/f6/e6/16cd3778428d9c7e2759992eedc1/d46bbcef-22c8-4225-b322-3baa08f7fad5.png","email":"wangyong@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2001年1月-2004年4月，香港大学，生物信息学专业，博士
+1997年9月-2000年6月，浙江大学，海洋生物技术专业，硕士
+1993年9月-1997年7月，兰州大学，生物化学专业，学士
+工作经历 
+2022年2月-至今，清华大学深圳国际研究生院，教授
+2013年8月-2022年2月，中国科学院深海科学与工程研究所，研究员
+2012年2月-2013年8月，香港科技大学，博士后
+2008年12月-2012年2月，沙特阿卜杜拉国王科技大学，博士后
+2008年1月-2008年10月，香港大学玛丽医院，高级研究助理
+2004年5月-2007年12月，香港大学基因中心，博士后
+学术兼职 
+中国海洋委员会-生物资源委员会委员;
+面向2035年国家中长期科技发展规划专家组成员;
+中国微生物学会第四届海洋微生物专业委员会委员;
+Frontier Marine Sciences副主编;
+Deep Sea Research I副主编;
+Microorganisms编委;
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+长期从事深海环境微生物基因组学研究和原位生态监测设备研发，推动深海原位生物研究成为科技部2035规划的13个深海前沿方向之一。其研究开启了深海生态系统原位研究和探测，主持和设计了我国首套原位生物实验室“凤凰”号。作为项目负责人主持中科院先导专项B海斗深渊生命科学研究项目和科技部重点研发专项项目。获得2016年度国家自然科学奖二等奖（排名3），并作为国际海洋黄昏带联合国海洋十年可持续发展项目的中方联络人，开始筹划发起国际联合项目。在国际著名期刊Nature Communications、Nucleic Acids Research、ISME J、 Science Bulletin等共发表SCI学术论文和章节100篇，SCI论文总引用率超过5400次，大会报告和论文20余次。三篇论文为ESI高引用率文章（最高的1%）。担任Frontier Marine Science, Microorganisms和Deep Sea Research I的副主编和编委，担任面向2035年国家中长期科技发展规划专家组成员等公共服务职务。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Yong Wang*, Jiaomei Huang. LIR: A package for identification of long inverted repeats in genomes. Genomics, Proteomics & Bioinformatics, 2017, 15: 141-146.
+[2] Li-Sheng He, Peiwei Zhang, Jiaomei Huang, Fang-Chao Zhu, Antoine Danchin, Yong Wang*. The enigmatic genome of an obligate ancient Spiroplasma symbiont in a hadal holothurian. Appl Env Microbiol. 2018, 84: e01965-17
+[3] Yong Wang*, Fang-Chao Zhu, Li-Sheng He, Antoine Danchin*. Unique tRNA gene profile suggests paucity of nucleotide modifications in anticodons of a deep-sea symbiotic Spiroplasma. Nucleic Acids Res. 2018, 46：2197-2203. 
+[4] Yong Wang*, Jiaomei Huang, Guojie Cui, Takuro Nunoura, Y. Takaki, Wenli Li, Jun Li, Zhaoming Gao, Takai Ken, Aiqun Zhang, Ramunas Stepanauskas. Genomics insights into ecotype formation of ammonia-oxidizing archaea in the deep ocean. Environ. Microbiol. 2019,21:716-729.
+[5] Yong Wang*, Zhaoming Gao, Jun Li, Lisheng He, Guojie Cui, Wen-Li Li, Jun Chen, Yongzhi Xin, Dusi Cai, Aiqun Zhang. Hadal water sampling by in situ microbial filtration and fixation (ISMIFF) apparatus. Deep-Sea Res I. 2019, 144:132-137
+[6] Jiaomei Huang, Brett Baker, Jiaotao Li, Yong Wang*. New microbial lineages capable of carbon fixation and nutrient cycling in deep-sea sediments of the northern South China Sea. Appl. Env. Microbiol. 2019, 85: 00523-19
+[7] Zhaoming Gao, Jiaomei Huang, Guojie Cui, Wenli Li, Jun Li, Zhanfei Wei, Jun Chen, Yongzhi Xin, Dusi Cai, Aiqun Zhang, Yong Wang.* In situ meta-omic insights into the community compositions and ecological roles of hadal microbes in the Mariana Trench. Environ. Microbiol. 2019, 21:4192-4108
+[8] Zhanfei Wei, Wenli Li, Jun Li, Jun Chen, Yongzhi Xin, Lisheng He, Yong Wang*. Multiple in situ nucleic acid collections (MISNAC) from deep-sea waters. Front. Mar. Sci. 2020, 18: 00081.
+[9] Yong Wang*, Jiaomei Huang, Yongli Zhou, Alexandra Almerda, Robert Finn, Antoine Danchin, Lisheng He. Phylogenomics of expanding uncultured environmental Tenericutes provides insights into their pathogenicity and evolutionary relationship with Bacilli. BMC Genomics 2020, 21: 408.
+[10] Guojie Cui, Yingli Zhou, Wenli Li, Zhaoming Gao, Jiaomei Huang, Yong Wang.* A novel bacterial phylum that participates in carbon and osmolyte cycling in the Challenger Deep sediments. Environ. Microbiol. 2020, 23: 3758-3772
+[11] Yong Wang*, Wenli Li, Qingmei Li, Yingli Zhou, Zhaoming Gao, Dong Feng. Deep-sea carbonates are a reservoir of fossil microbes previously inhabiting cold seeps. Front. Mar. Sci. 2021, 8: 698545. 
+[12] Wenli Li, Xiyang Dong, Rui Lu, Pengfei Zheng, Dong Feng, Yong Wang.* Microbial ecology of sulfur cycling near the sulfate–methane transition of deep-sea cold seep sediments. Environ. Microbiol. 2021, 23: 6844-6858. 
+[13] Yong Wang*, Wenli Li, Brett Baker, Yingli Zhou, Lisheng He, Antoine Danchin, Qingmei Li, Zhaoming. Carbon metabolism and adaptation of hyperalkaliphilic microbes in serpentinizing spring of Manleluag, the Philippines. Environ. Microbiol. Rep. 2022,14: 308-319 
+[14] Yingli Zhou#, Paraskevi Mara#, Guojie Cui, Virginia Edgcomb, Yong Wang*. Microbiomes in the Challenger Deep slope and bottom-axis sediments. Nature Communications. 2022, 13: 1515  
+[15] Pengfei Zheng, Zhanfei Wei, Yingli Zhou, Qingmei Li, Qi Zhi, Xiaoping Diao, Yong Wang*. Genomic evidence for the recycling of complex organic carbon by novel Thermoplasmatota clades in deep-sea sediments. mSystems. 2022, 00072-22. 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+（1） 2016年度国家自然科学二等奖（Z-104-2-03）
+（2） 2018年度“湖藻与海洋学会”年度十大进展提名
+（3） 海南省“杰出人才”称号
+（4） 海南省首批“双百人才团队”-海南省深海技术研发与产业化团队负责人
+ </奖励荣誉>

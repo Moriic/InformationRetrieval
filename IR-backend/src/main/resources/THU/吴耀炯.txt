@@ -1,0 +1,60 @@
+{"title":"吴耀炯","cnUrl":"http://www.sigs.tsinghua.edu.cn/wyj/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/a0/c0/addabcaf42d7b00d001c44a019e5/f5f1a152-53bb-4221-870e-cba6c4863367.jpg","email":"wu.yaojiong@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1999-2003，多伦多大学，理学博士(实验医学与病理生物学)
+1983-1986，兰州大学医学院，硕士(病理学)
+1978-1983，青岛医学院，医学学士
+工作经历 
+2008-至今，清华大学深圳国际研究生院，教授；
+2005-2008，加拿大阿尔伯特大学，助理教授；
+2003-2005，美国哈佛医学院、杜克大学，博士后（干细胞组织再生医学）；
+1997-1999，加拿大英属哥伦比亚大学博士后；
+1986-1997，首都医科大学附属医院，历任医师、副主任医师、副教授、学科带头人
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+开设课程：转化研究B（英文），干细胞再生医学前沿
+讲授课程：分子细胞生物学进展，基因分子生物学
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事干细胞与再生医学研究，尤其是间充质干细胞迁徙机制及皮肤干细胞再生微环境领域。建立了基于3D培养方法的高迁徙间充质干细胞制备技术，解决了间充质干细胞静脉注射后的肺血管阻塞问题，大幅提高了其组织修复效果，技术正与国药集团联合进行干细胞成药转化，并进一步研发针对不同疾病的制剂。在皮肤再生领域，提出并证明了间充质干细胞皮肤修复作用的旁分泌机制，被同行广泛接受；揭示了巨噬细胞因子在毛囊干细胞激活与毛囊再生中的重要作用；初步建立了基于自体皮肤干细的皮肤和毛囊再生方法，目前正研究建立毛囊类器官及其在药物检测和筛选中的应用。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Li Y, Dong Y, Ran Y, Zhang Y, Wu B, Xie J, Cao Y, Mo M, Li S, Deng H, Hao W, Yu S, Wu Y*. Three-dimensional cultured mesenchymal stem cells enhance repair of ischemic stroke through inhibition of microglia. Stem Cell Res Ther. 2021; 12(1):358.
+[2]Wang J, Wang XX, Xie J, Yao B, Mo M, Ma D, Huang C, Xu RH, Fu X, Tredget EE*, Wu Y*. Engineered skin substitute regenerates the skin with hair follicle formation. Biomedicine 2021; 9(4):400.
+[3] Chen H, Wang X, Chen Y, Han J, Kong D, Zhu M, Fu X, Wu Y*. Pten loss in Lgr5+ hair follicle stem cells promotes SCC development. Theranostics 2019; 9(26):8321-8331. 
+[4]Mo M, Zhou Y, Li S, Wu Y*. 3D culture reduces cell size by increasing vesicle excretion. Stem Cells 2018; 36(2):286-292.
+[5]Wang X, Chen H, Tian R et al. Macrophages induce AKT/β-catenin-dependent Lgr5+ stem cell activation and hair follicle regeneration through TNF. Nature Communication. 2017; 27;8:14091
+[6]Wang X, Wang X, Cai T et al. De novo hair follicle and sebaceous gland regeneration with cultured stem cells. Stem Cells Translational Medicine. 2016; 5(12):1695-1706.
+[7] Wang X, Wang J, Guo L et al. Self-assembling peptide hydrogel scaffolds support stem cell-based hair follicle regeneration. Nanomedicine. 2016; 12(7):2115-2125 
+[8]Wang S, Guo L, Ge J et al. Excess Integrins Cause Lung Entrapment of Mesenchymal Stem Cells. Stem Cells. 2015;33:3315-3326.
+[9]Wang X, Ge J, Tredget EE et al. The mouse excisional wound splinting model, including applications for stem cell transplantation. Nat Protoc. 2013;8:302-309.
+[10]Wu Y, Zhao RC, Tredget EE. Concise review: bone marrow-derived stem/progenitor cells in cutaneous repair and regeneration. Stem Cells. 2010;28:905-915.
+[11]Chen L, Tredget EE, Wu PY et al. Paracrine factors of mesenchymal stem cells recruit macrophages and endothelial lineage cells and enhance wound healing. PloS One. 2008;3:e1886.
+[12]Wu Y*, Chen L, Scott PG et al. Mesenchymal stem cells enhance wound healing through differentiation and angiogenesis. Stem Cells. 2007;25:2648-2659.
+[13]Wu Y, Ip JE, Huang J et al. Essential role of ICAM-1/CD18 in mediating EPC recruitment, angiogenesis, and repair to the infarcted myocardium. Circulation Research. 2006;99:315-322.
+[14]Wu Y, La Pierre DP, Wu J, Yee AJ, and Yang BB. (2005) The interaction of versican with its binding partners. Cell Res. 15: 483-94.
+代表性著作 
+[1]Wu et al. Self-assembly peptides in tissue engineering and regeneration. Biomaterials and Tissue Regeneration (edited by Fu Xiaobing). People's Health Press, 2019
+[2]Wu Y and Zhao RC. Mesenchymal Stem Cell Homing to Injured Tissues. Essentials of Mesenchymal Stem Cell Biology and Its Clinical Translation (edited by Zhao, RC). Springer Dordrecht Heidelberg New York London, 2013. 
+[3]Wu Y and Tredget EE. Pathology of Tissue Regeneration and Repair: Skin Regeneration. Pathobiology of Human Disease: A Dynamic Encyclopedia of Disease Mechanisms (edited by Frank PG), Elsevier, 2013.
+主要专利成果 
+其他成果 
+开设课程：《干细胞转化医学（英文）》，《干细胞再生医学前沿》
+讲授课程：《分子细胞生物学进展》，《基因分子生物学》
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2021中国生物材料学会科学技术奖一等奖
+2019广东省自然科学奖二等奖
+2016深圳市自然科学奖二等奖
+2012深圳市孔雀人才（B）
+获加拿大CIHR Fellowship Award 2004
+ </奖励荣誉>

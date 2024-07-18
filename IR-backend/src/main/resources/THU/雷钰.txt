@@ -1,0 +1,53 @@
+{"title":"雷钰","cnUrl":"http://www.sigs.tsinghua.edu.cn/ly2_4216/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/86/16/c630e0ee437aaf22a3da7360f663/4bd6e7fd-aa49-40c1-8b6c-20c69417a84b.jpg","email":"leiy07@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2013年8月-2019年5月，宾夕法尼亚州立大学，材料科学与工程专业，博士
+2011年9月-2013年7月，清华大学，材料科学与工程专业，硕士
+2007年9月-2011年7月，清华大学，材料科学与工程专业，学士
+工作经历 
+2021年11月-至今，清华大学深圳国际研究生院，助理教授
+2019年9月-2021年9月，美国宾夕法尼亚州立大学物理系，博士后
+2017年5月-2017年8月，美国Micron公司，实习生
+学术兼职 
+期刊审稿人：
+Carbon
+2D Materials
+ACS Nano
+ACS Applied Nano Materials
+NPJ 2D Materials and Applications等
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+秋季学期：材料热力学（SIGS）
+春季学期：纳米能源材料（Nano Energy Materials, TBSI）；交叉创新实践课——赛博格界面材料设计（SIGS）等
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+1）低维材料缺陷原子调控：基于缺陷工程的低维材料制备、表征和性能调控
+2）低维材料-分子界面设计：以低维材料为探针，明晰低维材料与生物体系的相互作用机理，并探索低维材料在生物传感器（电化学传感器、表面增强拉曼传感器等）、基因编辑及抗菌涂层等领域的应用
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1) Sun, L., Xu, H., Bai, Y., Chang, L., Gao, J., Zhao, M., Huang, A.T., Ma, L., Lei, Y.*, Kang, F.Y.*, and Terrones, M*, Vanadium Single Atoms embedded in MoS2 Enabled Gut-brain Axis Neurotransmitter Detection at pM Levels, Small 2024, Accepted
+2) Sredenschek, A.J., Sanchez, D.E., Wang, J., Lei, Y., Sinnott, S.B.*, Terrones, M*, Heterostructures coupling ultrathin metal carbides and chalcogenides, Nature Materials 2024, Accepted
+3) Fu, M., Chen, W., Lei, Y. *, Yu, H., Lin, Y. *, Terrones, M. * Biomimetic construction of ferrite quantum dot/graphene heterostructure for enhancing ion/charge transfer in supercapacitors, Advanced Materials 2023, 35 (21), 2300940
+4) He, Z., Zhang, CY*, Lei, Y.*, Song, G., Yao, Y., Plasmonic nanomaterials: A versatile phototheranostic platform of cancers, Materials Today 2023, 62, 168-189
+5)  Lei, Y. #, Pakhira, S.#, Fujisawa, K., Liu, H., Guerrero-Bermea, C., Zhang, T., ... & Terrones, M. Low temperature activation of inert hexagonal boron nitride for metal deposition and single atom catalysis, Materials Today 2021, 51, 108-116.
+6) Lei Y.#, Butler D.#, Lucking M C, et al. Single-atom doping of MoS2 with manganese enables ultrasensitive detection of dopamine: Experimental and computational approach. Science Advances 2020, 6(32): eabc4250.
+7) McGee S.#, Lei Y.#, Kindle M.C., Zhang, F., Fujisawa K., Dimitrov E., Terrones M., Zarzar L., Single-Step Direct Laser Writing of Multimetal Oxygen Evolution Catalysts from Liquid Precursors, ACS Nano 2021, 15(6), 9796–9807
+8)  Lei, Y. #, Pakhira, S.#, Fujisawa, K., Wang, X., Iyiola, O. O., Perea López, N. s., Laura Elías, A., Pulickal Rajukumar, L., Zhou, C.; Kabius, B., … & Terrones, M. Low-temperature Synthesis of Heterostructures of Transition Metal Dichalcogenide Alloys (WxMo1–xS2) and Graphene with Superior Catalytic Performance for Hydrogen Evolution. ACS nano 2017, 11 (5), 5103-5112.
+9) Lei Y., Fujisawa K., Zhang F., Briggs N., Aref R. A., Yeh Y.T., Lin Z, Robinson A.J., Rajagopalan R., Terrones, M. Synthesis of V-MoS2 Layered Alloys as Stable Flexible Li-ion Battery Anodes, ACS Applied Energy Materials 2019, 2(12) 8625–8632
+10) Fu, M., Lv, R.*, Lei, Y.*, & Terrones, M.* Ultralight Flexible Electrodes of Nitrogen‐Doped Carbon Macrotube Sponges for High-Performance Supercapacitors. Small 2021, 17(1), 2004827. 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2008-2009年度清华大学学业优秀奖学金（清华之友-周慧琪奖学金）
+2013年度清华大学优秀硕士学位论文奖
+ </奖励荣誉>

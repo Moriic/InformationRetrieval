@@ -1,0 +1,40 @@
+{"title":"邹小龙","cnUrl":"http://www.sigs.tsinghua.edu.cn/zxl/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/5b/e4/684331aa40ddadb89da03c3e365e/d77f76d1-abad-437f-b12d-8d380c5abc49.jpg","email":"xlzou@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+Aug. 2019 ~ present: Associate Professor, Shenzhen Geim Graphene Center, & Low-dimensional materials and devices lab, Tsinghua-Berkeley Shenzhen Institute, Tsinghua University
+Jun. 2016 ~ Jul. 2019: Assistant Professor, Shenzhen Geim Graphene Center, & Low-dimensional materials and devices lab, Tsinghua-Berkeley Shenzhen Institute, Tsinghua University
+Aug. 2011~Jun. 2016: Postdoctoral Associate, Department of Material Science and nanoengineering, Rice University, Houston, USA, Advisor: Prof. Boris. I. Yakobson (Projects: Topological defects in two dimensional materials; catalytic properties of carbon nano materials)
+Sep. 2006 ~ Jul. 2011: Ph.D. in Condensed Matter PhysicsDepartment of Physics, Tsinghua University, Beijing, China, Advisor: Prof. Wenhui Duan (Projects: Electronic properties of 1D materials; thermal transport; molecular magnets)
+Jul, 2008 ~ Sep, 2008 and Sep, 2008 ~ Nov, 2008: Visiting Student, Advisor: Prof. Jisoon Ihm, Seoul National University, Seoul, Korea (Projects: Hydrogen storage in metal organic frameworks and covalent organic frameworks)
+Sep. 2002 ~ Jul. 2006: B.S. in Physics, Department of Physics, Tsinghua University, Beijing, China
+Opening
+Motivated Ph.D. and master students as well as postdoctoral associates who are interested in research on Physics, Chemistry, and growth of low-dimensional materials as well as their energy-conversion applications are always welcome.
+Website：https://zou.group/
+教育经历 
+工作经历 
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+Coupled spin, valley and electronic phenomena in low dimension (LD); Theoretical simulations of defects in LD materials; Applications of combined advanced computations and machine learning in energy storage and conversion, in particular, the opto- and electro-catalytic systems.
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+I have published more than 60 papers in peer-refereed journals, including 2 Nature Materials, 1 Materials Today, 1 Accounts of Chemical Research, 4 Nature Communications, 7 Nano Letters, 8 ACS Nano, 4 Advanced Materials, 2 Advanced Functional Materials, 1 Chem. Mater. These papers have been cited by more than 6000 times with H index of 29. He has been invited to write book/chapter by several prestigious publishers, including Science Press, Cambridge University Press and Pan Stanford Publishing. For bibliographic information, see more in Google Scholar: https://scholar.google.com/citations?user=LZOgbH4AAAAJ&hl=zh-CN (In this list, # and * indicates equally contributed author and corresponding author, respectively.)
+Selected Publication:
+1.Intrinsic Half‐Metallicity in 2D Ternary Chalcogenides with High Critical Temperature and Controllable Magnetization Direction Shuqing Zhang, Runzhang Xu, Wenhui Duan, Xiaolong Zou* Adv. Funct. Mater. DOI: https://doi.org/10.1002/adfm.201808380 (2019) 
+2.Morphology and surface chemistry engineering toward pH-universal catalysts for hydrogen evolution at high current density Yuting Luo, Lei Tang, Usman Khan, Qiangmin Yu, Hui-Ming Cheng, Xiaolong Zou*, Bilu Liu* Nature Communications, 10, 269 (2019) 
+3. Saddle‐Point Excitons and Their Extraordinary Light Absorption in 2D β‐Phase Group‐IV Monochalcogenides Nannan Luo, Chong Wang, Zeyu Jiang, Yong Xu, Xiaolong Zou*, Wenhui Duan* Adv. Funct. Mater. 28, 1804581 (2018) 
+4. Self‐Assembly of Large‐Area 2D Polycrystalline Transition Metal Carbides for Hydrogen Electrocatalysis Xining Zang*, Wenshu Chen, Xiaolong Zou, J Nathan Hohman, Lujie Yang, Buxuan Li, Minsong Wei, Chenhui Zhu, Jiaming Liang, Mohan Sanghadasa, Jiajun Gu*，Liwei Lin* Adv. Mater. (2018) https://doi.org/10.1002/adma.201805188 
+5. A Universal Descriptor for Large-scale Screening of High Performance MXene-based Materials for Energy Storage and Conversion Wei Jiang, Xiaolong Zou*, Hongda Du, Lin Gan, Chengjun Xu, Feiyu Kang, Wenhui Duan, Jia Li*, Chem. Mater., 30, 2687 (2018)
+6. Computational design and property predictions for two-dimensional nanostructures Runzhang Xu, Xiaolong Zou*, Bilu Liu, Hui-Ming Cheng*, Mater. Today, 21, 391 (2018) 
+7. Vertical 1T‐TaS2 Synthesis on Nanoporous Gold for High‐Performance Electrocatalytic Applications Yahuan Huan#, Jianping Shi#, Xiaolong Zou#, Yue Gong, Zhepeng Zhang, Minghua Li, Liyun Zhao, Runzhang Xu, Shaolong Jiang, Xiebo Zhou, Min Hong, Chunyu Xie, He Li, Xingyou Lang, Qing Zhang, Lin Gu*, Xiaoqin Yan*, Yanfeng Zhang* Adv. Mater. 30, 1705916 (2018) 
+8. Half-Metallicity in Co-Doped WSe2 Nanoribbons Runzhang Xu, Bilu Liu, Xiaolong Zou*, Hui-Ming Cheng ACS Appl. Mater. & Interfaces 9, 38796 (2017) 
+9. How nitrogen-doped graphene quantum dots catalyze electroreduction of CO2 to hydrocarbons and oxygenates Xiaolong Zou*, Mingjie Liu, Jingjie Wu, Pulickel M Ajayan, Jia Li, Bilu Liu, Boris I Yakobson* ACS Catal., 7, 6245 (2017) 
+10. Nickelocene‐Precursor‐Facilitated Fast Growth of Graphene/h‐BN Vertical Heterostructures and Its Applications in OLEDs Qiucheng Li, Zifeng Zhao, Baoming Yan, Xiuju Song, Zhepeng Zhang, Jia Li, Xiaosong Wu, Zuqiang Bian, Xiaolong Zou*, Yanfeng Zhang*, Zhongfan Liu* Adv. Mater., 29, 1701325 (2017) 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

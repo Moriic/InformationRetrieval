@@ -1,0 +1,78 @@
+{"title":"林琳","cnUrl":"http://www.sigs.tsinghua.edu.cn/ll2/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/d0/d4/a852bfbc43ad859fe2d050eb2bc6/8b9e8a67-b0c5-43d9-9bfc-7621ba0b31ed.jpg","email":"linlin00@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+以解决行业痛点和需求为目标，开发低碳高效的污水污泥资源化技术，并深入解析其背后的科学问题和规律机制，培养高层次的环境工程专业人才。
+教育经历 
+2014年09月-2018年12月，香港大学，环境工程专业，博士
+2011年09月-2014年06月，复旦大学，环境工程专业，硕士
+2007年09月-2011年07月，复旦大学，环境科学专业，学士
+工作经历 
+2023年6月至今 清华大学深圳国际研究生院，副教授
+2020年12月2023年6月，清华大学深圳国际研究生院，助理教授
+2019年01月-2020年12月，清华-伯克利深圳学院，博士后
+2017年07月-2017年10月，加州理工学院，访问学者
+学术兼职 
+青年编委：Journal of Hazardous Materials Advances
+独立审稿人: Water Research; Bioresource Technology; Process Biochemistry; Environmental science: water research & technology
+学术组织成员: Member of International Water Association.
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《环境生物原理与应用》（全英文）
+《固体废物管理与处置》（全英文）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+1．环境电化学技术（电容去离子化、催化氧化、CO2还原等）
+2．高级生物废水处理技术（好氧颗粒污泥、厌氧氨氧化等）
+3．有机固体废弃物减量与资源化（厌氧发酵、氮磷回收等）
+主要项目 
+1. 国家自然科学基金青年基金项目，主持
+2. 教育部“春晖计划”合作科研项目，主持
+3. 广东省自然科学基金面上项目，主持
+4. 广东省区域联合基金青年基金项目，主持
+5. 深圳市科创委可持续发展专项，主持
+6. 深圳市科创委优秀科技创新人才培养项目(博士启动)，主持
+7. 深圳市自然科学基金高等院校稳定支持计划面上项目，主持
+8. 深圳市科创委基础研究面上项目，主持
+9. 中国博士后科学基金面上项目，主持
+10. 清华大学深圳国际研究生院交叉科研创新基金，主持
+ </研究领域>
+<研究成果>
+代表性论文 
+1. Dong C, Wang Z-Q, Yang C, Hu X, Wang P, Gong X-Q, Lin L*, Li XY*. Sequential electrocatalysis by single molybdenum atoms/clusters doped on carbon nanotubes for removing organic contaminants from wastewater. Applied Catalysis B: Environmental. 2023, 338, 123060.
+2. Yang C, Shang SS, Fan Y, Shih K, Li XY*, Lin L*. Incorporation of atomically dispersed cobalt in the 2D metal–organic framework of a lamellar membrane for highly efficient peroxymonosulfate activation. Applied Catalysis B: Environmental. 2023, 325, 122344. 
+3. He X, Chen W, Sun F, Jiang Z, Li B, Li XY*, Lin L*. Enhanced NH4+ Removal and Recovery from Wastewater using Na-zeolite-based Flow-Electrode Capacitive Deionization: Insight from Ion Transport Flux. Environmental Science & Technology, 2023,57, 8828-8838.
+4. Wang QY, Li M, Zhao B, Chen WT, Jiang ZK, He X, Li XY, Lin L*. Electricity facilitates the lithium sorption from salt-lake brine by H3LiTi5O12 nanoparticles: kinetics, selectivity and mechanism. Chemical Engineering Journal, 2023, 471, 144532. 
+5. Zhang J, Qu SY, Li B, Li XY, Lin L*. Nitrogen coordination modulation of single-atom CoN4 enables dual-reactive-sites catalyst featuring synergistic organics adsorption and peroxymonosulfate activation. Chemical Engineering Journal, 2023, 468, 143593. 
+6. Yang C, Li XY*, Lin L*. Fabrication of a SnO2-Sb nano-pin array anode for efficient electrocatalytic oxidation of bisphenol A in wastewater, Journal of Hazardous Materials, 2023, 130444. 
+7. Chen W, He X, Jiang Z, Li B, Li XY, Lin L*. A capacitive deionization and electro-oxidation hybrid system for simultaneous removal of heavy metals and organics from wastewater, Chemical Engineering Journal, 2023, 451, 139071.
+8. He X, Chen W, Jiang Z, Wang Q, Li B, Li XY*, Lin L*. Importance of the conductivity and specific surface area of electrode particles to the desalination performance and energy efficiency of flow-electrode capacitive deionization, Separation and Purification Technology, 2023, 304, 122308.
+9. Li YY, Lin L*, Huang X, Li XY*. Treatment of saline municipal wastewater using partial nitritation-anammox: Hydrazine-assisted salinity adaptation and nitrate control, Chemical Engineering Journal, 2023, 470, 144268. 
+10. Wen L, Lin Lin*, Fan YA, Luo Y, Ma SS, Zhou Y, Yang C, Shih KM, Li XY*. Valorization of thermally hydrolyzed sludge with clay for sintering of ceramic tiles, Science of the Total Environment, 2023, 877, 162871. 
+11. Wang QY, Chen GQ, Lin L*, Li XY, Kentish SE*. Purification of organic acids using electrodialysis with bipolar membranes (EDBM) combined with monovalent anion selective membranes, Separation and Purification Technology, 2021, 279, 119739.
+12. Lin L, Hu JH, Liu JH, He X, Li B, Li XY*. Selective Ammonium Removal from Synthetic Wastewater by Flow-Electrode Capacitive Deionization Using a Novel K2Ti2O5-Activated Carbon Mixture Electrode. Environmental Science & Technology, 2020, 54: 12723–12731.
+13. Chen C, Liu GM, An Q, Lin L*, Shang Y, Wan CL*. From wasted sludge to valuable biochar by low temperature hydrothermal carbonization treatment: insight into the surface characteristics. Journal of Cleaner Production, 2020, 263, 121600. 
+14. Lin L, Tam LH, Xia X, Li XY*. Electro-fermentation of iron-enhanced primary sedimentation sludge in a two-compartment cell for products separation and resources recovery. Water Research, 2019, 157: 145-154.
+15. Lin L, Li XY*. Effects of pH adjustment on the hydrolysis of Al-enhanced primary sedimentation sludge for volatile fatty acids (VFAs) production. Chemical Engineering Journal, 2018, 346: 50-56. 
+代表性著作 
+1. 张可，林琳.《工程环境保护概论》，工程教育专业认证通识课程教材。
+2. Li RH, Lin L, Li XY*. (2021). Book: Recovery and Reuse of Resource and Energy. Water, Biomass and Bioenergy. Chapter: Recovery of Phosphorus from Wastewater and Sludge. Wiley-VCH Verlag GmbH & Co. KGaA,.
+主要专利成果 
+1. 林琳、陈吴桐，等，印染废水处理系统和印染废水处理方法, 发明专利（CN 202210140936.9）
+2. 林琳、何欣，等，一种流动电极、流动电容去离子装置及其应用，发明专利（CN 202210252396.3）
+3. 林琳、汪旋，等，一种回收磷和铁的方法及其应用，发明专利 （CN 202310017923.7）
+4. 林琳、常轶娇，等，一种磷酸铁锂碳包覆材料及其制备方法和应用，发明专利 （CN 2023210005695.1）
+5. 林琳、杜瑾，等，微生物电合成反应器，实用新型（ZL 202123305214.4）
+6. 林琳、梁柱，等， 电极液流道构型优化的流动电极电容去离子装置，实用新型（ZL 202220205439.8）
+7. 李晓岩，林琳，等，一种一体化短程高效污水处理装置，实用新型 (ZL201822150359.3)
+8. 李晓岩，林琳，等，一种污水高效脱氮的生物膜反应器，实用新型(ZL 201822136852.X)
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2019年，深圳市海外高层次C类人才
+2018年，香港大学杰出研究生
+ </奖励荣誉>

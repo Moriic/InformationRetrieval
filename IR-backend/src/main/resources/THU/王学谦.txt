@@ -1,0 +1,62 @@
+{"title":"王学谦","cnUrl":"http://www.sigs.tsinghua.edu.cn/wxq/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/10/14/04352aaa4a53ba81908a51ac7ea1/e8ccdd55-039e-47cd-8309-d7fb7b7b8cb2.jpg","email":"wang.xq@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+主要从事机器人与人工智能研究
+教育经历 
+2006年3月-2010年3月，哈尔滨工业大学控制科学与工程专业博士毕业
+2003年9月-2005年12月，哈尔滨工业大学机械电子工程专业硕士毕业
+1999年9月-2003年7月，哈尔滨理工大学机械设计制造及自动化专业本科毕业
+工作经历 
+2019年12月至今，清华大学，深圳国际研究生院，教授
+2014年3月-2019年11月，清华大学，深圳研究生院，副研究员
+2010年6月-2014年2月，哈尔滨工业大学/深圳航天科技创新研究院，博士后
+学术兼职 
+[1] 2017年9月至今，国家级专家
+[2] 2015年9月至今，中国宇航学会机器人专业委员会委员
+[3] 2022年4月至今，人工智能学会智能感知与决策专业委员会委员
+[4] 2016年7月至今，广东省机械工业专家委员会委员
+[5] 2014年1月-2016年12月，国际水中机器人联盟常务委员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+“飞行控制系统”，32学时
+“计算机网络与多媒体技术实验与设计”，32学时
+“空间机器人技术”，16学时
+“交叉创新实践课X-Robot”，16学时
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事智能机器人研究，包括机器人动力学与控制、遥操作、智能决策与博弈、故障诊断等。现为智能控制与遥科学研究中心负责人、深圳市空间机器人与遥科学重点实验室副主任。作为课题负责人主持各类项目20余项。发表学术论文120余篇，授权及申请国家发明专利68项。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Xu Feng, Tan Junbo, Wang Ye*, Wang Xueqian*, Liang Bin, Yuan Bo. Robust Fault Detection and Set-Theoretic UIO for Discrete-Time LPV Systems With State and Output Equations Scheduled by Inexact Scheduling Variables [J]. IEEE Transactions on Automatic Control. 2019, 64(12): 4982-4997.
+[2] Meng Deshan, Lu Weining, Xu Wenfu, She Yu, Wang Xueqian*, Liang Bin, Yuan Bo, Vibration suppression control of free-floating space robots with flexible appendages for autonomous target capturing[J]. Acta Astronautica. 2018, 151: 904-918.
+[3] Xu Feng, Tan Junbo, Wang Xueqian*, Puig Vicenç, Liang Bin*, Yuan Bo, Mixed Active/Passive Robust Fault Detection and Isolation Using Set-Theoretic Unknown Input Observers[J]. IEEE Transactions on Automation Science and Engineering. 2018, 15(2): 863-871. 
+[4] Xu Feng, Tan Junbo, Wang Xueqian*, Puig, Vicenç, Liang Bin*, Yuan Bo, Liu Houde, Generalized set-theoretic unknown input observer for LPV systems with application to state estimation and robust fault detection[J]. International Journal of Robust and Nonlinear Control. 2017, 17(27): 3812-3832. 
+[5] Tan Junbo, Xu Feng*, Olaru Sorin, Wang Xueqian*, Liang Bin. ZKF-based optimal robust fault estimation of descriptor LPV systems with measurement error-affected scheduling variables[J]. ISA Transactions, 2019, 94, 119-134. 
+[6] Xu Feng, Tan Junbo, Wang Ye*, Puig, Vicenç, Wang Xueqian*. Combining Set-Theoretic UIO and Invariant Sets for Optimal Guaranteed Robust Fault Detection and Isolation[J]. Journal of Process Control, 2019, 78: 155-169.
+[7] Huang Shaoping, Meng Deshan, She Yu, Wang Xueqian*, Liang Bin, Yuan Bo, Statics of Continuum Space Manipulators With Nonconstant Curvature via Pseudorigid-Body 3R Model[J]. IEEE Access. 2018, 6: 70854-70865.
+[8] Zhang Zhiyuan, Wang Xueqian*, Wang Songtao, Meng Deshan, Liang Bin*, Design and Modeling of a Parallel-Pipe-Crawling Pneumatic Soft Robot[J]. IEEE ACCESS, 2019, 7: 134301-134317
+[9] Hu Tianjian, Zhu Xiaojun, Wang Xueqian*, Wang Tianshu, Li Junfeng, Qian Weiping, Human stochastic closed-loop behavior for master-slave teleoperation using multi-leap-motion sensor[J]. Science China-Technological Sciences, 2017, 60(3): 374-384
+[10] Meng Deshan, Wang Xueqian, Xu Wenfu, Liang Bin, Space robots with flexible appendages: Dynamic modeling,coupling measurement, and vibration suppression[J]. Journal of Sound and Vibration, 2017, 396: 30-50
+代表性著作 
+主要专利成果 
+[1] 王学谦，王帅军，张博，梁斌，邹瑜，可用于快速重构的模块化空间机械臂关节及机械臂，中国，ZL 201510071810.0
+[2] 王学谦，孟得山，刘厚德，梁斌，徐文福，一种引入挠性附件振动量的空间机器人关节轨迹规划方法，中国，ZL 201410404868.8
+[3] 王学谦，谭俊波，赵泽奇，梁斌，徐峰，一种滚动轴承故障的诊断方法，中国，ZL201610268894.1
+[4] 刘厚德，王学谦，梁斌，朱晓俊，宋靖雁，空间机器人在轨精细操作的地面实验系统，中国，ZL 201410220419.8
+[5] 邹瑜，王学谦，刘厚德，宋靖雁，梁斌，张涛，一种基于模型的空间非合作目标位姿测量方法，中国，ZL 201410236147.0
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+[1] 高层次控制工程领域应用型人才培养探索与创新，清华大学教学成果一等奖，2019（5/5）
+[2] 三维手势遥操作技术及试验，省部级科学技术进步一等奖，2017（2/15）
+[3] 机器人系统设计与关键技术，省部级科技进步一等奖，2014（4/15）
+[4] 机器人技术与科学试验，国家科技进步特等奖，2015（49/50）
+[5] 国家高技术研究发展计划（863计划）“十二五”科技创新之星，2016
+ </奖励荣誉>

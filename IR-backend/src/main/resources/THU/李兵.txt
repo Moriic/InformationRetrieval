@@ -1,0 +1,67 @@
+{"title":"李兵","cnUrl":"http://www.sigs.tsinghua.edu.cn/lb2_2931/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/3b/60/f03e39f3422d9ec6f6e88974cc52/ee000cbb-ebb6-4b61-aa69-052bcdc4f48e.jpg","email":"li.bing@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+ 主要研究方向为流域磷酸盐再生与环境效应调控，红树林韧性与蓝碳保护，涉及陆海减污降碳协同增效和生态环境修复等研究。近5年发表期刊论文50余篇，参加国际学术会议17次。其中，ESI高被引论文2篇，热点论文4篇。他引超过1600 次, SCI-H 指数为17，部分工作被欧洲磷回收学会报道。主持纵向科研课题9项，其中包括国家级项目3项，省部级项目2项，受理发明专利5项。获2019年环境技术进步二等奖（排名第2）、世界生物人才技术训练营一等奖和深圳市海外高层次人才资助。受邀做国际会议学术报告4次，曾任2021年可持续技术与发展国际会议/滨海城市水安全论坛共同主席，2022 可持续能源发展国际会议/磷回收与低碳利用技术分论坛主席。课题组常年招收博士后、博士生、科研助理及访问学生，诚挚欢迎具有环境、水利、生态等交叉学科背景，致力于滨海湿地保护和磷资源可持续利用与发展的同学加入。
+教育经历 
+2013年08月-2017年07月，奥克兰大学，化学与材料专业，博士
+2010年09月-2012年01月，谢菲尔德大学，环境与能源专业，硕士
+工作经历 
+2023年6月至今 清华大学深圳国际研究生院，副教授
+2020年09月-2023年06月，清华大学深圳国际研究生院，助理教授
+2020年05月-2020年09月，奥克兰大学博士后
+2018年03月-2020年04月，清华大学博士后
+2017年09月-2018年03月，奥克兰大学博士后
+学术兼职 
+生态水文领域顶刊Journal of Hydrology 副主编(Q1)
+海洋环境领域经典期刊Regional Studies in Marine Science的执行主编(Q2) 
+期刊Sustainable Horizons、Frontiers in Marine Science（Q1）编委、Marine Pollution Bulletin青年编委（Q1）
+中国能源学会综合能源专家组副主任委员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《海洋生物地球化学》、《全球变化生态学前沿》、《海洋有机物波谱分析及应用》、《海洋污染防治技术与应用》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 流域物质循环是水生态系统功能提升与水质量变化研究的核心内容。其中，磷元素作为水生态与水环境系统的关键性控制因子，其循环过程量化和环境效应调控对流域水资源管理具有重大现实意义。但磷循环过程与河网结构、水沙通量和水动力变化具有复杂的耦合关系，其跨区代谢过程和多介质耦联机理是流域生态水文学的研究瓶颈。本人的研究方向为流域磷酸盐再生与环境效应调控，红树林韧性与蓝碳保护，涉及陆海减污降碳协同增效和生态环境修复等研究。该方向是水文水资源、海洋环境和系统工程的新兴交叉领域。主要研究内容包括：磷循环过程的形成条件、分布范围、运移形式和控制方法，涉及环境化学、环境水利、产业生态学、环境微生物、环境化工、环境系统分析等领域知识。同时，也包括磷-水、磷-碳耦合机制研究，并致力探索其在水环境污染控制和海洋碳汇效用等方面的应用。
+主要项目 
+●国家重点研发计划，2023-2025，滨海湿地生态系统蓝碳碳汇和综合生态服务功能，子课题负责人
+●自然科学基金委，2020-2022，废水磷回收产物在土壤重金属钝化中高效利用的基础研究，负责人
+●中国博士后基金，2018-2020，动态物质流视角下2030年中国磷资源风险及策略分析，负责人
+●广东省重点领域研发计划，茅洲河水体综合治理与生态修复关键技术集成及示范， 2019-2021，项目联系人、主要完成人
+●贵州省科技支撑计划，2023-2025，微生物诱导磷石膏固碳及其无害化应用技术研发，课题负责人
+●深圳市人才引进启动经费，2021-2024，深圳近海磷素及四环素类抗生素的分布、来源及防控策略研究，负责人
+●深圳市科创委基础研究面上项目，2021-2024，磷酸铵镁微生物矿化对氮磷处置过程中四环素的响应机制及其调控因素研究，负责人
+●深圳市科创委稳定支持项目，2022-2024，基于磷素调控的红树林湿地温室气体排放规律与蓝碳增汇技术研究
+●深圳市科创委配套支持项目，2022-2024，与潮汐相协同的智能化旁路处理技术与生态补水技术研究，主要完成人
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Zhang, Z.P., Li, B. *, Breichle, M.G., Wicaksana, F., Yu, W., Young, B., 2021. Effect of acetic acid on struvite precipitation: An exploration of product purity, morphology and reaction kinetics using central composite design, Chemosphere, 131486. 
+[2] Han, J.C., Shang, F.Z., Li, P., Li, B.*, Yang, Z., Huang, Y.F., 2021. Coupling Bayesian-Monte Carlo simulations with substance flow analysis for efficient pollutant management: A case study of phosphorus flows in China, Resources Conservation and Recycling, 169, 105550. 
+[3] Li, B.*, Dong, S.L., Huang, Y.F., Yu, W., Wang, G.Q., Young, B., 2021. Toward a decision support framework for sustainable phosphorus management: A case study of China, Journal of Cleaner Production, 279, 123441.
+[4] Li, B.*, Yin, T., Udugama, I.A., Dong, S.L., Yu, W., Huang, Y.F., Young, B., 2020. Food waste and the embedded phosphorus footprint in China, Journal of Cleaner Production, 252, 119909.
+[5] Li, B., Huang, H.*, Sun, Z., Zhao, N., Munir, T., Yu, W, Young, B., 2020. Minimizing heavy metals in recovered struvite from swine wastewater after anaerobic biochemical treatment: Reaction mechanisms and pilot test, Journal of Cleaner Production, 272, 122649.
+[6] Li, B.*, Li, P., Zeng, X.C., Yu, W., Huang, Y.F., Wang, G.Q., Young, B., 2020. Assessing the sustainability of phosphorus use in China: Flow patterns from 1980 to 2015, Science of The Total Environment, 704, 135305.
+[7] Li, B. *, Akram, M., Al-Zuhair, S., Elnajjar, E., Munir, M. T., 2020. Subcritical water extraction of phenolics, antioxidants and dietary fibres from waste date pits, Journal of Environmental Chemical Engineering, 8, 6, 104490. 
+[8] Zhao, N., Li, B. *, Huang, H.M., Lv, X., Zhang, M., Cao, L., 2020. Modification of kelp and sludge biochar by TMT-102 and NaOH for cadmium adsorption, Journal of the Taiwan Institute of Chemical Engineers, 116, 101-111.
+[9] Guo, G.J., Li, B.*, Huang, H.M., Zhao, N., Li, J., Liu, Y.L., Lv, X., Zhang, M., Cao, L., Tai, Z., 2020. Radical-based advanced oxidation for trichlorfon degradation and phosphorus recovery: Process feasibility and reaction mechanism, Journal of Cleaner Production, 275, 122706.
+[10] Li, B.*, Boiarkina, I., Yu, W., Huang, H.M., Munir, T., Wang, G.Q., Young, B., 2019. Phosphorous recovery through struvite crystallization: challenges for future design, Science of the Total Environment, 648, 1244-1256.
+[11] Huang, H., Zhang, D., Wang, W., Li, B.*, Zhao, N., Li, J., Dai, J., 2019. Alleviating Na+ effect on phosphate and potassium recovery from synthetic urine by K-struvite crystallization using different magnesium sources, Science of the Total Environment, 655, 211-219.
+[12] Huang, H., Li, J., Li, B.*, Zhang, D., Zhao, N., Tang, S., 2019. Comparison of different K-struvite crystallization processes for simultaneous potassium and phosphate recovery from source-separated urine, Science of The Total Environment, 651, 787-795.
+[13] Huang, H., Li, B.*, Li, J., Zhang, P., Yu, W., Zhao, N., Guo, G., Young, B., 2019.Influence of process parameters on the heavy metal (Zn2+, Cu2+ and Cr3+) content of struvite obtained from synthetic swine wastewater, Environmental Pollution, 245, 658-665.
+[14] Li, B., Udugama, I.A., Mansouri, S.S., Yu, W., Baroutian, S., Gernaey, K.V., Young, B., 2019. A techno-economic-societal roadmap to overcome barriers for comercialisation of phosphorus recovery, Journal of Cleaner Production, 229, 1342-1354.
+[15] Li, B., Boiarkina, I., Young, B., Yu, W., 2019. A new thermodynamic approach for struvite product quality prediction, Environmental Science and Pollution Research, 26, 4, 3954–3964.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2019年，环境技术进步奖，二等奖，排名第二
+2018年，第四届过程系统工程及未来创新论坛全额资助，希腊
+2016年，奥克兰大学创业创新大赛，一等奖，新西兰
+2016年，世界生物人才技术训练营，一等奖，丹麦
+ </奖励荣誉>

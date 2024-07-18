@@ -1,0 +1,172 @@
+{"title":"袁春","cnUrl":"http://www.sigs.tsinghua.edu.cn/yc2/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/4b/03/77801d074913a1726052837e55cd/d2760743-3dfd-43b5-95fa-eaa3d81c6965.jpg","email":"yuanc@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+Google scholar: https://scholar.google.com/citations?hl=en&user=fYdxi2sAAAAJ
+DBLP: https://dblp.org/pers/hd/y/Yuan:Chun
+ 现为清华大学深圳国际研究生院教授、博士生导师、CCF 杰出会员、IEEE高级会员，清华大学－香港中文大学媒体科学、技术与系统联合研究中心常务副主任，清华大学深圳研究生院计算机应用技术实验室主任。
+ 1999年和2002年在清华大学计算机科学与技术系，人机交互及媒体集成研究所，分别获得硕士和工学博士学位，2002年至2003年在微软亚洲研究院Internet Media组实习，2003年至2004年在法国国家信息和自动化研究所（INRIA-Rocquencour）任博士后研究员，2014年7月-8月在CMU计算机科学学院机器学习系访问。中国计算机学会CCF YOCSEF 深圳分论坛2013-2014主席。
+ 承担多项国家自然科学基金，讲授的“大数据机器学习”在线视频课程，2019年6月被中宣部“学习强国”平台“每日慕课”栏目设置为推荐公开课，2020年被评为教育部“国家级一流本科课程”。在国际学术会议和期刊上发表文章160多篇，CCF及清华计算机系A类论文30多篇，SCI H-Index17, 担任多个国际顶级期刊特约审稿人，包括：TMM，TIP，TNNLS，T-Cybernetics, TCSVT等，担任多个顶级机器学习和计算机视觉相关学术会议程序委员会委员或Session Chair，如NIPS，ICLR，CVPR，ACM MM, AAAI, IJCAI, ICME等；申请和拥有国际国内专利40多项，2012年获“IEEE distinguished expert award”，目前独立指导博士和硕士研究生十多人，研究方向为机器学习，计算机视觉，强化学习等。指导八名毕业学生获得“清华大学校级优秀硕士学位论文”。相关领域比赛成绩:Pascal VOC2012图像语义分割竞赛实时排行榜第二名，NIPS2017 “Learn to Run”强化学习竞赛，第四名（565参赛队伍），2017 IBM Power AI 人工智能马拉松编程大赛冠军，天池FashionAI全球挑战赛“服饰属性标签识别”比赛第一名（672参数队伍），YouTube-Vos 2018 视频目标分割挑战赛排行榜第四名，视频多目标跟踪MOT2015数据集第一名，视频多目标跟踪MOT2016数据集第二名,
+教育经历 
+1999年09月-2002年12月 清华大学计算机科学与技术系，人机交互及媒体集成研究所，博士
+1997年03月-1999年07月 清华大学计算机科学与技术系，人机交互及媒体集成研究所，硕士
+工作经历 
+2015年01月-02月，美国西北大学EECS访问（Prof.Ying Wu）；
+2014年07月-08月，美国卡耐基梅陇大学计算机学院访问(Prof.Eric Xing)；
+2021年12月-今，清华大学深圳国际研究生院信息学部，教授；
+2011年06月-今，清华大学深圳研究生院信息学部，博士生导师；
+2006年12月-今，清华大学深圳研究生院信息学部，副研究员；
+2005年05月-2006年11月，清华大学深圳研究生院信息学部，讲师；
+2003年03月-2004年12月，法国国家信息和自动化研究所（Paris, INRIA）；
+2002年02月-2002年09月，微软亚洲研究院互联网多媒体组实习；
+学术兼职 
+2013.4-2014，中国计算机学会CCF青年计算机科技论坛YOCSEF，深圳分论坛主席；
+2021年09月-今，中国计算机学会CCF，杰出会员；
+2019年06月-今，鹏城国家实验室，双聘副研究员；
+2021年07月-今，中国计算机学会CCF 深圳分会，监事；
+2005年06月-今，中国计算机学会多媒体专委会，执行委员；
+2019年04月-今，IEEE国际电子电气工程师学会，高级会员；
+2020年07月-今，CVPR2021/2022，程序委员；
+2021年07月-今，AAAI2022，程序委员；
+2020年10月-今，JCAI2021/2022，程序委员/特殊委员SPC；
+2021年05月-今，BMVC2021，程序委员；
+2020年08月-今，WACV2020/2021，程序委员；
+2018年03月-2020，ACMMM2018/2019，程序委员；
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+大数据机器学习（秋季学期）：
+类型：基础理论课
+授课对象：信息科学类硕士和博士研究生
+教材：《统计学习方法》第二版，李航著（清华大学出版社）
+计算机视觉（春季学期）
+类型：专业基础课
+授课对象：信息科学类硕士和博士研究生
+教材： 《计算机视觉原理、算法、应用及学习》戴维斯著，袁春 刘婧翻译，机械出版社
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+机器学习：迁移学习，自监督学习，鲁棒学习，半监督学习，图网络
+计算机视觉：图像和视频实例分割，目标检测和跟踪，视频内容预测及生成
+图像和视频内容理解：视觉问答，图像和视频的自然语言描述
+强化学习：稀疏奖励环境下的强化学习算法，非完美信息博弈
+主要项目 
+近期承担项目：
+1、 国家自然科学基金：机场场面监视中复杂目标检测与实时跟踪关键深度学习技术研究（U1833101）2018-2022，
+2、 深圳市科创委“基于深度学习的监控视频对象实时跟踪与内容分析”项目，项目资金200万元。2018-2020
+3、 深圳市科创委“基于课程学习和自增强学习的DDPG强化学习算法研究”，JCYJ20190809172201639，2019-2022
+4、 清华大学-腾讯公司联合研究中心，“视频理解和自然语言表达”2018-2020
+5、 腾讯 AI lab，“环境-对手建模在多智能体强化学习中的核心问题研究”2020-2022
+6、 华为公司,“基于昇腾平台的计算机视觉任务开发”，2021-2022
+以往项目：
+  纵向项目：
+7、 国家自然科学基金：机场场面超分辨率视频的快速编码算法研究（U1433112），2014-2018
+8、 国家自然科学基金：面向WMSN的分布式视频编码关键技术研究（61170253）；2011-2014
+9、 国家863项目：动态媒体业务支撑平台与应用示范（2015AA015803），
+10、 国家863目标导向课题：3DTV内容制作、编码和重构关键技术及原型系统研究(2009AA01Z327)；
+11、 国家核高基项目：智能数字电视 基础软件研发及产业化（2013ZX01039001-002）；
+12、 广东省粤港合作项目：基于云计算可管理的实时视听平台研究和产业化；
+13、 深圳市国际科技合作项目：亚像素级快速立体匹配算法研究与实现（澳大利亚悉尼科技大学张健教授）
+14、 深圳市国际科技合作项目：医疗数据隐私保护平台（美国Emory大学熊莉教授）
+15、 深圳市科技创新委，科技成果示范项目：深圳市三网融合智能家庭示范项目，2013-2016。
+横向项目：
+16、 清华-腾讯联合研究中心：
+a) “视频内容与标题匹配度检测”
+b) “人体虚拟形象建模” 
+c) “基于深度学习的精细化对象识别” 
+17、 华为公司：
+a) “视频插入广告”
+b) “拍照人像分割” 
+ </研究领域>
+<研究成果>
+代表性论文 
+近三年论文
+[1] Lei Li，Chun Yuan et al.,Cross-modal Representation Learning and Relation Reasoning for Bidirectional Adaptive Manipulation, IJCAI2022 CCF A
+[2]Binjie Zhang，Chun Yuan et al., Towards Universal Backward-Compatible Representation Learning，IJCAI2022 CCF A
+[3]Zhihui Lin，Chun Yuan et al., SWEM: Towards Real-Time Video Object Segmentation with Sequential Weighted Expectation-Maximization，CVPR2022 CCF A
+[4]Zhendong Yang，Chun Yuan et al.,Focal and Global Knowledge Distillation for Detectors，CVPR2022 CCF A
+[5]Jianyin Cai, Chun Yuan, et al., Deep Interactive Video Inpainting: an Invisibility Cloak for Harry Potter, ACM MM2021 CCF A
+[6]Lei Li, Chun Yuan et al., Structural Supervision for Word Alignment and Machine Translation, ACL 2022 CCF A
+[7]Binjie Zhang&, Chun Yuan*, et al., Hot-Refresh Model Upgrades with Regression-Free Compatible Training in Image Retrieval, ICLR 2022. CCF|A
+[8]Ke Zhang&, Chun Yuan*,et al.,Weakly Supervised Instance Segmentation By Exploring Entire Object Regions，IEEE Transaction on Multimedia 2022, THU|A
+[9]Zhengzhuo Xu&, Zenghao Chai&, Chun Yuan*，Towards Calibrated Model for Long-Tailed Visual Recognition from Prior Perspective[C]// NeurIPS2021 CCF|A
+[10]Lei Li&, Chun Yuan*，VQMG: Hierarchical Vector Quantised and Multi-hops Graph Reasoning for Explicit Representation Learning[C]//ACM MM2021 CCF|A
+[11]Meng Wei, Chun Yuan, Xiaoyu Yue, Kuo Zhong Title:HOSE-Net: Higher Order Structure Embedded Network for Scene Graph Generation, ACMMM2020 （CCF A）
+[12]Lu, Yuwu; Wang, Wenjing; Yuan, Chun; Li, Xuelong; Lai, Zhihui; Manifold Transfer Learning Via Discriminant Regression Analysis, IEEE Transaction on Multimedia，2020 in press (清华CS，A)
+[13]Kuo Zhong, Ying Wei, Chun Yuan, Haoli Bai, Junzhou Huang, TranSlider: Transfer Ensemble Learning from Exploitation to Exploration KDD2020(CCF A)
+[14]Zhihui Lin, Chun Yuan, Maomao Li, Yangyang Cheng, AF-SVG: Hierarchical Stochastic Video Generation with Aligned Features, IJCAI2020, (CCF A)
+[15]Jianyin Cai, Chun Yuan, Cheng Shi, Lei Li, Yangyang Cheng, Ying Shan“Feature Augmented Memory with Global Attention Network for VideoQA IJCAI2020, (CCF A)
+[16]Yuwei Zhang, Peng Zhang, Chun Yuan, and Zhi Wang, Texture and Shape biased Two-Stream Networks for Clothing Classification and Attribute Recognition， CVPR2020  (CCF A)
+[17] Zhihui Lin, Maomao Li, Zhuobin Zheng, Yangyang Cheng, Chun Yuan, Self-Attention ConvLSTM for Spatiotemporal Prediction, AAAI2020 (CCF A)
+[18]Lishu Luo, Chun Yuan, Ke Zhang, Yuwu Zhang, Double Shot: Preserve and Erase Based Class Attention Networks for Weakly Supervised Localization (PECA-Net) ICME2020 (CCF B)
+[19]Chenxi Yuan , Yang Bai, Chun Yuan Bridge the Gap: High-level Semantic Planning for Image Captioning Coling, Coling2020 CCF B
+[20]Chenxi Yuan, Chun Yuan,Yang Bai Ziran Li, Logic Enhanced Commonsense Inference with Chain Transformer, CIKM 2020 CCF B 
+[21]Zhuobin Zheng, Chun Yuan, Zhihui Lin, Yangyang Cheng, Self-Supervised Mixture-of-Experts by Uncertainty Estimation, AAAI 2019 (CCF A)
+[22]Zhiming Ma, Chun Yuan, Image-to-Tree: A Tree-structured Decoder for Image Captioning, ICME 2019 (CCF B)
+[23]Maomao Li, Chun Yuan, et al. Stochastic Video Generation with Disentangled Representations ICME 2019 (CCF B)
+[24]Zhuobin Zheng, Youcheng Ben, Chun Yuan, Multi-Scale Visual Semantics Aggregation with Self-Attention for End-to-End Image-Text Matching[C]//Asian Conference on Machine Learning. 2019: 940-955. （CCF C）
+[25]Qiurui Wang, Chun Yuan, Jingdong Wang, Wenjun Zeng, Learning Attentional Recurrent Neural Network for Visual Tracking. IEEE Transactions on Multimedia.in press 2018 (JCR Q1) (清华CS，A)[26]Yuwu Lu, Chun Yuan, Wenwu Zhu, Xuenong Li, Structurally Incoherent Low-Rank Nonnegative Matrix Factorization for Image Classification, IEEE Transaction on Image Processing, in press 2018 (CCF A)
+[27]Yuwu Lu, Chun Yuan, Xuenong Li, Zhihui Lai, David Zhang, Structurally Incoherent Low-Rank 2DLPP for Image Classification, IEEE Transactions on Circuits and Systems for Video Technology, in press 2018  (CCF B)
+[28]Zhou Cheng, Chun Yuan, Jiancheng Li, Haiqin Yuang, TreeNet: Learning sentence representations with unconstrained tree structure, in press, IJCAI 2018 (CCF A)
+[29]Zhuobin Zheng, Chun Yuan, Zhihui Lin, Yangyang Cheng, Hanghao Wu, Self-Adaptive Double bootstrapped DDPG，in press, IJCAI 2018 (CCF A)
+[30]Yuwu Lu, Chun Yuan, Xuenong Li, Zhihui Lai, David Zhang, Horizontal and Vertical Nuclear Norm-Based 2DLDA for Image Representation, IEEE Transactions on Circuits and Systems for Video Technology, 2018  (CCF B)
+[31]Youcheng Ben, Chun Yuan, Densely stacked generative adversarial networks, ICME 2018  (CCF B)
+[32]Zhiguan Lin, Chun Yuan, Robust Visual Tracking in Low-Resolution Sequence. IEEE International Conference on Image Processing ICIP 2018, (清华CS，B)
+[33]Dali Yang, Chun Yuan. Hierarchical Context Encoder for Events Captioning in Videos, IEEE International Conference on Image Processing, ICIP2018, (清华CS，B)
+[34]Yipeng Ma, Chun Yuan,Efficient Multi-level Correlating for Visual Tracking，ACCV2018 (清华CS，B)
+[35]Shreyank, Chun Yuan, ColorNet: Investigating the importance of color and color spaces for image classification, ACCV2018 (清华CS，B)
+代表性著作 
+[1]. 《计算机视觉原理、算法、应用及学习》E.R.戴维斯著，袁春，刘婧译，机械工业出版社出版 2020年10月
+[2]. 《信息安全原理与应用》王昭，袁春编著，电子工业出版社 2010年01月
+[3]. 《数字电视机顶盒和多媒体家庭网关》作者：钟玉琢 孙立峰 汤筠 袁春编著，清华大学出版社 2008年11月
+主要专利成果 
+[1]. Deep Learning based Face Recognition method by Light Field Camera, 国际专利，2015-3Yuan Chun, Gu Bing,
+[2]. Fully Scalable Encryption for Scalable Multimedia国际专利, 2004-10-06，发布号：EP1465427, JP2004310097A Bin B. Zhu, Chun Yuan, Yidong Wang, Shipeng Li，
+[3]. Fully Scalable Encryption for Scalable Multimedia国际专利 10/07/04 发布号20040196975，Bin B. Zhu, Chun Yuan, Yidong Wang, Shipeng Li,
+[4]. Scalable, Error Resilient DRM for Scalable Media国际专利2006/10，发布号 APP：301046.1，Bin B. Zhu, Chun Yuan, Shipeng Li,
+[5]. 一种混合专家强化学习方法及系统中国ZL 201910078047.2袁春，郑卓彬，朱新瑞2020-12-29
+[6]. 用于训练智能体的自适应双自驱动深度确定性策略梯度强化学习方法　中国ZL 201811144686.6袁春，郑卓彬，朱新瑞2020-11-03
+[7]. 一种在手机端实现感兴趣物体实时检测的方法中国ZL 201811137704.8袁春，邱鑫2021-07-06
+[8]. 文本分类方法，系统，可读存储介质及电子设备　中国ZL201810640617.8袁春，程洲, 马志明2020-10-20
+[9]. 一种面向事件编码的视频中多事件自然语言描述方法中国ZL201810558731.6袁春，杨大力2021-07-02
+[10]. 一种图像语义分割模型的训练方法　中国ZL201810375579.8袁春，黎健成2021-01-12
+[11]. 图像语义分割模型的训练方法及图像语义分割方法中国ZL 201810085275.8 袁春，黎健成2020-10-02
+[12]. 图像语义分割模型的训练方法，可读存储介质及电子设备中国ZL 201810375579.8袁春，黎健成2021-01-12
+[13]. 一种从视频中自动追踪目标物体的方法　中国ZL201810069464.6袁春, 林之冠2021-05-04
+[14]. 鞋模型检索管理方法和系统中国ZL201710249557.2程洲袁春2019-07-05
+[15]. 可变光源下的双目视图立体匹配方法中国ZL201510268069.7袁春，张江迪2018-01-16
+[16]. 一种提高DASH 视频传输效率的方法中国ZL201510264392.7袁春，李志杰, 王智2017-10-17
+[17]. 一种利用图像修补的自由视点合成技术中国ZL201410785491.5袁春，伍云，陈龙2016-09-21
+[18]. 一种图像显著性检测方法　中国ZL201410226552.4袁春，陈刚彪2017-01-18　
+[19]. 基于深度信念网络的光场人脸识别方法中国ZL201410199207.6袁春，顾兵2017-02-15
+[20]. 一种视频编码中B帧的快速编码方法　中国ZL201310174156.7袁春，白彩霞, 张强2016-04-27
+[21]. 立体匹配的能量最小化加速方法　中国ZL201310174154.8袁春，梁尚立2016-08-10　
+[22]. 视频深度信息恢复的全局立体匹配方法　中国ZL201310174151.4　袁春，梁尚立2016-01-20
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+[1]. 袁春 2020年度腾讯AI Lab“犀牛鸟”专项研究计划优秀奖
+[2]. 袁春 主讲“大数据机器学习”课，2020年“国家级一流本科课程”，
+[3]. 王子愉 “基于多特征融合的实例分割及目标检测”，2020年度清华大学校级优秀硕士学位论文
+[4]. 袁春 2018腾讯犀牛鸟精英人才培养计划 优秀指导教师奖
+[5]. 袁春2018年度清华大学深圳研究生院 优秀教师 2018
+[6]. 贲有成 “基于多尺度视觉语义聚合的端到端图文互匹配模型” 2019 年度清华大学校级优秀硕士学位论文
+[7]. 程洲 “结构感知卷积及其在图像语义分割中的应用”2018年度清华大学校级优秀硕士学位论文
+[8]. 袁亮 “深度图超分辨率算法研究” 2017年度 清华大学校级优秀硕士学位论文
+[9]. 陈刚彪 基于深度和稀疏特征的显著性检测 2015年度 清华大学校级优秀硕士学位 论文
+[10]. Liang S, Yuan C. Dense Depth Recovery Based on Adaptive Segmentation（基于自适应分割的深度恢复算法）, IEEE International Colloquia on Consumer Electronics - China (ICCE), 2013. Best paper award(IEEE会议最佳论文)
+[11]. 袁春 钟玉琢 刘阳 张峣 刘烈 刘源 朱斌 吴志勇 蔡莲红 “基于P2P 框架的流媒体数字版权保护平台” ，深圳市科技创新奖，2007年，第一完成人
+[12]. “多模态的多语种语音、语言交互的研究与应用”，教育部科技进步二等奖，2009年，第十七完成人
+[13]. 梁尙立 袁春，低复杂度交互式多媒体环境（Lightweight Interactive multimedia environment, LIME），国际电信联盟IPTV应用比赛（ITU-T IPTV Challenge）,2011年9月，用户友好奖，2011
+[14].  2012 IEEE 消费电子学会杰出贡献专家奖 （IEEE Consumer Electronics Society, 2012 Distinguished Expert Award）,2012
+[15]. 袁春 Excellent Service Award IEEE，优秀服务奖，IEEE 消费电子学会1/12013
+[16]. 苏方盛“警用GPS定位的设计与实现” 2011年度 清华大学优秀硕士学位论文 （协助钟玉琢教授指导）
+[17]. 梁尙立“基于自适应图像分割的视频深度恢复技术的研究和应用”2013年度 清华大学优秀硕士学位论文
+[18]. 王鑫“分布式视频编码边信息和相关噪声模型算法研究”2013年度清华大学优秀硕士学位论文
+[19]. 袁春 2006年度清华大学深圳研究生院先进工作者 2006
+[20]. 袁春 2007年度清华大学深圳研究生院先进工作者 2007
+[21]. 袁春 2008年度清华大学深圳研究生院先进工作者 2008
+[22]. 袁春 2002 清华大学计算机科学与技术系优秀研究生二等（摩托罗拉）奖学金 
+ </奖励荣誉>

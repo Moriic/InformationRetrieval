@@ -1,0 +1,79 @@
+{"title":"聂晓梅","cnUrl":"http://www.sigs.tsinghua.edu.cn/nxm/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/98/df/4a5f96114335a69b9ef78eda52f5/b9b3e7bf-2e23-45ad-8ae8-2a82fe01d846.jpg","email":"nie.xiaomei@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+聂晓梅，清华大学深圳国际研究生院设计学副教授，任“互联网+创新设计”研究生项目教学主管。厦门大学广播电视新闻学士和传播学硕士，清华大学设计学博士；美国哥伦比亚大学联合培养博士项目（国家留学基金委）。曾在全球五百强企业负责品牌管理工作。主要研究领域：社会创新设计、跨媒体设计、品牌传播战略、当代艺术与设计理论与创作等。主要聚焦于艺术设计与科技的跨学科研究，致力于将设计学、传播学与数字媒体科技的交叉研究成果应用于文化遗产保护与传承、教育、健康、品牌传播等广泛领域，促进社会文化与社会创新。
+出版著作三部，发表学术论文数十篇，教学科研成果曾获“深圳市哲学社会科学优秀成果奖（著作奖）“、”清华大学教学成果二等奖“、”清华大学在线教学创新案例“ 等。《社会创新设计》课程获“清华大学研究生教育教学改革项目”支持、“清华大学深圳国际研究生院精品课”立项支持。指导学生110人次获得国内外创新设计大赛奖项70多项。  
+曾负责大型企业品牌运营管理工作，熟谙企业文化、品牌战略与传播、设计管理等领域，策划设计的项目曾获“全国十大营销事件”、 “中国媒体创新营销奖”等十多个全国省市奖项。曾为中央电视台中国国家品牌课题组的顾问。与大型国有企业、创新型企业合作开展应用研究，并为政府机构或协会提供品牌传播、文化创意和社会创新等咨询服务。
+聂晓梅老师也从事艺术创作和艺术评论，她主要开展陶瓷、油画、数字媒体等艺术创作，并出版多部艺术著作，发表艺术评论多篇，为广东省美术家协会、广东省青年美术家协会成员、中国陶瓷工业协会女陶艺家协会。
+教育经历 
+2010年9月-2013年7月，清华大学，艺术设计专业，博士
+2011年9月-2012年9月，美国哥伦比亚大学，国家留学基金委高水平大学联合培养博士项目
+1999年9月-2002年7月，厦门大学，传播学专业，硕士
+1995年9月-1999年7月，厦门大学，广播电视新闻专业，学士
+工作经历 
+2019年12月-至今，清华大学，设计学副教授
+2013年10月-2019年9月，清华大学，设计学讲师
+学术兼职 
+广东省美术家协会会员
+广东省青年美术家协会会员
+中国陶瓷工业协会女陶艺家协会会员
+深圳市宣传部舆情工作室特邀专家
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+社会创新设计Design for Social Innovation (SIGS)
+跨媒体设计思维与方法 Design Thinking and Method of Cross-media  (SIGS)
+品牌形象传播与管理Brand Image Communication and Management (SIGS)
+设计思维与实践Design thinking and practice (SIGS)
+艺术原理Art Principles (SIGS)
+中外美术鉴赏Appreciation of Chinese and foreign art (SIGS)
+叙事表达Narrative Expression (SIGS)
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要研究方向：社会创新设计、跨媒体设计、品牌传播战略、当代艺术与设计理论与创作等。聚焦于艺术设计与科技的跨学科研究，致力于将设计学、传播学与数字媒体科技的交叉研究成果应用于文化遗产保护与传承、教育、健康、品牌传播等广泛领域，促进社会文化与社会创新。曾作为中央电视台中国国家品牌课题组顾问开展全球经济强国的品牌发展战略研究。
+在研项目：
+1、社会创新研究+数字媒体：在深圳市新一代互动媒体技术创新重点实验室主要负责“互动媒体设计研究室”的研究工作，包括文化遗产数字化保护与传承、青少年艺术与STEAM教育、医疗健康交互媒体设计等研究
+2、品牌传播研究：数字化品牌传播，可持续社会中的品牌创新
+3、艺术研究：艺术史、跨文化艺术传播和女性艺术研究
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Bo Shui, Chufan Shi, and Xiaomei Nie*. 2023. Metro Re-illustrated: Incre-mental Generation of Stylized Paintings Using Neural Networks. In Special Interest Group on Computer Graphics and Interactive Techniques Conference Posters (SIGGRAPH), August 06-10, 2023. ACM.
+[2] WenQian Liu, Xiaomei Nie *. Cultural Heritage Game Design Based on the Collective Memory Reconstruction Model. International Conference on Comprehensive Art and Cultural Communication, 2023.
+[3] Bo Shui, Hanyu Guo, Haoyang Li, Chufan Shi, Xiaomei Nie*. Community Tour: An Expandable Knowledge Exploration System for Urban Migrant Children. The 22nd annual ACM Interaction Design and Children (IDC) Conference, 2023.
+[4] Yalan Luo, Weiyue Lin, Yuhan Liu, Hanyu Guo, Xiang Qian *, Xiaomei Nie *.Digital Cultural Heritage Interpretation for Blind and Low Vision People has been accepted for presentation. International Conference on Human- Computer Interaction of International Federation for Information Processing（INTERACT 2023），2023.
+[5] Yalan Luo，Yuchen Dong，Xiaomei Nie*，Junchi Zhou，Dingjun Wu，Zihan Jiang，Xi Chen. Auditory and Haptic Interaction Design of Accessible Digital Museum Based onthe Blind Information Processing Theory. 2022 6th International Conference on Electronic Information Technology and Computer Engineering (EITCE 2022).
+[6] Yuyang Zhang, Wanting Li, Yalan Luo, Xiaomei Nie*.Serious Game Design of Cultural Heritage Education based on the Experiential Learning Cycle Model，2021 International Conference on Information Science and Education (ICISE-IE), 2021.
+[7] Nan Chao, Shengge Yang, Yuxian Qin, Zemin Song, Zhaofan Su, Xiaomei Nie*.AR-Poetry: Enhancing Children's Motivation in Learning Classical Chinese Poetry via Interactive Augmented Reality.The Ninth International Symposium of Chinese CHI (ChCHI 2021).
+[8] Shufang Tan, Yui Lo, Yuhan Dong, Chaoying Li, Xiaomei Nie*. Eye-Tracking Aided VR System for Amblyopic Pediatric Treatment Difficulty Adjustment. International Conference on Virtual Reality and Intelligent Systems (ICVRIS 2020), 2020. 07.
+[9] 张羽洋, 李万葶, 罗雅兰, 聂晓梅*. 基于体验式学习模型的文化遗产教育游戏设计. 现代教育技术2022, 32(7):9.
+[10] 聂晓梅.圣境、神境与诗境:欧洲经卷插图、中西亚细密画与中国画的传播与对比. 美术,2020 (08):129-135.
+[11] 聂晓梅. 生成中的中国当代设计智慧——第12届全国美展设计艺术作品探析. 美术，2015 (02)：13-16.
+[12] 聂晓梅. 从美国三大年展看美国当代艺术的多元对话. 美术，2013(04): 130-135.
+[13] 聂晓梅. 崛起的映射：美国1860-1920广告产业发展综述.现代广告. 2019(春季刊)：04-08.
+[14] 聂晓梅. 不同生命周期的品牌形象设计策略. 包装工程，2015（20）：12-16.
+[15] 聂晓梅. 美国百年品牌传承中的符号体系研究. 现代广告（学术刊），2015（12）：39-42.
+[16] 黄维，聂晓梅. 营销视野下的品牌形象识别理论发展轨迹. 装饰，2012年（07）：71-72.
+代表性著作 
+[1]《品牌帝国：跨学科视角下的美国品牌形象理论演进》. 北京：清华大学出版社，2005年1月出版。本书入选为清华大学文科出版基金支持项目，并获得深圳市哲学社会科学优秀成果奖（著作类）。
+[2] 《生生：奇妙的旅程》.广州：岭南美术出版社，2019年8月出版
+[3] 《花不语——聂子禅诗画随笔》. 广州：花城出版社, 2008年9月出版。
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+清华大学教学成果二等奖
+清华大学在线教学创新案例
+深圳市第八届哲学社会科学优秀成果奖（著作奖）二等奖
+中国大学生广告艺术节学院奖优秀指导教师
+全国大学生广告艺术大赛广东赛区优秀指导教师
+中国国际广告节“媒体创新营销奖”
+中国 (深圳) 国际文化产业博览交易会“最佳展位设计奖”
+“中国媒体企划金奖” 
+中国广告学术研讨会优秀论文
+ </奖励荣誉>

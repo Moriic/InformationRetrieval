@@ -1,0 +1,89 @@
+{"title":"贺艳兵","cnUrl":"http://www.sigs.tsinghua.edu.cn/hyb/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/d3/d1/0e3306904a20a7b92378dda2a978/d3b35c68-c1da-4a79-aff6-0e18eb0f8264.jpg","email":"he.yanbing@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2000年09月-2004年07月，太原理工大学 应用化学系 本科 
+2004年09月-2009年12月，天津大学 应用化学系 硕士、博士
+工作经历 
+2010年3月~2012年3月，清华大学深圳研究生院 博士后
+2012年4月~2013年4月，香港科技大学机械工程系 访问学者
+2013年5月~2020年12月，清华大学深圳研究生院/深圳国际研究生院 副研究员
+2016年6月~至今，清华大学材料科学与工程学科 博士生导师
+2021年1月~至今，清华大学深圳国际研究生院长聘副教授 博士生导师
+学术兼职 
+（1）Energy Materials and Devices期刊执行主编
+（2）深圳全固态动力锂电池电解质工程研究中心主任
+（3）中国材料与试验团体标准委员会电池及其相关材料领域委员会委员
+（4）中国材料与试验团体标准委员会固态电池研发过程与评价标准化技术委员会副主任委员
+（5）Chinese Chemical Letters编委
+（6）深圳市电源技术学会专家委员会委员
+（7）《自然》（Nature），《自然可持续性》(Nature Sustainability),《自然通讯》（Nature Communications）, 《先进材料》（Advanced Materials）, 《应用化学》（Angewandte Chemie International Edition）, 《能源&环境科学》（Energy & Environmental Science）, 《美国化学会志》（Journal of the American Chemical Society）等期刊审稿人。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《固态离子学》，32学时，主讲
+《材料分析与表征》，48学时，主讲
+《低碳经济与低碳技术》，32学时，主讲
+《电化学原理与应用》，32学时，参与
+《能源转化与能量存储:材料与器件》，48学时，参与
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 主要从事高安全性电池及关键材料研究，聚焦于固态电池材料和器件研究：（1）在国际上率先阐明了钛酸锂电池的界面催化反应胀气机理，获得被行业广泛认可的界面隔绝层解决方案，研制出高密度高稳定且快速充放电性能优异的长寿命钛酸锂材料，研究成果成为产业界和学术界解决钛酸锂电池产气问题和发展高密度、高稳定钛酸锂材料的重要理论依据；（2）提出并阐明了固态电池原位界面反应固态化机制，构建了离子导电复合界面，实现了固-固原子级界面耦合和跨界面兼容；（3）发明了介电陶瓷材料耦合新方法，揭示了锂盐解离和离子跨物相自发迁移机制，研制出高离子电导率复合固态电解质；（4）提出了正极材料高稳定界面层的低氧化电位构建策略，创制了弹性固-聚-固离子高效跨间隙传递网络，大幅提升了全固态电池的室温长循环性能。籍上述成果提出了可量化的离子输运通量概念，为固态电池研究提供了重要判据。研究成果推动了固态电池产业发展。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+ 迄今共发表SCI论文220余篇，SCI他引18000余次，30余篇入选ESI高被引论文，H因子71；近五年在《自然纳米技术》（Nature Nanotech.）、《自然通讯》（Nature Commun.）、《先进材料》（Adv. Mater.）、《德国应用化学》（Angew. Chem. Int. Ed.）、《能源&环境科学》（Energy Environ. Sci.）等SCI期刊发表论文100余篇；获授权发明专利60余项，PCT专利2项，转移转化6项；获国家技术发明二等奖（排名第五，2017）、广东省自然科学一等奖（排名第二，2019）、第十届侯德榜化工科学技术青年奖（2018）、广东省科学技术二等奖（排名第一，2015）和深圳市自然科学二等奖（排名第一，2016），英国皇家化学会会士（2022），2021和2022年度“科睿唯安”全球高被引学者。主持深圳市杰出青年基础项目（2020）、国家自然科学基金联合重点项目、面上项目和国家重点研发计划课题等。
+[1] Peiran Shi, Jiabin Ma, Ming Liu, Shaoke Guo, Yanfei Huang, Shuwei Wang, Lihan Zhang, Likun Chen, Ke Yang, Xiaotong Liu, Yuhang Li, Xufei An, Danfeng Zhang, Xing Cheng, Qidong Li, Wei Lv, Guiming Zhong*, Yan-Bing He* and Feiyu Kang*. A dielectric electrolyte, solid-state lithium metal batteries,Nature Nanotechnology, 2023, 18:602-610(ESI高被引论文/热点论文).
+[2] Danfeng Zhang, Ming Liu, Jiabin Ma, Ke Yang, Zhen Chen, Kaikai Li, Chen Zhang, Yinping Wei, Min Zhou, Peng Wang, Yuanbiao He, Wei Lv, Quan-Hong Yang, Feiyu Kang, Yan-Bing He*. Lithium hexamethyldisilazide as electrolyte additive for efficient cycling of high-voltage non-aqueous lithium metal batteries. Nature Communications, 2022, 13(1): 6966.
+[3] Jie Biao, Bing Han, Yidan Cao, Qidong Li, Guiming Zhong, Jiabin Ma, Likun Chen, Ke Yang, Jinshuo Mi, Yonghong Deng, Ming Liu, Wei Lv, Feiyu Kang, Yan-Bing He*. Inhibiting Formation and Reduction of Li2CO3 to LiCx at Grain Boundaries in Garnet Electrolytes to Prevent Li Penetration.Advanced Materials, 2023, 35, 2208951.
+[4] Yan-Fei Huang, Tian Gu, Guanchun Rui, Peiran Shi, Wenbo Fu, Lai Chen, Xiaotong Liu, Jianping Zeng, Benhao Kang, Zhichao Yan, Florian J. Stadler, Lei Zhu, Feiyu Kang and Yan-Bing He*. A relaxor ferroelectric polymer with an ultrahigh dielectric constant largely promotes the dissociation of lithium salts to achieve high ionic conductivity. Energy & Environmental Science, 2021, 14, 6021–6029.
+[5] Ke Yang, Liang Zhao, Xufei An, Likun Chen, Jiabin Ma, Jinshuo Mi, Yan-Bing He*. Determining the Role of Ion Transport Throughput in Solid‐State Lithium Batteries. Angewandte Chemie International Edition, 2023, 62(24): e202302586.
+[6] Ke Yang, Likun Chen, Jiabin Ma, Chen Lai, Yanfei Huang, Jinshuo Mi, Jie Biao, Danfeng Zhang, Peiran Shi, Heyi Xia, Guiming Zhong*, Feiyu Kang*, Yan-Bing He*. Stable Interface Chemistry and Multiple Ion Transport of Composite Electrolyte Contribute to Ultra-long Cycling Solid-State LiNi0.8Co0.1Mn0.1O2/Lithium Metal Batteries. Angewandte Chemie International Edition, 2021, 60, 24668–24675(ESI高被引论文).
+[7] Yan-Fei Huang*, Jian-Ping Zeng, Shuang-Feng Li, Chen Dai, Jun-Feng Liu, Chen Liu*, Yan-Bing He*, Conformational regulation of dielectric poly(vinylidene fluoride)‐based solid‐state electrolytes for efficient lithium salt dissociation and lithium‐ion transportation, Advanced Energy Materials, 2023, 2203888. 
+[8] Jiabin Ma, Guiming Zhong, Peiran Shi, Yinping Wei, Kaikai Li, Likun Chen, Xiaoge Hao, Qidong Li, Ke Yang, Chengrui Wang, Wei Lv, Quan-Hong Yang, Yan-Bing He *, Feiyu Kang*. Constructing a highly efficient “solid–polymer–solid” elastic ion transport network in cathodes activates the room temperature performance of all-solid-state lithium batteries.Energy & Environmental Science, 2022, 15(4): 1503-1511.
+[9] Kai Shi, Likun Chen, Zipei Wan, Jie Biao, Guiming Zhong*, Xue Li, LuYang, Jiabin Ma, Wei Lv, Fuzeng Ren*, Hongqi wang, Yong Yang, Feiyu Kang, Yan-Bing He*. Lithium-ion spontaneous exchange and synergistic transport in ceramic-liquid hybrid electrolytes for highly efficient lithium-ion transfer. Science Bulletin, 2022, 67(9): 946-954.
+[10] Boyu Li, Ke Yang, Jiabin Ma, Peiran Shi, Likun Chen, Changmiao Chen, Xin Hong, Xing Cheng, Man-Chung Tang*, Yan-Bing He*, Feiyu Kang*. Multicomponent Copper‐Zinc Alloy Layer Enabling Ultra‐Stable Zinc Metal Anode of Aqueous Zn‐ion Battery. Angewandte Chemie International Edition, 2022, 61(47): e202212587.
+[11] Yanyan Wang, Zhijie Wang, Liang Zhao, Qining Fan, Xiaohui Zeng, Sailin Liu, Wei Kong Pang, Yan-Bing He*, and Zaiping Guo*. Lithium Metal Electrode with Increased Air Stability and Robust Solid Electrolyte Interphase Realized by Silane Coupling Agent Modification. Advanced Materials, 2021, 33 (14):2008133(ESI高被引论文). 
+[12] Xiaoge Hao, Jiabin Ma, Xing Cheng, GuiMing Zhong, Jin-Lin Yang, Ling Huang, Huajin Ling, Chen Lai, Wei Lv, Feiyu Kang, Xueliang Sun*, and Yan-Bing He*. Electron and Ion Co‐Conductive Catalyst Achieving Instant Transformation of Lithium Polysulfide towards Li2S. Advanced Materials, 2021, 33, 2105362.
+[13] Kai Shi, Zipei Wan, Lu Yang, Yiwen Zhang, Yanfei Huang, Shiming Su, Heyi Xia, Keling Jiang, Lu Shen, Yi Hu, Shiqi Zhang, Jing Yu, Fuzeng Ren*, Yan-Bing He* and Feiyu Kang*. In-situ Construction of An Ultra-stable Conductive Composite Interface for High-Voltage All-Solid-State Lithium Metal Batteries. Angewandte Chemie International Edition, 2020, 59(29):11784-11788(ESI高被引论文).
+[14] Danni Lei, Yan-Bing He*, Huijuan Huang, Yifei Yuan, Guiming Zhong, Qiang Zhao, Xiaoge Hao, Danfeng Zhang, Chen Lai, Siwei Zhang, Jiabin Ma, Yinping Wei, Qipeng Yu, Wei Lv, Yan Yu, Baohua Li, Qun-Hong Yang, Yong Yang*, Jun Lu* & Feiyu Kang*.Cross-linked beta alumina nanowires with compact gel polymer electrolyte coating for ultra-stable sodium metal battery, Nature Communications, 2019 ,10, 4244(ESI高被引论文).
+[15] Zipei Wan, Danni Lei, Wei Yang, Cheng Liu, Kai Shi, Xiaoge Hao, Lu Shen, Wei Lv, Baohua Li, Quan-Hong Yang, Feiyu Kang, and Yan-Bing He*. Low Resistance Integrated All-Solid-State Battery Achieved by Li7La3Zr2O12 Nanowire Upgrading Polyethylene Oxide (PEO) Composite Electrolyte and PEO Cathode Binder, Advanced Functional Materials, 2019, 29(1):1805301 (ESI高被引论文/热点论文).
+[16] Xiaoge Hao, Qiang Zhao, Shiming Su, Shiqi Zhang, Jiabin Ma, Lu Shen, Qipeng Yu, Liang Zhao, Yong Liu, Feiyu Kang, Yan-Bing He*. Constructing multifunctional interphase between Li1. 4Al0. 4Ti1. 6 (PO4)3 and Li metal by magnetron sputtering for highly stable solid‐state lithium metal batteries.Advanced Energy Materials, 2019, 9(34): 1901604.
+[17]  Xing Cheng, Xiaotong Liu, Liang Zhao, Danfeng Zhang, Jie Biao, Ziwei Chen, Yu Yuan, Ming Liu, Yan-Bing He*, Feiyu Kang*. Pre‐Deoxidation of Layered Ni‐Rich Cathodes to Construct a Stable Interface with Electrolyte for Long Cycling Life.Advanced Functional Materials, 2023, 33(5): 2211171.
+[18] Xing Cheng, Fanmin Ran, Yanfei Huang, Runtian Zheng, Haoxiang Yu, Jie Shu*, Ying Xie*, and Yan‐Bing He*. Insight into the Synergistic Effect of N, S Co-Doping for Carbon Coating Layer on Niobium Oxide Anodes with Ultra-Long Life. Advanced Functional Materials. 2021, 31: 2100311.
+[19]  Likun Chen, Tian Gu, Jiabin Ma, Ke Yang, Peiran Shi, Jie Biao, Jinshuo Mi, Ming Liu, Wei Lv*, Yan-Bing He*. In Situ Construction of Li3N-enriched Interface Enabling Ultra-Stable Solid-State LiNi0.8Co0.1Mn0.1O2/Lithium Metal Batteries. Nano Energy, 2022, 100, 107470.
+[20] Jinshuo Mi, Jiabin Ma, Likun Chen, Chen Lai, Ke Yang, Jie Biao, Heyi Xia, Xin Song, Wei Lv, Guiming Zhong*, Yan-Bing He*. Topology crafting of polyvinylidene difluoride electrolyte creates ultra-long cycling high-voltage lithium metal solid-state batteries. Energy Storage Materials, 2022, 48: 375-383.
+[21]  Jing Yu, Kai Shi, Siwei Zhang, Danfeng Zhang, Likun Chen, Song Li, Jiabin Ma, Heyi Xia,Yan‐Bing He*. A lithium nucleation-diffusion-growth mechanism to govern the horizontal deposition of lithium metal anode. Science China-Materials. 2021, 64(10): 2409-2420.
+[22] Song Li, Shi-Qi Zhang, Lu Shen, Qi Liu, Jia-Bin Ma, Wei Lv, Yan-Bing He* and Quan-Hong Yang. Progress and Perspective of Ceramic/Polymer Composite Solid Electrolytes for Lithium Batteries. Advanced Science, 2020, 7(5):1903088(ESI高被引论文). 
+[23] Heng Zhao, Danni Lei, Yan-Bing He*, Yifei Yuan, Qinbai Yun, Bin Ni, Wei Lv, Baohua Li, Quan-Hong Yang, Feiyu Kang, Jun Lu*. Compact 3D Copper with Uniform Porous Structure Derived by Electrochemical dealloying as Dendrite-free Lithium Metal Anode Current Collector. Advanced Energy Materials, 2018, 8:1800266(ESI高被引论文).
+[24] Danni Lei, Kai Shi, Heng Ye, Zipei Wan, Yanyan Wang, Lu Shen, Baohua Li, Quan-Hong Yang, Feiyu Kang, Yan-Bing He*. Progress and prospective of solid-state lithium-sulfur batteries. Advanced Functional Materials, 2018, 28:1707570 (Invited review, Frontispiece paper). 
+[25] Shuanghao Zheng, Jiaming Ma, Zhong-Shuai Wu*, Feng Zhou, Yan-Bing He*, Feiyu Kang, Hui-Ming Cheng, Xinhe Bao. All-solid-state flexible planar lithium ion micro-capacitors. Energy & Environmental Science, 2018, 11(8): 2001-2009. 
+[26]  Qingwen Lu(#), Yan-Bing He(#), Qipeng Yu, Baohua Li*, Yusuf Valentino Kaneti, Youwei Yao, Feiyu Kang, Quan-Hong Yang*. Dendrite-free, high-rate, long-life lithium metal batteries with a three-dimensional cross-linked network polymer electrolyte. Advanced Materials, 2017, 29:1604460 .(Co-first author, ESI高被引论文).
+[27] Qinbai Yun, Yan-Bing He*, Wei Lv, Yan Zhao, Baohua Li, Feiyu Kang and Quan-Hong Yang*. Chemical Dealloying Derived 3D Porous Current Collector for Li Metal Anodes.Advanced Materials, 2016, 28:6932–6939 (ESI高被引论文).
+[28] Dong Zhou, Ruliang Liu, Yan-Bing He*, Fengyun Li, Ming Liu, Baohua Li, Quan-Hong Yang , Qiang Cai and Feiyu Kang*. SiO2 hollow nanosphere-based composite solid electrolyte for lithium metal batteries to suppress lithium dendrite growth and enhance cycle life. Advanced Energy Materials, 2016, 6:1502214 (ESI高被引论文).
+[29] Ming Liu, Dong Zhou, Yan-Bing He*, Yongzhu Fu, Xianying Qin, Cui Miao, Hongda Du, Baohua Li, Quan-hong Yang, Zhiqun Lin, T. S Zhao, Feiyu Kang*. Novel Gel Polymer Electrolyte for High-Performance Lithium-Sulfur Batteries. Nano Energy, 2016, 22: 278-289 (ESI高被引论文). 
+[30] Dong Zhou&, Yan-Bing He*, Ruliang Liu, Ming Liu, Hongda Du, Baohua Li,Qiang Cai and Feiyu Kang*. In-situ Synthesis of a Hierarchical All-solid-stateElectrolyte based on Nitrile Materials for High Performance Lithium-ion Batteries.Advanced Energy Materials, 2015, 5, 1500353.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+（1）2023，深圳市优秀教师
+（2）2022，清华大学深圳国际研究生院优秀共产党员
+（3）2022，英国皇家化学会会士
+（4）2022，科睿唯安全球高被引学者
+（5）2021，科睿唯安全球高被引学者
+（6）2019，项目“高安全性二次电池关键材料研究”获广东省自然科学一等奖，第二完成人
+（7）2018，第十届侯德榜化工科学技术青年奖
+（8）2018，清华大学先进工作者
+（9）2017，项目“高性能锂离子电池用石墨和石墨烯材料”获国家技术发明二等奖，第五完成人。
+（10）2016，项目“纳微结构钛酸锂负极材料的合成及其与电解液反应活性和抑制方法研究”获深圳市自然科学二等奖，第一完成人。
+（11）2016，深圳市地方级领军人才
+（12）2015，项目“聚合物动力型锂离子电池的研发和产业化”，获广东省科学技术二等奖，第一完成人。
+（13）2013，深圳市孔雀计划海外高层次人才B类 
+ </奖励荣誉>

@@ -1,0 +1,70 @@
+{"title":"王智","cnUrl":"http://www.sigs.tsinghua.edu.cn/wz/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/4c/a3/6c2cbc6e4a1f92172a4b41d8c2ec/62ca37de-b1e6-4833-93e6-9f28882c9a87.jpg","email":"wangzhi@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+从事边缘计算与多媒体网络方向研究
+研究主页：http://zwang.inflexionlab.org/
+教育经历 
+2008/09-2014/01，清华大学，计算机科学与技术系，博士
+2004/09-2008/09，清华大学，计算机科学与技术系，学士
+工作经历 
+2014/02至今，清华大学深圳国际研究生院，讲师，副教授
+2012/02-2012/08，多伦多大学，电子与计算机工程系，研究助理
+2010/01-2010/07，香港大学，计算机科学系，研究助理
+学术兼职 
+2019至今：IEEE Transactions on Multimedia, Associate Editor
+2014至今，计算机学会多媒体专业委员会，委员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+高级大数据系统（国际院）
+大数据系统基础（国际院）
+大数据科学与应用系列讲座（国际院）
+分布式机器学习（国际院）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+王智，清华大学深圳国际研究生院副教授，从事多媒体网络和系统方向研究，包括高性能数据处理系统优化、分布式机器学习系统、边缘计算与网络等。先后获得2017年教育部自然科学奖一等奖，2018年国家自然科学二等奖，2019年深圳市青年科技奖，2020年中国电子学会技术发明一等奖，入选中组部万人计划。研究成果获得多媒体领域高水平会议ACM Multimedia最佳论文奖（国内高校首次第一单位获得），2014年计算机学会优秀博士论文奖（全国十人）。担任IEEE TMM副编辑和ACM TIST客座编辑。关键技术获得2014年移动互联网创业大赛第一名（全国300所高校1200团队参加）。王智研究成果获得工业届广泛应用和关注，相关成果以第一完成人授权专利10余项；数据驱动的无线网络性能预测技术被知名技术媒体MIT Technology Review、Synced Review等报道，成为业界重要参考。
+一、基于多媒体智能的边缘计算：现有边缘计算和网络架构缺少智能化拓扑和策略支持，运行效率低；拟开展媒体智能分析驱动的边缘计算，主要内容包括场景感知的端边侧自动部署，算网联合的拓扑自动生成，面向边缘计算的决策大模型，以及基于元知识的边缘架构演化。
+二、面向边缘计算的分布式机器学习：现有分布式机器学习框架无法适应新型边缘计算架构，导致训练与决策效率低；拟开展面向边缘计算的分布式机器学习，主要内容包括设备与拓扑感知的分布式训练，面向异构数据分布的传输优化，面向云边端架构的模型压缩与部署，以及场景感知的自适应在线决策。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1. Shuzhao Xie, Yuan Xue, Yifei Zhu and Zhi Wang. Cost Effective MLaaS Federation: A Combinatorial Reinforcement Learning Approach, In Proceedings of IEEE INFOCOM, 2-5 May 2022, Virtual Conference (CCF-A). [pdf]
+2. Lei Zhang, Yuqing Zhang, Ximing Wu, Fangxin Wang, Laizhong Cui, Zhi Wang and Jiangchuan Liu. Batch Adaptative Streaming for Video Analytics, In Proceedings of IEEE INFOCOM, 2-5 May 2022, Virtual Conference (CCF-A). [pdf]
+3. Shiji Zhou, Lianzhe Wang, Shanghang Zhang, Zhi Wang and Wenwu Zhu. Active Gradual Domain Adaptation: Dataset and Approach, In IEEE Transactions on Multimedia, vol. 24, pp. 1210--1220, January 2022. (JCR-Q1) [pdf]
+4. Jingyan Jiang, Ziyue Luo, Chenghao Hu, Zhaoliang He, Zhi Wang, Shutao Xia and Chuan Wu. Joint Model and Data Adaptation for Cloud Inference Serving, In Proceedings of IEEE Real-Time Systems Symposium (RTSS), 7–10 December 2021, Dortmund, Germany (CCF-A). [pdf]
+5. Tao Dai, Yalei Lv, Bin Chen, Zhi Wang, Zexuan Zhu and Shutao Xia. Mix-order Attention Networks for Image Restoration, In Proceedings of ACM Multimedia, 20-24 October 2021, Chengdu, China (CCF-A). [pdf]
+6. Yitian Yuan, Xiaohan Lan, Xin Wang, Long Chen, Zhi Wang and Wenwu Zhu. A Closer Look at Temporal Sentence Grounding in Videos: Dataset and Metric, In Proceedings of ACM Multimedia, HUMA Workshop, 20–24 October 2021, Chengdu, China (Best Paper Award). [pdf]
+7. Chenglei Wu, Zhi Wang and Lifeng Sun. PAAS: A Preference-Aware Deep Reinforcement Learning Approach for 360 Video Streaming, In Proceedings of ACM NOSSDAV, September 2021, Istanbul, Turkey.
+8. Jiahui Ye, Zichun Li, Zhi Wang, Zhuobin Zheng, Han Hu and Wenwu Zhu. Joint Cache Size Scaling and Replacement Adaptation for Small Content Providers, In Proceedings of IEEE INFOCOM 2021, May 10--13, 2021, Virtual Conference, China (CCF-A) [pdf]
+9. Haopeng Yan, Zeming Chen, Zhi Wang and Wenwu Zhu. DRL-based Collaborative Edge Content Replication with Popularity Distillation, In Proceedings of IEEE ICME 2021, July 5-9, 2021, Shenzhen, China. [pdf]
+10. Zhiwei Hao, Yong Luo, Zhi Wang, Han Hu and Jianping An. Model Compression via Collaborative Data-free Knowledge Distillation for Edge Intelligence, In Proceedings of IEEE ICME 2021, July 5-9, 2021, Shenzhen, China. (Best Paper Award Finalist) [pdf]
+11. Shiji Zhou, Zhi Wang, Chenghao Hu, Yinan Mao, Haopeng Yan, Chuan Wu, Shanghang Zhang and Wenwu Zhu. Caching in Dynamic Environments: a Near-optimal Online Learning Approach, In IEEE Transactions on Multimedia, vol. 23, no. 8, pp. 1--13, March 2021. (JCR-Q1) [pdf]
+12. Laizhong Cui, Erchao Ni, Yipeng Zhou, Zhi Wang, Lei Zhang, Jiangchuan Liu and Yuedong Xu. Towards Real-Time Video Caching at Edge Servers: A Cost-Aware Deep Q-Learning Solution, In IEEE Transactions on Multimedia, vol. xx, no. xx, pp. xx--xx, November 2021 (accepted). (JCR-Q1) [pdf]
+13. Wenwu Zhu and Zhi Wang. Data-driven Multiemdia Edge Network and Content Delivery, In Science China Information Sciences, vol. 51, no. 3, pp. 468--504, 2021 (CCF-A) [pdf]
+14. Yuwei Zhang, Peng Zhang, Chun Yuan and Zhi Wang. Texture and Shape Biased Two-stream Networks for Clothing Classification and Attribute Recognition, In Proceedings of IEEE CVPR, June 14-19, 2020, Virtual (CCF-A).
+15. Chenglei Wu, Ruixiao Zhang, Zhi Wang and Lifeng Sun. A Spherical Convolution Approach for Learning Long Term Viewport Prediction in 360 Immersive Video, In Proceedings of AAAI Conference on Artiﬁcial Intelligence 2020, February 7-12, 2020, New York, NY, USA (CCF-A) [pdf]
+代表性著作 
+1.Zhi Wang, Jiangchuan Liu and Wenwu Zhu. Social Video Content Delivery, In SpringerBriefs in Electrical and Computer Engineering, Springer, ISBN 978-3-319-33652-7, 2016
+2.Zhi Wang, Wenwu Zhu, Peng Cui, Lifeng Sun and Shiqiang Yang. Social Media Recommendation, In Social Media Retrieval, Naeem Ramzan, Roelof van Zwol, Jong-Seok Lee, Kai Clu？ver, and Xian-Sheng Hua, Editors, pp. 23--43, Springer-Verlag, ISBN 978-1-4471-4554-7, 2013.
+主要专利成果 
+1.王智，张苗；一种边缘网络区域中社交内容缓存方法，中国，专利号：ZL201510345454.7；获批日期：2017.12.29
+2.王智，胡文，孙立峰：一种分层网络RTT的预测方法；中国，专利号：ZL201510293578.5；获批日期：2016.08.24
+3.王智，胡文，孙立峰，基于边缘无线热点进行内容分发的方法及装置，专利号：ZL201510897619.1；获批日期：2018.07.27
+4.王智，庄启东，孙立峰，朱文武，杨士强等：视频转码方法、装置和服务器；中国，CN104967868B；获批日期：2018-09-04
+5.王智，余子军，朱文武，孙立峰，杨士强，徐文章，刘贤彬，郑宇飞：内容分发方法、装置及设备；中国，CN104796449B；获批日期：2017-05-24
+6.袁春，李志杰，王智，一种提高DASH 视频传输效率的方法；中国，专利号：CN105049956B；获批日期：2017-10-17
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+中国电子学会技术发明一等奖，2020
+国家自然科学二等奖，2018
+教育部自然科学奖一等奖，2017 
+中国计算机学会优秀博士论文奖，2014 
+ACM Multimedia最佳论文奖，2012 
+最佳学生论文奖，MMM 2015
+ </奖励荣誉>

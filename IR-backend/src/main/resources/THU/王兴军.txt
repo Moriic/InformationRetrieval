@@ -1,0 +1,57 @@
+{"title":"王兴军","cnUrl":"http://www.sigs.tsinghua.edu.cn/wxj/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/0b/ef/f922c5404956b606021f884baab4/21717b04-fb8b-41dc-ba1d-2c2ba39e039e.jpg","email":"Wang.xingjun@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1988年09月-1991年06月，清华大学电子工程系硕士
+1991年09月-1994年10月，清华大学电子工程系博士
+1994年10月-1996年08月，美国密执安大学博士后研究员
+1996年09月-1997年05月，AT&T Canada 高级系统分析师
+1997年05月-2000年03月，加拿大北方电讯，BWA事业部，高级系统构架师
+2000年03月-2003年06月，美国Legend Silicon Corp. 研发总监，副总裁
+2003年08月-2009年07月，清华大学信息技术研究院，研究员，中心副主任
+2009年08月至今， 清华大学深圳研究生院信息学部，研究员，实验室主任
+教育经历 
+工作经历 
+学术兼职 
+中国医促会常务理事
+中国广播电影电视社会组织联合会技术委员会 理事
+中国电子工业标准化技术协会 理事
+中国电子视像行业协会 理事
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+数字电视系统概论
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+1.大数据分析、人工智能：作为国家科技部重点研发计划的项目负责人，领导由北京同仁医院、清华大学深圳研究生院、清华大学、中国医促会等十家产学医研捡单位，研发基于医疗大数据的可穿戴设备+云平台+人工智能的分级诊疗解决方案。
+2.视频大数据分析算法研究，基于互联网视频大数据的用户行为预测与推荐算法的性能达到国际领先水平，并在网络运营商和视频服务领域推广应用。
+3.超级CDN算法研究，本研究团队提出的基于混合网络结构的新型互联网CDN分发模型，比传统多级镜像缓存CDN和基于P2P的内容分发系统的分发效率具有显著提升，可以实现互联网CDN的良性发展。
+4.内容保护与数据安全技术研究，作为国家ChinaDRM标准的发起人和核心技术提供方，在内容版权保护技术领域拥有国际领先的技术和算法，研究方向包括区块链认证技术、高效加密算法、部分加密算法、数据内容追踪技术、数字水印算法等，多个性能指标处于国际领先水平，在国内外已经有超过1000万户的推广应用。
+5.研发的数字电视UTI机卡分离技术与标准，已经由国家工信部颁布为行业标准。该技术思想已经在欧洲多个国家大规模推广应用。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Xingjun Wang, Zhanwei Zhong and Yun Zhao ,“DeRe: A Buffer Saving and Controllable Video-on-Demand Broadcasting Scheme for Heterogeneous Receivers”, IEEE Transactions on Broadcasting, vol. PP, no. 99, pp. 1-1, Sep. 2015.
+[2] Xingjun Wang, Yun Zhao and Jianxin Wang “A general segment model for video-on-demand broadcasting with limit receiving ability”, 2012 2nd International Conference on Computer Science and Network Technology (ICCSNT’ 2012), Changchun, China, 29-31 Dec. 2012, Changchun, China, pp. 607-611.
+[3] Chao Cheng, Xingjun Wang*, Zhiyong Li and Yuxi Lin “A New TV Recommendation Algorithm Based on Interest Quantification And Item Clustering,” 2015 6th IEEE International Conference on Software Engineering and Service Science (ICSESS’ 15), 2015.
+[4] Xingjun Wang, Linghao Xiao. AOR: An Interactive Periodic Broadcasting Scheme with High Bandwidth Usage. 2017 9th IEEE InternationalConference on Communication Software and Networks
+[5] Xingjun Wang, Baozhong Hao, Analysis and Design of Watermark-based Video Copyright Tracing System in the Digital Cinema Application. ICIIE 2012;(EI)
+[6] Wang Xingjun, Xie Lanchi, Tian Chen,Combination of DRM and mobile code: A practice to protect TV contents and applications on Android Smartphone, the 2013 Fourth IEEE International Conference on Networking and Distributed Computing, Dec, 2013.
+[7]中国发明专利ZL03144093.2, 一种通用串行数据双向传输接口系统
+[8] PCT美国专利US9,124,772B2，Secure Transmission method and Apparatus for Transport Streams
+[9] 欧洲PCT专利EP 1 662 361 B1,UNIVERSAL BIDIRECTIONAL SERIAL DATA TRANSPORT INTERFACE AND ITS DATA TRANSPORT METHOD
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+国务院特殊津贴专家
+广东省南粤百杰人才
+（工信部）电子学会2014年广播电视科学技术奖
+中国侨界贡献奖（2012年）
+北京市科学技术一等奖（2004年）
+ </奖励荣誉>

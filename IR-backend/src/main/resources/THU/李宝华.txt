@@ -1,0 +1,62 @@
+{"title":"李宝华","cnUrl":"http://www.sigs.tsinghua.edu.cn/lbh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/e7/24/bddeb2e74e1eb98c8953eacf5b82/d7517fee-e6bb-4bcc-9c21-334b5dce2b70.jpg","email":"libh@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+2021年-至今 清华大学深圳国际研究生院 长聘教授
+2019年-2021年 清华大学深圳国际研究生院 教授
+2014年-2019年 清华大学深圳研究生院 教授
+2007年-2014年 清华大学深圳研究生院 副研究员
+2004年-2007年 清华大学深圳研究生院 讲师
+2002年-2004年 清华大学深圳研究生院 博士后
+1997年-2002年 中国科学院山西煤炭化学研究所 化学工艺专业，博士
+1993年-1997年 山东工业大学 化学工程专业 本科
+教育经历 
+工作经历 
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+教学课程
+材料科学前沿、新型能源材料导论、新型炭材料等专业课程
+已毕业博士生 7 名，硕士生28 名。1名硕士生作为共同一作在Science发表论文一篇。12人次获国家奖学金，17人次获清华/北京市优秀毕业生或优秀学位论文。
+每年招收2名全日制博士研究生和若干名全日制硕士研究生。
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事新型炭材料、锂离子电池和固态电解质等能源材料与器件及电池回收技术等方向研究工作。在Science、Nature Reviews Materials、Nature Energy、Nature Communications、Advanced Materials和新型炭材料等国内外期刊发表SCI论文460余篇，ESI高被引用论文30余篇， SCI引用35000余次，H因子100，2020-2023年连续四年入选科睿唯安高被引科学家。申请发明专利100多项，已实现30多项专利技术应用。深圳下一代动力与储能电池关键技术工程实验室主任，SIGS材料与器件检测技术中心（CNAS认可和校准实验室，CSA授权）创始人兼负责人，广东省电动汽车标准化技术委员会副主任，中国材料与试验团体标准委员会电池及其相关材料领域委员会（CSTM/FC59）主任委员，Energy & Environmental Materials期刊副主编，Energy Materials and Devices 期刊副主编，Journal of Materials Chemistry A期刊顾问编委。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1. Qidi Wang*, Zhenpeng Yao, Jianlin Wang, Hao Guo, Chao Li, Dong Zhou, Xuedong Bai, Hong Li*, Baohua Li*, Marnix Wagemaker* & Chenglong Zhao*, Chemical short-range disorder in lithium oxide cathodes.Nature, 2024, 629, 341–347.
+2. Yao Wang, Xu Yang, Yuefeng Meng, Zuxin Wen, Ran Han, Xia Hu, Bing Sun, Feiyu Kang, Baohua Li*, Dong Zhou*, Chunsheng Wang*, and Guoxiu Wang*,Fluorine Chemistry in Rechargeable Batteries: Challenges, Progress and Perspectives.Chemical Reviews, 2024,124 (6), 3494-3589.
+3. Xia Hu, Zhijia Zhang, Xiang Zhang, Yao Wang, Xu Yang, Xia Wang, Miryam Fayena-Greenstein,Hadas Alon Yehezkel , Steven Langford, Dong Zhou*, Baohua Li*, Guoxiu Wang* & Doron Aurbach*,External-pressure–electrochemistry coupling in solid-state lithium metal batteries. Nature Reviews Materials, 2024, 9, 305–320.
+4. Ziyao Gao, Chenglong Zhao*, Kai Zhou, Junru Wu, Yao Tian, Xianming Deng, Lihan Zhang, Kui Lin, Feiyu Kang, Lele Peng*, Marnix Wagemaker* & Baohua Li*, Kirkendall effect-induced uniform stress distribution stabilizes nickel-rich layered oxide cathodes.Nature Communications, 2024, 15, 1503.
+5. Hao Du, Yadong Wang, Yuqiong Kang, Yun Zhao*, Yao Tian, Xianshu Wang, Yihong Tan, Zheng Liang*, John Wozny, Tao Li*, Dongsheng Ren, Li Wang, Xiangming He, Peitao Xiao, Eryang Mao, Naser Tavajohi*, Feiyu Kang, Baohua Li*,Side Reactions/Changes in Lithium-Ion Batteries: Mechanisms and Strategies for Creating Safer and Better Batteries. Advanced Materials, 2024, https://doi.org/10.1002/adma.202401482.
+6. Yuefeng Meng, Dong Zhou*, Ruliang Liu, Yao Tian, Yifu Gao, Yao Wang, Bing Sun, Feiyu Kang, Michel Armand*, Baohua Li*, Guoxiu Wang* & Doron Aurbach*, Designing phosphazene-derivative electrolyte matrices to enable high-voltage lithium metal batteries for extreme working conditions. Nature Energy, 2023, 8, 1023–1033.
+7. Yun Zhao, Yuqiong Kang, John Wozny, Jian Lu, Hao Du, Chenglei Li, Tao Li, Feiyu Kang, Naser Tavajohi & Baohua Li*, Recycling of sodium-ion batteries. Nature Reviews Materials, 2023, 8, 623–634.
+8. Yanyan Wang, Zhijie Wang, Wei Kong Pang, Wilford Lie, Jodie A.Yuwono, Gemeng Liang, Sailin Liu, Anita M.D' Angelo, Jiaojiao Deng, Yameng Fan, Kenneth Davey, Baohua Li*, Zaiping Guo*,Solvent control of water O-H bonds for highly reversible zinc ion batteries. Nature Communications, 2023, 14, 2720.
+9. Xu Yang, Bao ZhangYao Tian, Yao Wang, Zhiqiang Fu, Dong Zhou*, Hao Liu, Feiyu Kang, Baohua Li*, Chunsheng Wang*, Guoxiu Wang*, Electrolyte design principles for developing quasi-solid-state rechargeable halide-ion batteries. Nature Communications, 2023, 14, 925.
+10. Xia Hu, Jiahao Yu, Yao Wang, Weiqian Guo, Xiang Zhang, Michel Armand, Feiyu Kang, Guoxiu Wang,* Dong Zhou,* and Baohua Li*,A Lithium Intrusion-Blocking Interfacial Shield for Wide-Pressure-Range Solid-State Lithium Metal Batteries. Advanced Materials, 2023, 35, 2308275.
+11. Junru Wu, Ziyao Gao, Yao Tian, Yun Zhao, Yilong Lin, Kang Wang, Hexin Guo, Yanfang Pan, Xianshu Wang*, Feiyu Kang, Naser Tavajohi, Xiulin Fan, Baohua Li*, Unique Tridentate Coordination Tailored Solvation Sheath Toward Highly Stable Lithium Metal Batteries. Advanced Materials, 2023, 35, 2303347. 
+12. Zhijia Zhang, Xu Yang, Peng Li, Yao Wang, Xin Zhao, Javad Safaei, Hao Tian, Dong Zhou*, Baohua Li*, Feiyu Kang*, Guoxiu Wang*, Biomimetic Dendrite-Free Multivalent Metal Batteries. Advanced Materials, 2022, 34, 2206970.
+13. Junru Wu，Xianshu Wang, Qi Liu, Shuwei Wang, Dong Zhou*, Feiyu Kang, Devaraj Shanmukaraj, Michel Armand*, Teofilo Rojo, Baohua Li*, Guoxiu Wang*, A synergistic exploitation to produce high-voltage quasi-solid-state lithium metal batteries. Nature Communications, 2021, 12, 5746.
+14. Xianshu Wang, Shuwei Wang, Huirong Wang, Wenqiang Tu, Yun Zhao, Song Li, Qi Liu, Junru Wu, Yongzhu Fu, Cuiping Han*, Feiyu Kang, and Baohua Li*, Hybrid electrolyte with dual-anion aggregated solvation sheath for stabilizing high Voltage lithium metal batteries.Advanced Materials, 2021, 33, 2007945. 
+15. Qidi Wang, Zhenpeng Yao, Chenglong Zhao, Tomas Verhallen, Daniel P Tabor, Ming Liu, Frans Ooms, Feiyu Kang, Alán Aspuru-Guzik, Yongsheng Hu, Marnix Wagemaker*, Baohua Li*, Interface chemistry of an amide electrolyte for highly reversible lithium metal batteries. Nature Communications, 2020, 11, 4188.
+16. Chenglong Zhao, Qidi Wang, Zhenpeng Yao, Jianlin Wang, Benjamín Sánchez-Lengeling, Yaxiang Lu*, Xuedong Bai, Baohua Li, Hong Li, Alán Aspuru-Guzik*, Xuejie Huang, Claude Delmas*, Marnix Wagemaker*, Liquan Chen, Yongsheng Hu*,Rational design of layered oxide materials for sodium-ion batteries.Science, 2020, 370, 708.
+17. Lihan Zhang, Xianying Qin*, Shiqiang Zhao, Aurelia Wang, Jun Luo, Zhong Lin Wang, Feiyu Kang, Zhiqun Lin*, Baohua Li*, Advanced matrixes for binder‐free nanostructured electrodes in lithium-ion batteries. Advanced Materials, 2020, 32, 1908445.
+18. Dongqing Liu, Zulipiya Shadike, Ruoqian Lin, Kun Qian, Hai Li, Kaikai Li, Shuwei Wang, Qipeng Yu, Ming Liu, Swapna Ganapathy, Xianying Qin, QuanHong Yang, Marnix Wagemaker*, Feiyu Kang, Xiao‐Qing Yang*, Baohua Li*, Review of recent development of in situ/operando characterization techniques for lithium battery research. Advanced Materials, 2019, 31,1806620.
+19. Xiaofu Xu, Dong Zhou, Xianying Qin, Kui Lin, Feiyu Kang, Baohua Li*, Devaraj Shanmukaraj, Teofilo Rojo, Michel Armand*, Guoxiu Wang*, A room-temperature sodium-sulfur battery with high capacity and stable cycling performance.Nature Communications, 2018, 9, 3870.
+20. Qingwen Lu, Yanbing He, Qipeng Yu, Baohua Li*, Yusuf Valentino Kaneti, Youwei Yao, Feiyu Kang, Quanhong Yang*, Dendrite-free, high-rate, long-life lithium metal batteries with a 3D cross-linked network polymer electrolyte. Advanced Materials, 2017, 1604460. 
+21. Tianhong Zhou, Wei Lv*, Jia Li, Guangmin Zhou, Yan Zhao, Shaoxun Fan, Bilu Liu, Baohua Li*, Feiyu Kang, Quanhong Yang*, Twinborn TiO2-TiN hetero structures enabling smooth trapping-diffusion-conversion of polysulfides towards ultralong life lithium-sulfur batteries. Energy & Environmental Science, 2017, 10, 1694-1703. 
+22. Baohua Li, Cuiping Han, Yanbing He, Cheng Yang, Hongda Du, Quanhong Yang*, Feiyu Kang*, Facile synthesis of Li4Ti5O12/C composite with super rate performance. Energy & Environmental Science, 2012, 5, 9595-9602. 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+国家高层次人才计划领军人才、百千万人才工程国家级人选暨国家有突出贡献中青年专家。
+与ATL&CATL等企业产学研合作成果获得多项科技奖励，参与的“汽车用动力型锂离子电池系统的开发和产业化”成果分别获2008年东莞市长奖和2010年广东省科技二等奖， “高性能锂离子电池用石墨和石墨烯材料”成果获2018年国家技术发明二等奖； 高安全性二次电池关键材料研究成果获2019年广东省科学技术奖自然科学奖一等奖。
+ </奖励荣誉>

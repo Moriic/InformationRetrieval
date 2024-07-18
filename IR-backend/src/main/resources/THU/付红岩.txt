@@ -1,0 +1,119 @@
+{"title":"付红岩","cnUrl":"http://www.sigs.tsinghua.edu.cn/fhy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/6a/60/e3b57a5741248006953d6a96ca90/409796aa-97ef-46e8-bff8-2f06381f3142.jpg","email":"hyfu@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+课题组网站： http://hyfu.group/
+教育经历 
+Ph.D. Electrical Engineering, The Hong Kong Polytechnic University
+M.Sc. Electrical Engineering, Royal Institute of Technology (KTH), Sweden
+B. Eng. Information and Electronic Engineering, Zhejiang University
+工作经历 
+2021-present, Tenured-Associate Professor, Tsinghua Shenzhen International Graduate School, Tsinghua University
+2017-2021, Associate Professor, Tsinghua-Berkeley Shenzhen Institute, Tsinghua University
+2016-2017, Project Officer, Central Research Institute, Huawei Technologies
+2012-2016, Project Manager, Central Research Institute, Huawei Technologies
+2010-2012, Senior Research Engineer, Central Research Institute, Huawei Technologies
+2009-2010, Research Associate, Photonic Research Centre, The Hong Kong Polytechnic University
+2008-2009, Research Assistant, Photonic Research Centre, The Hong Kong Polytechnic University
+学术兼职 
+Senior & Life Member of Optica
+Senior Member of Institute of Electrical and Electronics Engineers (IEEE)
+Life Member of Society of Photo-Optical Instrumentation Engineers (SPIE)
+Committee Member of IEEE Photonics Society (IPS) Guangdong Chapter
+Council Member of Shenzhen Society of Micro-Nano Technology
+Founding Advisor of Optica, IEEE, and SPIE Student Chapters at Tsinghua SIGS
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+Integrated Photonics and Their Applications for Communications and Sensing, including Optical Wireless Communications, LiDAR, Silicon Photonics, Ultra-fast Optics, etc.
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+Selected Recent Conference Papers:
+[C1]Zhi Li, Bonan Liu, Zihan Zang, Yaqi Han, Lican Wu, Changrui Liao and H. Y. Fu*, “Compact Solid-state Coherent LiDAR based on In-fiber Beam Scanner,” in Proc. of the Asia Communications and Photonics Conference (ACP’2021), T4D.2, Shanghai, China, Oct. 2021. (Post-deadline Paper)
+[C2]Zihan Zang, Yunpeng Xu, Haoqiang Wang, Zhi Li, Yanjun Han, Hongtao Li, H. Y. Fu and Yi Luo*, “Ultrafast agile optical beam steering based on arrayed diffractive elements,” in Proc. of the Asia Communications and Photonics Conference (ACP’2021), T4D.6, Shanghai, China, Oct. 2021. (Post-deadline Paper)
+[C3]Denghui Pan, Xuanyi Liu, Boris Malomed, H. Y. Fu* and Qian Li** “Build-up Dynamics of Dissipative Solitons in a Nonlinear Polarization Evolution Mode-locked Fiber Laser,” in Proc. of the Asia Communications and Photonics Conference (ACP’2021), T4A.3, Shanghai, China, Oct. 2021. (Best Poster Award)
+[C4]Lirong Cheng, Simei Mao and H. Y. Fu*, “Silicon-on-insulator grating couplers for dual-band and triple-band multiplexing,” in Proc. of the Asia Communications and Photonics Conference (ACP’2021), T1I.3, Shanghai, China, Oct. 2021. (Best Student Paper Award)
+[C5]Renlai Zhou*, Qian Li** and H. Y. Fu, “Commensalism of quasi-coherent noise-like and conventional soliton pulse in a simplified NPE mode-locked fiber laser”, in Proc. Of the 20th International Conference on Optical Communications & Networks (ICOCN), Tai’an, China, Aug. 23rd-27th, 2021. (Young Scientist Award)
+[C6]Zhaoming Wang, Li Zhang, Jingzhou Li, Zixian Wei, Yuhan Dong, Guodan Wei, H. Y. Fu*, “Wide Field-of-View Color-Converting Concentrator for High-Speed MIMO UV-to-Visible Light Communication,” in Proc. of the 26th Optoelectronics and Communications Conference (OECC), Virtual Conference, Jul. 2021. (Best Student Paper Award)
+[C7]Xuanyi Liu, Zhi Li, Denghui Pan, Qian Li, H. Y. Fu*, “All-polarization-maintaining Bidirectional Dual-comb Fiber Laser by Nonlinear Polarization Evolution,” in Proc. of the 26th Optoelectronics and Communications Conference (OECC), Virtual Conference, Jul. 2021. (Best Student Paper Award)
+[C8]Zhi Li, Zihan Zang, Xuanyi Liu, Mutong Li and H. Y. Fu*, “LiDAR integrated high-capacity indoor OWC system with user localization capability,” in Proc. of Optical Fiber Communication Conference (OFC), Tu5E.2, Virtual Conference, June 6th-11th, 2021.
+[C9]Zhi Li, Zihan Zang, Xuanyi Liu, Lican Wu and H. Y. Fu*, “Solid-state FMCW LiDAR based on a 2D disperser,” in Proc. of The Conference on Lasers and Electro-Optics (CLEO’2021), AW3S.7, Virtual Conference, May 9th-14th, 2021.
+[C10]Zihan Zang, Zhi Li, Yi Luo*, Yanjun Han, Xuanyi Liu, Lican Wu and H. Y. Fu*, “Ultrafast Parallel LiDAR with All-optical Spectro-temporal Encoding,” in Proc. of the Conference on Lasers and Electro-Optics (CLEO’2021), SM1E.6, Virtual Conference, May 9th-14th, 2021.
+[C11]Simei Mao, Lirong Cheng, Caiyue Zhao and H. Y. Fu*, “Coarse Wavelength Division (De)Multiplexer Based on Cascaded Topology Optimized Wavelength Filters,” in Proc. of the Conference on Lasers and Electro-Optics (CLEO’2021), JW1A.62, Virtual Conference, May 9th-14th, 2021.
+[C12]Lirong Cheng, Simei Mao, Yixiang Hu and H. Y. Fu*, “Dual-layer SiNx-on-SOI grating coupler as an efficient higher-order fiber mode multiplexer,” in Proc. of the Conference on Lasers and Electro-Optics (CLEO’2021), JW1A.178, Virtual Conference, May 9th-14th, 2021.
+[C13]Zhenmin Chen, Qian Li, and H. Y. Fu*, “Tunable stimulated Brillouin scattering by dual lasers pumping in a WGM microcavity,” in Proc. of the Conference on Lasers and Electro-Optics (CLEO’2020), JTh2E.31, San Jose, California, USA, May 12th-14th, 2020.
+[C14]Lirong Cheng, Simei Mao, Xin Mu, Sailong Wu and H. Y. Fu*, “Dual-wavelength-band multiplexed grating coupler on multilayer SiN-on-SOI photonic integrated platform,” in Proc. of the Conference on Lasers and Electro-Optics (CLEO’2020), JTh2F.8，San Jose, California, USA, May 12th-14th, 2020.
+[C15]Yang Luo，Zhenmin Chen, Qian Li, and H. Y. Fu*, “EIT-like phenomena and characteristics of cavity optomechanics in a single cavity,” in Proc. of the Conference on Lasers and Electro-Optics (CLEO’2020), JTu2A.13, San Jose, California, USA, May 12th-14th, 2020.
+[C16]Zixian Wei, Li Zhang, Lei Wang, Chien-Ju Chen, Alberto Pepe, Xin Liu, Kai-Chia Chen, Yuhan Dong, Meng-Chyi Wu, Lai Wang*, Yi Luo, and H. Y. Fu*, “High-speed Visible Light Communication System Based on a Packaged Single Layer Quantum Dot Blue Micro-LED with 4-Gbps QAM-OFDM,” in Proc. of Optical Fiber Communication Conference (OFC), M3I.7, San Diego, California, USA, Mar. 2020.
+[C17]Zhenmin Chen, Qian Li, and H. Y. Fu*, “Tuning stimulated Brillouin scattering by two lasers pumping in a WGM microcavity,” in Proc. of The Conference on Lasers and Electro-Optics (CLEO’2020), San Jose, California, USA, May 12th-14th, 2020.
+[C18]Lirong Cheng, Simei Mao, Xin Mu, Sailong Wu and H. Y. Fu*, “Dual-wavelength-band multiplexed grating coupler on multilayer SiN-on-SOI photonic integrated platform,” in Proc. of The Conference on Lasers and Electro-Optics (CLEO’2020), San Jose, California, USA, May 12th-14th, 2020.
+[C19]Yang Luo，Zhenmin Chen, Qian Li, and H. Y. Fu*, “EIT-like phenomena and characteristics of cavity optomechanics in a single cavity,” in Proc. of The Conference on Lasers and Electro-Optics (CLEO’2020), San Jose, California, USA, May 12th-14th, 2020.
+[C20]Zixian Wei, Li Zhang, Lei Wang, Chien-Ju Chen, Alberto Pepe, Xin Liu, Kai-Chia Chen, Yuhan Dong, Meng-Chyi Wu, Lai Wang*, Yi Luo, and H. Y. Fu*, “High-speed Visible Light Communication System Based on a Packaged Single Layer Quantum Dot Blue Micro-LED with 4-Gbps QAM-OFDM,” in Proc. of Optical Fiber Communication Conference (OFC), M3I.7, San Diego, California, USA, Mar. 2020.
+代表性著作 
+Book Chapters:
+[B1]Chun-Liu Zhao, Xinyong Dong, H. Y. Fu, and H. Y. Tam, “Photonic crystal fiber loop mirrors and their applications,” in Recent Progress in Optical Fiber Research, ISBN: 978-953-307-823-6, InTech, (2012).
+[B2]Qian Li, Xuanyi Liu, Renlai Zhou, M. S. Aruna Gandhi and H. Y. Fu, “Recent Advances and Perspects of Pulsed Fiber Lasers,” in Optical Fiber Technology and Applications_Recent Advances, IOP Publishing, (2021).
+[B3]Amjad Ali, Qian Li, H. Y. Fu and Syed Raza Mehdi, “Blue Laser Diode-Based Visible Light Communication and Solid-State Lighting,” in Antenna Systems, IntechOpen, (2021).
+主要专利成果 
+Selected Patents:
+[P1] Coherent Waveform Conversion in Optical Networks, US Patent 9,531,472
+[P2] Device and method for all-optical information exchange, US Patent 9,618,822
+[P3] Cross waveguide, US Patent 9,766,399 B2
+[P4] Optical Interconnector, Optoelectronic Chip System, and Optical Signal Sharing Method, US Patent 9,829,635
+[P5] Polarization rotator and optical signal processing method, US Patent App. 15/795,626
+[P6] Optical switch chip, optical switch driving module, and optical switch driving method, US Patent App. 15/625,829
+[P7] Apparatus and Method for Measuring Group Velocity Delay in Optical Waveguide, US Patent App. 15/293,904
+[P8] Polarizer and Polarization Modulation System, US Patent App. 15/187,328
+[P9] Resonant Cavity Component Used in Optical Switching System, US Patent App. 15/178,302
+[P10] Grating Coupler and Preparation Method, US Patent App. 15/835,748
+[P11] Device and Method for All-optical Information Exchange, EP3046334B1
+[P12] Spot size Converter and Apparatus for Optical Conduction, EP14897866.1
+[P13] Polarizer and Polarization Modulation System, EP13899938.8
+[P14] Optical Interconnection Device, Optoelectronic Chip System, and Optical Signal Sharing Method, EP3118661A1
+[P15] Polarization Rotator and Optical Signal Processing Method, EP3290974A1
+[P16] Grating Coupler and Preparation Method Therefor, EP3296782A1
+[P17] Waveguide Polarization Splitter and Polarization Rotator, JP6198091B2
+[P18]一种光信号分插复用器及光信号处理方法，授权中国专利公告号：CN104166291B
+[P19]基于硅基波导亚波长光栅和多模干涉原理的十字交叉波导, 中国专利申请公开号: 201910333223.2
+[P20]一种无线光通信系统及方法, 中国专利申请公开号:201910295793.7
+[P21]一种可调谐激光器及其制作方法, 中国专利申请公开号: 201910285586.3
+[P22]一种扫频光源及其制作方法, 中国专利申请公开号: 201910074468.8
+[P23]一种基于可调谐VCSEL的无线光通信系统, 中国专利申请公开号: 201811039293.9
+[P24]一种空间光通信系统, 中国专利申请公开号:201811564347.3
+[P25]一种基于可调谐VCSEL的无线光通信系统, 中国专利申请公开号:201811039293.9
+[P26]一种电流检测器件, 中国专利申请公开号:201810751591.4
+[P27]微流体的检测装置及方法, 中国专利申请公开号:201810802301.4
+[P28]一种无线光通信系统, 中国专利申请公开号:201811002828.5
+[P29]一种室内无线光通信上行链路, 中国专利申请公开号:201810636495.5
+[P30]一种光栅耦合器及其制备方法, 中国专利申请公开号: CN107076932A
+[P31]光栅耦合器及其制作方法, 中国专利申请公开号: CN106461865A
+[P32]光纤耦合的系统和方法, 中国专利申请公开号: CN106575999A
+[P33]全光信息交换装置及方法, 中国专利申请公开号: CN104469555A
+[P34]波导偏振分离和偏振转换器, 中国专利申请公开号: CN105829933A
+[P35]起偏器及偏振调制系统, 中国专利申请公开号: CN105829935A
+其他成果 
+Invited Talks:
+[I1]H. Y. Fu “VCSELs for Optical Wireless Communications”, The Asia Communications and Photonics Conference (ACP2022), Shenzhen, China, Nov. 5th -8th, 2022.
+[I2]H. Y. Fu, “Optical Wireless Communications for 6G High-speed Transmission”, The 19th International Conference on Optical Communications & Networks (ICOCN), Qufu, China, Aug. 23th -27th, 2021.
+[I3]H. Y. Fu, “Towards 6G Optical Wireless Communications”, The 4th International Conference on Communication Engineering and Technology (ICCET’2020), Shanghai, China, Feb. 2021.
+[I4]H. Y. Fu and Zixian Wei “Optical Wireless Communication Technologies for 6G”, The 12th International Conference on Advanced Infocomm Technology (ICAIT), A003-3, Macau, Nov. 12th -15th, 2020.
+[I5]H. Y. Fu, “Key Technologies for Optical Wireless Communications for 6G”, The Asia Communications and Photonics Conference (ACP’2020), M2F.4, Beijing, China, Nov. 2020.
+[I6]H. Y. Fu, “Recent Advances on Optical Wireless Communication Technologies for 6G,” The 2020 Optoelectronics Global Conference (OGC), Shenzhen, China, Sep. 7th -11th, 2020
+[I7]H. Y. Fu, Zixian Wei, Simei Mao, Xin Mu and Alberto Pepe “VCSEL-based Optical Wireless Communications”, The 11th International Conference on Advanced Infocomm Technology (ICAIT), Session on Optical Communications, Jinan, China, Oct. 18th -20th, 2019.
+[I8]H. Y. Fu, and Zixian Wei “Recent Progress on Optical Wireless Communications”, The 12th International Nano-Optoelectronics Workshop (iNOW), Guangzhou/Dongguan/Shenzhen, China, Jul. 21st -28th, 2019
+[I9]H. Y. Fu, “Silicon Photonic Switches for Data Communications”, The 11th International Nano-Optoelectronics Workshop (iNOW), Tianjin, Aug. 4th -12th, 2017.
+[I10]H. Y. Fu, “Silicon Photonic Switches and Their Applications for Data Center”, The 15th International Conference on Optical Communications & Networks (ICOCN), Hangzhou, Sep. 24th -27th, 2016.
+[I11]H. Y. Fu, “Next Generation Optical Networking and Driving Beyond 100G, an Optical Internetworking forum (OIF) perspective”, WDM & Next Generation Optical Networking APAC, Singapore, Jan. 29th -31st, 2013.
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+Postdeadline Paper, Best Student Paper Award, Best Poster Award, ACP 2021
+Best Student Paper Awards, OECC 2021
+Best Student Paper Award, ACP 2020
+Best Poster Award, ACP 2019
+The President Commendation (Best Innovation Team), CRI, Huawei, 2015
+The President Commendation (Outstanding Research Contribution), CRI, Huawei, 2014
+The President Commendation (Best Innovation Team), CRI, Huawei, 2014
+ </奖励荣誉>

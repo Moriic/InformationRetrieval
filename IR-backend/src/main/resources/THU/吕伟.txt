@@ -1,0 +1,96 @@
+{"title":"吕伟","cnUrl":"http://www.sigs.tsinghua.edu.cn/lw/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/01/1b/ec8628eb4176af69867c92bb2b1d/015762f1-88a1-45cd-aecc-cb7485a345e1.jpg","email":"lv.wei@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2009年09月-2012年07月，天津大学，应用化学专业，博士
+2003年09月-2007年07月，吉林化工学院，应用化学专业，学士
+2007年09月-2009年07月，天津大学，应用化学专业，硕士
+工作经历 
+2022年8月至今清华大学深圳国际研究生院，长聘副教授
+2019年08月-2022年7月，清华大学深圳国际研究生院，副研究员
+2016年12月-2019年08月，清华大学深圳研究生院，副研究员
+2015年09月-2016年11月，清华大学深圳研究生院，讲师
+2012年08月-2015年08月，清华大学深圳研究生院，师资博士后
+学术兼职 
+Infomat（SCI）青年编委
+Chinese Chemical Letters（SCI）青年编委
+Molecules （SCI）Editorial Board
+Batteries （SCI）Editorial Board
+Frontiers in Materials （SCI）Associate Editor
+《电化学》青年编委
+《无机盐工业》杂志青年编委会副主任委员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+1.科技论文写作与学术规范
+2.新能源产业及其规划管理
+3.多孔炭材料的制备及其应用
+4.材料分析与表征
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要围绕碳基纳米结构的可控构建及储能应用开展研究，近年来聚焦于锂硫电池中正负极材料的结构设计和电化学性能优化。在Adv. Mater.、Adv. Fun. Mater.、 Adv. Energy Mater.、Energy Environ. Sci.等国际著名期刊杂志发表论文200余篇，引用15000余次，H因子64，入选科睿唯安高被引学者（2020，2021），爱思唯尔中国高被引学者（材料科学与工程，2021）；获授权专利40余项，包括美国、日本和韩国专利6项。获国家自然科学基金优秀青年基金、广东省杰出青年基金资助、广东省青年拔尖人才资助；成果曾获国家技术发明二等奖（排名第六）、天津市自然科学一等奖（排名第二）、广东省自然科学一等奖（排名第六）、Energy Storage Materials Young Scientist Awards、英国碳素学会The Brian Kelly Award、爱思唯尔集团Reaxys PhD Prize Finalist。
+主要项目 
+主持项目情况
+1. 国家自然科学基金优秀青年科学基金（锂硫电池的催化机制和关键材料，2021-2023）
+2. 国家重点研发计划政府间国际科技创新合作重点专项（基于催化转化的锂硫电池关键材料及高性能器件，2020-2022）
+3. 国家自然科学基金面上项目（基于表面封装技术的环境稳定金属锂负极构建和机理研究，2020-2023）
+4. 国家自然科学基金面上项目（石墨烯基异质结构的多硫化物催化机制及高性能锂硫电池构建研究，2018-2021）
+5. 广东省自然科学基金杰出青年科学基金（新型二维多孔碳的设计、制备及高效储能研究，2017-2021）
+6. 深圳市基础研究学科布局项目（三维石墨烯基材料的可控制备及储能应用研究，2017-2020）
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Hua, W.X., T.X. Shang, H. Li, Y.F. Sun, Y. Guo, J.Y. Xia, C.N. Geng, Z.H. Hu, L.K. Peng, Z.Y. Han, C. Zhang, W. Lv, and Y. Wan, Optimizing the p charge of S in p-block metal sulfides for sulfur reduction electrocatalysis. Nature Catalysis, 2023. 6(2): 174-184.
+[2] Qu, W.J., Z.Y. Lu, C.N. Geng, L. Wang, Y. Guo, Y.B. Zhang, W.C. Wang, W. Lv, and Q.H. Yang, Targeted Catalysis of the Sulfur Evolution Reaction for High-Performance Lithium-Sulfur Batteries. Advanced Energy Materials, 2022. 12(38).
+[3] Geng, C.N., W.J. Qu, Z.Y. Han, L. Wang, W. Lv, and Q.H. Yang, Superhigh Coulombic Efficiency Lithium-Sulfur Batteries Enabled by In Situ Coating Lithium Sulfide with Polymerizable Electrolyte Additive. Advanced Energy Materials.
+[4] Shi, P.R., J.B. Ma, M. Liu, S.K. Guo, Y.F. Huang, S.W. Wang, L.H. Zhang, L.K. Chen, K. Yang, X.T. Liu, Y.H. Li, X.F. An, D.F. Zhang, X. Cheng, Q.D. Li, W. Lv, G.M. Zhong, Y.B. He, and F.Y. Kang, A dielectric electrolyte composite with high lithium-ion conductivity for high-voltage solid-state lithium metal batteries. Nature Nanotechnology.
+[5]. Bing Sun, Qin Zhang, Wenli Xu, Rong Zhao, Hui Zhu, Wei Lv*, Xuanke Li, Nianjun Yang, A gradient topology host for a dendrite-free lithium metal anode, Nano Energy, 2022, 94, 106937
+[6]. Jin-Lin Yang, Da-Qian Cai, Qianwei Lin, Xin-Yu Wang, Zou-Qiang Fang, Ling Huang, Zhi-Jie Wang, Xiao-Ge Hao,; Shi-Xi* Zhao, Jia* Li,; Guo-Zhong Cao, Wei Lv,* Regulating the Li2S deposition by grain boundaries in metal nitrides for stable lithium-sulfur batteries, Nano Energy, 2022, 91, 106669.
+[7]. Cheng Zheng*, Yaowu Chen, Xiangcheng Xu, Qiaowei Lin, Hongyu Wang, Qiao Xue, Bangquan Jian, Zhu Guo, Wei Lv,* Diglyme-based electrolytes boosting high-rate and stable sodium-ion storage for three-dimensional VS4/Reduced graphene oxide hybrid anodes, Journal of Power Sources, 2022, 526, 231098.
+[8]. Wen Liu, Chong Luo, Siwei Zhang, Bin Zhang, Jiabin Ma, Xinliang Wang, Wenhua Liu, Zejian Li, Quan-Hong Yang, Wei Lv*, Cobalt-Doping of Molybdenum Disulfide for Enhanced Catalytic Polysulfide Conversion in Lithium-Sulfur Batteries, ACS Nano, 2021, 15, 7491-7499.
+[9]. Sichen Gu, Si-Wei Zhang, Junwei Han, Yaqian Deng, Chong Luo, Guangmin Zhou, Yanbing He, Guodan Wei, Feiyu Kang, Wei Lv*, Quan-Hong Yang, Nitrate Additives Coordinated with Crown Ether Stabilize Lithium Metal Anodes in Carbonate Electrolyte, Advanced Functional Materials,2021, 21, 2102128. 
+[10]. Bin Zhang, Chong Luo, Guangmin Zhou, Zheng-Ze Pan, Jiabin Ma, Hirotomo Nishihara, Yan-Bing He, Feiyu Kang, Wei Lv*, Quan-Hong Yang, Lamellar MXene Composite Aerogels with Sandwiched Carbon Nanotubes Enable Stable Lithium-Sulfur Batteries with a High Sulfur Loading, Advanced Functional Materials, 2021, 31, 2100793. 
+[11]. Jin-Lin Yang, Da-Qian Cai, Xiao-Ge Hao, Ling Huang, Qiaowei Lin, Xiang-Tian Zeng, Shi-Xi Zhao*, Wei Lv*, Rich Heterointerfaces Enabling Rapid Polysulfides Conversion and Regulated Li2S Deposition for High-Performance Lithium-Sulfur Batteries, ACS Nano, 2021, 15, 11491-11500. 
+[12]. Zhiyan Han, Chen Zhang, Qiaowei Lin, Yunbo Zhang, Yaqian Deng, Junwei Han, Dingcai Wu, Feiyu Kang, Quan-Hong Yang, Wei Lv*, A Protective Layer for Lithium Metal Anode: Why and How. Small Methods, 2021, 5, 2001035. 
+[13]. Xinliang Wang, Junwei Han, Chong Luo, Bin Zhang, Jiabin Ma, Zejian Li, Yan-Bing He, Quan-Hong Yang, Feiyu Kang*, Wei Lv*, Coordinated Adsorption and Catalytic Conversion of Polysulfides Enabled by Perovskite Bimetallic Hydroxide Nanocages for Lithium-Sulfur Batteries, Small, 2021, 17, 2101538. 
+[14]. Yunbo Zhang, Zhiyuan Han, Zhijia Huang, Chen Zhang, Chong Luo, Guangmin Zhou, Wei Lv*, Quan-Hong Yang*, A Dendrite-free Non-Newtonian Semisolid Lithium Metal Anode. ACS Energy Letters, 2021, 6, 3671-3678.
+[15]. Ruochen Wang, Chong Luo, Tianshuai Wang, Guangmin Zhou*, Yaqian Deng, Yanbing He, Qianfan Zhang*, Feiyu Kang, Wei Lv*, Quan-Hong Yang*, Bidirectional Catalysts for Liquid-Solid Redox Conversion in Lithium-Sulfur Batteries, Advanced Materials, 2020, 32, 2000315.
+[16]. Chong Luo, Xing Liang, Yafei Sun, Wei Lv*, Yawen Sun, Ziyang Lu, Wuxing Hua, Haotian Yang, Ruochen Wang, Chenglin Yan, Jia Li, Ying Wan, Quan-Hong Yang, An Organic Nickel Salt-Based Electrolyte Additive Boosts Homogeneous Catalysis for Lithium-Sulfur Batteries, Energy Storage Materials, 2020, 33, 290-297. 
+[17]. Bin Zhang, Chong Luo, Yaqian Deng, Zhijia Huang, Guangmin Zhou, Wei Lv*, Yan-Bing He, Ying Wan, Feiyu Kang, Quan-Hong Yang*, Optimized Catalytic WS2-WO3 Heterostructure Design for Accelerated Polysulfide Conversion in Lithium-Sulfur Batteries, Advanced Energy Materials. 2020, 10, 2000091. 
+[18]. Chong Luo, Wei Lv*, Changsheng Qi, Lixiang Zhong, Zheng-Ze Pan, Jia Li*, Feiyu Kang, Quan-Hong Yang*, Realizing Ultralow Concentration Gelation of Graphene Oxide with Artificial Interfaces, Advanced Materials, 2019, 31, 1805075.
+[19]. Xizheng Liu, * Yahui Wang, Yijun Yang; Wei Lv,* Gang Lian, Dmitri Golberg, Xi Wang,* Xian Zhao, Yi Ding,;A MoS2/Carbon hybrid anode for high-performance Li-ion batteries at low temperature, Nano Energy, 2020, 70, 104550.
+[20]. Chen Zhang, Ruiyang Lyu, Wei Lv*, Huan Li, Wei Jiang, Jia Li, Sichen Gu, Guangmin Zhou, Zhijia Huang, Yunbo Zhang, Junqiao Wu, Quan-Hong Yang*, Feiyu Kang*, A Lightweight 3D Cu Nanowire Network with Phosphidation Gradient as Current Collector for High-Density Nucleation and Stable Deposition of Lithium, Advanced Materials, 2019, 31, 1904991. 
+[21]. Yaqian Deng, Tongxin Shang, Zhitan Wu, Ying Tao, Chong Luo, Jiachen Liang, Daliang Han, Ruiyang Lyu, Changsheng Qi, Wei Lv*, Feiyu Kang, Quan-Hong Yang*, Fast Gelation of Ti3C2Tx MXene Initiated by Metal Ions, Advanced Materials, 2019, 31, 1902432. 
+[22]. Long Jiao, Chen Zhang, Chuannan Geng, Shichao Wu, Huan Li, Wei Lv*, Ying Tao, Zijin Chen, Guangmin Zhou, Jia Li, Guowei Ling, Ying Wan*, Quan-Hong Yang*, Capture and Catalytic Conversion of Polysulfides by In Situ Built TiO2-MXene Heterostructures for Lithium-Sulfur Batteries, Advanced Energy Materials, 2019, 9, 1900219.
+[23]. Qiaowei Lin, Jun Zhang, Debin Kong, Tengfei Cao, Si-Wei Zhang, Xiangrong Chen, Ying Tao,Wei Lv*, Feiyu Kang, Quan-Hong Yang*, Deactivating Defects in Graphenes with Al2O3 Nanoclusters to Produce Long-Life and High-Rate Sodium-Ion Batteries, Advanced Energy Materials, 2019, 9, 1803078.
+[24]. Cong Wang, Zheng-Ze Pan, Wei Lv*, Bilu Liu, Jie Wei, Xiaohui Lv, Yi Luo, Hirotomo Nishihara, Quan-Hong Yang, A Directional Strain Sensor Based on Anisotropic Microhoneycomb Cellulose Nanofiber-Carbon Nanotube Hybrid Aerogels Prepared by Unidirectional Freeze Drying, Small, 2019,15, 1805363.
+[25]. Boyu Hao, Huan Li, Wei Lv*, Yunbo Zhang, Shuzhang Niu, Qi Qi, Shujie Xiao, Jia Li, Feiyu Kang, Quan-Hong Yang*, Reviving Catalytic Activity of Nitrides by the Doping of the Inert Surface Layer to Promote Polysulfide Conversion in Lithium-Sulfur Batteries. Nano Energy,2019,60, 305-311.
+[26]. Ziyang Lu, Qinghua Liang; Bo Wang, Ying Tao, Yufeng Zhao, Wei Lv,* Donghai Liu, Chen Zhang, Zhe Weng, Jiachen Liang, Huan Li, Quan-Hong Yang,* Graphitic Carbon Nitride Induced Micro-Electric Field for Dendrite-Free Lithium Metal Anodes, Advanced Energy Materials, 2019, 9(7), 1803186.
+[27]. Donghai Liu, Chen Zhang, Guangmin Zhou, Wei Lv*, Guowei Ling, Linjie Zhi, Quan-Hong Yang*,Catalytic Effects in Lithium–Sulfur Batteries: Promoted Sulfur Transformation and Reduced Shuttle Effect, Advanced Science, 2018, 5, 1700270. 
+[28]. Chen Zhang, Wei Lv*, Guangmin Zhou, Zhijia Huang, Yunbo Zhang, Ruiyang Lyu, Haoliang Wu, Qinbai Yun, Feiyu Kang, Quan‐Hong Yang*,Vertically Aligned Lithiophilic CuO Nanosheets on a Cu Collector to Stabilize Lithium Deposition for Lithium Metal Batteries, Advanced Energy Materials,2018,8: 1703404.
+[29]. Huifa Shi, Wei Lv*, Chen Zhang*, Da-Wei Wang, Guowei Ling, Yanbing He, Feiyu Kang, Quan-Hong Yang*,Functional Carbons Remedy the Shuttling of Polysulfides in Lithium–Sulfur Batteries: Confining, Trapping, Blocking, and Breaking up, Advanced Functional Materials,2018, 28, 1800508. 
+[30]. Tianhong Zhou, Wei Lv*, Jia Li, Guangmin Zhou, Yan Zhao, Shaoxun Fan, Bilu Liu, Baohua Li*, Feiyu Kang, Quan-Hong Yang*, Twinborn TiO2-TiN Heterostructures Enabling Smooth Trapping-Diffusion-Conversion of Polysulfides Towards Ultralong Life Lithium-Sulfur Batteries, Energy & Environmental Science, 2017, 10, 1694-1703. 
+[31]. Cheng Zheng, Shuzhang Niu, Wei Lv*, Guangmin Zhou, Jia Li, Shaoxun Fan, Yaqian Deng, Zhengze Pan, Baohua Li, Feiyu Kang, Quan-Hong Yang*,Propelling Polysulfides Transformation for High-Rate and Long-Life Lithium-Sulfur Batteries, Nano Energy, 2017, 33, 306-312.
+[32]. Tianhong Zhou, Yan Zhao, Guangmin Zhou, Wei Lv*, Pujie Sun, Feiyu Kang, Baohua Li, Quan-Hong Yang*, An In-Plane Heterostructure of Graphene and Titanium Carbide for Efficient Polysulfide Confinement,Nano Energy, 2017, 39, 291-296.
+[33]. Wei Lv, Zhengjie Li, Yaqian Deng, Feiyu Kang, Quan-Hong Yang*, Graphene-based Materials for Electrochemical Energy Storage Devices: Opportunities and Challenges, Energy Storage Materials, 2016, 2, 107-138. 
+[34]. Wei Lv, Chen Zhang, Zhengjie Li, Quan-Hong Yang*,Self-Assembled 3D Graphene Monolith from Solution, Journal of Physical Chemistry Letters, 2015, 6, 658-668. 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2022年Energy Storage Materials青年科学家奖
+2021, 2022 爱思唯尔中国高被引学者（材料科学与工程）
+2020-2022 科睿唯安高被引学者（交叉学科）
+2021 Energy Storage Materials Young Scientist Awards
+2019 广东省自然科学奖一等奖（高安全性二次电池关键材料研究，排名第六）
+2018 天津市技术发明一等奖（高安全性、长寿命锂离子电池的关键技术，排名第八）
+2017 国家技术发明奖二等奖（高性能锂离子电池用石墨和石墨烯材料，排名第六）
+2013 英国碳素学会布赖恩凯利奖（The Brian Kelly Award）
+2013 Reaxys PhD Prize Finalist
+2013 天津市自然科学奖一等奖（石墨烯基碳纳米材料的宏量制备、界面组装和应用，排名第二）
+ </奖励荣誉>

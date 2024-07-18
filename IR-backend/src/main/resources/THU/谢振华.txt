@@ -1,0 +1,69 @@
+{"title":"谢振华","cnUrl":"http://www.sigs.tsinghua.edu.cn/xzh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/76/22/accc18ea463b96b189b036d61aa2/e35a3bdc-3319-4ba0-8f8f-e724f7149be7.jpg","email":"xiezh@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+2003.11至今, 清华大学深圳研究生院， 讲师;
+2001.09-2003.11，清华大学生物科学与技术系分子细胞实验室，博士后;
+1998.09-2001.07，哈尔滨医科大学生物化学和分子生物学教研室，医学博士;
+1995.07-1998.08，哈尔滨医科大学病理生理教研室，讲师;
+1993.09-1995.07，北京医科大学心血管基础研究所读博;
+1991.07-1993.08，哈尔滨医科大学病理生理教研室，讲师;
+1988.09-1991.07，哈尔滨医科大学病理生理教研室，医学硕士;
+1986.07-1988.08，哈尔滨医科大学病理生理教研室，助教;
+1982.09-1986.07，南京大学生物化学系生物化学专业，理学学士。
+教育经历 
+工作经历 
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+主要从事细胞分子生物学研究工作，以及生物技术研究。
+国家863计划《pokemon介导的相关肿瘤基因的识别鉴定及其作为治疗靶点的研究》项目的生物方面分课题负责人, 发现和实验证实Pokemon蛋白反式激活Survivin癌基因; 农业部科技重大专项《高赖氨酸含量转基因水稻新品种培育》项目中负责分子生物学方面的工作, 合作研发出超过每百克蛋白质5.5克赖氨酸含量(世界卫生组织推荐值)的转基因水稻植株; 发现主要干性基因与衰老相关基因表达水平存在相互拮抗关系, 这为成体干细胞的衰老可能源于成体干细胞的干性的降低的观点提供了坚实的分子基础, 并提出“跷跷板”假说，即主要干性基因表达水平与衰老相关的基因表达水平相拮抗，并决定干细胞是否处于自我更新、衰老和衰老的逆转(rejuvenation)状态(见下面图1)。 主持完成深圳市深圳市科技计划《微流控芯片在药物筛选中的应用的研究》项目。研究出高效环保的实验器皿清洗溶液，使国内生物实验室和环境获得免于重铬酸洗液污染的自由。研究出成本低廉的大规模质粒提取纯化方法，使国内生物实验室获得免于购买国外昂贵的质粒纯化试剂盒的自由。目前已经在国内外核心刊物及各类学术会议上发表学术论文40多篇，其中SCI收录论文16篇,申请发明专利7项。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]. 谢振华,吴耀炯. 主要干性基因与衰老相关基因表达水平的相互拮抗关系. 生物化学与生物物理进展. 2014, 41(7): 627-631. (并列通讯作者)
+[2]. Song P, Xie Z, Guo L, Wang C, Xie W, Wu Y.Human genome-specific real-time PCR method for sensitive detection and reproducible quantitation of human cells in mice. Stem Cell Rev. 2012, 8(4):1155-62.(并列第一作者)
+[3]. Zhenhua Xie; Chuang Zhang;Xiaojin Wu. High efficient multiple site-directed mutagenesis of 6 sites simultaneously without template alkali-denaturation. 2012 年全国生物化学与分子生物学学术大会论文摘要集.
+[4]. Zhilong Li, Chenxiong Liu, Zhenhua Xie, Pengyue Song, Robert C. H. Zhao, Ling Guo, Zhigang Liu, Yaojiong Wu.Epigenetic Dysregulation in Mesenchymal Stem Cell Aging and Spontaneous Differentiation. PLoS ONE,2011,6(6): e20526. doi:10.1371 /journal.pone.0020526. (并列第一作者)
+[5]. Zu X, Ma J, Liu H, Liu F, Tan C, Yu L, Wang J, Xie Z, Cao D, Jiang Y. Pro-oncogene pokemon promotes breast cancer progression by upregulating survivin expression. Breast Cancer Res. 2011 Mar 10;13(2):R26.
+[6]. 王雪莉,钱翔,谢振华,叶大田. 基于微流控芯片的姜黄素诱导MCF-7细胞凋亡的研究. 北京生物医学工程, 2011, 30(6): 557-561. (并列通讯作者)
+[7]. He,Shengnan; Liu, Feng; Xie,Zhenhua; Zu, Xuyu; Xu, Wei; Jiang,Yuyang. P-Glycoprotein /MDR1 Regulates Pokemon Gene Transcription Through p53 Expression in Human Breast Cancer Cells.Int J Mol Sci. 2010 Aug 27;11(9):3309-051.
+[8]. Liu F, Liu S, He S, Xie Z, Zu X, Jiang Y. Survivin transcription is associated with P-glycoprotein/MDR1 overexpression in the multidrug resistance of MCF-7 breast cancer cells. Oncol Rep. 2010 May;23(5):1469-75.
+[9]. Zhen Hua Xie ,Xiao Jun Shi. Fast and almost 100%efficiency site-directed mutagenesis by the megaprimer PCR method. Progress in Biochemistry and Biophysics，2009, 36(11):1 ~5.
+[10]. Ma Weiwei*,Xie Zhenhua, Liu Feng, Ning Hang,Jiang Yuyang. A significant increase of RNAi efficiency in human cells by the CMV Enhancer with a tRNAlys promoter. Journal of Biomedicine and Biotechnology，2009, Article ID 514287, 8 pages，doi:10.1155/2009/514287.
+[11]. Zu X, Yu L, Sun Q, Liu F, Wang J, Xie Z, Wang Y, Xu W, Jiang Y. SP1 enhances Zbtb7A gene expression via direct binding to GC box in HePG2 cells. BMC Res Notes. 2009 Sep 2;2:175.
+[12]. Zhuohua Mo, Zu Xu yu, Zhenhua Xie,Wenpeng Li, Hang Ning, Yuyang Jiang, Wei Xu . Antitumor effect of F-PBF&beta;-TrCP induced targeted PTTG1 degradation in Hela cells. Journal of Biotechnology，2009，139：6--11.
+[13]. Zhang, Peng, Liu, Mian, Liu, Hongxia, Xie,Zhenhua, Liu, Feng, Cai, Zongwei, Jiang, Yuyang. The pharmacokinetics analysis of the phosphoryl peptides in MCF-7/ADR cells. Phosphorus, Sulfur, and Silicon and the Related Elements. 2008,183: 737-744.
+[14]. Nan Zhang; Yue Wang; Zhenhua Xie; Yuyang Jiang; Yufen Zhao.Inhibition of Pokemon Gene Expression by Antisense Oligonucleotides. Phosphorus, Sulfur, and Silicon and the Related Elements, 2008,183:749–754,
+[15]. Nan Zhang, Zhenhua Xie, Yuyang Jiang,and Yufen Zhao, Antisense Therapy Targeting Pokemon Oncogene in MCF-7 Cells. Phosphorus, Sulfur, and Silicon and the Related Elements, 2008,183:755–760,
+[16]. Liu F,Liu SY,Xu P,Xie ZH,Cai GP,Jiang YY. Apoptosis induced by (di-isopropyloxyphoryl- Trp)2-Lys-OCH3 in K562 and HeLa cells.J Biosci. 2008 Mar;33(1):55-62.
+[17]. 谢振华. 硫氧还蛋白和氧化/还原因子的融合荧光蛋白载体的构建及在293T细胞中的分布. 基础医学与临床, 2008, 28(1): 70—73.
+[18]. Feng LIU, Zhen-Hua XIE, Guo-Ping CAI, Yu-Yang JIANG. The Effect of Survivin on Multidrug Resistance Mediated by P-Glycoprotein in MCF-7 and Its Adriamycin Resistant Cells. Biol. Pharm. Bull. 2007, 30(12) 2279—2283.
+[19]. 谢振华,史小军,蔡国平. 用于哺乳动物细胞转染的高纯度质粒DNA 的制备.生物技术通讯, 2007,18(5 ):803—805.
+[20]. 谢振华,刘长振,王爱民,马春. PC12 细胞中氧化还原因子-1 对过氧化氢和谷氨酸损伤的不同反应. 毒理学杂志,2007, 21 (4 ): 245—247.
+[21]. 谢振华,刘长振,,王爱民,马春. 过氧化氢对PC12细胞中硫氧还蛋白和APE/Ref-1基因表达的影响.中国老年学杂志,2007, 27(3): 247—249.
+[22]. Weixiang Liu,KehongYuan,Zhenhua Xie.Sparse Nonnegative Matrix Factorization for Classification of Gene Expression Data.The 1st International Conference on Bioinformatics and Biomedical Engineering (ICBBE2007).
+[23]. 李文鹏，谢振华，莫卓华，刘峰,曹健，王颖，蒋宇扬. 双融合蛋白方法制备和纯化Pokemon抗体. The 5th National Conference on Chemical Biology.
+[24]. Chen XH, Xie ZH, Sun SJ, Cai G. Cloning of a rat lung fibrogenic factor. Gene，2006，15(384):9-17.
+[25]. 谢振华,蔡国平. 生物实验的玻璃和塑料器皿的绿色环保清洗方法. 生物学杂志, 2006,23(5): 51—52.
+[26]. 谢振华,史小军,蔡国平.快捷提取能经受过夜酶切的质粒DNA. 生物技术,2006,16(1):40-41.
+[27]. 谢振华,史小军,蔡国平.在单个PCR管内快捷完成定点突变.生物化学和分子生物学学报.2006,22(8):681-684.
+[28]. 谢振华,王爱民,马春等. PC12细胞硫氧还蛋白cDNA的克隆及在大肠杆菌中的表达, 基础医学与临床. 2002,22(1): 59-62.
+[29]. 张雪峰,贺雨虹,谢振华.转铜伴侣的功能与结构特性,生命科学.2002, 14(3):153-155.
+[30]. 安丽荣,马 春,谢振华等.Carnosine对Aβ_(25-35)诱发PC12细胞损伤的神经保护作用，中国老年学杂志.2002,22(5):404-405.
+[31]. 谢振华,王爱民,刘长振等.PC12细胞APE/Ref-1 cDNA的克隆和表达,生物化学和分子生物学学报.2001,17(5):585-589.
+[32]. 谢振华,晁代军,刘长振. 感受态细胞的快捷制备和转化. 哈尔滨医科大学学报, 2001, 35(3):160.
+[33]. WangAM, Ma C, Xie ZH, Shen F.Use of carnosine as a natural anti-senescence drug for human beings.Biochemistry (Mosc)，2000, 65(7):869-71.
+代表性著作 
+主要专利成果 
+(1). 专利名称：一种信号肽-组蛋白H1融合蛋白及其编码基因与应用;申请号: 201310305990.5; 发 明 人: 武小金;谢振华;田继微;张创;孟祥伦
+(2). 专利名称：人类唐氏综合症DNA序列在检测植入鼠体内的人细胞数量中的应用; 申请号: 201210259374.6; 发 明 人: 吴耀炯; 谢振华;宋鹏跃
+(3). 专利名称：具有抑制PTTG表达作用的融合蛋白及其编码基因与应用;专利号: CN1995065; 发 明 人: 蒋宇扬;谢振华;莫卓华;李文鹏
+(4). 专利名称：一种RNAi载体及其应用;专利号: CN101058819 发 明 人: 蒋宇扬;谢振华;马伟伟;李文鹏
+(5). 专利名称：治疗乳腺癌的药物及其专用反义寡核苷酸;专利号: CN101275134; 发 明 人: 蒋宇扬;张 楠;谢振华
+(6). 专利名称：特异性调节Pokemon基因表达的反义寡核苷酸及其应用; 专利号: CN101275135; 发 明 人: 蒋宇扬;张 楠;谢振华
+(7). 专利名称：一种可诱导癌细胞凋亡的载体及其应用; 专利号: CN101580845; 发 明 人: 蒋宇扬、谢振华、董爱君、刘华臣
+其他成果 
+ </研究成果>

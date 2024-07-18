@@ -1,0 +1,44 @@
+{"title":"Jong Mui Choo (杨美珠)","cnUrl":"http://www.sigs.tsinghua.edu.cn/ymz/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/fc/6e/7b81de9040208c1ddf90dd890270/7c1d40f9-9fb9-44ec-a74a-4e7b6e9f08a1.png","email":"florence.jong@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2015年9月-2019年9月，英国纽卡斯尔大学，环境工程专业，博士
+2012年9月-2015年8月，英国纽卡斯尔大学，环境工程专业，硕士
+2004年6月-2007年6月，马来西亚博特拉大学，环境科学专业，学士
+工作经历 
+2022年10月-至今，清华大学深圳国际研究生院，助理教授，博士生导师
+2019年10月-2022年9月，新加坡国立大学，博士后
+学术兼职 
+《Reviews of Environmental Contamination and Toxicology》, 青年执行编委
+《环境抗生素耐药性》2021年国际研讨会主讲人（联合国环境规划署及中科院城环所等联办）
+Water Research, Journal of Hazardous Materials, Cleaner Waste Systems, Chemosphere, Marine Pollution Bulletin等国际学术期刊审稿人。
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+环境与公共卫生及生态健康等交叉环境领域，包括沿海、河流、河口新污染物研究（微塑料、有机污染物、抗生素及耐药性微生物）、生态毒理、环境风险评估，以及用于水安全和污染控制的低能耗污水处理工艺等课题，致力为保护环境、生态及人类健康做出贡献，提供借鉴价值及解决方案。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Jong, M.-C., Tong, X., Li, J., Xu, Z., Chng, S.H.Q., He, Y., Gin, K.Y.-H. 2022. Microplastics in equatorial coasts: Pollution hotspots and spatiotemporal variations associated with tropical monsoons. Journal of Hazardous Materials 424, 127626. 
+[2]Jong, M.-C., Li, J., Noor, H.M., He, Y. and Gin, K.Y.-H. 2022. Impacts of size-fractionation on toxicity of marine microplastics: Enhanced integrated biomarker assessment in the tropical mussels, Perna viridis. Science of The Total Environment 835, 155459.
+[3]Jong, M.-C., Harwood, C.R., Blackburn, A., Snape, J.R. and Graham, D.W. 2020. Impact of Redox Conditions on Antibiotic Resistance Conjugative Gene Transfer Frequency and Plasmid Fate in Wastewater Ecosystems. Environmental Science & Technology 54(23), 14984-14993. 
+[4]Jong M.-C., Su J-Q, Bunce JT, Harwood CR, Snape JR, Zhu Y-G, Graham DW. (September 2018) Co-optimization of sponge-core bioreactors for removing total nitrogen and antibiotic resistance genes from domestic wastewater. Science of the Total Environment 634:1417-1423. 
+[5]Ho, J.Y., Jong, M.-C., Acharya, K., Liew, S.S.X., Smith, D.R., Noor, Z.Z., Goodson, M.L., Werner, D., Graham, D.W. and Eswaran, J. 2021. Multidrug-resistant bacteria and microbial communities in a river estuary with fragmented suburban waste management. Journal of Hazardous Materials 405, 124687. 
+[6]Cui, R., Jong, M.-C., You, L., Mao, F., Yao, D., Gin, K.Y. and He, Y. 2021. Size-dependent adsorption of waterborne Benzophenone-3 on microplastics and its desorption under simulated gastrointestinal conditions. Chemosphere 286(Pt 3), 131735. 
+[7]Tong, X., Jong, M.-C., Zhang, J., You, L. and Gin, K.Y.-H. 2021. Modelling the spatial and seasonal distribution, fate and transport of floating plastics in tropical coastal waters. Journal of Hazardous Materials 414, 125502. 
+[8]Mao JF, Li W, Ong CN, He Y, Jong M.-C., Gin KY-H. Assessment of human exposure to benzophenone-type UV filters: A review. Environment International 2022; 167: 107405. 
+[9]Li, W., Mao, F., Ng, C., Jong, M.C., Goh, S.G., Charles, F.R., Ng, O.T., Marimuthu, K., He, Y. and Gin, K.Y.-H. 2022. Population-based variations of a core resistome revealed by urban sewage metagenome surveillance. Environment International 163, 107185.9. 
+[10]Collings, E.J., Bunce, J., Jong, M.-C. and Graham, D. 2020. Impact of Cold Temperatures on Nitrogen Removal in Denitrifying Down-Flow Hanging Sponge (DDHS) Reactors. Water 12, 2029.
+[11]Myra J.G, Graham D. W., Jong, M.-C., Bunce J.T; (2018). Improving local-scale waste management: A solution for reducing global antibiotic resistance. Proceedings of the 1st IWA Latin American & Caribbean Young Water Professionals Querétaro, Mexico.
+[12]Bundy, CA, Wu D, Jong M.-C., Edwards SR, Ahammad ZS, Graham DW. (December 2017) Enhanced denitrification in Downflow Hanging Sponge reactors for decentralised domestic wastewater treatment. BioresourceTechnology, 226:1-8.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+国际环境毒理学与化学协会（SETAC）“十佳青年科学家” 荣誉（2017年）
+英国自然科学基金（EPSRC）博士奖学金（2015-2019年）
+ </奖励荣誉>

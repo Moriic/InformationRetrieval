@@ -1,0 +1,61 @@
+{"title":"林光辉","cnUrl":"http://www.sigs.tsinghua.edu.cn/lgh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/69/22/12ef97464a0e94811be65b9edfaf/0c1dda02-7bfa-4cac-bdb9-6d1ae4d98e6b.jpg","email":"lin.guanghui@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1979-1983：厦门大学植物学学士；
+1983-1986：厦门大学生态学硕士；
+1988-1992：美国迈阿密大学（University of Miami）生态学博士；
+1986-1988：厦门大学环境科学研究所助教。
+1988-1992：美国迈阿密大学(University of Miami)生物系助教、助研；
+1992-1994：美国犹他大学（University of Utah）生物系博士后；
+1994-1996：美国空间生物圈公司（Space Biosphere Venture ）研究员；
+1996-2003：美国哥伦比亚大学(Columbia University)Lamont-Doherty地球研究所副研究员(Associate Research Scientist)及生物圈2号研究中心（Biosphere 2 Research Center）陆地生态学研究部负责人；
+2003-2008：中国科学院植物研究所生态中心研究员及“生态系统过程与稳定同位素生态学”课题组负责人；
+2004-2005: 美国卡内基研究院全球生态学客座研究员(Stanford University校园内)；
+2004-2008: 中国科学院研究生院教授；
+2008-2011: 厦门大学生命科学学院”闽江学者”特聘教授和副院长；
+2011-现在：清华大学深圳研究生院海洋生物学与生态学教授。
+教育经历 
+工作经历 
+学术兼职 
+1.中国生态学学会稳定同位素生态学专业委员会主任委员
+2.《Ecosystem Health and Sustainability》专业编委
+3.中国通量观测联盟第一届理事会副理事长
+4.国家湿地科学技术专家委员会委员
+5.全国林业系统国家级自然保护区第五届评审委员会委员
+6.中国生态学学会湿地生态学专业委员会副主任委员
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+长期从事红树林生态学与保育、稳定同位素生态学以及不同生态系统（滨海湿地、草原、荒漠、森林）碳-水循环及其对环境变化响应的研究。主持过科技部973项目（2013-2017）、国家基金委“重点项目”（2010-2013）、国家海洋局“公益性科研专项重大项目”（2009-2012、2013-2016）等多项国家级科研项目及深圳市科技计划项目（2015-2018）等。至今发表论文150多篇，其中包括PNAS、Ecology、Global Change Biology、Agricultural and Forestry Meteorology等主流刊物SCI论文100余篇；主编《稳定同位素生态学》、《滨海湿地生态修复技术及其应用》、《红树林研究论文集-7》等专著3部、参编《全球变化研究评论II：全球变化与生物多样性》等专著4部。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1. Cui XW, Song WM*, Feng JX, Jia D, Guo JM, Wang ZL, Wu H, Qi F, Liang J, Lin GH*. Increased nitrogen input enhances Kandelia obovata seedling growth in the presence of invasive Spartina alterniflora in subtropical regions of China[J]. Biology letters, 2017, 13(1):20160760.
+2. Feng JX, Zhu XS*, Wu H, Ning CX, Lin GH*. Distribution and ecological risk assessment of heavy metals in surface sediments of a typical restored mangrove-aquaculture wetland in Shenzhen, China[J]. Marine Pollution Bulletin, 2017, DOI:10.1016/j.marpolbul.2017.01.004.
+3. Lu WZ*, Xiao JF, Liu F, Zhang Y, Liu CA, Lin GH*. Contrasting ecosystem CO2 fluxes of inland and coastal wetlands: A meta-analysis of eddy covariance data[J]. Global Change Biology, 2016, on-line.
+4. Shi GH , Peng CH , Wang M, Shi SW, Yang YZ, Chu JY, Zhang JJ, Lin GH , et al. The dpatial and temporal distribution of dissolved organic carbon exported from three Chinese rivers to the China Sea[J]. PLoS One, 2016, 11(10):e0165039.
+5. Li QY, Xia JY, Shi Z, Kun Huang K, Du ZG, Lin GH*, Luo YQ*. Variation of parameters in a Flux-based ecosystem model across 12 sites of terrestrial ecosystems in the conterminous USA[J]. Ecological Modelling, 2016, 336:57-69.
+6. Fang Y, Sun G, Caldwell P, McNulty SG, Noormets A, Domec JC, King J, Zhang ZQ, Zhang XD, Lin GH, et al. Monthly land cover‐specific evapotranspiration models derived from global eddy flux measurements and remote sensing data[J]. Ecohydrology, 2016, 9(2):248-266.
+7. Jia D., F. Qi, X. Xu, J.X. Feng, H. Wu, J.M. Guo, W.Z. Lu, R.H. Peng, X.S. Zhu, Y.Q. Luo, G.H. Lin*. Co-regulations of Spartina alterniflora invasion and exogenous nitrogen loading on soil N2O efflux in subtropical mangrove mesocosms[J]. PLoS One, 2015, 11(1):e0146199.
+8. Feng JX, Huang Q, Qi F, Guo JM, Lin GH*. Utilization of exotic Spartina alterniflora by fish community in the mangrove ecosystem of Zhangjiang Estuary: evidence from stable isotope analyses[J]. Biological Invasions, 2015, 17:2113-2121.
+9. Lu WZ, Yang SC , Chen LZ, Wang WQ, Du XN, Wang CM, Ma Y, Lin GX, Lin GH*. Changes in carbon pool and stand structure of a native subtropical mangrove forest after inter-planting with exotic species Sonneratia apetala[J]. PLoS ONE, 2014, 9(3): e91238. doi:10.1371/journal.pone.0091238.
+10. Chen H, Lu WZ, Yan GY, Yang SC, Lin GH*. Typhoons exert significant but differential impacts on net ecosystem exchange of subtropical mangrove forests in China[J]. Biogeosciences, 2014, 11: 5323-5333.
+11. Feng JX, Guo JM, Huang Q, Jiang JX, Huang GM, Yang ZW, Lin GH*. Changes in the community structure and diet of benthic macrofauna in invasive Spartina alterniflora wetlands following restoration with native mangroves[J].Wetlands, 2014, 34:673–683. doi: 10.1007/s13157-014-0533-2.
+12. Liu JL, Wu H, Feng JX, Zheng L, Lin GH*. Heavy metal contamination and ecological risk assessments in the sediments and zoobnethos of selected mangrove ecosystems, south China[J]. Catena, 2014, 119: 136-142.
+13. Wu H, Peng R, Yang Y, He L, Wang WQ, Zheng TL, Lin GH*. Mariculture pond influence on mangrove areas in south China: Significantly larger nitrogen and phosphorus loadings from sediment wash-out than from tidal water exchange[J]. Aquaculture, 2014, 426: 204-212.
+代表性著作 
+1. 林光辉（主编）、刘长安、冯建祥（副主编）. 2014. 《滨海湿地生态修复技术及其应用》。海洋出版社，262页，331千字。
+2. 林光辉（著）2013.《稳定同位素生态学》. 高等教育出版社，492页，605千字。
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2015:《稳定同位素生态学》专著获中国大学出版社优秀图书奖（学术专著类）一等奖；
+2014:《稳定同位素生态学》专著获北京市“三百精品图书”奖；
+2002:美国农业部部长科研团队优秀奖；
+1995:国家教委科学技术进步奖 二等奖；
+1992:福建省科学技术进步奖 二等奖 。
+ </奖励荣誉>

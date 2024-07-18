@@ -1,0 +1,45 @@
+{"title":"蔡中华","cnUrl":"http://www.sigs.tsinghua.edu.cn/czh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/a0/16/a160e19d453bb4d57e8fc754e0a0/adb387f5-ba58-4c27-9d38-fd6f8cd67845.jpg","email":"caizh@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1983年9月-1987年7月，南开大学生物系动物学专业本科毕业
+1987年9月-1990年7月，甘肃农业大学动物病理系硕士毕业
+1998年9月-2001年7月，中国海洋大学水产学院博士毕业
+1999年10月-2000年5月，英国Aberdeen大学访问学者
+2001年7月-2004年3月，中科院海洋所博士后
+1990年7月-2004年3月，天津农学院 教师
+2004年3月至今，清华大学深圳研究生院 教师
+教育经历 
+工作经历 
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+海洋生物学前沿与进展
+海洋生物信息学
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+近年来主要围绕海洋富营养化发生原因和富营养化生物控制技术，从海洋生态学角度，研究微生物、藻类及大型生物的相互作用、生物多样性及其消长规律，开展基于生态系统的海洋管理模式研究，近期研究方向聚焦如下：
+1.海洋微生物生态学：微生物群落组成和转录表达的动态变化及其在富营养化评估中的作用；严谨反应对藻类生理及藻华发生的调节作用；
+2.基于生态系统的海洋管理：海洋生物原位观测技术的开发；海洋生态模型；及海洋生物在海湾富营养化中的控制作用。
+主持和参加国家及省部和深圳市项目多项，发表研究论文近百篇，获得省部级科技进步奖多项。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1)Jing-Yun Sun, Yu Song, Zhi-Ping Ma,et al. Fungal community dynamics during a marine dinoflagellate (Noctiluca scintillans) bloom. Marine Environmental Research, 2017,131, 183-194
+2)Jin Zhou, Xiao Song, Chun-Yun Zhang, et al. Distribution patterns of microbial community structure along a 7000-mile latitudinal transect from the Mediterranean Sea across the Atlantic Ocean to the Brazilian coastal sea, 2017, Microbial Ecology, http://doi.org/10.1007/ s00248-018-1150-z
+3)Lao YM, Jin H, Zhou J, et al. Functional Characterization of a Missing Branch Component in Haematococcus pluvialis for Control of Algal Carotenoid Biosynthesis. 2017, Front. Plant Sci. 8:1341. doi: 10.3389/fpls.2017.01341
+4) Chang H, Zhou J, Zhu X, et al. Strain identification and quorum sensing inhibition characterization of marine-derived Rhizobium sp. NAO1. R. Soc. open sci. 4: 170025. http://dx.doi.org/10.1098 /rsos.170025
+5)Hui Jina, Yong Min Lao, Jin Zhou et al, Simultaneous determination of 13 carotenoids by a simple C18column-based ultra-high-pressure liquid chromatography method forcarotenoid profiling in the astaxanthin- accumulating Haematococcuspluvialis Journal of Chromatography A, 1488 (2017) 93–103
+6)Bo Wanga, Dan Wua, Ka Him Chua, Liqun Yeb, Ho Yin Yipa, Zhonghua Cai.,Po Keung Wonga, Removal of harmful alga, Chattonella marina, by recyclable naturalmagnetic sphalerite Journal of Hazardous Materials 324 (2017) 498–506
+7)Yilong Zhang, Le Liu, Yi Tao, et al, A fiber-based fluorometric system for algal classification in situ, Optics & Laser Technology, 76：121-126, 2016
+8)Jin Zhou, Yao-Yang Zhang, Qing-Yun Li, Zhong-Hua Cai. Evolutionary History of Cathepsin L (L-like) Family Genes in Vertebrates Int. J. Biol. Sci. 2015, 11:1016-1025
+9)Jin Zhou, Baiyang Chen, Zhonghua Cai. Metabolomics-based approach for assessing the toxicity mechanisms of dibutyl phthalate to abalone (Haliotis diversicolor supertexta). Environ Sci Pollut Res. 2015,22:5092-5099.
+10)Tan shangjin, Zhou jin, Zhu Xiaoshan, Zhan Wugen, Yu Shichen, Wang Bo. An association network among microeukaryotes and bacterioplankton reveals algal bloom dynamics. J Phyco. 2015, 51(1): 1016- 1025 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

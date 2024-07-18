@@ -1,0 +1,51 @@
+{"title":"余旷","cnUrl":"http://www.sigs.tsinghua.edu.cn/yk/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/6d/e6/e28f49d0478c9e9f96841c993d66/64b7e251-b44f-472e-879b-a93b71d63a5c.png","email":"yu.kuang@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+Professor Kuang Yu was graduated from the College of Chemistry and Molecular Engineering, Peking University in 2008.He received his PhD degree in the University of Wisconsin, Madison in 2013, then conducted his postdoctoral research in Princeton University from 2013 to 2016.Then he worked at D. E. Shaw Research as a research scientist until 2018, when he joined the Nano Energy Materials Lab in TBSI as a full time PI. Professor Kuang Yu’s research interests focus on theoretical and computational modelling of material systems, utilizing both ab initio and molecular mechanics approaches. In particular, he worked on multiscale electronic structure methods and high-accuracy molecular force fields development.
+Opening:
+Postdoctoral Researcher Position
+A postdoctoral researcher position is currently open. The ideal candidate should have a Ph.D. degree in computational chemistry/material science. Interested applicants please email a CV to yu.kuang@sz.tsinghua.edu.cn.
+Graduate Student Position
+Applications are encouraged from students with an excellent educational background in chemistry, physics, or material science. Interested applicants please contact yu.kuang@sz.tsinghua.edu.cn about future openings.
+教育经历 
+Ph.D. in Chemistry Department, the University of Wisconsin, Madison, 2008-2013B. S. in College of Chemistry and Molecular Engineering, Peking University, 2004-2008
+工作经历 
+2016-2018, Research Scientist, D. E. Shaw Research, NY
+2013-2016, Postdoctoral associate, Princeton University
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+To be determined
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+In Professor Kuang Yu’s lab, we use both electronic structure theories and dynamical simulations to study material systems. We are interested in a variety of phenomena, including condensed matter phase transition, ion/electron/phonon transportation in solids, and chemical reactions in heterogeneous environment such as solid/liquid interface. In collaboration with experimentalists, we study materials with applications to batteries, super capacitors, gas separation & storage, and photoelectronics. Most of these systems are inhomogeneous and complicated in nature, posting great challenges to conventional simulation techniques. To face those challenges, we also develop new simulation tools, by combining different techniquessuitable at different spatial and time scales. Specifically, our current projects include:
+- Simulating gas adsorption behavior in molecular crystals and flexible porous materials: using molecular dynamics (MD) as basic tool, we aim to understand the structural changes and the energetics of the material in response to guest molecule intercalations. Then we target to rationally design new materials suitable in different gas separation/storage applications.
+- Ab initio and dynamical simulations on batteries & photovoltaics: employing first-principles calculations, we aim to understand the electrical properties of various battery electrodes and photovoltaic materials.
+- Quantum embedding theory development: we aim to develop new ab initio methods via combining different levels of electronic structure theories. We expect this method to be more flexible compared to conventional methods, and provides new solutions to difficult electronic structure problems in complicated environment.
+- High-accuracy force field development: we aim to design new force fields based on ab initio data, which can accurately describe the interatomic interactions in MD simulation. In particular, we are interested in the application of modern machine learning techniques in dynamical simulations. The new technique will be used to study problems such as heterogeneous interfacial structures, amorphous solid properties, as well as phonon transportations in solid materials.
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+For a complete list of publications, see: https://scholar.google.com/citations?user=mYsbwh0AAAAJ&hl=en
+1. Yu, K.; Carter, E. A. Extending Density Functional Embedding Theory for Covalently Bonded Systems. Proc. Natl. Acad. Sci. U.S.A. 2017,114 (51), E10861-E10870.
+2. Yu, K.; Carter, E. A. Elucidating the Disordered Structures and the Effects of Cu Vacancies on the Electronic Structure of Cu2ZnSnS4. Chem. Mater. 2016,28, 864-869.
+3. Yu, K.; Libisch, F.; Carter, E. A. Implementation of density functional embedding theory within the projector-augmented-wave method and applications to semiconductor defect states. J. Chem. Phys. 2015,143 (10), 102806.
+4. Schmidt, J. R.; Yu, K.; McDaniel, J. G. Transferable Next-Generation Force Fields from Simple Liquids to Complex Materials. Acc. Chem. Res. 2015,48 (3), 548-556.
+5. Yu, K.; Carter, E. A. Communication: Comparing ab initio methods of obtaining effective U parameters for closed-shell materials. J. Chem. Phys. 2014,140 (12), 121105.
+6. Yu, K.; Schmidt, J. R. Many-body effects are essential in a physically motivated CO2 force field. J. Chem. Phys. 2012,136 (3), 034503.
+7. McDaniel, J. G.; Yu, K.; Schmidt, J. R. Ab Initio, Physically Motivated Force Fields for CO2 Adsorption in Zeolitic Imidazolate Frameworks. J. Phys. Chem. C 2012,116 (2), 1892-1903 (Eqaully contributed first author).
+8. Yu, K.; McDaniel, J. G.; Schmidt, J. R. An efficient multi-scale lattice model approach to screening nano-porous adsorbents. J. Chem. Phys. 2012,137 (24), 244102.
+9. Yu, K.; McDaniel, J. G.; Schmidt, J. R. Physically Motivated, Robust, ab Initio Force Fields for CO2 and N2. J. Phys. Chem. B 2011,115 (33), 10054-10063.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2016, Blavatnik Regional Award, Finalist
+ </奖励荣誉>

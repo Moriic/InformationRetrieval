@@ -1,0 +1,47 @@
+{"title":"洪朝鹏","cnUrl":"http://www.sigs.tsinghua.edu.cn/hcp/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/15/7f/eec0e4ed41cabaed64561616064e/305cf486-86dd-4d35-8f44-6b07f0ff554d.jpg","email":"hongcp@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2012年9月-2017年6月，清华大学，环境科学与工程专业，博士
+2008年8月-2012年7月，清华大学，环境工程专业，学士
+工作经历 
+2021年6月-至今，清华大学深圳国际研究生院，助理教授
+2018年5月-2021年6月，美国加州大学尔湾分校，博士后
+2017年9月-2018年4月，清华大学，科研助理
+2015年5月-2016年4月，美国北卡罗来纳州立大学，访问学者
+学术兼职 
+Nature Food, Nature Communications, PNAS, One Earth, Environmental Science & Technology, Atmospheric Chemistry and Physics, Environmental Research Letters, Journal of Cleaner Production, Atmospheric Environment, Environmental Science and Pollution Research, Earth’s Future, Global Change Biology等学术期刊审稿人
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+生态环境耦合系统与可持续系统分析，涵盖气候变化、空气质量、食品-能源-水等领域。围绕上述领域在Science、Nature、Nature Climate Change、Nature Food、PNAS等国际著名期刊上以第一/通讯作者发表论文。全部论文总引用4000余次，多篇论文入选ESI高被引论文。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Hong, C.*#, Zhao, H.#, Qin, Y., Burney, J. A., Pongratz, J., Hartung, K., Liu, Y., Moore, F. C., Jackson, R. B., Zhang, Q. and Davis, S. J.*, Land-use emissions embodied in international trade. Science, 376, 597-603, 2022.
+[2] Hong, C.*, Burney, J. A.*, Pongratz, J., Nabel, J., Mueller, N. D., Jackson, R. B. and Davis, S. J.*, Global and regional drivers of land-use emissions 1961-2017. Nature, 589, 554-561, 2021.
+[3] Hong, C., Zhang, Q.*, Zhang, Y.*, Davis, S. J., Zhang, X., Tong, D., Guan, D., Liu, Z. and He, K., Weakening aerosol direct radiative effects mitigate climate penalty on Chinese air quality. Nature Climate Change, 10, 845-850, 2020.
+[4] Hong, C.*, Mueller, N. D., Burney, J. A., Zhang, Y., AghaKouchak, A., Moore, F. C., Qin, Y., Tong, D. and Davis, S. J., Impacts of ozone and climate change on yields of perennial crops in California. Nature Food, 1, 166-172, 2020. (front cover)
+[5] Hong, C., Zhang, Q.*, Zhang, Y., Davis, S. J., Tong, D., Zheng, Y., Liu, Z., Guan, D., He, K. and Schellnhuber, H. J.*, Impacts of climate change on future air quality and human health in China. PNAS, 116, 17193-17200, 2019.
+[6] Hong, C., Zhang, Q.*, Zhang, Y.*, Tang, Y., Tong, D. and He, K., Multi-year downscaling application of two-way coupled WRF v3.4 and CMAQ v5.0.2 over east Asia for regional climate and air quality modeling: model evaluation and aerosol direct effects. Geosci. Model. Dev., 10, 2447-2470, 2017.
+[7] Hong, C., Zhang, Q.*, He, K., Guan, D., Li, M., Liu, F. and Zheng, B., Variations of China's emission estimates: response to uncertainties in energy statistics. Atmos. Chem. Phys., 17, 1227-1239, 2017.
+[8] Davis, S. J., Liu, Z., Deng, Z., Zhu, B., Ke, P., Sun, T., Guo, R., Hong, C., Zheng, B., Wang, Y., Boucher, O., Gentine, P. and Ciais, P., Emissions rebound from the COVID-19 pandemic. Nature Climate Change, 12, 412-414, 2022.
+[9] Tong, D., Geng, G., Zhang, Q., Cheng, J., Qin, X., Hong, C., He, K. and Davis, S. J., Health co-benefits of climate change mitigation depend on strategic power plant retirements and pollution controls. Nature Climate Change, 11, 1077-1083, 2021.
+[10] Geng, G., Zheng, Y., Zhang, Q., Xue, T., Zhao, H., Tong, D., Zheng, B., Li, M., Liu, F., Hong, C., He, K. and Davis, S. J., Drivers of PM2.5 air pollution deaths in China 2002–2017. Nature Geoscience, 14, 645-650, 2021.
+[11] Qin, Y., Abatzoglou, J. T., Siebert, S., Huning, L. S., AghaKouchak, A., Mankin, J. S., Hong, C., Tong, D., Davis, S. J., Mueller, N. D., Agricultural risks from changing snowmelt. Nature Climate Change, 10, 459–465, 2020.
+[12] Zhang, Q., Zheng, Y., Tong, D., Shao, M., Wang, S., Zhang, Y., Xu, X., Wang, J., He, H., Liu, W., Ding, Y., Lei, Y., Li, J., Wang, Z., Zhang, X., Wang, Y., Cheng, J., Liu, Y., Shi, Q., Yan, L., Geng, G., Hong, C., Li, M., Liu, F., Zheng, B., Cao, J., Ding, A., Gao, J., Fu, Q., Huo, J., Liu, B., Liu, Z., Yang, F., He, K. and Hao, J., Drivers of improved PM2.5 air quality in China from 2013 to 2017. PNAS, 116, 24463-24469, 2019.
+[13] Tong, D., Zhang, Q., Zheng, Y., Caldeira, K., Shearer, C., Hong, C., Qin, Y. and Davis, S. J., Committed emissions from existing energy infrastructure jeopardize 1.5 degrees C climate target. Nature, 572, 373-377, 2019.
+[14] Qin, Y., Mueller, N. D., Siebert, S., Jackson, R. B., AghaKouchak, A., Zimmerman, J. B., Tong, D., Hong, C. and Davis, S. J., Flexibility and intensity of global water use. Nature Sustainability, 2, 515-523, 2019.
+[15] Tong, D., Zhang, Q., Davis, S. J., Liu, F., Zheng, B., Geng, G., Xue, T., Li, M., Hong, C., Lu, Z., Streets, D. G., Guan, D. and He, K., Targeted emission reductions from global super-polluting power plant units. Nature Sustainability, 1, 59-68, 2018.
+[16] Li, M., Liu, H., Geng, G., Hong, C., Liu, F., Song, Y., Tong, D., Zheng, B., Cui, H., Man, H., Zhang, Q. and He, K., Anthropogenic emission inventories in China: a review. National Science Review, 4, 834-866, 2017.
+[17] Liu, Z., Guan, D., Wei, W., Davis, S. J., Ciais, P., Bai, J., Peng, S., Zhang, Q., Hubacek, K., Marland, G., Andres, R. J., Crawford-Brown, D., Lin, J., Zhao, H., Hong, C., Boden, T. A., Feng, K., Peters, G. P., Xi, F., Liu, J., Li, Y., Zhao, Y., Zeng, N. and He, K., Reduced carbon emission estimates from fossil fuel combustion and cement production in China. Nature, 524, 335-338, 2015.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2021年，深圳市国家级领军人才
+ </奖励荣誉>

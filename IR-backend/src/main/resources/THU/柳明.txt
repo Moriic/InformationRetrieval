@@ -1,0 +1,40 @@
+{"title":"柳明","cnUrl":"http://www.sigs.tsinghua.edu.cn/lm/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/4d/d8/3564976a4302841f5df3ff3bcf4b/0d131e62-e16e-40fc-9e94-35a3c7bf410c.png","email":"liuming@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2015年7月-2017年11月，香港科技大学，机械工程与航天专业，博士
+2013年7月-2017年7月，清华大学，材料科学与工程专业，博士
+2011年9月-2013年7月，清华大学，材料工程专业，硕士
+2006年9月-2010年7月，北京科技大学，材料科学与工程专业，学士
+工作经历 
+2021年11月-至今，清华大学深圳国际研究生院，助理教授
+2017年11月-2021年11月，代尔夫特理工大学，博士后
+学术兼职 
+担任Nano Energy, Energy Storage Materials, Journal of Materials Chemistry A, ACS Applied Materials & Interfaces, Journal of Power Sources, Electrochemical Acta等国际期刊审稿人。
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+ 柳明博士现为清华大学深圳国际研究生院助理教授、博士生导师。2017年博士毕业于清华大学材料学院及香港科技大学机械与航天学院。其后加入代尔夫特理工大学从事博士后研究。研究方向主要为利用以固体核磁共振和中子深度剖析为代表的先进表征技术理解固固界面离子传输行为并回溯电极电解质结构设计。目前以第一/共同第一作者在Nature Nanotechnology、Nature Communications、Accounts of Chemical Research、Joule、ACS Energy Letters、Chemistry of Materials 等期刊发表论文20余篇，总被引4400余次（谷歌学术）。研究成果获广东省自然科学一等奖（排名第十，2019）和深圳市自然科学二等奖（排名第五，2015）。
+Opening：
+ 本课题组长期招收有志于从事先进表征技术在储能领域应用研究的硕士、博士及博士后。有意申请者请发送邮件至liuming@sz.tsinghua.edu.cn
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+(1) Ming Liu, Shengnan Zhang, Ernst RH van Eck, Chao Wang, Swapna Ganapathy, Marnix Wagemaker; Improving Li-ion interfacial transport in hybrid solid electrolytes, Nature Nanotechnology, 2022, https://doi.org/10.1038/s41565-022-01162-9 (期刊论文)
+(2) Ming Liu; Chao Wang; Chenglong Zhao; Eveline van der Maas; Kui Lin; Violetta A Arszelewska; Baohua Li; Swapna Ganapathy; Marnix Wagemaker; Quantification of the Li-ion diffusion over an interface coating in all-solid-state batteries via NMR measurements, Nature Communications, 2021, 12(1): 1-10 (期刊论文)
+(3) Ming Liu; Swapna Ganapathy; Marnix Wagemaker ; A Direct View on Li-Ion Transport and Li-Metal Plating in Inorganic and Hybrid Solid-State Electrolytes, Accounts of Chemical Research, 2022, 55(3): 2336-2342 (期刊论文)
+(4) Chao Wang1; Ming Liu1; Michel Thijs; Frans GB Ooms; Swapna Ganapathy; Marnix Wagemaker ; High dielectric barium titanate porous scaffold for efficient Li metal cycling in anode-free cells, Nature Communications, 2021, 12(1): 1-11 (期刊论文)
+(5) Zhu Cheng1; Ming Liu1; Swapna Ganapathy; Chao Li; Zhaolong Li; Xiaoyu Zhang; Ping He; Haoshen Zhou; Marnix Wagemaker ; Revealing the Impact of Space-Charge Layers on the Li-Ion Transport in All-Solid-State Batteries, Joule, 2020, 4(6): 1311-1323 (期刊论文)
+(6) Ming Liu; Zhu Cheng; Swapna Ganapathy; Chao Wang; Lucas A Haverkate; Michał Tułodziecki; Sandeep Unnikrishnan; Marnix Wagemaker ; Tandem Interface and Bulk Li-Ion Transport in a Hybrid Solid Electrolyte with Microsized Active Filler, ACS Energy Letters, 2019, 4(9): 2336-2342 (期刊论文)
+(7) Ming Liu; Chao Wang; Zhu Cheng; Swapna Ganapathy; Lucas A Haverkate; Sandeep Unnikrishnan; Marnix Wagemaker ; Controlling the Lithium-Metal Growth To Enable Low-Lithium-Metal-Excess All-Solid-State Lithium-Metal Batteries, ACS Materials Letters, 2020, 2(7): 665-670 (期刊论文)
+(8) Ming Liu; Zhu Cheng; Kun Qian; Tomas Verhallen; Chao Wang; Marnix Wagemaker ; Efficient Li-Metal Plating/Stripping in Carbonate Electrolytes Using a LiNO3-Gel Polymer Electrolyte, Monitored by Operando Neutron Depth Profiling, Chemistry of Materials, 2019, 31(12): 4564-4574 (期刊论文)
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+研究成果获广东省自然科学一等奖（排名第十，2019）和深圳市自然科学二等奖（排名第五，2015）
+ </奖励荣誉>

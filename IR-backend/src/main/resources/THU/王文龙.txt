@@ -1,0 +1,77 @@
+{"title":"王文龙","cnUrl":"http://www.sigs.tsinghua.edu.cn/wwl/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/f3/ef/590b58c44c33ab88ed261b40221e/1e5509a4-cdb8-445e-bc8a-c20fdec5a2cd.jpg","email":"wwl20@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2012年09月-2018年07月，清华大学，环境科学与工程专业，博士
+2016年10月-2017年10月，德国慕尼黑工业大学，访问研究生
+2013年10月-2014年01月，日本产业技术综合研究所，访问研究生
+2008年09月-2012年07月，北京师范大学，环境工程专业，学士
+工作经历 
+2023年6月至今 清华大学深圳国际研究生院，副教授
+2020年11月-2023年6月 清华大学深圳国际研究生院，助理教授
+2018年7月-2020年11月 清华大学环境学院，博士后（博新计划）
+学术兼职 
+Water Cycle期刊助理
+Journal of Hazardous Material青年编委
+国际标准化组织ISO TC282 专家/项目草案负责人
+中国环境科学学会水处理与回用专业委员会委员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《饮用水安全保障技术》英文课程
+《污水处理与回用技术》英文课程
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事水污染控制、污水深度处理、水资源循环利用领域的研究，研究方向包括水质转化理论与方法、水质风险评价、物化深度处理技术（高级氧化技术等）、污染物转化与风险控制原理、污水再生利用工艺和调控技术等。
+主要项目 
+国家自然科学基金面上项目（主持）
+国家自然科学基金青年项目（主持）
+博士后创新人才支持计划（主持）
+博士后自然科学基金项目（主持）
+水体污染控制与治理科技重大专项子课题（骨干）
+国家自然科学基金面上项目（骨干）
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Wu Qian-Yuan, Yang Zheng-Wei, Wang Zhi-Wei, Wang Wen-Long*. Oxygen Doping of Cobalt-Single-Atom Coordination Enhances Peroxymonosulfate Activation and High-Valent Cobalt-Oxo Species Formation. Proceedings of the National Academy of Sciences (PNAS). 2023, 120:e2219923120.
+[2]Han Wei-Ran, Wang Wen-Long*, Qiao Tie-Jun, Wang Wei, Su Hang, Xu Chen-Xin, Wu Qian-Yuan*. Ozone micro-bubble aeration using the ceramic ultrafiltration membrane with superior oxidation performance for 2,4-D elimination. Water Research. 2023, 237: 119952. 
+[3]Ye Bei, Wu Qian-Yuan, Wang Wen-Long*, Hu Hong-Ying. PPCP degradation by ammonia/chlorine: Efficiency, radical species, and byproducts formation. Water Research. 2023, 235: 119862.
+[4]Du Ye#, Wang Wen-Long#, Wang Zhi-Wei, Yuan Chang-Jie, Ye Ming-Qi, Wu Qian-Yuan. Overlooked cytotoxicity and genotoxicity to mammalian cells caused by the oxidant peroxymonosulfate during wastewater treatment compared with sulfate radical-based ultraviolet/peroxymonosulfate process. Environmental Science & Technology, 2023, 57(8): 3311–3322. (#Equal contribution)
+[5]Ouyang Wan-Yue, Wang Wen-Long*, Zhang Yi-Lin, Cai Han-Ying, and Wu Qian-Yuan. VUV/UV oxidation performance for the elimination of recalcitrant aldehydes in water and its variation along the light-path. Water Research. 2023, 228: 119390.
+[6]Wang Wen-Long, Nong Yu-Jia, Yang Zheng-Wei, Wu Qian-Yuan, and Hübner Uwe. Chlorination of isothiazolinone biocides: kinetics, reactive species, pathway, and toxicity evolution. Water Research. 2022, 223: 119021.
+[7]Wang Wen-Long, Wu Qian-Yuan, Huang Nan, Xu Zi-Bin, Lee Min-Yong, and Hu Hong-Ying. Potential risks from UV/H2O2 oxidation and UV photocatalysis: A review of toxic, assimilable, and sensory-unpleasant transformation products. Water Research. 2018, 141: 109-125.
+[8]Wang Wen-Long, Wu Qian-Yuan, Du Ye, Huang Nan, and Hu Hong-Ying. Elimination of chlorine-refractory carbamazepine by breakpoint chlorination: Reactive species and oxidation byproducts. Water Research. 2018, 129: 115-122.
+[9]Wang Wen-Long, Zhang Xue, Wu Qian-Yuan, Du Ye, and Hu Hong-Ying. Degradation of natural organic matter by UV/chlorine oxidation: Molecular decomposition, formation of oxidation byproducts and cytotoxicity. Water Research. 2017, 124: 251-258.
+[10]Wang Wen-Long, Wu Qian-Yuan, Huang Nan, Wang Ting, and Hu Hong-Ying. Synergistic effect between UV and chlorine (UV/chlorine) on the degradation of carbamazepine: Influence factors and radical species. Water Research. 2016, 98: 190-198.
+[11]Nong Yu-Jia, Zhang Yi-Lin, Hübner Uwe, Wang Wen-Long*, Wu Qian-Yuan, Huang Nan, Drewes Jörg E., and Hu Hong-Ying. Roles of radical species in vacuum-UV/UV/peroxydisulfate advanced oxidation processes and contributions of the species to contaminant degradation at different water depths. Journal of Hazardous Materials. 2023, 446: 130660.
+[12]Cai Han-Ying, Wang Wen-Long*, Ouyang Wan-Yue, Wu Qian-Yuan, Zhang Li, and Hu Hong-Ying. Adsorption of Low-Molecular-Weight Carboxylic Acids to Anion Exchange Resins with Various Properties and the Mechanisms of Interaction. ACS EST Water. 2023, 1: 60-69.
+[13]Zhang Yi-Lin, Wang Wen-Long*, Lee Min-Yong, Yang Zheng-Wei, Wu Qian-Yuan, Huang Nan, and Hu Hong-Ying*. Promotive effects of vacuum-UV/UV (185/254 nm) light on elimination of recalcitrant trace organic contaminants by UV-AOPs during wastewater treatment and reclamation: A review. Science of The Total Environment. 2022, 818: 151776.
+[14]Huang Nan, Xu Zi-bin, Wang Wen-Long*, Wang Qi, Wu Qian-Yuan, and Hu Hong-Ying. Ozonation of phosphonate antiscalant 1-hydroxyethane-1,1-diphosphonic acid in reverse osmosis concentrate: kinetics, phosphorus transformation, and anti-precipitation property changes. Separation and Purification Technology. 2022: 121385.
+[15]Zhang Yi-Lin, Wang Wen-Long*, Lee Min-Yong, Yang Zheng-Wei, Wu Qian-Yuan, Huang Nan, and Hu Hong-Ying*. Promotive effects of vacuum-UV/UV (185/254 nm) light on elimination of recalcitrant trace organic contaminants by UV-AOPs during wastewater treatment and reclamation: A review. Science of The Total Environment. 2022, 818: 151776.
+[16]Huang Nan, Xu Zi-bin, Wang Wen-Long*, Wang Qi, Wu Qian-Yuan, and Hu Hong-Ying. Elimination of amino trimethylene phosphonic acid (ATMP) antiscalant in reverse osmosis concentrate using ozone: Anti-precipitation property changes and phosphorus removal. Chemosphere. 2021, 291 (Pt 3): 133027.
+[17]Wang Wen-Long, Lee Min-Yong, Du Ye, Zhou Tian-Hui, Yang Zheng-Wei, Wu Qian-Yuan, and Hu Hong-Ying. Understanding the influence of pre-ozonation on the formation of disinfection byproducts and cytotoxicity during post-chlorination of natural organic matter: UV absorbance and electron-donating-moiety of molecular weight fractions. Environment International. 2021, 157: 106793.
+[18]Wu Qian-Yuan, Yang Zheng-Wei, Du Ye, Ouyang Wan-Yue, and Wang Wen-Long*. The promotions on radical formation and micropollutant degradation by the synergies between ozone and chemical reagents (synergistic ozonation): A review. Journal of Hazardous Materials. 2021, 418: 126327.
+[19]Wu Qian-Yuan, Zhou Tian-Hui, Du Ye, Ye Bei, Wang Wen-Long*, and Hu Hong-Ying. Characterizing the molecular weight distribution of dissolved organic matter by measuring the contents of electron-donating moieties, UV absorbance, and fluorescence intensity. Environment International. 2020, 137: 105570.
+[20]Wang Wen-Long, Chen Zhuo, Du Ye, Zhang Yi-Lin, Zhou Tian-Hui, Wu Qian-Yuan, and Hu Hong-Ying. Elimination of isothiazolinone biocides in reverse osmosis concentrate by ozonation: a two-phase kinetics and a non-linear surrogate model. Journal of Hazardous Materials. 2019, 389: 121898.
+[21]Wang Wen-Long, Cai Yi-Zhong, Hu Hong-Ying, Chen Jian, Wang Jing, Xue Gang, and Wu Qian-Yuan. Advanced treatment of bio-treated dyeing and finishing wastewater using ozone-biological activated carbon: A study on the synergistic effects. Chemical Engineering Journal. 2019, 359: 168-175.
+[22]Wang Wen-Long, Hu Hong-Ying, Liu Xin, Shi Hui-Xiang, Zhou Tian-Hui, Wang Chun, Huo Zheng-Yang, and Wu Qian-Yuan. Combination of catalytic ozonation by regenerated granular activated carbon (rGAC) and biological activated carbon in the advanced treatment of textile wastewater for reclamation. Chemosphere. 2019, 231: 369-377.
+[23]Wang Wen-Long, Wu Qian-Yuan, Li Zhi-Ming, Lu Yun, Du Ye, Wang Ting, Huang Nan, and Hu Hong-Ying. Light-emitting diodes as an emerging UV source for UV/chlorine oxidation: Carbamazepine degradation and toxicity changes. Chemical Engineering Journal. 2017, 310: 148-156.
+[24]Wang Wen-Long, Wu Qian-Yuan, Wang Zheng-Ming, Hu Hong-Ying, Negishi Nobuaki, and Torimura Masaki. Photocatalytic degradation of the antiviral drug Tamiflu by UV-A/TiO2: Kinetics and mechanisms. Chemosphere. 2015, 131: 41-47.
+[25]王文龙, 吴乾元, 杜烨, 黄南, 陆韻, 魏东斌, 胡洪营 (2020) 城市污水再生处理中微量有机污染物控制的关键难题与解决思路. 环境科学. doi.10.13227/j.hjkx.202009251.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+德国洪堡学者
+博士后创新人才支持计划
+清华大学优秀博士学位论文
+北京市优秀毕业生
+奥加诺水质奖学金特等奖
+高廷耀环保科技发展基金“青年博士生杰出人才奖学金”
+IUVA Congress ‘Best student’s presentation award’ 2016 & 2017 (twice)
+ </奖励荣誉>

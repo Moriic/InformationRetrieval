@@ -1,0 +1,40 @@
+{"title":"郭烨","cnUrl":"http://www.sigs.tsinghua.edu.cn/gy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/81/6c/991ee357432fa7e6500228b52a42/8d607de7-89c5-4fce-8b81-f32ee340dcdb.png","email":"guo-ye@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+I am looking for Ph.D. and master students as well as postdoctoral associates who (i) with strong background in power and energy systems or (ii) with background in optimization/economics/information theory/game theory and feel interested in their applications in power and energy systems.
+Personal website: https://sites.google.com/site/yeguo2008/
+教育经历 
+·2008-2013: Ph.D., Department of Electrical Engineering, Tsinghua University
+·2004-2008: B.S., Department of Electrical Engineering, Tsinghua University
+工作经历 
+·2014-2018: Postdoctoral associate, Cornell University
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+·Power and energy systems, smart grid technologies
+·Electricity and energy market, pricing policies
+·Distributed operation and optimization of power and energy networks as well as other large systems
+·Power system state estimation, energy management systems
+·Distribution networks and microgrids
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+·Ye Guo, S. Bose, and L. Tong, “On robust tie-line scheduling in multi-area power systems,” IEEE Trans. on Power Systems, June 2018, available at https://arxiv.org/pdf/1704.07025.pdf
+·Ye Guo, Y. Ji, and L. Tong, “Generalized coordinated transaction scheduling: A market approach to seamless interfaces,” IEEE Trans. on Power Systems, February 2018, available at https://arxiv.org/pdf/1702.01474.pdf
+·Ye Guo, L. Tong, W. Wu, B. Zhang, and H. Sun, “Coordinated multi-area economic dispatch via critical region projection,” IEEE Trans. on Power Systems, vol. 32, no. 5, pp. 3736–3746, September 2017.
+代表性著作 
+主要专利成果 
+其他成果 
+ (VPN needed in China): https://sites.google.com/site/yeguo2008/
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+·2018.5: PSERC IAB Meeting 2018, Best poster award
+·2018.4: Midwest Workshop on Control and Game Theory 2018, Best Poster Award
+·2013.7: Excellent Ph.D. graduates in Beijing
+·2011.9: December 9th Anniversary Scholarship (Top Rank), Tsinghua University (一二.九奖学金)
+·2011.9: Excellent Ph.D. students recognized by the Ministry of Education
+ </奖励荣誉>

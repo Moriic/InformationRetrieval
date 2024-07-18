@@ -1,0 +1,33 @@
+{"title":"李梦瑶","cnUrl":"http://www.sigs.tsinghua.edu.cn/lmy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/4e/79/2f5b09c74bf3a3168a8b5770a732/41443044-0d14-40c1-95e9-5dfe21e91379.jpg","email":"mengyaoli@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2016年8月-2021年9月，纽约城市大学，物理学专业，博士
+2012年9月-2016年7月，复旦大学，物理学专业，学士
+工作经历 
+2022年10月-至今，清华大学深圳国际研究生院，助理教授
+2021年9月-2022年3月，纽约城市大学，博士后研究员
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+拓扑光子学、拓扑声学、光子晶体设计、微纳超表面
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Mengyao Li; Dmitry Zhirihin; Maxim A. Gorlach; Xiang Ni; Dmitry Filonov; Alexey P. Slobozhanyuk; Andrea Alù; Alexander B. Khanikaev; Higher-order topological states in photonic kagome crystals with long-range interactions, Nature Photonics, 2020, 14(2): 89-94
+[2] Mengyao Li; Ivan Sinev; Fedor Benimetskiy; Tatyana Ivanova; Ekaterina Khestanova; Svetlana Kiriushechkina; Anton Vakulenko; Sriram Guddala; Maurice Skolnick; Vinod M. Menon; Dmitry Krizhanovskii; Andrea Alù; Anton Samusev; Alexander B. Khanikaev; Experimental observation of topological Z2 exciton-polaritons in transition metal dichalcogenide monolayers, Nature Communications, 2021, 12(1): 4425
+[3] Mengyao Li; Xiang Ni; Matthew Weiner; Andrea Alù; Alexander B.Khanikaev; Topological phases and nonreciprocal edge states in non-Hermitian Floquet insulators, Physical Review B, 2019, 100(4): 045423
+[4] Xiang Ni; Mengyao Li; Matthew Weiner; Andrea Alù; Alexander B. Khanikaev; Demonstration of a quantized acoustic octupole topological insulator, Nature Communications, 2020, 11(1): 2108
+[5] S. Guddala; F. Komissarenko; S. Kiriushechkina; A. Vakulenko; M. Li; V. M. Menon; A. Alù; A. B. Khanikaev; Topological phonon-polariton funneling in midinfrared metasurfaces, Science, 2021, 374(6564): 225-227
+[6] Kawaguchi, Yuma; Li, Mengyao; Chen, Kai; Menon, Vinod; Alu, Andrea; Khanikaev, Alexander
+B.; Optical isolator based on chiral light-matter interactions in a ring resonator integrating adichroic magneto-optical material, Applied Physics Letters, 2021, 118(24): 241104
+[7] Anton Vakulenko; Svetlana Kiriushechkina; Mingsong Wang; Mengyao Li; Dmitry V. Zhirihin; Xiang Ni; Sriram Guddala; Dmitry Korobkin; Andrea Alù; Alexander B. Khanikaev; Near‐Field Characterization of Higher‐Order Topological Photonic States at Optical Frequencies, Advanced Materials, 2021, 33(18): 2004376
+[8] Matthew Weiner; Xiang Ni; Mengyao Li; Andrea Alù; Alexander B.Khanikaev ; Demonstration of a third-order hierarchy of topological states in a three-dimensional acoustic metamaterial, Science Advances, 2020, 6(13): eaay4166
+[9] Chen, Kai; Weiner, Matthew; Li, Mengyao; Ni, Xiang; Alu, Andrea; Khanikaev, Alexander B.; Nonlocal topological insulators: Deterministic aperiodic arrays supporting localized topological states protected by nonlocal symmetries, Proceedings of The National Academy ofSciences of The United States of America, 2021, 118(34): e2100691118
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

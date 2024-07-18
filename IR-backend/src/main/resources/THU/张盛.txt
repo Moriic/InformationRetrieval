@@ -1,0 +1,69 @@
+{"title":"张盛","cnUrl":"http://www.sigs.tsinghua.edu.cn/zs_458/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/ec/b7/1ff77f3e4dd8b3912200984eabc4/a53f3e5b-c9fa-41b3-9888-026caec26ce1.jpg","email":""}
+<个人简历>
+概况 
+主要从事通信系统及半导体传感、存储与计算系统芯片研究
+教育经历 
+1999年9月-2004年7月，博士，清华大学微电子所微电子学与固体电子学专业
+1994年9月-1999年7月，学士，清华大学电子工程系微电子专业
+工作经历 
+2011年1月至今，副教授，清华大学深圳国际研究生院，现代通信实验室
+2007年8月-2010年12月，助理研究员，清华大学深圳国际研究生院 
+2004年8月-2007年7月，助理研究员，清华大学-航天航空学院
+学术兼职 
+国际通信协会（IEEE Communication Society）深圳分会副主席
+深圳市采购中心、创新委、南山区科技局评审专家
+中科院上海微系统所，兼职副研究员
+清华大学深圳国际研究生院深圳市先进传感器件与集成系统重点实验室执行主任
+清华大学电子与通信专业学位硕士培养项目委员会委员
+协作物联网产业技术创新联盟理事
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《结构化集成电路设计》，国际院课程
+《智能物联网》，国际院课程
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+学术科研
+1.研究方向围绕新型半导体及二维材料、光电混合高性能计算、器件研究与工艺探索研究， 开展智能微纳传感器、图像传感器芯片、光神经网络芯片设计开发，并开展芯片集成、算法集成和网络系统集成，重点在芯片协议层协作物联网络、铁电薄膜材料、铁电存储器和铁电晶体管芯片、石墨烯微纳传感器等领域。
+2.曾参与国家863项目总体组工作，承担国家863预研项目“基于位置的综合信息服务系统预研”, 参与国家重大专项攻关项目多项，参与国家重点项目一项，参与并完成国家863重点攻关项目，如“32位嵌入式MIPS 4KC微处理器芯片开发”、“基于脉冲体制的超宽带无线传输演示系统开发”等。承担深圳市基础学科布局项目“面向DNA测序的CMOS图像传感器关键技术研究” 项目等。
+3.在集成电路设计、微电子器件与工艺、物联网关键技术和核心芯片、CMOS工艺及片上信息处理系统等领域拥有权威性核心专利28余项，国际专利2项。
+4.在国际学术会议和期刊上发表论文百余篇，其中高水平论文超过48篇，包括21篇SCI收录论文和27篇EI源刊及会议论文。多次参加国际会议并在会上发表口头报告。
+成果产业化
+1.推进多项技术成果产业化，技术成果转化超过千万元，带动半导体产业产值超亿元
+2.作为联合创始人参与发起成立思特威电子科技公司、晶铁半导体， 布局铁电晶圆生产线、集成电路封装线。
+3.发起成立协作物联网产业技术创新联盟（CIOTA），目前已签联盟成员36家，联盟包含了国内多家高校和大批优秀科技企业。联盟重点开展协作物联网产业关键技术的攻关与开发。联盟建立了技术、人才、项目合作交流机制，推动创新资源开放共享，形成面向全社会开放协同的创新网络。
+4.取得重大经济效益横向课题多项，其中《无线网络摄像机芯片技术研究》、《CMOS图像传感器芯片及应用研究》两个课题，为企业创造了良好的效益，为企业在安防CMOS图像传感器芯片全球市场领先，起到了重要支撑作用
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Jiandong Xu, Xiaoshi Li, Hao Chang, Bingchen Zhao, Xichao Tan, Yi Yang*, He Tian*, Sheng Zhang*, and Tian-Ling Ren*. Electrooculography and Tactile Perception Collaborative Interface for 3D Human–Machine Interaction. ACS Nano 2022, Category Quartile: Q1. Journal Impact Factor: 15.881.
+[2] Jiandong Xu, Ruisong Li, Shourui Ji, Bingchen Zhao, Tianrui Cui, Xichao Tan, Guangyang Gou, Jinming Jian, Haokai Xu, Yancong Qiao, Yi Yang, Sheng Zhang*, and Tian-Ling Ren. Multifunctional Graphene Microstructures Inspired by Honeycomb for Ultrahigh Performance Electromagnetic Interference Shielding and Wearable Applications. ACS Nano 2021 15 (5), 8907-8918. Category Quartile: Q1. Journal Impact Factor:15.881.
+[3] Jiandong Xu, Hao Chang, Bingchen Zhao, Ruisong Li, Tianrui Cui, Jinming Jian, Yi Yang, He Tian, Sheng Zhang*, Tian-Ling Ren. Highly stretchable and conformal electromagnetic interference shielding armor with strain sensing ability. Chemical Engineering Journal, 431(1), 2022, 133908. Category Quartile:Q1. Journal Impact Factor:13.273.
+[4] Jiandong Xu, Tianrui Cui, Thomas Hirtz, Yancong Qiao, Xiaoshi Li, Fanhui Zhong, Xiaolin Han, Yi Yang, Sheng Zhang*, and Tian-Ling Ren. Highly Transparent and Sensitive Graphene Sensors for Continuous and Non-invasive Intraocular Pressure Monitoring. ACS Applied Materials & Interfaces 2020 12 (16), 18375-18384. Category Quartile:Q1. Journal Impact Factor:9.229.
+[5] Shao Peng-Zhi, Zhao Hai-Ming, Cao Hui-Wen,Zhang Sheng*.Enhancement of carrier mobility in MoS2 field effect transistors by a SiO2 protective layer [J]. Applied Physics Letters, 2016, 108(20): 203105. Category Quartile:Q2.Journal Impact Factor:3.302.
+[6] Wu Minglin, Zhang Sheng*, Dong Yuhan.A novel model-based driving behavior recognition system using motion sensors [J]. Sensors, 2016, 16(10): 1746. Category Quartile:Q1. Journal Impact Factor:2.033.
+[7] Liu P Y, Xu H, Yi M Y, and Zhang S*. Novel method to optimize the column random telegraph signal performance in CMOS image sensor[J]. IEICE Electronics Express, 2019, 16(8): 20190118. Category Quartile:Q4. Journal Impact Factor:0.788.
+[8] Liu P Y, Zhang S* and Shen W L. A novel method to test and optimize the periphery crosstalk in CMOS image sensor[J]. IEICE Electronics Express, 2020, 17(3): 20190702. Category Quartile:Q4. Journal Impact Factor:0.788. 
+[9] Liu P Y, Shi W J, Zhang S*, et al. A novel CIS pixel structure design and simulation for DNA fluorescence sequencing[J]. IEICE Electronics Express, 2021, 18(5): 20210045. Category Quartile:Q4. Journal Impact Factor:0.578.
+[10]Jiandong Xu,Ruisong Li, Haokai Xu,Yi Yang,Sheng Zhang*, Tian-Ling Ren. Recent Progress of Continuous Intraocular Pressure Monitoring. Nano Select 2021, 00, 1. 
+[11]Jiandong Xu，Sheng Zhang*，TianLing Ren*，et al，Recent progresses and challenges in smart contact lens. Chinese Journal on Internet Things,2022,6(1)
+代表性著作 
+主要专利成果 
+[1] 美国专利(US. Patent)，专利号US2017/0201582 A1。专利名称：Cross protocol distributed cloud storage system and data management method based on operation control unit。
+[2] 美国专利(US. Patent)，专利号US2017/0195406 A1。专利名称：Distributed network node operation system based on operation control unit。
+[3] 发明专利，中国，专利号ZL201610308325.5。专利名称：一种基于给定物理模型的汽车运动状态识别方法及系统。
+[4] 发明专利，中国，专利号ZL201610022131.9。专利名称：主动推送信息的方法和嵌入式节点操作系统。
+[5] 发明专利，中国，专利号ZL201910002136.9。专利名称：一种障碍物感知的机会数据传输方法。
+[6] 发明专利，中国，专利号ZL201711077907.8。专利名称：一种实现高速处理计算机视觉图像的分层计算方法。
+[7] 发明专利，中国，专利号ZL201711144004.7。专利名称：一种系统化的基于聚类思想的驾驶行为识别方法。
+[8] 中国实用新型发明专利，专利号ZL201621098693.3。一种简化的集成运动传感器的驾驶行为分析装置
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2017、2019年度教师系列先进个人
+ </奖励荣誉>

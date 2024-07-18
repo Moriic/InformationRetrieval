@@ -1,0 +1,171 @@
+{"title":"金欣","cnUrl":"http://www.sigs.tsinghua.edu.cn/jx/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/b9/71/3d1a78b44626be5eb5096071d525/57f7506e-693f-4335-804c-4b98bcfba078.jpg","email":"jin.xin@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2002.09-2005.12 工学博士，信息与通信工程专业，华中科技大学
+1999.09-2002.06 工学硕士，通信与信息系统专业，华中科技大学
+1995.09-1999.06 工学学士，通信工程专业，华中理工大学
+工作经历 
+2017.12-至今 教授，博士生导师，清华大学深圳国际研究生院；
+2012.03-2017.11 副教授，博士生导师，清华大学深圳研究生院；
+2008.09-2012.03 客员讲师，研究员，早稻田大学IT研究机构；
+2006.11-2008.08 博士后研究员，香港中文大学电子工程系；
+1999.07-2007.11 助教，讲师，硕士研究生导师，华中科技大学电子与信息工程系
+学术兼职 
+2021.10-至今 ISO/IEC JTC 1/SC 29/WG 04 AHG on Lenslet Video Coding 联合主席
+2020.11-至今 IEEE Trans. Broadcasting，副主编
+2013.11-至今 国家数字音视频编解码标准化工作组（AVS）3D视频组组长
+2011.04-至今 IEEE Senior Member
+2022.01-至今 中国光学工程学会高级会员
+2018.12-至今 中国电子学会高级会员
+2012.04-至今 招聘研究员，一流大学计划导师，早稻田大学
+2007.04-至今 ACM Member
+2004.03-至今 SPIE Member
+2012.04-至今 评审专家，深圳市科技专家委员会
+2012.04-至今 评审专家，东莞市科协
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《凸优化》 专业基础课 硕士及博士研究生
+《英语》 公共必修课 硕士生
+《下一代视频编码与低功耗设计》 专业课 硕士及博士研究生
+《大数据的采集与智能处理》 专业基础课 硕士研究生
+《新一代信息与媒体技术实践》 专业课 硕士及博士研究生
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 近年来一直从计算摄像和多媒体信号处理方面的研究，主持和参与了国家自然科学基金重点项目、国家自然科学基金国家重大科研仪器研制项目、国家863项目等10余项国家和省部级科研项目，在计算摄像和图像处理领域的顶级期刊Optics Letters, Optics Express, IEEE Trans. on Image Processing以及ICIP、ICME等著名国际会议上发表学术论文170余篇，获授权中国发明专利60余项，美国发明专利4项。参与研究的“新一代立体视觉关键技术及产业化”获2016年国家科技进步二等奖；参与研究的“动态立体视觉系统关键技术及应用”荣获2015年广东省科学技术一等奖；2016年入选“广东特支计划”科技创新青年拔尖人才；2018年获“鹏城学者”特聘教授；2018年获中国电子信息科技创新团队带头人；2022年获日内瓦国际发明特别展金、银奖；同时担任ISO/IEC WG4特设小组联席主席、IEEE Trans. Broadcasting副主编、IEEE 视觉信号处理与通信技术委员会委员等职务。
+主要项目 
+1）国家自然科学基金重点项目（62131011）：微型高通量光场显微关键技术与方法研究，2022/01- 2026/12；
+2)国家自然科学基金国家重大科研仪器研制项目（61827804）：散射场景编码摄像仪器, 2019/01- 2023/12；
+3)国家自然科学基金（61771275）：全光采集增强技术与模型研究，2018/01-2021/12；
+4)国家自然科学基金（61371138）：适应移动云计算的自由视点合成、自适应卸载与功耗优化，2014/01 - 2017/12；
+5)NSFC-广东联合基金重点项目（U1201255）：多维数字媒体的稀疏表示、结构化处理与联合编码，2013/01 - 2016/12；
+6)国家高技术研究发展计划 (863 计划)课题：基于光场的真三维视频采集与生成，2015/01-2017/12；
+7)“广东特支计划”科技青年拔尖人才，2017/06-2020/05；
+8)四川省省院省校科技合作重大项目：面向下一代视频标准的VR视频编解码技术研究，2017/09-2019/09；
+9）广东省自然科学基金（2020A1515010345）：三维散射透视重建模型与方法研究，2019/10-2022/09；
+10)广东省自然科学基金：低功耗超高清视频编码技术及功率率失真全局优化研究，2015/01-2018/01；
+11)深圳市基础研究布局类项目（JCYJ20170817162658573）：基20170148 基于全光相机的光场检测关键技术研究，2018/04-2020/04；
+12)深圳市基础研究自由探索类项目（JCYJ20170307153135771）：适应混合式编码架构的全光图像帧内预测技术研究，2017/07-2019/06。
+ </研究领域>
+<研究成果>
+代表性论文 
+1) Rujia Deng, Xin Jin, Dongyu Du, 3D location and trajectory reconstruction of a moving object behind scattering media, IEEE Trans. Compuat. Imaging, 2021.
+2) 范逸辉，金欣，邓儒嘉，谢佳宇，孙科林，杨景川，张兵，“用于深海视频去散射的深度校正散射统计模型”，红外与激光工程，51（10）：2022.10
+3) Hongkun Cao, Xin Jin, Lingyu Ai, and Eun-Soo Kim, “Faster generation of holographic video of 3-D scenes with a Fourier spectrum-based NLUT method,” Optics Express, vol. 29, no.24, pp. 39738-39754, Nov. 2021.
+4) Xin Jin*, Fan Jiang, Lingjun Li, Tingting Zhong, “Plenoptic 2.0 intra coding using imaging principle,” IEEE Trans. Broadcasting, 2021.
+5) 金欣，王枭宇，杜东宇，范逸辉，季向阳，“散射成像研究现状及展望，”激光与光电子学进展，58（18）：1811002-1-30，2021.09。
+6) Xin Jin, Kunyi Li, Chuanpu Li and Xufu Sun, “Point spread function for the wide-field-of-view plenoptic cameras,” Optics Express, vol. 29, no.15, pp. 23764-23776, July, 2021.
+7) Linwei Zhu, Yun Zhang, Shiqi Wang, Sam Kwong, Xin Jin and Yu Qiao, “Deep Learning-Based Chroma Prediction for Intra Versatile Video Coding,” IEEE Trans. Circuits and Systems for Video Technology, vol. 31, no. 8, pp. 3168-3181, Aug. 2021.
+8) Hongkun Cao, Yong-Suck Hwang, Eun-Soo Kim and Xin Jin*, “Compact full-color holographic 3-D display based on undersampled computer-generated holograms and oblique projection imaging,” Optics Express, vol. 28, no.24, pp. 35910-35926, Nov. 2020.
+9) Xiaoyu Wang, Xin Jin* and Junqi Li, “Blind position detection for large field-of-view scattering imaging,” Photonics Research, vol. 8, no. 6, pp. 920-928, June 2020.
+10) Yanqin Chen, Bo Xiong, Yujia Xue, Xin Jin*, Joseph Green, and Lei Tian, “Design of a high-resolution light field miniscope for volumetric imaging in scattering tissue,” Biomedical Optics Express, vol. 11, no. 3, pp. 1662-1678, Mar. 2020.
+11) Xin Jin, Xufu Sun, Chuanpu Li, “Geometry Parameter Calibration for Focused Plenoptic Cameras,” Optics Express, vol. 28, no. 3, pp. 3428-3442, Feb. 2020.
+12) Yanqin Chen, Xin Jin, Bo Xiong, “Optical-aberrations-corrected light field re-projection for high-quality plenoptic imaging,” Optics Express, vol. 28, no. 3, pp. 3057-3072, Feb. 2020.
+13) Wang Tu, Xin Jin*, Lingjun Li, Chenggang Yan, Yaoqi Sun, Mang Xiao, Weidong Han, and Jiyong Zhang, “Efficient Content Adaptive Plenoptic Video Coding,” IEEE Access, vol. 8, 2020, pp. 5797-5804.
+14) Xin Jin, Pei Wang and Qionghai Dai, “Parallax Tolerant Light Field Stitching for Hand-held Plenoptic Cameras,” IEEE Trans. Image Process., vol. 29, pp. 1929-1943, 2020.
+15) Yimin Zhou, Ling Tian, Ce Zhu, Xin Jin, and Yu Sun, “Video Coding Optimization for Virtual Reality 360-Degree Source,” Journal of Selected Topics on Signal Process., vol. 14, no. 1, pp. 118-129, Jan. 2020.
+16) Xin Jin, David Mao San Wei, and Qionghai Dai, “Point spread function for diffuser cameras based on wave propagation and projection model,” Optics Express, vol. 27, no. 9, pp. 12748-12761, Apr. 2019.
+17) Xiaoyu Wang, Xin Jin, Junqi Li, Xiaocong Lian, Xiangyang Ji, Qionghai Dai, “Prior-information-free single-shot scattering imaging beyond the memory effect,” Optics Letters, vol. 44, no. 6, pp. 1423-1426, Mar. 2019.
+18) Xin Jin, Zhouping Wang, Xiaoyu Wang, Qionghai Dai, “Depth of field extended scattering imaging by light field estimation,” Optics Letters, vol. 43, no. 20, pp. 4871-4874, Oct. 2018.
+19) Xin Jin, Li Liu and Qionghai Dai, “Approximation and Blind Reconstruction of Volumetric Light Field,” Optics Express, vol. 26, no. 13, pp. 16836-16852, June 2018. 
+20) Zhouping Wang, Xin Jin and Qionghai Dai, “Non-invasive imaging through strongly scattering media based on speckle pattern estimation and deconvolution,” Scientific Reports, 8, article number 9088(2018), 2018.
+21) Xin Jin, Haixu Han and Qionghai Dai, “Plenoptic Image Coding using Macropixel-based Intra Prediction,” IEEE Trans. Image Process., vol. 27, no. 8, pp. 3954 – 3968, 2018.
+22) Xin Jin, Zhanqi Liu, Qian Li and Qionghai Dai, “Depth Assisted Adaptive Workload Balancing for Parallel View Synthesis,” IEEE Trans. Multimedia, 2018.
+23) Liang Yuan, Xin Jin, Yangguang Li, Chun Yuan, “Depth Map Super-resolution Via Low-resolution Depth Guided Joint Trilateral Up-sampling,” Journal of Visual Communication and Image Representation, 46(2017): 280-291.
+24) H. Wang, I. Katsavounidis, J. Zhou, J. Park, S. Lei, M. O. Pun, Xin Jin, R. Wang, X. Wang, Y. Zhang, J. Huang, S. Kwong, C.-C. Jay Kuo, “A Large-Scale Compressed Video Quality Dataset Based on JND Measurement”, Journal of Visual Communication and Image Representation, 46(2017): 292-302.
+25) Xin Jin, Haixu Han and Qionghai Dai, “Image Reshaping for Efficient Compression of Plenoptic Content,” IEEE Journal of Selected Topics in Signal Processing, vol. 11, no. 7, pp. 1173-1186, 2017.
+26) Xin Jin, Li Liu and Qionghai Dai, “Point spread function and depth-invariant focal sweep point spread function for plenoptic camera 2.0,” Optics Express, vol. 25, no. 9, pp. 9947-9962, May 2017.
+27) Yanqin Chen, Xin Jin and Qionghai Dai, “Distance measurement based on light field geometry and ray tracing,” Optics Express, vol. 25, no. 1, pp. 59-76, Jan. 2017.
+28) Kedeng Tong, Xin Jin and Tingting Zhong，“SADN: Learned liGht field image compression with Spatial-angular decorrelation, 2022 IEEE International Conference on Acoustics, Speech and Signal Processing, May. 22-27, 2022, Singapore.
+29) Daniele Bonatto, Sarah Fachada, Takanori Senoh, Jiang Guotai, Xin Jin, Gauthier Lafruit, Mehrdad Teratani, “Multiview from micro-lens image of multi-focused plenoptic camera,” 2021 International Conference on 3D Immersion (IC3D), Dec. 8, 2021, Brussels, Belgium.
+30) Qi Zheng, Xin Jin and Yanqin Chen, Design of a light field microscope with uniform spatial resolution across an extended 3D volume, SPIE/COS Photonics Asia, Oct. 10-12, 2021, Nantong, Jiangsu, China, pp. 118950I-1-13.
+31) Fan Jiang, Xin Jin and Kedeng Tong, “Pixel Gradient Based Zooming Method for Plenoptic Intra Prediction,” Visual Communications and Image Processing (VCIP), Dec. 5-8, 2021, Novotel Munich City, Germany, pp. 1-5. 
+32) Jinshi Kang, Xin Jin and Zhidong Chen, “Light Field Spatial Correlation Fusion for High Precision Defect Detection,” Visual Communications and Image Processing (VCIP), Dec. 5-8, 2021, Novotel Munich City, Germany, pp.1-5. 
+33) Jiayu Xie, Xin Jin and Hongkun Cao, “SMRD: A Local Feature Descriptor for Multi-modal Image Registration,” Visual Communications and Image Processing (VCIP), Dec. 5-8, 2021, Novotel Munich City, Germany, pp. 1-5. 
+34) Fan Jiang, Xin Jin and Tingting Zhong, “Zoomable Intra Predicton for Multi-focus Plenoptic 2.0 Video Coding,” International Conference on Image Processing (ICIP), Sept. 19-22, 2021，Anchorage, Alaska, USA, pp. 2029-2033.
+35) Tingting Zhong, Xin Jin, Kedeng Tong. “3D-CNN Autoencoder for Plenoptic Image Compression,” 2020 IEEE International Conference on Visual Communications and Image Processing (VCIP), Dec. 1-4, 2020, Macau, China. pp. 209-212. 
+36) Kunyi Li, Xin Jin, “Chromatic Aberration Correction Using Cross-Channel Prior in Shearlet Domain,” 15th Asian Conference on Computer Vision (ACCV), Nov. 30-Dec. 4, 2020, Kyoto, Japan. 
+37) Siyao Zhou, Xin Jin, Pei Wang, “light field stitching based on concentric spherical modeling”, International Conference on Image Processing (ICIP), Abu Dhabi, United Arab Emirates, October 25-28, 2020, pp. 2616-2620.
+38) Lingjun Li, Xin Jin, Tingting Zhong, “Imaging-correlated Intra Prediction for Plenoptic 2.0 Video Coding,” IEEE International Conference on Multimedia and Expo (ICME) 2020, London, United Kingdom, July 6-10, 2020. pp. 1-6. 
+39) Junke Li, Xin Jin, “EPI-neighborhood distribution based light field depth estimation,” IEEE Intl. Conf. Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, May 4-8, 2020, pp. 2003-2007. 
+40) Lingjun Li, Xin Jin, Qionghai Dai, “Macropixel-constrained Collocated Position Search for Plenoptic Video Coding,” IEEE International Conference on Visual Communications and Image Processing (VCIP) 2019, Sydney, Australia, Dec. 1-4, 2019. 
+41) Junke Li, Xin Jin, Qionghai Dai, “Frequency Descriptor based Light Field Depth Estimation,” IEEE International Conference on Visual Communications and Image Processing (VCIP) 2019, Sydney, Australia, Dec. 1-4, 2019. 
+42) Tingting Zhong, Xin Jin, Lingjun Li and Qionghai Dai, “Light field Image Compression Using Depth-based CNN in Intra Prediction,” IEEE Intl. Conf. Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, May 12-17, 2019, pp. 8563-8567. 
+43) Pei Wang, Xin Jin, and Qionghai Dai, “Light field stitching targeting focal length inconsistency,” IEEE International Conference on Image Processing (ICIP) 2019, Taipei, Taiwan, Sept. 22-25, 2019, pp. 2901-2905. 
+44) Chuanpu Li, Xufu Sun, Xin Jin and Qionghai Dai, “Live demonstration: high performance focused plenoptic camera,” IEEE International Conference on Multimedia and Expo Workshops (ICMEW) 2019, Shanghai, China, July 8-12, 2019, pp.610. 
+45) Xufu Sun, Xin Jin, Chuanpu Li, Yanqin Chen, Pei Wang and Qionghai Dai, “Blind calibration for focused plenoptic cameras,” IEEE International Conference on Multimedia and Expo (ICME) 2019, Shanghai, China, July 8-12, 2019, pp. 115-120. 
+46) Chuanpu Li, Xin Jin, Junke Li and Qionghai Dai, “F-number adaptation for maximizing the sensor usage of light field cameras” IEEE International Conference on Multimedia and Expo (ICME) 2019, Shanghai, China, July 8-12, 2019, pp. 109-114. 
+47) Pei Wang, Xin Jin and Qionghai Dai, “Live Demonstration: 4-DoF Parallax Tolerant Light Field Stitching,” IEEE International Symposium on Circuits and Systems (ISCAS) 2019, Sapporo, Japan, May 26-29, 2019. 
+48) Junke Li, Xin Jin, Yanqin Chen, Qionghai Dai, “Enhanced depth estimation for light field cameras by variable-patch-size tensor extraction,” ISPACS2018, Ishigaki Island, Okinawa, Japan, Nov. 27 - 30, 2018.
+49) Chuanpu Li, Xin Jin, Yanqin Chen and Qionghai Dai, “Storage-computational Complexity Efficient Light Field Reconstruction,” IEEE Intl. Conf. Digital Signal Processing, Shanghai, China, Nov. 19-21, 2018.
+50) Lingjun Li, Xin Jin, Haixun Han, Qionghai Dai, “Macropixel based Fast Motion Estimation for Plenoptic Video Compression,” Pacific-Rim Conference on Multimedia (PCM), Hefei, China, Sept. 21-22, 2018. LNCS 11166, pp. 730–739, 2018. 
+51) Heng Zhang, Xin Jin, Qionghai Dai, “Synthetic aperture based on plenoptic camera for seeing through occlusions,” PCM2018, Hefei, China, Sept. 21-22, 2018. LNCS 11164, pp. 158–167, 2018. 
+52) Haixu Han, Xin Jin, Qionghai Dai, “Plenoptic image compression via simplified subaperture projection,” PCM2018, Hefei, China, Sept. 21-22, 2018. LNCS 11165, pp. 274–284, 2018. 
+53) Zhouping Wang, Xin Jin & Qionghai Dai, Superresolution imaging through scattering media by spectrum correlation, SPIE Photonics Asia, Beijing, China, Oct. 11-13, 2018. 
+54) Pei Wang, Xin Jin, Chuanpu Li, Yanqin Chen, Qionghai Dai, “Light Field Stitching for Parallax Tolerance,” IEEE Intl. Conf. Image Process. (ICIP), Athens, Greece, Oct. 7-10, 2018, pp. 2585-2589.
+55) Yanqin Chen, Xin Jin, Qionghai Dai, Defocused image formation model for plenoptic imaging, OSA Imaging and Applied Optics Congress: Computational Optical Sensing and Imaging, Orlando, Florida, United States, June 15-28, 2018. 
+56) Yanqin Chen, Xin Jin, Li Liu and Qionghai Dai, “High-speed light field image formation analysis using wavefield modeling with flexible sampling,” IEEE Intl. Conf. Acoustics, Speech and Signal Processing (ICASSP), Calgary, Alberta, Canada, Apr. 15-20, 2018, pp. 6523-6527.
+57) Li Liu, Xin Jin and Qionghai Dai, “Image Formation Analysis and Light Field Information Reconstruction for Plenoptic Camera 2.0,” Pacific-Rim Conference on Multimedia (PCM) 2017, Sept. 28-29, Harbin, China, in publish.
+58) Haixu Han, Xin Jin and Qionghai Dai, “Lenslet image compression using adaptive micropixel prediction,” IEEE Int’l. Conf. on Image Proc. (ICIP), Beijing, China, Sept. 17-20, 2017, in publish.
+59) Yanqin Chen, Xin Jin and Qionghai Dai, “Distance estimation based on light field geometric modeling,” ICME2017 Workshop: Hot3D, Hong Kong, July 10-14, 2017, pp. 43-48.
+60) Haixu Han, Xin Jin and Qionghai Dai, “Lenslet image compression based on image reshaping and macro-pixel intra prediction,” International Conf. on Multimedia & Expo (ICME), Hong Kong, July 10-14, 2017, pp. 1177-1182. 
+61) Qian Li, Xin Jin, Zhanqi Liu and Qionghai Dai, “Dynamic cloud offloading for view synthesis,” IEEE Intl. Conf. Acoustics, Speech and Signal Processing (ICASSP), New Orleans, USA, Mar. 5-9, 2017, pp. 2951-2955.
+62) Yanwen Qin, Xin Jin and Qionghai Dai, “Enhanced depth estimation for hand-held light field cameras,” IEEE Intl. Conf. Acoustics, Speech and Signal Processing (ICASSP), New Orleans, USA, Mar. 5-9, 2017, pp. 2032-2036.
+63) Xin Jin and Qionghai Dai, “Clustering Based Content Adaptive Tiles under On-chip Memory Constraints,” IEEE Trans. Multimedia, vol. 18, no. 12, pp. 2331-2344, 2016.
+64) Xin Jin, Yatong Xu and Qionghai Dai, “Depth Dithering based on Texture Edge-assisted Classification,” Signal Processing: Image Communication, vol.47, pp. 56-71, 2016.
+65) Haixu Han, Xin Jin and Qionghai Dai, “Plenoptic Image Compression Based on Linear Transformation and Interpolation,” Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC) 2016, Dec. 13-16, 2016, Jeju, Korea.
+66) Yu Zhang, Xin Jin and Qionghai Dai, “A 3D Subjective Quality Prediction Model Based On Depth Distortion,” VCIP2016, Nov. 27-30, Chengdu, China.
+67) Yifu Hu, Xin Jin and Qionghai Dai, “Efficient Imaging through Scattering Media by Random Sampling,” MMSP2016, Sept. 21-23, 2016, Canada.
+68) Leye Wei, Xin Jin, Zhiyong Wu and Lei Zhang, “A Real-time Gesture-based Unmanned Aerial Vehicle Control System,” PCM2016, Sept. 15-16, Xi’an, China.
+69) Yiqi Jiang, Xin Jin and Zhiyong Wu, “Robust Video Inpainting Based on Joint Gradient and Noise Minimization,” PCM2016, Sept. 15-16, Xi’an, China.
+70) Liang Yuan, Xin Jin and Chun Yuan, “Enhanced Joint Trilateral Up-sampling for Super-Resolution,” PCM2016, Sept. 15-16, Xi’an, China.
+71) Yifu Hu, Xin Jin, Kaiyu Wei and Qionghai Dai, “Imaging through scattering media with intensity modulated incoherent sources,” IEEE Int’l. Conf. on Image Proc. (ICIP), Phoenix, USA, Sept. 25-28, 2016.
+72) Yu Zhang, Xin Jin and Qionghai Dai, “A SVR Based Quality Metric for Depth Quality Assessment,” IEEE ISCAS, Montreal, Canada, May 22-25, 2016, pp. 2567-2570.
+73) Yatong Xu, Xin Jin and Qionghai Dai, “Depth Fused from Intensity Range and Blur Estimation for Light-field Cameras,” IEEE ICASSP, Shanghai, China, Mar. 20-25, 2016, pp. 2857-2861. 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2022.03，2022年日内瓦国际发明特别展金奖，“基于光子飞行时间的体散射成像系统”；
+2022.03，2022年日内瓦国际发明特别展银奖，“基于结构光场的高光表面缺陷检测系统”；
+2021.09，清华大学校级精品课，“凸优化”；
+2019，2020，2021，清华大学优秀硕士论文指导教师；
+2019.03，深圳市“鹏城学者”特聘教授；
+2018.12， 2018年中国电子信息科技创新团队带头人之一；
+2018.12，“清华大学第八届青年教师教学大赛”（理科组）一等奖；
+2017.10，清华大学2017年度“青年教师教学优秀奖”；
+2017.04，2016年“广东特支计划”科技创新青年拔尖人才；
+2016.12，国家科技进步二等奖，“新一代立体视觉关键技术及产业化”；
+2016.02，广东省科学技术一等奖，“动态立体视觉系统关键技术及应用”；
+2011.09，2010年度早稻田大学IT研究机构奖；
+2010.11，最佳论文奖，IEEE SSCS Seoul Chapter Award，2010 International SoC Design Conference；
+2005.04，国家数字音视频编解码技术标准工作组（AVS）2004年度贡献奖；
+2006.03，华中科技大学2006年优秀博士学位论文；
+2002.06，华中科技大学2002届优秀毕业研究生；
+1999.06，华中理工大学1999届优秀毕业生；
+【指导学生所获荣誉】
+2021.07，清华大学2021年度优秀硕士学位论文，孙绪福；
+2021.07，清华大学自动化系2021年优秀毕业生，孙绪福；
+2020.07，清华大学2020年度优秀硕士学位论文，王培；
+2020.07，清华大学自动化系2020年优秀毕业生，王培；
+2019.11，2019年硕士研究生国家奖学金，王枭宇；
+2019.07，北京市普通高等学校优秀毕业生，王周平；
+2019.07，2019年清华大学优秀硕士毕业生，王周平；
+2019.06，2019年清华大学自动化系“优秀毕业生”，王周平；
+2019.06，清华大学2019年度优秀硕士学位论文，王周平；
+2018.11，2018年硕士研究生国家奖学金，王周平；
+2018.06，2018年清华大学自动化系“优秀毕业生”，韩海旭；
+2018.06，清华大学2018年度优秀硕士学位论文，韩海旭；
+2017.11，2017年硕士研究生国家奖学金，韩海旭；
+2017.07，清华大学2017年度优秀硕士学位论文，袁亮；
+2015.07，清华大学2015年度优秀硕士学位论文，李晨阳；
+2019.06，武汉大学2019届优秀学士学位论文，周思瑶；
+2018.06，苏州大学2018届本科优秀毕业设计（论文），孙绪福；
+2015.06，华南理工大学2015年校本科优秀毕业设计（论文），陈艳琴；
+ </奖励荣誉>

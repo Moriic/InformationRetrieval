@@ -1,0 +1,57 @@
+{"title":"韩三阳","cnUrl":"http://www.sigs.tsinghua.edu.cn/hsy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/00/d3/6d16c1424b62ac40353fac482433/e542b6bd-815f-4c16-b470-d630aeac2e07.png","email":"hansanyang@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+导师介绍：
+ 韩三阳,清华大学深圳国际研究生院助理教授、博士生导师。2014年博士毕业于新加坡国立大学化学系, 先后在新加坡国立大学医学院和英国剑桥大学卡文迪许实验室从事博士后研究。2018年入选欧盟玛丽居里学者，2021年荣获国家高层次人才青年项目，2022年获聘为 “鹏城孔雀计划”特聘岗位B类人才。长期从事稀土发光材料的研究，涉及化学，物理，材料，表界面光谱和生物医学等多个学科，其研究聚焦新型稀土纳米晶-分子复合纳米发光材料的开发，侧重新材料的设计，发光机理研究，以及开发其在生物医学和光电器件等领域的应用研究。具体研究领域包括：稀土发光材料，有机无机杂化，瞬态光谱，界面光物理，光化学合成，生物成像，纳米疫苗，光遗传，肿瘤治疗，超分辨显微镜，激光，柔性光电子器件等。近年来，在相关领域发表了学术论文 30余篇，其中以第一作者（含共同）在 Nature, Nat. Photon., Nat. Commun., Angew. Chem. Int. Ed., Adv. Mater.等国际顶级刊物上发表论文11篇，他引6000余次，研究成果入选“2017年度中国稀土十大科技新闻”，荣获“2021年中国光学十大进展提名奖”。
+研究方向
+1. 有机无机复合纳米发光材料的开发及其光物理研究；
+2. 基于纳米发光材料的生物医药与健康工程研究；
+3. 柔性光电子器件研究。
+ 课题组招收博士后、科研助理、博士研究生、以及硕士研究生，欢迎具有化学、材料、物理、光学工程、光谱学、生物学、生物材料、医学、生物化工、生物工程、制药工程等背景且有志从事纳米发光材料相关研究的同学加盟。应聘者请将应聘材料（个人简介，科研成果，未来工作计划等）发送至hansanyang@sz.tsinghua.edu.cn。
+教育经历 
+2010年8月-2015年2月，新加坡国立大学大学，化学专业，博士
+2007年9月-2010年6月，苏州大学，物理化学专业，硕士
+2003年9月-2007年6月，苏州大学，化学专业，学士
+工作经历 
+2022年5月-至今，清华大学深圳国际研究生院，助理教授，博士生导师
+2017年9月-2022年3月，剑桥大学，博士后，玛丽居里学者
+2014年10月-2017年8月，新加坡国立大学大学，博士后
+学术兼职 
+《Frontiers in Photonics》杂志客座编辑（Guest Editor）
+《Molecules》杂志客座编辑（Guest Editor）
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+ 长期从事稀土发光材料的研究，涉及化学，物理，材料，表界面光谱和生物等多个学科。其研究聚焦新型稀土纳米晶-分子复合纳米发光材料的开发，侧重新材料的设计，发光机理研究，以及开发其在生物医学和光电器件等领域的应用研究。研究领域包括：稀土发光材料，有机无机杂化，瞬态光谱，界面光物理，光化学合成，生物成像，纳米疫苗，光遗传，肿瘤治疗，超分辨显微镜，激光等。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1.Haoran Zhang, Yachong Liu, Rong Jin, Sanyang Han,* and Qianqian Su*. Intensifying upconverted ultraviolet emission towards efficient reactive oxygen species generation. Chem Asian J. 2022, doi: 10.1002/asia.202200309.
+2.Hui Xu†, Sanyang Han†, Renren Deng, Qianqian Su, Ying Wei, Yongan Tang, Xian Qin & Xiaogang Liu, Anomalous upconversion amplification induced by surface reconstruction in lanthanide sublattices. Nat. Photon. 2021, 15, 732-737. 
+3.Sanyang Han, Zhigao Yi, Jiangbin Zhang, Qifei Gu, Liangliang Liang, Xian Qin, Jiahui Xu, Yiming Wu, Hui Xu, Akshay Rao, Xiaogang Liu. Photon upconversion through triplet exciton-mediated energy relay. Nat. Commun. 2021, 12, 3704. 
+4.Sanyang Han, Renren Deng, Qifei Gu, Limeng Ni, Uyen Huynh, Jiangbin Zhang, Zhigao Yi, Hiroyuki Tamura, Anton Pershin, Hui Xu, Mojtaba Abdi-Jalebi, Aditya Sadhanala, Artem Bakulin, David Beljonne, Xiaogang Liu and Akshay Rao, Lanthanide-doped inorganic nanoparticles turn molecular triplet excitons bright. Nature 2020, 587, 594-599. 
+5.Sanyang Han,Animesh Samanta, Xiaoji Xie, Ling Huang, Juanjuan Peng, Sung Jin Park, Daniel Teh Boon Loong, Yongdoo Choi, Young-Tae Chang, Angelo Homayoun All, Yanmei Yang, Bengang Xing, and Xiaogang Liu, Gold and Hairpin DNA Functionalization of Upconversion Nanocrystals for Imaging and in vivo Drug Delivery. Adv. Mater. 2017, 29, 201700244. 
+6.Sanyang Han, Xian Qin, Zhongfu An, Yihan Zhu, Liangliang Liang, Yu Han, Wei Huang & Xiaogang Liu, Multicolour synthesis in lanthanide-doped nanocrystals through cation exchange in water. Nat. Commun. 2016, 7, 13059 
+7.Sanyang Han, Renren Deng, Xiaoji Xie, and Xiaogang Liu, Enhancing luminescence in lanthanide-doped upconversion nanoparticles. Angew. Chem. Int. Ed. 2014, 53, 11702-11715. 
+8.Sanyang Han, Xiaogang Liu, The quest for photocatalytic systems with broadband solar absorption. Small 2014, 10(7), 1243–1244. 
+9.Sanyang Han, Qinghua Guo, Minmin Xu, Yaxian Yuan, Liming Shen, Jianlin Yao, Wei Liu, Renao Gu, Tunable fabrication on iron oxide/Au/Ag nanostructures for surface enhanced Raman spectroscopy and magnetic enrichment. J. Colloid Interf. Sci. 2012, 378, 51-57. 
+† Co-first author, * Corresponding author
+其他相关发表论文:
+Google scholar：https://scholar.google.com/citations?user=N2me_cAAAAAJ&hl=en
+ORCID: https://orcid.org/0000-0001-7414-7193
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2022“鹏城孔雀计划”特聘岗位B类人才 
+2021 中国光学十大进展提名奖
+2021 国家高层次青年人才项目
+2018 欧盟玛丽居里学者
+2017 中国稀土十大科技新闻
+2010 研究生创新学术论坛研讨会口头报告三等奖
+2009 第15届全国光散射学术会议青年优秀论文
+ </奖励荣誉>

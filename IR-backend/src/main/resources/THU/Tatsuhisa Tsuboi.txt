@@ -1,0 +1,63 @@
+{"title":"Tatsuhisa Tsuboi","cnUrl":"http://www.sigs.tsinghua.edu.cn/Tatsuhisa/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/40/57/783262714532a7f71d9005a55e8e/77b60514-3fb0-47af-adeb-62f58716a7e1.png","email":"ttsuboi@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+March, 2014, Ph.D. in Pharmaceutical Sciences, Tohoku University, Japan, Advisor: Dr. Toshifumi Inada 
+Thesis title: Analysis of molecular mechanism of No-Go Decay and Dom34:Hbs1 targeting mRNA
+March, 2011,Master of Science, Nagoya University, Japan; 
+Thesis title: Analysis of translational regulator Pab1p on non-translating mRNA
+March, 2009, Bachelor of Science, Nagoya University, Japan;
+工作经历 
+September, 2021– present, Assistant Professor, Tsinghua Shenzhen International Graduate School, China;
+April, 2020–August, 2021, Assistant Project Scientist with Dr. Brian Zid, University of California San Diego;
+December, 2016–March, 2020, Postdoctoral Scholar with Dr. Brian Zid, University of California San Diego;
+April, 2016–May, 2016, Visiting researcher with Dr. Robert Singer, Albert Einstein School of Medicine;
+March, 2014–November, 2016, Postdoctoral Scholar with Dr. Susanne Rafelski (currently at Allen Institute for Cell Science), University of California Irvine;
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+Molecular biology of gene expression (transcription, translation, quality control, RNA and protein degradation, RNA)
+Molecular biology of mitochondrial regulation (fission-fusion, morphological regulation, metabolism)
+Cell biology of cellular architecture (Mitochondria, ER, Cell size)
+Image analysis (Spinning Disc Confocal microscope, 3D image reconstruction, single molecule analysis)
+Stochastic modeling on cellular process (gene expression, cellular structure, single molecule)
+Aging models (cell senescence, cancer) 
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+通过线粒体3D空间结构解码基因调控的原理机制
+线粒体是参与ATP生产的关键细胞器，生物化学反应的枢纽，并调节细胞活动例如细胞老化，癌症和应激。线粒体也是一种非常动态的结构，随着细胞和环境的改变而发生形态的变化。尽管已有许多线粒体反应路径和形态改变的研究，但这些形态变化与基因表达调控之间的联系仍需深入探究。细胞衰老、癌症和应激期间线粒体形态的变化如何影响基因调控？线粒体是如何调节mRNA定位和控制翻译从而应对细胞的代谢需求？
+主要项目 
+1.阐明线粒体表面增强蛋白质合成的机理
+2.研究非适应性和疾病期间线粒体形态的变化是如何影响酵母和哺乳动物细胞的基因表达
+3.从线粒体形态的角度出发寻求应用方法，如筛选抗老化药物。
+作为一个模型系统，我们将结合定量显微镜技术、计算建模、生物化学和分子遗传学的跨学科方法研究芽殖酵母和哺乳动物细胞中的mRNA定位和线粒体形态。通过着重于系统性的基因表达研究，我们将进一步了解细胞器形态对细胞生理的影响。我们对mRNA和线粒体形态测量的多管齐下的定量方法也会使我们解决有关生物分子和其他细胞器（如液泡和内质网）之间空间关系的问题。
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Tsuboi T*, Viana MP, Xu F, Yu J, Chanchani R, Arceo XG, Tutucci E, Choi J, Chen YS, Singer RH, Rafelski SM*, Zid BM*. Mitochondrial volume fraction and translation duration impact mitochondrial mRNA localization and protein synthesis. (2020) Elife, 9, e57814. [*co-correspondence authors] 
+[2] Tsuboi T*, Leff J, Zid BM*. Post-transcriptional control of mitochondrial protein composition in changing environmental conditions. (2020) Biochem Soc Trans. BST20200250. [*co-correspondence authors] Review
+[3] Tsuboi T, Yamazaki R, Nobuta R, Ikeuchi K, Makino S, Ohtaki A, Suzuki Y, Yoshihisa T, Trotta C, Inada T. The tRNA Splicing Endonuclease Complex Cleaves the Mitochondria-localized CBP1 mRNA. (2015) The Journal of Biological Chemistry, 290(26), 16021-16030.
+[4] Izawa T, Tsuboi T, Kuroha K, Inada T, Nishikawa S, Endo T. Roles of dom34:hbs1 in nonstop protein clearance from translocators for normal organelle protein influx. (2012) Cell Reports, 2(3), 447-453
+[5] Tsuboi T, Kuroha K, Kudo K, Makino S, Inoue E, Kashima I, Inada T. Dom34:hbs1 plays a general role in quality-control systems by dissociation of a stalled ribosome at the 3' end of aberrant mRNA. (2012) Molecular Cell, 46(4), 518-529.
+[6] Tsuboi T, Inada T. Tethering of poly(A)-binding protein interferes with non-translated mRNA decay from the 5' end in yeast. (2010) The Journal of Biological Chemistry, 285(44), 33589-33601.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+April, 2018 – March, 2021, Research Fellowship for Young Scientists (PD), Japan Society for the Promotion of Science (JSPS)
+December, 2016 – November, 2017, Research Fellowship for Research Abroad, The Uehara Memorial Foundation
+April, 2014 – March, 2016, Postdoctoral Fellowship for Research Abroad, Japan Society for the Promotion of Science (JSPS)
+April, 2011 – March, 2014, Research Fellowship for Young Scientists (DC1), Japan Society for the Promotion of Science (JSPS)
+September, 2019, 2019 National Postdoc Appreciation Week Nominee, University of California San Diego
+December, 2015, 2015 Education Committee Travel Awards, American Society of Cell Biology 2015
+November, 2013, 2014 Grant for Study Abroad, Mochida Memorial Foundation for Medical and Pharmaceutical Research
+September, 2012, Poster Award (2012), EMBO | EMBL 2012 Symposia Quality Control – From Molecules to Organelles
+September, 2010, Yeast genetics forum poster prize, The 43rd study meeting: Yeast Genetics Society of Japan
+March, 2009, Graduate presentation award, Nagoya University Department of Science Division of Biological Science
+ </奖励荣誉>

@@ -1,0 +1,77 @@
+{"title":"赵世玺","cnUrl":"http://www.sigs.tsinghua.edu.cn/zsx/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/0f/10/8d5a16b24cd094900593fa0f92ee/75667a65-6656-4e6b-8be3-b1d520a419e6.jpg","email":"zhaosx@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1999年09月-2002年06月，武汉理工大学，材料学，博士
+1996年09月-1999年06月，武汉工业大学，材料学，硕士
+1985年09月-1989年06月，华东理工大学，无机材料系，学士
+工作经历 
+2019年08月至今，清华大学深圳国际研究生院，副教授（博导）
+2009年12月-2019年08月，清华大学深圳研究生院，副教授（博导）
+2004年08月-2009年12月，清华大学深圳研究生院，讲师
+1989年08月-1996年08月，洛阳理工学院，材料工程系，讲师
+2002年08月-2004年08月，清华大学，化学系，博士后
+学术兼职 
+受邀担任Chemistry of Materials; Nano Energy; Electrochemistry Communications; Journal of Physics and Chemistry of Solids; Journal of power Source; Materials chemistry and physics; Journal of Alloys and Compounds; Solid State Sciences; Ceramics International等国际期刊审稿人。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+主讲研究生课程：《材料学基础》，《功能陶瓷先进制备技术》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+新能源材料（锂离子电池正负极材料，固态电解质，超级电容器电极材料）和功能复合材料（压电材料，热敏电阻）的化学合成及微观结构设计。
+主要项目 
+[1] NSFC-广东联合基金（重点项目）U1401246-氧化物/碳复合电极材料及其容量型超级电容器的研究，2015/01-2018/12, 60.25万, 在研，合作单位主持。
+[2] 国家自然科学基金面上项目51372136：新型混合聚阴离子锂离子电池正极材料中空微球和有序介孔结构制备与电化学特性研究, 2014/01 -2017/12，80万，已结题,主持。
+[3] 国家自然科学基金面上项目51172124：锰酸锂正极材料与固态电解质复合结构设计、制备与性能研究，2012/01-2015/12,60万,已结题,主持。
+[4] 深圳市基础研究项目(JCYJ20130402145002372)：高容量混合聚阴离子正极材料制备与电化学特性研究，20万，2014/01-2016/12，已结题, 主持。
+[5] 深圳市基础研究项目(JCYJ20140509172959973)：用于低温环境的锂离子电池关键技术研究，30万，2014/01-2017/12，已结题, 主持
+[6] 深圳市基础研究项目(JCYJ20120619140209259)：锂离子动力电池锰基正极材料的应用基础研究，2012/11-2015/06，24万，已结题，主持。
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Kun Bi, Shi-Xi Zhao, Chao Huang, Ce-Wen Nan, Improving low-temperature performance of spinel LiNi0.5Mn1.5O4 electrode and LiNi0.5Mn1.5O4/Li4Ti5O12 full-cell by coating solid-state electrolyte Li-Al-Ti-P-O, J. Power Sources 389 (2018) 240-248
+[2] Xia Wu, Shi-Xi Zhao*, Lei Wei, Hui Deng, Ce-Wen Nan，Improving the structure stability and electrochemical performance of Li2MnSiO4/C cathode materials by Ti-doping and porous Microstructure，J. Alloys Compds 735 (2018) 1158-1166.
+[3] Kai Luo, Shi-Xi Zhao *,Yi-Feng Wang, Shu-Jin Zhao and Xi-Hui Zhang, Synthesis of petal-like σ-MnO2 and its catalytic ozonation performance, New J. Chem. DOI: 10.1039/c8nj00240a
+[4] Hong-Mei Cheng, Shi-Xi Zhao, Xia Wu, Jian-Wei Zhao, Lei Wei, Ce-Wen Nan，Synthesis and structural stability of Cr-doped Li2MnSiO4/C cathode materials by solid-state method，Appl. Surface Sci. 433 (2018) 1067-1074
+[5] Ting Liu, Yibo Zhang, Rujun Chen, Shi-Xi Zhao, Yuanhua Lin, Ce-Wen Nan, Yang Shen, Non-successive degradation in bulk-type all-solid-state lithium battery with rigid interfacial contact, Electrochem. Commun. 79 (2017) 1-4
+[6] Jian-Wei Zhao, Shi-Xi Zhao*, Xia Wu, Hong-Mei Cheng, Ce-Wen Nan, Double role of silicon in improving the rate performance of LiFePO4 cathode materials, J. Alloys Compd., 699 (2017) 849-855.
+[7] Xia Wang, Shi-Xi Zhao*, Liubing Dong, Qian-Long Lu, Jiang Zhu, Ce-Wen Nan, One-step synthesis of surface-enriched nickel cobalt sulfide nanoparticles on graphene for high-performance supercapacitors, Energy Storage Materials 6 (2017) 180-187.
+[8] Chang-Ke Chen, Shi-Xi Zhao*, Qian-Long Lu, Kai Luo,Xi-Hui Zhang and Ce-Wen Nan, Topochemical synthesis and photocatalytic activity of 3D hierarchical BaTiO3 microspheres constructed from crystal-axis-oriented nanosheets, Dalton Trans., 2017, 46, 5017–5024
+[9] Ting Liu, Yaoyu Ren, Yang Shen, Shi-Xi Zhao, Yuanhua Lin, Ce-Wen Nan, Achieving high capacity in bulk-type solid-state lithium ion battery based on Li6.75La3Zr1.75Ta0.25O12 electrolyte: Interfacial resistance, J. Power Sources 324 (2016) 349-357.
+[10] Qian-Long Lu, Shi-Xi Zhao*, Chang-Ke Chen Xia Wang,Yu-Feng Deng, Ce-Wen Nan, A novel pseudocapacitance mechanism of elm seed-like mesoporous MoO3-x nanosheets as electrodes for supercapacitors, J. Mater. Chem. A, 4(2016) 14560-14566.
+[11]  Kai Gao, Shi-Xi Zhao*, Shuang-Tao Guo, Ce-Wen Nan, Improving rate capacity and cycling performance of lithium-rich high-Mn Li1.8[Mn0.7Co0.15Ni0.15]O2.675 cathode materials by Li2SiO3 coating, Electrochim. Acta 206 (2016) 1-9. 
+[12] Hui Deng, Shi-Xi Zhao*, Xia Wu, Lei Wei, Yu-Feng Deng, Ce-Wen Nan, Effect of Ni substitution on structural stability, micromorphology, and electrochemical performance of Li2MnSiO4/C cathode materials, RSC Adv. 6(2016), 111539.
+[13] Shuang-Tao Guo, Shi-Xi Zhao*, Kun Bi, Yu-Feng Deng, Kai Xiong, Ce-Wen Nan, Research on Electrochemical Properties and Fade Mechanisms of Li-rich Cathode Materials at Low-temperature, Electrochim. Acta, 222 (2016) 1733-1740.
+[14] Ya-Hui Xu, Shi-Xi Zhao*,Yu-Feng Deng, Hui Deng, Ce-Wen Nan, Improved electrochemical performance of 5 V spinel LiNi0.5Mn1.5O4 microspheres by F-doping and Li4SiO4 coating, J. Materiomics, 2 (2016) 265-272.
+[15] Yu-Feng Deng, Shi-Xi Zhao*, Ya-Hui Xu,Kai Gao,Ce-Wen Nan，Impact of P-Doped in Spinel LiNi0.5Mn1.5O4 on Degree of Disorder, Grain Morphology, and Electrochemical Performance，Chem. Mater. 27(2015), 7734-7742.
+[16] Yu-Feng Deng, Shi-Xi Zhao*,Peng-Yuan Zhai, Guozhong Cao,Ce-Wen Nan, Impact of lithium excess on the structural and electrochemical properties of the LiNi0.5Mn1.5O4 high-voltage cathode material, J. Mater. Chem. A, 3(2015), 20103-20107.
+[17] Yu-Feng Deng, Shi-Xi Zhao*, Ya-Hui Xu Ce-Wen Nan, Effect of temperature of Li2O-Al2O3-TiO2-P2O5 solid-state electrolyte coating process on the performance of LiNi0.5Mn1.5O4 cathode materials, J. Power Sources，296 (2015) 261-267.
+[18] Ting Liu, Shi-Xi Zhao*，Ke-Zhen Wang,Lu-Lu Gou, Ce-Wen Nan, Improved rate capability and cycle stability of Li[Ni0.5Co0.2Mn0.3]O2 with Li2MnO3 coating under high cut-off voltage, Appl. Surface Sci., 355 (2015) 1222-1228.
+[19] Peng-Yuan Zhai Shi-Xi Zhao*, Hong-Mei Cheng Jian-Wei Zhao, Ce-Wen Nan, Synthesis and structural stability of Li2.1Mn0.9[PO4]0.1[SiO4]0.9/C mixed polyanion cathode material for Li-ion battery, Electrochim. Acta，153(2015)217-224.
+[20] Yu-Feng Deng, Shi-Xi Zhao*, Dao-Heng Hu; Ce-Wen Nan, Structure and electrochemical performance of spinel LiMn1.95Ni0.05O3.98F0.02 coated with Li-La-Zr-O solid electrolyte， J. Solid State Electrochem., 18(2014) 249-255.
+[21] Yu-Feng Deng, Shi-Xi Zhao*, Ya-Hui Xu, Ce-Wen Nan, Effect of the morphology of Li-La-Zr-O solid electrolyte coating on the electrochemical performance of spinel LiMn1.95Ni0.05O3.98F0.02 cathode materials, J. Mater. Chem. A, 2(2014) 18889-18897.
+[22] Deng-Feng Li, Shi-Xi Zhao* Kai Xiong, Han-Qing Bao, Ce-Wen Nan, Aging improvement in Cu-containing NTC ceramics prepared by co-precipitation method, J.Alloys Compd 582 (2014) 283–288.
+[23] Kai Xiong, Shi-Xi Zhao*, Deng-Feng Li, Han-Qing Bao, Ce-Wen Nan, Structure and electrical performance of Mn1.5-0.5xCo0.9-0.3xNi0.6-0.2xCuxO4 NTC ceramics prepared by heterogeneous precipitation , J. Alloys Compd, 606 (2014) 273-277.
+[24] Yan-Chao Wang, Shi-Xi Zhao*, Peng-Yuan Zhai; Fang Li, Ce-Wen Nan，Solvothermal synthesis and electrochemical performance of Li2MnSiO4/C cathode materials for lithium ion batteries, J. Alloy. Compd., 614(2014) 271-276.
+[25] Fang Li, Shi-Xi Zhao*，Yan-Chao Wang, Ke-Zhen Wang, Bao-Hua Li, Ce-Wen Nan, Performance Optimization of Li1+x(Ni0.15Co0.15Mn0.70)O2.275+x/2 by Post Molten Salt Treatment as Cathode Material for Li-Ion Batteries, J. Electrochem. Soc., 161(2014) A102-A108.
+[26] Fang Li, Shi-Xi Zhao*, Ke-Zheng Wang, Bao-Hua Li, Ce-Wen Nan, Structural and Electrochemical Performance of Layered High-Mn Cathode Materials Li1+n[NimComMn1-2m]O2 for Li-ion Batteries, Electrochim. Acta, 97 (2013) 17-22.
+[27] Dao-Heng Hu, Shi-Xi Zhao*, Yu-Feng Deng and Ce-Wen Nan, Synthesis and electrochemical performance of rod-like spinel LiMn2O4 coated by Li–Al–Si–O solid electrolyte, J. Mater. Chem. A, 1(2013), 14729-14735.
+[28] Shi-Xi Zhao*, Hao Ding, Yan-Chao Wang, Bao-Hua Li, Ce-Wen Nan, Improving rate performance of LiFePO4 cathode materials by hybrid coating of nano-Li3PO4 and carbon, J.Alloys Compd 566 (2013) 206–211
+[29] Shi-Xi Zhao*, Xue-Feng Fan, Yu-Feng Deng, Ce-Wen Nan，Structure and electrochemical performance of single-crystal Li1.05Ni0.1Mn1.9O3.98F0.02 coated by LLTO solid electrolyte. Electrochim. Acta, 2012, 65:7-12.
+[30] Ting Liu, Shi-Xi Zhao*, Kezhen Wang, Ce-Wen Nan, CuO-coated Li[Ni0.5Co0.2Mn0.3]O2 cathode material with improved cycling performance at high rates, Electrochim. Acta 85 (2012) 605-611
+[31] Yingda Li, Shixi Zhao*, Ce-Wen Nan, Baohua Li, Electrochemical performance of SiO2-coated LiFePO4 cathode materials for lithium ion battery, J. Alloys Compd, 509 (2011) 957-960.
+代表性著作 
+主要专利成果 
+[1] 赵世玺，赵建伟，程红美，陈昌科，一种提高磷酸铁锂正极材料倍率性能的制备方法　发明专利ZL201510645377.7.
+[2] 赵世玺，樊学峰，南策文，邓玉峰，一种高温型锰酸锂正极材料及其制备方法，发明专利ZL20l110L60659.X
+[3] 赵世玺，李芳，李宝华，南策文，富锂高锰层状结构三元材料，制备方法及应用，发明专利，ZL201210332894.5
+[4] 赵世玺， 翟鹏远， 赵建伟， 程红美, 用于锂离子电池的混合聚阴离子正极材料及制备方法, 发明专利，ZL201410351178.0
+[5] 赵世玺，冯玉川，南策文，刘华丽，层状-尖晶石共生结构锂离子电池正极材料的制备方法，发明专利，ZL200810241909.0。
+[6] 赵世玺，陆乾隆，陈昌科，南策文，一种电极材料及其制备方法以及超级电容器，发明专利，ZL201610176108.5
+[7] 赵世玺，陈昌科，陆乾隆，邓晖，赵建伟，一种分级多孔钛酸钡亚微米级颗粒球的制备方法，发明专利，ZL201610565938.7
+其他成果 
+ </研究成果>

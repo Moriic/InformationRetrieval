@@ -1,0 +1,94 @@
+{"title":"杨文明","cnUrl":"http://www.sigs.tsinghua.edu.cn/ywm/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/03/49/b785389c43d6853d24c53c936405/e03ec74a-95d4-48d1-bf71-a50466069be6.jpg","email":"yang.wenming@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2003年09月-2006年07月，浙江大学，信息与通信工程，博士 
+1996年09月-2003年09月，哈尔滨理工大学，机械、材料学院，学士与硕士 
+工作经历 
+2017年06月-2017年09月，伦敦大学学院(UCL)，统计科学系，访问学者
+2013年12月-至今，清华大学深圳研究生院，信息科学与技术学部，副教授
+2009年12月-2013年12月，清华大学深圳研究生院，信息科学与技术学部，讲师
+2008年01月-2009年12月，清华大学，信息与通信工程，博士后
+2006年07月-2007年12月，中国计量学院，计算机系，讲师
+学术兼职 
+IEEE Senior Member、中国人工智能学会模式识别专委会委员、青年工作委员会常务委员、中国图像图形学会机器视觉专委会委员、视觉大数据专委会委员；受邀2015年中国生物识别学术会议程序委员会委员、受邀2016年中国模式识别学术会议程序委员会委员、受邀2018亚洲人工智能技术国际学术会议程序委员会委员、受邀2018 IEEE VCIP国际学术会议程序委员会委员、IET CAAI Transaction on Intelligence Technology国际期刊编委。
+国基金同行评议人、教育部学位论文评阅人、广东省基金委、深圳/东莞市发改委、深圳市发改委、经信委、科创委、南山区科创局、宝安区科创局科技评审专家； IEEE TIP、IEEE TSMC、IEEE TMM、IEEE TIFS、IEEE TCSVT、IEEE SPL、Pattern Recognition、Information Sciences、Expert System with Applications、ACM MM、ICLR、NIPS、ICASSP、ICME、ICIP等著名国际期刊或著名会议审稿人等。 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《数字图像处理及应用》
+《数字图像处理实践专题》
+《生物医学与信息学实验》
+目前已指导全国工程硕士实习实践优秀成果获得者2名(每年全国共100名左右)、清华大学校级优秀博士学位论文1篇（副导师）、清华大学校级优秀硕士学位论文4篇（Top 5%）， 累计1/3硕士生毕业后选择出国读博深造。
+每年招收硕士生、博士生累计6～8名左右，鼓励学生技术创新，鼓励学生出国交流和深造，欢迎数学和英语基础好的考生加入！
+长期招收博士后，研究方向：图像复原、身份识别、机器人学、医学AI、汽车视觉等，欢迎相关专业博士申请，可直接通过邮箱联系。
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事图像处理、计算机视觉、深度学习与人工智能领域的研究，具体包括视觉目标感知、生物特征识别、图像超分辨率、立体成像与分析、自主视觉导航、医学影像分析、工业视觉检测、光学字符识别、智能交通系统等。作为项目负责人主持国家自然科学基金-青年基金、面上基金、中国博士后科学基金、广东省自然科学基金、深圳市基础研究面上项目、重点项目、清华大学深圳研究生院青年科研基金、学科交叉基金、海外合作基金,以及与包括华为、大疆在内的20余家行业龙头企业的技术委托开发/合作项目。作为主要骨干参加科技部重点研发计划项目、深圳市发改委互联网工程实验室建设项目、深圳市科创委重点实验室建设与提升计划、深港资源集聚计划、技术攻关等多个项目研究。近年来，在IEEE Signal Processing Magazine、IEEE Trans. on Image Processing、IEEE Trans. on Neural Networks & Learning Systems、IEEE Trans.on Information, Forensics & Security、IEEE Trans.on Multimedia、IEEE Trans.on Systems, Man, and Cybernetics:Systems、IEEE Signal Processing Letters,以及Information Sciences、Pattern Recognition、Neurocomputing等著名国际期刊和ACM Multimedia、AAAI、IEEE/CVF ICCV、CVPR、ICML、ICLR、ICASSP、ICME、ICIP、IJCNN、VCIP、MICCAI、EMBC、ISBI等著名国际会议发表学术论文100余篇，其中1篇ESI高被引和热点论文。作为客座主编与国内外同行共同组织出版著名国际期刊Neurocomputing和Signal Processing：Image Communication专刊两本。申请发明专利10余项，其中国际PCT专利2项。 
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Liu L, Wang B, Kuang Z, Xue J -H, Chen Y, Yang W*, Liao Q and Zhang W. GenDet: Meta learning to generate detectors from few shots[J]. IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2021: 1-13. DOI: 10.1109/TNNLS.2021.3053005.
+[2] Liu L, Zhang S, Kuang Z, Xue J -H, Wang X, Zhou A, Chen Y, Yang W*, Liao Q and Zhang W. Group fisher pruning for practical network compression[C]// International Conference on Machine Learning (ICML). 2021.(Accepted)
+[3]Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue, Qingmin Liao,LCSCNet: Linear Compressing Based Skip-Connecting Network for Image Super-Resolution[J], IEEE Transactions on Image Processing(IEEE TIP), 2020, 29(9): pp.1450-1464.
+[4]Yucheng Hang, Qingmin Liao, Wenming Yang*, Yupeng Chen, Jie Zhou, Attention Cube Network for Image Restoration[C], ACM Conference on Multimedia, (ACM MM), 2020, pp.2562-2570.
+[5]Wanping Zhang, Yongru Chen, Wenming Yang* , Guijin Wang , Jing-Hao Xue and Qingmin Liao, Class-Variant Margin Normalized Softmax Loss for Deep Face Recognition[J], IEEE Transactions on Neural Networks & Learning Systems (IEEE TNNLS), 2020. (Early access)
+[6] Liyang Liu, Zhanghui Kuang, Yimin Chen, Jing-Hao Xue, Wenming Yang* and Wayne Zhang, IncDet: In Defense of Elastic Weight Consolidation for Incremental Object Detection[J], IEEE Transactions on Neural Networks & Learning Systems (IEEE TNNLS), 2020. (Early access)
+[7]Liyang Liu, Zhanghui Kuang, Yimin Chen, Jing-Hao Xue, Wenming Yang* and Wayne Zhang, Towards Impartial Multi-task Learning[C], International Conference on Learning & Representation(ICLR 2021), 2021.(Accepted)
+[8]Yiyun Chen, Yihong Chen, Jing-Hao Xue, Wenming Yang*, Qingmin Liao, Lightweight Single Image Super-Resolution Through Efficient Second-Order Attention Spindle Network[C]. IEEE International Conference on Multimedia & Expro(IEEE ICME), London, UK, 2020: pp.1-6
+[9]Wenming Yang, Xuechen Zhang, Yapeng Tian, Wei Wang, Jing-Hao Xue, Qingmin Liao, Deep Learning for Single Image Super-Resolution: A Brief Review[J],IEEE Transactions on Multimedia(IEEE TMM), 2019, 21(12):pp.3106-3121(ESI Highly Cited and Hot Paper)
+[10]Wei Wang, Ruiming Guo, Yapeng Tian, Wenming Yang*, CFSNet: Toward a Controllable Feature Space for Image Restoration[C]，IEEE/CVF International Conference on Computer Vision(ICCV 2019), Oct.27-Nov.2, 2019, Seoul, Korea, pp.4139-4148. 
+[11]Jingna Sun, Wenming Yang*, Jing-Hao Xue, Qingmin Liao, An Equalized Margin Loss for Face Recognition[J], IEEE Transactions on Multimedia(IEEE TMM), 2020, 22(11):pp.2833-2843.
+[12]Jingna Sun, Yehu Shen, Wenming Yang*, Qingmin Liao, Classifier Shared Deep Network with Multi-Hierarchy Loss for Low Resolution Face Recognition[J]. Signal Processing: Image Communication(SPIC), 2020, 82:115766.
+[13]Jingna Sun, Wenming Yang*, Riqiang Gao, Jing-Hao Xue, Qingmin Liao, Inter-class angular margin loss for face recognition[J], Signal Processing: Image Communication(SPIC), 2020, 80: 115636.
+[14] Wenming Yang, Changqing Hui, Zhiquan Chen, Jing-Hao Xue, Qingmin Liao, FV-GAN: Finger Vein Representation Using Generative Adversarial Networks, IEEE Transactions on Information Forensics & Security(IEEE TIFS), 2019, 14(9):pp.2512-2524
+[15] Wenming Yang, Changqing Hui, Daren Sun, Xiang Sun, Qingmin Liao, Clustering Through Probability Distribution Analysis Along Eigenpaths[J],IEEE Transactions on Systems, Man and Cybernetics: Systems(IEEETSMC), 2021, 51(2): pp.875-884.
+[16] Wenming Yang, Wei Wang, Xuechen Zhang, Shuifa Sun, Qingmin Liao, Lightweight Feature Fusion Network for Single Image Super-Resolution[J], IEEE Signal Processing Letters(IEEESPL), 2019, 26(4): pp.538-542.
+[17] Wenming Yang, Wenyang Ji, Jing-Hao Xue, Yong Ren, Qingmin Liao. A Hybrid Finger Identification Pattern Using Polarized Depth-weighted Binary Direction Coding[J]. Neurocomputing, 2019, 325(24): pp.260-268.
+[18] Wenming Yang, Zhiquan Chen, Chuan Qin, Qingmin Liao, α-Trimmed Weber Representation and Cross Section Asymmetrical Coding for Human Identification using Finger Images[J], IEEE Transactions on Information Forensics & Security(IEEE TIFS), 2019, 14(1): 90-101.
+[19] Rui Zhu, Fei Zhou, Wenming Yang, Jing-Hao Xue, On Hypothesis Testing for Comparing  Image 
+Quality Assessment Metrics[J], IEEE Signal Processing Magazine(IEEE SPM), 2018, 35(4): pp.133- 136.
+[20] Zhengda Zeng, Wenming Yang*, Wen Sun, Jing-Hao Xue, Qingmin Liao, No-reference Image Quality Assessment for Photographic Images Based on Robust Statistics[J], Neurocomputing, 2018, 313(11): pp. 111-118.
+[21] Riqiang Gao, Wenming Yang*, Qingmin Liao, Margin Loss: Making Faces more Separable[J], IEEE Signal Processing Letters(IEEESPL), 2018, 25(2): pp.308-312.
+[22] Fuwei Yang, Wenming Yang*, Riqiang Gao, Qingmin Liao, Discriminative Multidimensional Scaling for Low-resolution Face Recognition[J], IEEE Signal Processing Letters(IEEESPL), 2018, 25(2): pp.388-392.
+[23] Wenming Yang, Tingrong Yuan, Wei Wang, Fei Zhou, and Qingmin Liao, Single-Image Super-Resolution by Subdictionary Coding and Kernel Regression[J],IEEE Transactions on Systems, Man and Cybernetics: Systems(IEEETSMC), 2017, 47(9)：pp.2478-2488. 
+[24] Wenming Yang，Xiang Sun，Qingmin Liao, Cascaded Elastically Progressive Model for Face Alignment[J],IEEE Transactions on Systems, Man and Cybernetics: Systems(IEEETSMC), 2017, 47(9)：pp.2613-2621
+[25] Wenming Yang, Yapeng Tian, Fei Zhou, Qingmin liao, Consistent Coding Scheme for Single Image Super-Resolution via Independent Dictionaries[J],IEEE Transactions on Multimedia(IEEE TMM), 2016, 18(3)：pp.313-325. 
+[26] Fei Zhou, Tingrong Yuan, Wenming Yang*, Qingmin Liao, Single-Image Super-Resolution Based on Compact KPCA Coding and Kernel Regression[J], IEEE Signal Processing Letters(IEEESPL), 2015, 22(3): pp.336-339. 
+[27] Wenming Yang, Xiaola Huang, Qingmin Liao, Comparative Competitive Coding for Personal Identification by Using Finger Vein and Finger Dorsal Texture Fusion[J]，Information Sciences, 2014, 268(4): pp.20-32. 
+[28] Fei Zhou, Wenming Yang, Qingmin Liao, Interpolation-Based Image Super-Resolution Using Multi-Surface Fitting[J]. IEEE Transactions. on Image Processing(IEEE TIP), 2012, 21(7): pp.3312-3318.
+[29] Fei Zhou, Wenming Yang, Qingmin Liao, A Coarse-to-Fine Subpixel Registration Method to Recover Local Perspective Deformation in the Application of Image Super-Resolution [J]. IEEE Transactions. on Image Processing(IEEE TIP), 2012, 21(1): pp.53-66.
+[30] Fei Zhou, Wenming Yang, Qingmin Liao, Single image super-resolution using incoherent sub-dictionaries learning[J], IEEE Transactions on Consumer Electronics(IEEE TCE), 2012, 58(3): pp. 891-897.
+代表性著作 
+主要专利成果 
+[1] 杨文明，田亚鹏，周飞，郑成林，陈海，图像重建方法及装置，国际公布号：WO2018/120043 A1 国际公布日2018-7-5
+[2] 杨文明，田亚鹏，周飞，郑成林，陈海，图像处理方法和装置，国际公布号：WO2017/070841 A1 国际公布日2017-5-4
+[3] 梁超，杨文明，廖庆敏，傅翼，一种数显仪表判读方法，专利号：CN102254159 B，授权日期2014-7-2
+[4] 杨文明，李得第，谢正伟，张丽，廖庆敏，一种基于多特征建模的分块多尺度工程车识别方法及系统，专利号：ZL201410191630.1授权日期2017-7-14
+[5] 杨文明，廖庆敏，杨帆，基于联动摄像机的视频监控装置及其跟踪记录方法，专利号：ZL200910106883.3授权日期2010-9-1
+[6] 杨文明，杨帆，廖庆敏，一种身份信息识别方法及系统，专利号：ZL200910109432.5 授权日期2011-6-18
+[7] 杨文明，杨帆，廖庆敏，一种基于图像纹理分析的的检测粗糙度方法及系统，专利号：ZL200910109431.0 授权日期2011-4-3
+[8] 杨文明，廖庆敏，杨帆，基于手指静脉纹与手指背纹的成像设备及多模态身份认证方法，专利号：ZL200910106894.1授权日期2011-5-25
+其他成果 
+【图像库公开】
+自2012年起，清华大学公开发布自建的指静脉与指背纹图像库Tsinghua University Finger Vein and Finger Dorsal Texture Database（THU-FVFDT），以免费提供给国内外从事图像处理、模式识别、生物识别即身份认证等领域学者学术研究使用，欢迎下载： 
+https://www.sigs.tsinghua.edu.cn/labs/vipl/thu-fvfdt.html
+【专刊信息】
+组织国际期刊专刊2次：
+Neurocomputing 
+Topic：Deep Learning for Image Super-Resolution
+Signal Processing：Image Communication
+Topic：Advances in statistical methods based VQA
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2016年入选深圳市高层次专业人才-地方级领军人才
+2012、2015、2016、2019、2020年度清华大学深圳研究生院先进个人
+2016年中国测绘地理学会科技进步奖（三等奖）
+2013年中国人工智能学会最佳青年科技成果奖
+多次荣获优秀研究生指导教师荣誉
+ </奖励荣誉>

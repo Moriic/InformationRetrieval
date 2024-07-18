@@ -1,0 +1,64 @@
+{"title":"宋清华","cnUrl":"http://www.sigs.tsinghua.edu.cn/sqh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/aa/7e/f493430348b8a8b7020ff525a7f9/e9f91ef2-f8ad-4795-8b85-b649247c2666.jpg","email":"song.qinghua@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+ 宋清华博士，清华大学深圳国际研究生院副教授，博士生导师。分别于2013年与2017年获得西安交通大学学士学位与东巴黎大学的博士学位。博士毕业后于2017~2018年在新加坡南洋理工大学，以及2019年~2021年在法国国家科研中心从事博士后研究。获得国家高层次人才项目、深圳市“鹏城孔雀计划”特聘岗位B类人才。承担国家自然科学基金委项目青年基金项目、国家重点研发计划、深圳市科创委技术攻关重大项目、深圳市面上项目等。主要研究方向为电磁超表面、光学全息、微纳光学、拓扑光学等。研究成果至今以第一/通讯作者的身份在Science、 Science Advances(2篇)、 Nature Communications (3篇)、Light: Science & Applications、 Nano Letters等国际权威期刊发表多篇论文。
+招聘信息
+课题组招收博士后，博士与硕士研究生，欢迎具有光学，电磁学，凝聚态物理，纳米材料等背景的研究人员加入。感兴趣的同学请发邮件至song.qinghua@sz.tsinghua.edu.cn
+教育经历 
+2014年9月-2017年6月，东巴黎大学，电子，光电子与系统专业，博士
+2009年9月-2013年7月，西安交通大学，车辆工程，学士
+工作经历 
+2023年12月-至今，清华大学，清华大学深圳国际研究生院，副教授
+2021年8月-2023年12月，清华大学，清华大学深圳国际研究生院，助理教授
+2019年4月-2021年7月，法国国家科研中心，博士后
+2017年8月-2018年6月，新加坡南洋理工大学，博士后
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+1. 《微纳电磁材料》
+2. 《Experimental design and data processing》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+Metasurface
+Meta-Hologram
+Non-Hermitian physics
+Topological photonics
+Tunable Metasurface
+Compact Antenna Design
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+Google scholar link:
+https://scholar.google.com.sg/citations?user=12lx0V0AAAAJ&hl=en
+After joining SIGS (selected publication):
+[16] Yang, Z., Huang, P.-S., Lin, Y.-T., Qin, H., Chen, J., Han, S., Huang, W.*, Deng, Z.-L., Li, B., Zúñiga-Pérez, J., Genevet, P., Wu, P. C.*, Song, Q.*, Asymmetric Full-color Vectorial Meta-holograms Empowered by Pairs of Exceptional Points. Nano Letters, 2024.
+[15] Yang, Z., Huang, P.-S., Lin, Y.-T., Qin, H., Zúñiga-Pérez, J., Shi, Y., Wang, Z., Cheng, X., Tang, M.-C., Han, S., Kanté, B., Li, B., Wu, P. C. *, Genevet, P. *, Song, Q.*, Creating pairs of exceptional points for arbitrary polarization control: asymmetric vectorial wavefront modulation. Nature Communications, 15, 232, 2024.
+[14] Qin, H., Su, Z., Liu, M., Zeng, Y., Tang, M.C., Li, M., Shi, Y., Huang, W., Qiu, C.W.*, Song, Q.*, Arbitrarily polarized bound states in the continuum with twisted photonic crystal slabs. Light: Science & Applications, 12, 66, 2023.
+[13] Qin, H., Shi, Y. *, Su, Z., Wei, G., Wang, Z., Cheng, X., Liu, A.Q., Genevet, P. *, Song, Q.*, Exploiting extraordinary topological optical forces at bound states in the continuum. Science Advances, 8(49), eade7556, 2022.
+[12] Shi, Y., Song, Q.*, Toftul, I., Zhu, T., Yu, Y.*, Zhu, W.*, Tsai, D.P., Kivshar, Y*., Liu, A.Q.*, Optical manipulation with metamaterial structures. Applied Physics Reviews, 9, 031303, 2022.
+[11] Song, Q.*, Liu, X., Qiu, C.-W.*, Genevet, P.*, Vectorial metasurface holography. Applied Physics Reviews, 9, 011311, 2022.
+[10] Song, Q.*, Novel metasurface phase-modulation mechanism. Light: Science & Applications, 10, 184, 2021.
+Before joining SIGS (selected publication):
+[9] Song, Q., Odeh, M., Zúñiga-Pérez, J., Kanté, B., Genevet, P.*, Plasmonic topological metasurface by encircling an exceptional point. Science, 2021, 373(6559), 1133-1137.
+[8] Song, Q., Baroni, A., Wu, P. C., Chenot, S., Brandli, V., Vézian, S., Damilano, B., Mierry, P., Khadir, S., Ferrand, P., Genevet*, P., Broadband decoupling of intensity and polarization with vectorial Fourier metasurfaces. Nature Communications, 2021, 12, 3631.
+[7] Song, Q., Khadir, S., Vézian, S., Damilano, B., Mierry, P. D., Chenot, S., Brandli, V., Genevet, P.*, Bandwidth-unlimited polarization-maintaining metasurfaces. Science Advances, 2021, 7(5), eabe1112.
+[6] Song, Q., Khadir, S., Vézian, S., Damilano, B., Mierry, P. D., Chenot, S., Brandli, V., Laberdesque, R., Wattellier, B., Genevet, P.*, Printing polarization and phases at the optical diffraction limit: near-and far-field optical encryption, Nanophotonics, 2020, 10(1), 697-704.
+[5] Song, Q., Baroni, A., Sawant, R., Ni, P., Brandli, V., Chenot, S., Vézian, S., Damilano, B., Mierry, P. D., Khadir, S., Ferrand, P., Genevet, P.*, Ptychography retrieval of fully polarized holograms from geometric-phase metasurfaces. Nature Communications, 2020, 11, 2651.
+[4] Song, Q., Wu, P. C., Zhu, W. M., Zhang, W., Shen, Z. X., Chong, P. H. J., Liang, Q. X., Tsai, D. P., Bourouina, T., Leprince-Wang, Y.*, Liu, A. Q.*, Split Archimedean spiral metasurface for controllable GHz asymmetric transmission, Applied Physics Letters, 2019, 114(15), 151105.
+[3] Song, Q., Shen, Z.*, Lu, J., Log-periodic monopole array with uniform spacing and uniform height, IEEE Transactions on Antennas and Propagation, 2018, 66(9), 4687-4694.
+[2] Song, Q., Zhang, W., Wu, P. C., Zhu, W. M., Shen, Z. X., Chong, P. H. J., Liang, Q. X., Yang, Z. C., Hao, Y. L., Cai, H., Zhou, H. F., Gu, Y., Lo, G. Q., Tsai, D. P., Bourouina, T., Leprince-Wang*, Y., Liu, A. Q.*, Water-resonator-based metasurface: an ultrabroadband and near-unity absorption, Advanced Optical Materials, 2017, 5(8), 1601103.
+[1] Song, Q., Zhu, W. M., Wu, P. C., Zhang, W., Wu, Q. Y. S., Teng, J. H., Shen, Z. X., Chong, P. H. J., Liang, Q. X., Yang, Z. C., Tsai, D. P., Bourouina, T., Leprince-Wang, Y., Liu, A. Q.*, Liquid-meta-based metasurface for terahertz absorption material: frequency-agile and wide-angle, APL Materials, 2017, 5(6), 066103.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1. 获某国家级人才项目（2022年）；
+2. 深圳市“鹏城孔雀计划”特聘岗位B档（2021年）。
+ </奖励荣誉>

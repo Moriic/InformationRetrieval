@@ -1,0 +1,59 @@
+{"title":"许银亮","cnUrl":"http://www.sigs.tsinghua.edu.cn/xyl/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/2a/6a/642635e14b7da0aa40b66b87f1ed/b3601de3-b10a-4298-9535-42cecb857d2a.jpg","email":"xu.yinliang@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+主要从事智能电网，低碳能源系统优化研究
+教育经历 
+2010年1月-2013年8月，美国新墨西哥州立大学电气工程博士；2007年8月-2009年12月，哈尔滨工业大学控制科学与工程硕士；2003年8月-2007年7月，哈尔滨工业大学控制科学与工程学士；
+工作经历 
+2020年7月至今，清华大学深圳国际研究生院，清华伯克利深圳学院，信息学科，副教授
+2017年9月-2020年6月，清华伯克利深圳学院，清华大学，助理教授
+2015年9月-2018年8月，电气与计算机工程系，美国卡内基梅隆大学，兼职教员
+2017年1月-2017年8月，电子与信息工程学院，中山大学，副教授
+2013年11月-2016年12月，中山-卡内基梅隆大学联合工程学，中山大学，助理教授
+2013年11月-2014年8月，电气与计算机工程系，美国卡内基梅隆大学，访问学者
+2013年7月-2013年9月，助理研究员宾夕法尼亚州立大学，美国
+2011年05月-2011年8月，普林斯顿西门子公司研究中心，美国新泽西州，研究助理
+学术兼职 
+2019年6月至今，IEEE ACCESS (国际期刊，SCI IF: 3.745), 副编辑；
+2020年3月至今，CSEE Journal of Power and Energy Systems (国际期刊，SCI, IF: 3.115), 副编辑；
+2020年7月至今，IET Generation, Transmission & Distribution (国际知名期刊，SCI IF: 2.862), 副编辑；
+020年9月至今，IET Renewable Power Generation (国际知名期刊，SCI, IF: 3.894), 副编辑。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+电力系统分布式控制与优化（48学时） 
+电力系统计算方法（48学时） 
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要研究领域包括智能电网先进控制，分布式控制与优化算法，低碳能源系统优化等，组织实施和参与了多个网、省、地综合能量管理系统。IEEE协会高级会员，在国内外重要学术期刊和国际会议上发表论文及报告130余篇，其中发表/已录用SCI检索论文100余篇（以第一或通讯作者发表SCI论文65篇,电气工程领域国际顶级 IEEE transaction论文50篇），出版第一作者专著一本。2020, 2021连续两年入选由斯坦福大学John P.A.Ioannidis教授团队与Elsevier旗下Mendeley Data发布的“全球前2%顶尖科学家榜单”
+主要项目 
+2021年1月-2023年12月，广东省自然科学基金项目，“基于区块链技术的综合能源网运控与交易策略研究”，主持；
+2017年8月-2020年7月，南方电网科技项目，“基于源网荷储协调的电力系统优化调度策略研究,”主持；
+2018年6月-2020年9月，南方电网科技项目, “电力市场环境下虚拟电厂和配电网互动的综合能源服务运营模式研究,” 主持；
+2021年6月-2022年7月，南方电网科技项目, “云-群-端递阶协同虚拟电厂调度优化技术研究,” 主持；
+2021年1月-2022年12月，南方电网科技项目, “基于协同效益的增量配电项目投资决策模型及策略研究,” 主持。
+ </研究领域>
+<研究成果>
+代表性论文 
+1. L. Yang, Y. Xu*, W. Gu, and H. Sun, Distributionally Robust Chance-Constrained Optimal Power-Gas Flow Under Bidirectional Interactions Considering Uncertain Wind Power, IEEE Trans. Smart Grid, vol.12, no.2, pp.1722-1735, 2021.
+2. X. Chang, Y. Xu*, W. Gu, H. Sun*, M. Chow and Z. Yi, Accelerated Distributed Hybrid Stochastic/Robust Energy Management of Smart Grids, IEEE Transactions on Industrial Informatics, vol. 17, no. 8, pp. 5335-5347, Aug. 2021.
+3. Z. Yi, Y. Xu*, W. Gu and Z. Fei, Distributed Model Predictive Control Based Secondary Frequency Regulation for a Microgrid with Massive Distributed Resources, IEEE Transactions on Sustainable Energy, vol. 12, no. 2, pp. 1078-1089, April 2021.
+4. Z. Yi, Y. Xu*, J. Zhou, W. Wu, H. Sun, “Bilevel Programming for Optimal Operation of an Active Distribution Network with Multiple Virtual Power Plants” IEEE Trans. Sustainable Energy, vol. 11, no. 4, pp. 2855-2869, Oct. 2020.
+5. X. Shi, Y. Xu*, Q. Guo, and H. Sun, A Distributed EV Navigation Strategy Considering the Interaction Between Power System and Traffic Network, IEEE Transactions on Smart Grid. vol. 11, no. 4, pp. 3545-3557, July 2020.
+6. L. Yang, Y. Xu*, and H. Sun, “A Dynamic Linearization and Convex Relaxation Based Approach for a Natural Gas Optimal Operation Problem.” IEEE Transactions on Smart Grid. vol. 11, no. 2, pp. 1802-1804, March 2020.
+7. L. Yang, Y. Xu*, H. Sun, and X. Zhao, Two-stage Convexification Based Optimal Electricity-Gas Flow, IEEE Transactions on Smart Grid. vol. 11, no. 2, pp. 1465-1475, March 2020.
+8. Z. Yi, Y. Xu*, W. Gu and W. Wu, “A multi-time-scale economic scheduling strategy for virtual power plant based on deferrable loads aggregation and disaggregation,” IEEE Trans. Sustainable Energy, vol. 11, no. 3, pp. 1332-1346, July 2020.
+9. Y. Xu, W. Wu, and J. Zhou*, “A distributed task allocation based on winners-take-all approach for multiple energy storage systems coordination in a microgrid,” IEEE Transactions on Smart Grid. vol. 11, no. 1, pp. 686-695, Jan. 2020.
+10. Z. Yi, Y. Xu*, Z. Li, “Optimal configuration of distributed heat source to promote the wind power penetration in combined heat and power system,” Journal of Renewable and Sustainable Energy, vol.11, no. 3, pp.1-13.
+11. Z. Yi, Y. Xu*, J. Hu, M. Chow and H. Sun, Distributed neurodynamic-based approach for economic dispatch in an integrated energy system, IEEE Transactions on Industrial Informatics. vol. 16, no. 4, pp. 2245-2257, April 2020.
+12. Y. Xu*, H. Sun, and W. Gu, “A novel discounted min-consensus algorithm for optimal electrical power trading in grid-connected DC microgrids” IEEE Transactions on Industrial Electronics, vol. 66, no. 11, pp. 8474-8484, Nov. 2019. (SCI, IF:7.07).
+13. Y. Xu*, Q. Guo, H Sun, and Z. Fei, “Distributed discrete robust secondary cooperative control for islanded microgrids,” IEEE Trans. Smart Grid, vol. 10, no. 4, pp. 3620-3629, July 2019.  
+14. Y. Xu, W. Zhang*, M. Chow, H. Sun, and J. Peng, “A distributed model-free controller for enhancing the power system frequency transient stability” IEEE Transactions on Industrial Informatics, vol.15, no.3, pp.1361-1371, 2019. 
+15. Yinliang Xu, Wei Zhang, Wenxin Liu and Wen Yu, Distributed Energy Management of Electrical Power System, JOHN WILEY & SONS, INC.pp:1-235, ISBN: 9781119534884, 2021.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

@@ -1,0 +1,58 @@
+{"title":"林冠婧","cnUrl":"http://www.sigs.tsinghua.edu.cn/lgj/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/cf/82/217bd5e94ae6bc92ecbcf730373b/1b9ad1bc-e88e-4c96-9145-ee484007dca9.jpg","email":"linguanjing@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+长期从事智能建筑能源管理技术相关研究，着重研究暖通空调等能源系统故障诊断与纠偏；能源系统灵活、优化控制；建筑智慧运维、数字孪生和大数据应用。目前正在积极组建团队，欢迎建筑环境与能源应用工程、暖通空调、建筑技术、自动化、物联网等相关专业硕士、博士、以及博士后加入，邮件（linguanjing@sz.tsinghua.edu.cn）咨询。
+教育经历 
+2012年，美国德克萨斯农工大学，机械工程专业，博士
+2006年，清华大学，建筑环境与设备工程专业，硕士
+2004年，清华大学，建筑环境与设备工程专业，学士
+工作经历 
+2022年12月-至今，清华大学深圳国际研究生院，未来人居学院，副教授
+2019年1月-2022年11月，美国劳伦斯伯克利国家实验室，首席研究员
+2013年3月-2018年12月，美国劳伦斯伯克利国家实验室，高级研究员
+学术兼职 
+美国采暖、制冷与空调工程师学会 (ASHRAE) 会员、TC7.5成员
+Energy and Buildings、Building and Environment、Automation in Construction等二十多家期刊及学术会议审稿人
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+长期从事智能建筑能源管理技术相关研究。把数字信息科技、数据科学与建筑能源系统结合在一起，实现系统持续高效低碳运行。研究兴趣包括：
+- 能源系统故障诊断与纠偏
+- 能源系统灵活、优化控制
+- 建筑智能运维
+- 建筑数字孪生、大数据应用
+2022年12月加盟清华大学深圳国际研究生院未来人居研究院担任副教授。在2013年到2022年美国劳伦斯伯克利国家实验室工作期间，林冠婧作为项目主持、共同主持人或主要研究人员，完成了14项由美国能源部资助的科研项目。建立故障诊断算法评价体系和大型数据库，提出空调故障的统一分类命名，模拟多种空调设备有/无故障的365天动态运行数据，被多个国家学者采用研究新算法；研究故障纠偏技术，实现检测-诊断-修复闭环，被多个商业软件应用；研发小型楼宇智能监测工具箱；开发冷站优化控制平台。研究成果获得4项软件著作权证书。在Nature Scientific Data、 Building and Environment、Energy and Buildings等国际学术期刊发表多篇论文。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+代表性论文
+[1] Lin G*, Pritoni M, Chen Y, Vitti R, Weyandt C, Granderson J. Implementation and test of an automated control hunting fault correction algorithm in a fault detection and diagnostics Tool. Energy and Buildings. 2023 283: 112796.
+[2] Lin G, Kramer H*, Nibler V, Crowe E, Granderson J*. Building analytics tool deployment across thousands of United States buildings: benefits, costs, and the state of practice. Energies. 2022 15(13), p.4858. DOI: https://doi.org/10.3390/en15134858
+[3] Chen Y*, Lin G, Chen Z, Wen J, Granderson J. A simulation-based evaluation of fan coil unit fault effects. Energy and Buildings. 2022 263:112041. 
+[4] Pritoni M, Lin G*, Chen Y, Vitti R, Weyandt C, Granderson J. From fault-detection to automated fault correction: A field study. Building and Environment. 2022 214:108900. 
+[5] Chen Y, Lin G, Crowe E*, Granderson J. Development of a unified taxonomy for HVAC system faults. Energies, 2021 14(17), p.5581.
+[6] Granderson J*, Lin G*, Harding A, Im P, Chen Y. Building fault detection data to aid diagnostic algorithm creation and performance testing. Nature Scientific Data. 2020 Feb 24;7(1):1-4. 
+[7] Lin G, Pritoni M, Chen Y, Granderson J*. Development and implementation of fault-correction algorithms in fault detection and diagnostics tools. Energies. 2020 Jan;13(10):2598. 
+[8] Lin G, Kramer H, Granderson J*. Building fault detection and diagnostics: Achieved savings, and methods to evaluate algorithm performance. Building and Environment. 2020 (168):106-505. 
+[9] Granderson J*, Lin G, Blum D, Page J, Spears M, Piette MA. Integrating diagnostics and model-based optimization. Energy and Buildings. 2019 (182):187-95. [10]Frank S, Lin G, Jin X, Singla R, Farthing A, Granderson J*. A performance evaluation framework for building fault detection and diagnosis algorithms. Energy and Buildings. 2019 (192):84-92. 
+[11]Kramer H, Lin G, Curtin C, Crowe E, Granderson J*. Building analytics and monitoring-based commissioning: industry practice, costs, and savings. Energy Efficiency. 2019:1-3. 
+[12] Granderson J, Lin G*, Singla R, Fernandes S, Touzani S. Field evaluation of performance of HVAC optimization system in commercial buildings. Energy and Buildings. 2018 (173):577-86. 
+[13] Granderson J*, Lin G. Building energy information systems: Synthesis of costs, savings, and best-practice uses. Energy Efficiency. 2016 9(6):1369-84. 
+[14]Lin G, Claridge DE*. A temperature-based approach to detect abnormal building energy consumption. Energy and Buildings. 2015 (93):110-8.
+软件著作权
+[1] Vitti R, Weyandt C, Lin G, Pritoni M, Yimin C，Granderson J, Haxall-based (Axon) fault auto-correction package for building HVAC systems, 2022
+[2] Yimin C, Lin G, Najibi R, Fernandes S, Retro-Commissioning Sensor Suitcase Plus, 2022
+[3] Granderson J, Hu L, Blum D, Spears M, Bonvini M, PlantInsight v1: Modelica model-based optimization and fault diagnostics for central cooling plants, 2018
+[4] McQuillen D, Mitchell R, Lin G, Granderson J, Retro-Commissioning Sensor Suitcase, 2017 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+美国劳伦斯伯克利国家实验室杰出贡献奖(2018, 2019, 2020, 2022)
+美国联邦实验室联盟技术转让卓越奖(2020)
+美国劳伦斯伯克利国家实验室技术转让卓越奖(2021)
+ </奖励荣誉>

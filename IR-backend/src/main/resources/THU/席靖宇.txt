@@ -1,0 +1,47 @@
+{"title":"席靖宇","cnUrl":"http://www.sigs.tsinghua.edu.cn/xjy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/c6/ea/f252f5e14287919ff2c19ca4bb6c/67241eb8-6b6d-430b-a53e-c9d51d663314.jpg","email":"xijy@tsinghua.edu.cn"}
+<个人简历>
+概况 
+1994-1998 武汉大学，化学系，理学学士
+1998-2001 中国科学院，兰州化学物理研究所，理学硕士
+2001-2004 上海交通大学，化学化工学院，工学博士
+2005-2006 清华大学，化学系，博士后
+2006.12起 清华大学深圳研究生院，讲师、副研究员
+教育经历 
+工作经历 
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+电化学原理与应用、能源转化与能量存储、功能高分子材料
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事电化学能源储存与转换体系及相关材料的研究工作，目前兴趣涉及：（1）液流电池；（2）全固态二次电池；（3）电催化；（4）光催化。
+近年已主持3项国家自然科学基金、1项广东省自然科学基金、1项深圳市杰出青年基金、1项深圳市学科布局项目和多项深圳市基础研究及技术开发项目，还参与了2项973子课题的研究。已发表SCI收录论文110余篇，被SCI引用3500余次，H指数34。获得授权中国发明专利17件。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+ResearcherID: http://www.researcherid.com/rid/I-9088-2012
+Researchgate: https://www.researchgate.net/profile/Jingyu_Xi
+[1]Yuchen Liu, Yi Shen, Lihong Yu, Le Liu, Feng Liang*, Xinping Qiu*, Jingyu Xi*.Holey-engineered electrode for advanced vanadium flow batteries. Nano Energy 2018, 43, 55-62.
+[2]Yi Shen*, Yongfang Zhou, Duo Wang, Xi Wu, Jia Li*, Jingyu Xi. Nickel-copper alloy encapsulated in graphitic carbon shells as electrocatalysts for hydrogen evolution reaction. Adv. Energy Mater. 2018, 8, 1701759.
+[3]Ying Zhou, Le Liu, Yi Shen, Lantao Wu, Lihong Yu*, Feng Liang*, Jingyu Xi*. Carbon dots promoted vanadium flow battery for all-climate energy storage. Chem. Commun. 2017, 53, 7565-7568.
+[4]Di Mu, Yang Zhao, Liwei Yu, Le Liu, Jingyu Xi*.Asymmetric vanadium flow batteries: long lifespan via an anolyte overhang strategy. Phys. Chem. Chem. Phys. 2017, 19, 29195-29203.
+[5]Lantao Wu, Jianshe Wang, Yi Shen, Le Liu, Jingyu Xi*. Electrochemical evaluation methods of vanadium flow battery electrode. Phys. Chem. Chem. Phys. 2017, 19, 14708-14717.
+[6]Yi Shen*, Yongfang Zhou, Bin Gong, Kaijun Xiao, Lei Wang*, Jingyu Xi*. One-pot synthesis of ultrafine decahedral platinum crystals decorated graphite nanosheets for the electro-oxidation of formic acid. J. Catal. 2017, 345, 70-77.
+[7]Jingyu Xi*, Bo Jiang, Lihong Yu, Le Liu. Membrane evaluation for vanadium flow batteries in a temperature range of -20–50 oC. J. Membr. Sci. 2017, 522: 45-55.
+[8]Lantao Wu, Yi Shen, Lihong Yu, Jingyu Xi*, Xinping Qiu*. Boosting vanadium flow battery performance by Nitrogen-doped carbon nanospheres electrocatalyst. Nano Energy 2016, 28, 19-28.
+[9]Lihong Yu, Jingyu Xi*. Durable and efficient PTFE sandwiched SPEEK membrane for vanadium flow batteries. ACS Appl. Mater. Interfaces 2016, 8, 23425-23430.
+[10]Haipeng Zhou, Yi Shen, Jingyu Xi*, Xinping Qiu*, Liquan Chen. ZrO2-nanoparticle-modified graphite felt: bifunctional effects on vanadium flow batteries. ACS Appl. Mater. Interfaces 2016, 8, 15369-15378.
+[11]Bo Jiang, Lantao Wu, Lihong Yu, Xinping Qiu, Jingyu Xi*. A comparative study of Nafion series membranes for vanadium redox flow batteries. J. Membr. Sci. 2016, 510, 18-26. （ESI-Highly Cited Paper）
+[12]Yi Shen*, Ling Li, Jingyu Xi*, Xinping Qiu*. A facile approach to fabricate free-standing hydrogen evolution electrodes for hydrogen production: riveting tungsten carbide nanocrystals to graphite felt fabrics by carbon nanosheets. J. Mater. Chem. A, 2016, 4, 5817-5822.
+[13]Jingyu Xi*, Zhaohua Li, Lihong Yu, Bibo Yin, Lei Wang, Le Liu, Xinping Qiu*, Liquan Chen. Effect of degree of sulfonation and casting solvent on sulfonated poly(ether ether ketone) membrane for vanadium redox flow battery. J. Power Sources 2015, 285, 195-204.
+[14]Zhaohua Li, Wenjing Dai, Lihong Yu, Le Liu, Jingyu Xi*, Xinping Qiu*, Liquan Chen. Properties investigation of sulfonated poly(ether ether ketone)/polyacrylonitrile acid-base blend membrane for vanadium redox flow battery application. ACS Appl. Mater. Interfaces 2014, 6, 18885-18893.
+[15]Wenjing Dai, Yi Shen, Zhaohua Li, Lihong Yu*, Jingyu Xi*, Xinping Qiu*. SPEEK/Graphene oxide nanocomposite membrane with superior cyclability for highly efficient vanadium redox flow battery. J. Mater. Chem. A 2014, 2, 12423-12432.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

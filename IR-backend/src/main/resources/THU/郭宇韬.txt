@@ -1,0 +1,79 @@
+{"title":"郭宇韬","cnUrl":"http://www.sigs.tsinghua.edu.cn/gyt2/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/ec/4a/e7041dae4d29a95606ca5e94f062/ba03d171-e5fb-4d88-8da7-50de91102a56.jpg","email":"guoyutao@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2015年7月-2020年6月，清华大学，土木工程专业，博士
+2011年7月-2015年6月，清华大学，土木工程专业，学士
+工作经历 
+2022年7月-至今，清华大学深圳国际研究生院，助理教授、特别研究员
+2020年12月-2022年5月，英国帝国理工学院，博士后
+2016年7月-2020年6月，清华大学，校团委/土木系/新雅书院，双肩挑辅导员
+2019年6月-2019年9月，澳大利亚Monash大学，访问学者
+学术兼职 
+中国土木工程学会会员；
+Bulletin of Earthquake Engineering, Engineering Structures, Structures等期刊审稿人。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《钢筋混凝土原理》（70030103）、《有限元原理与工程应用》（75990383）
+（深圳国际研究生院）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+长期从事钢-混凝土组合结构的相关研究工作，并着重研究组合结构在海洋工程中的发展与应用。研究兴趣包括：
+（1）新型组合结构体系，结构形式包括钢板混凝土、空间组合梁板、钢管混凝土等，应用场景包括海底沉管隧道、海上平台、海洋风机、跨河跨海桥梁、地下结构、大跨楼盖、防护结构、结构修复与加固等，并关注海洋工程中的结构涉水计算问题；
+（2）绿色混凝土材料及其在组合结构中的应用，研究海工建材、废弃橡胶、再生骨料、土工聚合物等环保低碳材料，开发新材料组合结构，应用于不同场景，并服务于可持续发展；
+（3）高性能与智能计算，开发适用于不同材料特点、结构形式、应用背景的高效数值计算方法，研究人工智能与结构设计计算的交叉应用，着重针对海洋工程、地震工程与防灾减灾场景。
+研究内容为使用概念设计、结构试验、模型开发、理论分析等方法，提出适用不同场景的创新结构解决方案，分析其基本受力机理，建立设计计算方法，最终推动工程应用。研究目标为建立新材料、新结构、新体系、新工具、新模型、新方法，提升结构安全性、使用性、环保性、经济性、耐久性，解决工程难题，推动工程创新，并服务于国家重大战略与工程需求。
+长期招收博士、硕士研究生，根据项目情况招收博士后。
+主要项目 
+[1] 国家自然科学基金委员会，青年项目，钢板混凝土组合结构二维非连续抗剪机理研究，2024-2026, 在研, 主持.
+[2] 中国科学技术协会，第九届中国科协青年人才托举工程，海洋工程组合结构关键机理研究，2024-2026, 在研, 主持.
+[3] 清华大学深圳国际研究生院，交叉科研创新基金，海洋城市防灾及运维智能化高性能计算与监测平台，2024-2026, 在研, 主持.
+[4] 清华大学深圳国际研究生院, 科研启动经费, 新型组合结构在海洋工程中的发展与应用, 2022-2025, 在研, 主持. 
+[5] 国家自然科学基金委员会, 专项项目, 工程科学发展战略研究：2021-2035, 2020-2021, 结题, 参与. 
+[6] 广东省科学技术厅, 广东省重点领域研发计划, 复杂海洋环境下钢壳混凝土沉管隧道建设关键技术, 2019-2023, 结题, 参与.
+[7] 深中通道管理中心, 深圳至中山跨江通道工程, 钢壳沉管隧道结构受力机理及设计方法研究, 2017-2020, 结题, 参与.
+[8] The Arts and Humanities Research Council (AHRC) of the UK and the Science, Technology and Innovation Funding Authority (STIFA) of Egypt, the Newton-Mosharafa funding program, Interdisciplinary approach for the management and conservation of UNESCO World Heritage Site of Historic Cairo - Application to Al-Ashraf Street, finished, joined.
+ </研究领域>
+<研究成果>
+代表性论文 
+*为通讯作者, #为指导学生
+[1] Guo Y., Nie X, Tao M., et al. “Bending capacity of steel-concrete-steel composite structures considering local buckling and casting imperfection”. Journal of Structural Engineering (IPF: 3.86, JCR Q1), 2019, 145(10): 04019102. https://doi.org/10.1061/(ASCE)ST.1943-541X.0002385 
+[2] Guo Y., Tao M., Nie X, et al. “Experimental and theoretical studies on the shear resistance of steel–concrete–steel composite structures with bidirectional steel webs”. Journal of Structural Engineering (IPF: 3.86, JCR Q1), 2018, 144(10): 04018172. https://doi.org/10.1061/(ASCE)ST.1943-541X.0000021
+[3] Guo Y., Tao M., Nie X, et al. “Rigidity and moment distribution of steel-concrete composite waffle floor systems considering the spatial effect”. Engineering structures (IPF: 5.58, JCR Q1), 2017, 143: 498-510. https://doi.org/10.1016/j.engstruct.2017.04.042
+[4] Guo Y.*, Bompa D. V., Elghazouli A. Y. Nonlinear numerical assessments for the in-plane response of historic masonry walls. Engineering structures (IPF: 5.58, JCR Q1), 2022, 268: 114734. https://doi.org/10.1016/j.engstruct.2022.114734
+[5] Guo Y., Yang Y, Song S., et al. “Shear–slip failure in steel–concrete–steel composite beams with bidirectional webs”. Thin-Walled Structures (IPF: 5.88, JCR Q1), 2021, 164: 107743. https://doi.org/10.1016/j.tws.2021.107743
+[6] Guo Y., Chen J, Nie X, et al. “Investigation of the shear resistances of steel–concrete–steel composite structures with bidirectional webs”. Journal of Constructional Steel Research (IPF: 4.35, JCR Q1), 2020, 164: 105846. https://doi.org/10.1016/j.jcsr.2019.105846
+[7] Guo Y., Nie X, Tao M., et al. “Selected series method on buckling design of stiffened steel-concrete composite plates”. Journal of Constructional Steel Research (IPF: 4.35, JCR Q1), 2019, 161: 296-308. https://doi.org/10.1016/j.jcsr.2019.07.014
+[8] Ge K#, Wang C, Guo Y.*, et al. A Multi-Task Fourier Transformer Network For Seismic Source Characterization Estimation From a Single-Station Waveform. IEEE Geoscience and Remote Sensing Letters (IPF: 4.8, JCR Q1), 2024.
+https://doi.org/10.1109/LGRS.2024.3369108
+[9] Mujdeci A.#, Guo Y.*, Bompa D. V., et al. Axial and bending behaviour of steel tubes infilled with rubberised concrete. Thin-Walled Structures (IPF: 5.88, JCR Q1), 2022, 181: 110125. https://doi.org/10.1016/j.tws.2022.110125
+[10] Mujdeci A.#, Guo Y.*, Bompa D. V., Elghazouli A. Y. Performance of circular steel tubes infilled with rubberised concrete under cyclic loads. Engineering structures (IPF: 5.58, JCR Q1), 302 (2024) 117327. 
+https://doi.org/10.1016/j.engstruct.2023.117327
+[11] Elghazouli A. Y., Mujdeci A.#, Bompa D. V., Guo Y.*. Experimental cyclic response of rubberised concrete-filled steel tubes. Journal of Constructional Steel Research (IPF: 4.35, JCR Q1), 2022, 199: 107622. https://doi.org/10.1016/j.jcsr.2022.107622
+[12] Song S., Guo Y.*, Fan, J. and Elghazouli, A.Y. “Shear Contribution of Flange Dowel Action in Steel-Concrete-Steel Composite Structures”. Thin-Walled Structures (IPF: 5.88, JCR Q1), 169 (2021), 108354. https://doi.org/10.1016/j.tws.2021.108354 https://doi.org/10.1016/j.tws.2021.108354 (corresponding author).
+[13] 宋神友, 聂建国, 徐国平, 樊健生, 唐亮, 郭宇韬*. 双钢板-混凝土组合结构在沉管隧道中的发展与应用[J]. 土木工程学报, 2019(4):12.
+[14] 郭宇韬*, 聂建国, 周萌. 组合梁板结构在地下车库顶盖中的应用[J]. 建筑结构, 2018, 48(19):6. 
+[15] 樊健生, 徐国平, 黄清飞, 唐亮, 刘洪洲, 郭宇韬, 聂鑫, 李会驰. 一种计算隔舱式双钢板-混凝土组合结构的抗弯承载力的方法（ZL201910765278.0）. 授权发明专利.
+相关成果服务于包括国家自然科学基金、深中通道重大工程等在内的科研与工程咨询项目20余项。
+代表性著作 
+[1] 宋神友等. 钢壳混凝土沉管隧道设计方法和合理关键构造. 北京: 人民交通出版社股份有限公司, 2023.08. “十四五”时期国家重点出版物出版专项规划项目, 深中通道建设关键技术丛书.
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+某国家级引才项目（2023）
+第九届中国科协青年人才托举工程（中国土木工程学会托举）（2023）
+深圳市“鹏城孔雀计划”（2022）
+刘恢先地震工程奖学金（2020）
+清华大学优秀博士毕业生、优秀博士论文（2020）
+清华大学土木系“学术新秀”称号（2020）
+清华大学蒋南翔奖学金（2019）
+清华大学“紫荆学者”称号（2019）
+清华大学“林枫辅导员”称号（2019）
+清华大学本科生特等奖学金（2014）
+ </奖励荣誉>

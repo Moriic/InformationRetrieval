@@ -1,0 +1,76 @@
+{"title":"翟登云","cnUrl":"http://www.sigs.tsinghua.edu.cn/zdy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/a7/3f/c5dbfd074220894df1e8f1335991/f26a5cfc-6ee7-47e9-a12d-7c0c7646795b.jpg","email":"zhaidy0404@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+主要聚焦离子电池等储能器件及其关键材料的研究
+教育经历 
+1999年09月-2003年07月，西安交通大学，电气工程学院，工学学士
+2003年09月-2006年07月，西安交通大学，电气工程学院，工学硕士
+2007年09月-2011年07月，清华大学，材料学院，工学博士
+工作经历 
+2006年07月-2007年07月，3M中国有限公司，工程师
+2011年09月-2014年10月，美国能源部阿贡实验室，博士后
+2015年10月-2016年12月，清华大学深圳研究生院，能源与环境学部，工程师
+2017年01月-2019年08月，清华大学深圳研究生院，能源与环境学部，副教授
+2019年08月-至今，清华大学深圳国际研究生院，能源与环境学部，副教授
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+实验设计与数据处理60420123
+新能源材料导论80350342
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+聚焦于离子电池（主要包括钾离子电池、钠离子电池）的关键材料开发、储能机理和界面稳定性。目前主持/完成国家自然基金项目两项、国家自然基金国际合作一项、深圳市基础研究项目四项，参与科技部国家重点研发计划一项，广东省“珠江人才计划”创新科研团队核心成员。
+主要项目 
+国家自然科学基金委员会，国际(地区)合作与交流项目，52361165621，高电压钾离子电池正极/电解液稳定界面的构建，2024-01-01 至 2027-12-31，在研，主持
+国家自然科学基金委员会，面上项目, 52072206，钾电池的负极开发和界面SEI的稳定性研究，2021-01-01 至 2024-12-31，在研，主持。
+国家自然科学基金委员会，面上项目，51772167，基于超氧化物为放电产物的碱金属空气电池，2018-01-01 至 2021-12-31，结题，主持。
+深圳市科技创新委员会, 基础研究（重点项目），JCYJ20220818101003008，硅基负极宽温区固态电池基础研究，2022-11 至 2025-10，在研，主持。
+深圳市科技创新委员会，基础研究（学科布局），JCYJ20170412171311288，超高能量密度锂空气电池的研究，2017-06 至 2020-06，结题，主持。
+深圳市科技创新委员会，基础研究（自由探索），JCYJ20170817162443934，具有高安全性、高能量密度特点的新型钾-氧气电池储能体系的研究，2018-03 至 2020-03，结题，主持。
+深圳市科技创新委员会，高等院校稳定资助面上项目，WDZC20200818155913001，钾离子电池SEI的形成与作用机理，2021-03 至 2023-03，结题，主持。
+中华人民共和国科学技术部，重点专项，2021YFA1202802，纳米能源领域关键参数计量定值，2022-04至 2027-03，在研，参与。
+广东省科学技术厅，广东省“珠江人才计划“本土创新科研团队，2017BT01N111，石墨烯储能创新团队，2018-06 至 2023-06，结题，参与。
+ </研究领域>
+<研究成果>
+代表性论文 
+目前已经在Nature、J Am Chem Soc、Nano Lett、Adv Energy Mater、Energy Envir Sci、Energy Storage Mater、ACS Appl Mater Inter、Carbon等期刊杂志发表SCI论文70余篇。
+部分代表论文如下：
+1. J. Hu, H. Wang, F. Yuan, J. Wang, H. Zhang, R. Zhao, Y. Wu,* F. Kang,* D. Zhai.* Nano Letters 2024, 1673. 
+2. W. Li, H. Wang, J. Zhang, H. Zhang, M. Chen, J. Wang, Y. Gao, R. Zhao, J. Hu, G. Feng,* D. Zhai,* F. Kang.* Advanced Energy Materials 2024, 2303458.
+3. Y. Gao, W. Li, B. Ou, S. Zhang, H. Wang, J. Hu, F. Kang,* D. Zhai.* Advanced Functional Materials 2023, 2305829.
+4. C. Gao, X. Wang, Y. Zhu, D. Zhai, F. Kang. Nano Letters 2023, 10028.
+5. Y. Lei, J. Wang, D. Han, F. Yuan, H. Wang, R. Zhao, Y. Wu, B. Zhang, D. Zhai,* F. Kang.* Carbon 2022, 229.
+6. F. Yuan, J. Hu, Y. Lei, R. Zhao, C. Gao, H. Wang, B. Li, F. Kang,* D. Zhai.* ACS nano 2022, 12511.
+7. J. Wang, H. Wang, R. Zhao, Y. Wei, F. Kang,* D. Zhai.* Nano Letters 2022, 6359.
+8. H. Wang, J. Zhang, H. Zhang, W. Li, M. Chen, Q. Guo, K. Lau, L. Zeng, G. Feng,* D. Zhai,* F. Kang.* Cell Reports Physical Science 2022, 100919.
+9. C. Gao, Y. Lei, Y. Wei, H. Wang, F. Yuan, F. Kang,* D. Zhai.* Chemical Engineering Journal 2022, 133926.
+10. H. Wang, J. Dong, Q. Guo, W. Xu, H. Zhang, KC Lau, Y Wei, J. Hu. D. Zhai,* F. Kang.* Energy Storage Materials 2021, 526.
+11. J. Hu, H. Wang, S. Wang, Y. Lei, L. Qin, X. Li, D. Zhai,* B. Li, F. Kang.* Energy Storage Materials 2021, 91.
+12. Y. Lei,† Y. Chen,† H. Wang, J. Hu, D. Han, J. Dong, W. Xu, X. Li, Y. Wang, Y. Wu, D. Zhai,* F. Kang.* ACS Applied Materials & Interfaces 2020, 37027.
+13. H. Wang, D. Zhai,* F. Kang.* Energy & Environmental Science 2020, 4583.
+14. L. Qin, S. Zhang, J. Zheng, Y. Lei, D. Zhai,* Y. Wu.* Energy & Environmental Science 2020, 3656.
+15. Y. Lei, D. Han, J. Dong, L. Qin, X. Li, D. Zhai,* B. Li, Y. Wu, F. Kang.* Energy Storage Materials 2020, 319. 
+16. H. Wang, J. Hu, J. Dong, K. Lau, L. Qin, Y. Lei, B. Li, D. Zhai,* Y. Wu, F. Kang.* Advanced Energy Materials 2019, 1902697. 
+17. L. Qin, Y. Lei, H. Wang, J. Dong, Y. Wu, D. Zhai,* F. Kang, Y. Tao, Q. Yang.* Advanced Energy Materials 2019, 1901427. 
+18. J. Dong, Y. Lei, D. Han, H. Wang, D. Zhai,* B. Li, F. Kang.* Chemical Communications 2019, 12555.
+19. Y. Lei,† L. Qin,† R. Liu,† K. C. Lau, Y. Wu, D. Zhai,* B. Li and F. Kang.* ACS Applied Energy Materials 2018, 1828.
+20. W. Yu, K. C. Lau, Y. Lei, R. Liu, L. Qin, W. Yang, B. Li, L. A. Curtiss, D. Zhai* and F. Kang.* ACS Applied Materials & Interfaces 2017, 31871.
+21. R. Liu, Y. Lei, W. Yu, H. Wang, L. Qin, D. Han, W. Yang, D. Zhou, Y. He, D. Zhai,* B. Li* and F. Kang. ACS Energy Letters 2017, 313.
+22. J. Lu, Y. J. Lee, X. Luo, K. C. Lau, M. Asadi, H. H. Wang, S. Brombosz, J. Wen, D. Zhai, Z. Chen, D. J. Miller, Y. S. Jeong, J. B. Park, Z. Z. Fang, B. Kumar, A. Salehi-Khojin, Y. K. Sun, L. A. Curtiss* and K. Amine.* Nature 2016, 377.
+23. D. Zhai, K. C. Lau, H.-H. Wang, J. Wen, D. J. Miller, J. Lu, F. Kang, B. Li, W. Yang, J. Gao, L. A. Curtiss* and K. Amine.* Nano letters 2015, 1041.
+24. D. Zhai, H.-H. Wang, K. C. Lau, J. Gao, P. C. Redfern, F. Kang, B. Li, E. Indacochea, U. Das and H.-H. Sun, K. Amine, L. A. Curtiss.* The Journal of Physical Chemistry Letters 2014, 2705.
+25. D. Zhai, H. H. Wang, J. Yang, K. C. Lau, K. Li, K. Amine* and L. A. Curtiss.* Journal of the American Chemical Society 2013, 15364.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+深圳市孔雀计划C类（2016）
+广东省“珠江人才计划”本土创新科研团队“石墨烯储能创新团队”核心成员（2018）
+深圳市“鹏城孔雀计划”特聘岗位B类（2022）
+ </奖励荣誉>

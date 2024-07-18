@@ -1,0 +1,40 @@
+{"title":"李轶","cnUrl":"http://www.sigs.tsinghua.edu.cn/ly/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/15/b2/61a50f5545dd89e097ce920b4351/c02ee68d-f429-403d-a210-a4b821ee4fbe.jpg","email":"liyi@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+2001年9月-2004年7月，英国兰开夏中央大学(University of Central Lancashire)电子电气工程专业本科，毕业
+2004年9月-2008年10月，英国曼彻斯特大学(University of Manchester)电子电气工程专业博士
+2009年1月-2012年1月，英国曼彻斯特大学(University of Manchester)电子系，Research associate
+2012年2月-2014年1月，英国剑桥大学(University of Cambridge)化工系，卡文迪许校区核磁成像研究中心 (MRRC)，Research associate
+教育经历 
+工作经历 
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+主要从事海洋油气能源多相流测控研究，包括油—气—水多相流测量技术(Gas-oil-water multiphase flow measurement);电学传感成像技术(Electrical tomography technique)，气—液，气—固多相流测量及在循环流化床中的应用等等。 在“油—气—水多相流电学成像测量”研究方面经验丰富并获得多项成果。曾与英国国家工程实验室(TUV-NEL)、斯伦贝谢公司(Schlumberger)剑桥研究中心共同参与承担完成英国国家科技战略委员会(TSB)投资项目(&pound;1,195,698)：Quantifying wet-gas liquid production to improve productivity & reservoir management，旨在为英国北洋油田完成开发用于水下的新型多相流测控装备。现负责筹建清华大学深圳研究生院“海洋能源测控”校企联合实验中心，投资金额为1200万。曾承担英国剑桥大学EPSRC项目High Resolution Electrical Capacitance Tomography using insights from Magnetic Resonance Imaging and Compressed Sensing的研究工作，也是英国OGS油气公司与剑桥大学的英国国家KTP-TSB资助项目Characterize, optimize and validate a device to produce a homogeneous flow of a two-phase mixture for custody transfer (&pound;210,000) 申报专家组成员。目前同时是中国国家自然科学基金项目“基于流固电耦合的大尺度复杂流动电容层析成像机理”(NO.61374018)研究团队成员。近两年发表国内外核心学术期刊近10篇。多次参加国际会议并在会上发表口头报告。曾担任2010 IEEE International Conference on Imaging System and Techniques分会主席。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1.《多相流测量技术在海洋油气开采中的应用与前景》，李轶，清华大学学报，2014年第1期，88 – 96
+2. Wang H G, Li Y, Qiu G Z, Song G L and Yang W Q, 2014, Measurement of gas-solids flow in loop seal and external heat exchanger in a circulating fluidized bed, Powder Technology, accepted
+3. Li Y and Holland D J, 2014, Optimising the geometry of three-dimensional electrical capacitance tomography sensor, IEEE Sensors, 14, under review
+4.Li Y, Yang W Q, Xie C G, Huang S M, Wu Z P, Tsamakis D, and Lenn C, 2013, Gas/oil/water flow measurement by electrical capacitance tomography, Meas. Sci. Technol., 24, 074001, doi:10.1088/0957-0233/24/7/074001
+5.Li Y and Holland D J, 2013, Fast and robust 3D electrical capacitance tomography, Meas. Sci. Technol., 24, 105406, doi:10.1088/0957-0233/24/10/105406
+6.Li Y and Soleimani M, 2013, Imaging conductive materials with high frequency electrical capacitance tomography, Measurement, 46, 3355 – 3361,
+http://dx.doi.org/10.1016/j.measurement.2013.05.020
+7. Wang H G, Li Y, Qiu G Z, Ling P T and Yang W Q, 2013, Monitoring polymer melt process with electrical capacitance tomography, Procedia Engineering, 7th WCIPT, Krakau, accepted & in press
+8.Ye J M, Li Y, Wang H G, Ge, R H and Yang W Q, 2013, Concentric-annulus electrical capacitance tomography sensors, Meas. Sci. Technol., 24, 095403, doi:10.1088/0957-0233/24/9/095403
+9. Li Y and Yang W Q, 2008, Image reconstruction by nonlinear Landweber iteration for complicated distributions, Meas. Sci. Technol., 19, 094014, doi:10.1088/0957-0233/19/9/094014,
+10.Li Y, Yang W Q, Tsamakis D, Wu Z P, Lenn C, Xie C G, Huang S M and Cutler A, 2010, Model-based image reconstruction algorithm for measurement of multiphase distributions, International Conference on Imaging System and Techniques, 1st – 2nd July, Thessaloniki, Greece, 96-99,doi: 10.1109/IST.2010.5548520
+11. Li Y and Yang W Q, 2009, Measurement of multi-phase distribution using an integrated dual-modality sensor, IEEE International Workshop on Imaging Systems and Techniques, 11 – 12 May, Shenzhen, China, 335 – 339, doi: 10.1109/IST.2009.5071660
+12.Chandrasekera T C, Li Y, Dennis J S and Holland D J, 2012, Total variation image reconstruction for electrical capacitance tomography, IEEE International Conference on Imaging Systems and Techniques, 16 – 17 July, Manchester, UK, 584 – 589, doi:10.1109/IST.2012.6295573
+13.Yang W Q, Li Y, Wu Z P, Tsamakis D, Xie C G, Huang S M, Lenn C, Learmonth D and Cutler A, 2011, Multiphase flow measurement by electrical capacitance tomography, IEEE International Conference on Imaging Systems and Techniques, 17 – 18 May, Penang, Malaysia, 108 – 111, doi: 10.1109/IST.2011.5962201
+14. Wang H G, Li Y and Yang W Q, 2006, Demonstration of true 3D image reconstruction for electrical capacitance tomography, American Institute of Physics Conference Proceedings, 914: 2nd Int. Workshop on Process Tomography, 10 – 13 Dec., Macau, China, 1077 – 1088
+15.Hu X H, Yang M, Li Y, Yang W Q, De L and Maria M, 2008, An impedance analyzer based multi-channel imaging system and its applications, IEEE International Workshop on Imaging Systems and Techniques, 10 – 12 Sept., Chania, Greece, 181 – 186, doi: 10.1109/IST.2008.4659965
+16. Soleimani M, Wang H G, Li Y and Yang W Q, 2007, A comparative study of 3D electrical capacitance tomography, Journal of Information and Systems Sciences, 3, 292 – 306
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

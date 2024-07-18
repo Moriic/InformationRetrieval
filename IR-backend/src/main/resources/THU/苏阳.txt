@@ -1,0 +1,54 @@
+{"title":"苏阳","cnUrl":"http://www.sigs.tsinghua.edu.cn/sy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/1a/54/68c16c024133ab96b2689bfd7d85/7533af1d-209c-46d5-b318-419089c124f8.png","email":"su.yang@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+苏阳，副教授、博士生导师。2013年博士毕业于中国科学院金属研究所，导师为成会明院士、刘畅研究员和杜金红研究员。2013-2019年在英国曼彻斯特大学凝聚态物理研究小组及国家石墨烯研究院做博士后研究，合作导师为Rahul R. Nair教授。2019-2021年在英国拉夫堡大学材料系任教研系列讲师。主要研究方向为石墨烯及类石墨烯膜材料及其在资源可持续发展中的应用。已在Nature、Science、 Nature Materials、Nature Nanotechnology、Nature Communications、Nano Letters等学术期刊发表论文20余篇。
+课题组常年招收博士后、博士、硕士、科研助理，欢迎感兴趣的同学联系。
+We are seeking highly motivated postgraduate students, PhD students and postdocs to join our group. Applicants should send the application to su.yang@sz.tsinghua.edu.cn.
+教育经历 
+2008.9-2013.7   博士，中国科学院金属研究所，导师为刘畅研究员、杜金红研究员和成会明院士
+2002.9-2008.2   本硕连读，西安理工大学，材料科学与工程
+工作经历 
+2023.6至今 副教授，清华大学深圳国际研究生院，清华大学
+2021-2023.6 助理教授，清华大学深圳国际研究生院，清华大学
+2019-2021 讲师（教研），英国拉夫堡大学
+2013-2019 博士后，英国曼彻斯特大学
+2008-2009  研发工程师，贝卡尔特亚洲研发中心
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+教学课程
+ English Academic Writing and Communication
+ Introduction of physics chemistry disciplines （合教）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+二维材料薄膜中的分子、离子输运性质研究
+二维材料在资源可持续发展（水净化、资源回收）中的应用探索
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1. J. Y. Zhu #, F. Li #, Y. Z. Hou#, H. Li, D. X. Xu, J. Y. Tan, J. H. Du, S.G. Wang, Z. B. Liu, H. A. Wu, F. C. Wang, Y. Su*, H.-M. Cheng*, Near-room-temperature water-mediated densification of bulk van der Waals materials from their nanosheets. Nature Materials, 2024, https://doi.org/10.1038/s41563-024-01840-0.
+2. F. Li #, J. Y. Zhu #, P. Z Sun, M. R. Zhang, Z. Q. Li , D. X. Xu , X. Y. Gong, X. L. Zou, A. K. Geim* , Y. Su*, H.-M. Cheng*, Highly efficient and selective extraction of gold by reduced graphene oxide. Nature Communications,2022, 13, 4472.
+3. Y.Su, E. Prestat, C. Hu, V. Puthiyapura, M. Neek-Amal, H. Xiao, K. Huang, V. G. Kravets, S. J. Haigh, C. Hardacre, F. M. Peeters, R. R. Nair. Self-limiting growth of two-dimensional palladium between graphene oxide layers. Nano Letters, 2019, 19, 4678.
+4. Q. Yang#; Y. Su# *; C. Chi;C. T. Cherian; K. Huang; V. G. Kravets; F. C. Wang; A. N. Grigorenko; F. Guinea; A. K Geim; R. R. Nair*,Ultrathin graphene-based membrane with precise molecular sieving and ultrafast solvent permeation. Nature Materials, 2017, 16,1198. (共同第一及通讯作者)
+5. Y. Su, V. G. Kravets, S. L. Wong, J. Waters, A. K. Geim*, R. R. Nair*, Impermeable barrier films and protective coatings based on reduced graphene oxide. Nature Communications,2014, 5, 4843.
+6. K.-G. Zhou*, K. S. Vasu*, C. T. Cherian, M. Neek-Amal, J. C. Zhang, H Ghorbanfekr-Kalashami, K. Huang, O. P. Marshall, V. G. Kravets, J. Abraham, Y. Su, A. N. Grigorenko, A. Pratt, A. K. Geim, F. M. Peeters, K. S. Novoselov, R. R. Nair*, Electrically controlled water permeation through graphene oxide membranes. Nature, 2018, 559,236.
+7. J. Abraham#, K. S. Vasu#, C. D. Williams, K. Gopinadhan, Y. Su, C. T. Cherian, J. Dix, E. Prestat, S. J. Haigh, I. V. Grigorieva, P. Carbone, A. K. Geim, R. R. Nair*, Tunable sieving of ions using graphene oxide membranes. Nature Nanotechnology,2017, 12, 546.
+8. Y. Su#, S. Jia#, J. Du*, J. Yuan, C. Liu, W. Ren, H. Cheng*, Direct writing of graphene patterns and devices on graphene oxide films by inkjet reduction. Nano Research,2015, 8, 3954.
+9. R. K. Joshi, P. Carbone, F. C. Wang, V. G. Kravets, Y. Su, I. V. Grigorieva, H. A. Wu, A. K. Geim*, R. R. Nair*, Precise and Ultrafast Molecular Sieving Through Graphene Oxide Membranes. Science,2014, 343, 752.
+10. Y. Su#, S. Pei#, J. Du, W.-B. Liu, C. Liu, H.-M. Cheng*, Patterning flexible single-walled carbon nanotube thin films by an ozone gas exposure method. Carbon,2013, 53, 4.
+11. Y. Su#, J. Du#, S. Pei, C. Liu, H.-M. Cheng*, Contamination-free and damage-free patterning of single-walled carbon nanotube transparent conductive films on flexible substrates. Nanoscale,2011, 3, 4571.
+12. Z. Weng#, Y. Su#, D. W. Wang, F. Li, J. Du, H. M. Cheng*, Graphene–cellulose paper flexible supercapacitors. Advanced Energy Materials,2011, 1, 917.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+Fellow of Higher Education Academy (HEA) UK
+ILM Level 5 Award in Leadership and Management
+ </奖励荣誉>

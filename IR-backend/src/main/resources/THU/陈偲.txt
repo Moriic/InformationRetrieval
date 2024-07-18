@@ -1,0 +1,51 @@
+{"title":"陈偲","cnUrl":"http://www.sigs.tsinghua.edu.cn/Chensi/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/03/e7/1bac66f84a1fa543ddd581b247de/cdbf9ee0-d0ba-4832-9493-08ac16648fa5.png","email":"season.chen@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2014年7月-2019年3月，香港理工大学，环境工程，博士
+2017年10月-2018年8月，爱荷华州立大学，富布赖特学者
+2010年8月-2014年6月，香港理工大学，环境工程，学士
+工作经历 
+2022年8月-至今，清华大学深圳国际研究生院，助理教授，博士生导师
+2020年11月-2022年8月，香港城市大学，香港研资局博士后
+2019年11月-2020年10月，台湾大学，博士后
+2019年3月-2019年10月，香港理工大学，博士后
+学术兼职 
+Critical Reviews in Environmental Science and Technology 青年编委
+Journal of Hazardous Materials 期刊编委
+Green Chemistry 专题客座编辑
+Journal of Hazardous Materials, ACS Sustainable Chemical Engineering, Science of the Total Environment, Biochemical Engineering Journal, Chemosphere, Journal of Cleaner Production, Critical Reviews in Environmental Science and Technology, Environmental Geochemistry & Health, Water Environment Research 等期刊审稿人
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+主要从事碳基资源定向转化，包括废弃塑料、生物质催化转化制燃料与绿色化学品、有机废弃物与污染物转化降解耦合制氢
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]. Yeh, J.Y., Chen, S.S., Li, S.C., Chen, C.H., Shishido, T., Tsang, D.C.W., Yamauchi, Y., Li, Y-P., Wu, K.C.W.*, 2021. Diels-Alder conversion of acrylic acid and 2,5-dimethylfuran to para-xylene over heterogeneous Bi-BTC metal-organic framework catalysts under mild conditions. Angewandte Chemie 133, 634-639. (Journal Cover)
+[2]. Chen, S.S., Tsang, D.C.W., Tessonnier, J.-P.* 2020. Comparative Investigation of Homogeneous and Heterogeneous Brønsted Base Catalysts for the Isomerization of Glucose to Fructose in Aqueous Media. Applied Catalysis B: Environment 261, 118126.
+[3]. Chen, S.S., Cao, Y., Tsang, D.C.W.*, Tessonnier, J.-P., Shang, J., Hou, D., Shen, Z., Zhang, S., Ok, Y.S., Wu, K.C.-W.* 2020. Effective Dispersion of MgO Nanostructure on Biochar Support as a Basic Catalyst for Glucose Isomerization. ACS Sustainable Chemical Engineering 8, 6990-7001. (Supplementary Journal Cover)
+[4]. Chen, S.S., Hu, C., Liu, C.-H., Chen, Y.-H., Ahamad, T., Alshehri, S.M., Huang, P.-H., Wu, K.C.W.* 2020. De Novo synthesis of platinum-nanoparticle-encapsulated UiO-66-NH2 for photocatalytic thin film fabrication with enhanced performance of phenol degradation. Journal of Hazardous Materials 397, 122431. 
+[5]. Cao, Y., Chen, S.S., Tsang, D.C.W.*, Clark, J.H., Budarin, V.L., Hu C., Wu, K.C.-W., Zhang, S*. 2020. Microwave-assisted depolymerization of various types of waste lignins over two-dimensional CuO/BCN catalysts. Green Chemistry 22, 725-736. 
+[6]. Chen, S.S., Carraher, J.M., Tuci, G., Rossin, A., Raman, C.A., Luconi, L., Tsang, D.C.W., Giambastiani, G.*, Tessonnier, J.-P.* 2019. Engineered Nitrogen-Decorated Carbon Networks for the Metal-free Catalytic Isomerization of Glucose to Fructose. ACS Sustainable Chemical Engineering 7, 16959-16963. 
+[7]. Chen, S.S., Yu, I.K.M., Cho, D.W., Song, H., Tsang, D.C.W.*, Tessonnier, J.-P., Ok, Y.S., Poon, C.S., 2018. Selective glucose isomerization to fructose via nitrogen-doped solid base catalyst derived from spent coffee grounds. ACS Sustainable Chemical Engineering 6, 16113-16120. 
+[8]. Chen, S.S., Yu, I.K.M., Tsang, D.C.W.*, Yip, A.C.K., Khan, E., Wang, L., Ok, Y.S., Poon, C.S., 2017. Valorization of cellulosic food waste into levulinic acid catalyzed by heterogeneous Brønsted acids: Temperature and solvent effects. Chemical Engineering Journal 327, 328-335. 
+[9]. Chen, S.S., Maneerung, T., Tsang, D.C.W.*, Ok, Y.S., Wang, C.H.*, 2017. Valorization of biomass to hydroxymethylfurfural, levulinic acid, and fatty acid methyl ester by heterogeneous catalysts. Chemical Engineering Journal 328, 246-273. 
+[10]. Chen, S.S., Wang, L., Yu, I.K.M., Tsang, D.C.W.*, Hunt, A.J., Francois, J., Ok, Y.S., Poon, C.S., 2017. Valorization of lignocellulosic fibres of paper towel waste into levulinic acid over solid and aqueous Brønsted acid. Bioresource Technology 247, 387-394.
+[11]. Khan, W.U., Chen, S.S., Tsang, D.C.W., Hu, X., Lam, F.L.Y., Yip, A.C.K. 2020. Catalytically active interfaces in titania nanorod-supported copper catalysts for CO oxidation. Nano Research 13(2), 533-542.
+[12]. Matsagar, B.M., Hsu, C.Y., Chen, S.S., Ahamad, T., Alshehri, S.M., Tsang, D.C.W., Wu, K.C.W.*, 2020 Selective hydrogenation of furfural to tetrahydrofurfuryl alcohol over a Rh-loaded carbon catalyst in aqueous solution under mild conditions. Sustainable Energy & Fuels 4, 293-301. 
+[13]. Chen, S.S., Sun, Y., Tsang, D.C.W.*, Graham, N.J.D., Ok, Y.S., Feng, Y., Li, X.D., 2017. Insights into the subsurface transport of As(V) and Se(VI) in produced water from hydraulic fracturing using soil samples from Qingshankou Formation, Songliao Basin, China. Environmental Pollution 223, 449-456. 
+[14]. Chen, S.S., Sun, Y., Tsang, D.C.W.*, Graham, N.J.D., Ok, Y.S., Feng, Y., Li, X.D., 2017. Potential impact of flowback water from hydraulic fracturing on agricultural soil quality: Metal/metalloid bioaccessibility, Microtox bioassay, and enzyme activities. Science of the Total Environment 579, 1419-1426. 
+[15]. Rajapaksha, A.U., Chen, S.S., Tsang, D.C.W.*, Zhang, M., Vithanage, M., Mandal, S., Gao, B., Bolan, N.S., Ok, Y.S., 2016. Engineered/designer biochar for contaminant removal/immobilization from soil and water: Potential and implication of biochar modification. Chemosphere 148, 276-291.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+香港研资局博士后（Hong Kong RGC Postdoc Fellowship）2020年
+富布赖特学者（Fulbright Scholar）2017年
+香港研资局博士奖学金（Hong Kong RGC PhD Fellowship）2014年
+ </奖励荣誉>

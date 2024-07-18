@@ -1,0 +1,222 @@
+{"title":"张晓泉","cnUrl":"http://www.sigs.tsinghua.edu.cn/zxq/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/ac/1c/3bd3c2c04fb2b04ba461d701204c/7fa69e29-b3d8-4c6e-91f2-5a3319381835.jpg","email":"zhangxiaoquan@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+Massachusetts Institute of Technology, 2006
+ Ph.D., Management，
+ Dissertation: Tapping into the Pulse of the Market – Essays on Marketing 
+ Implications of Information Flows
+ Advisor: Erik Brynjolfsson
+ Committee: John Little, Chris Dellarocas
+Tsinghua University, 1999
+ MSc, Management,
+ Dissertation: An Empirical Study of National Innovation Systems
+ Advisors: Guisheng Wu, Christian DeBresson
+Tsinghua University, 1996
+ B.A., English,
+ B.E., Computer Science
+工作经历 
+2021.12-now  Tsinghua Shenzhen International Graduate School 
+   Professor
+2022 – now  Tsinghua University, China
+ Irwin and Joan Jacobs Chair Professor
+2017 – 2021 Chinese University of Hong Kong, Hong Kong
+ Chair Professor
+ Associate Dean of Innovation and Impact
+ Co-Exec Director of Asia Pacific Institute of Business
+ Co-Director of HK-Shenzhen Finance Research Centre
+ Member of University Committee on Knowledge Transfer
+ Member of Business School Executive Committee
+ Member of Department Executive Committee
+ Member of Department Academic Personnel Committee
+ Member of Department Curriculum Committee
+2006 – 2017 Hong Kong University of Science and Technology, Hong Kong
+ Associate Professor of Information Systems (2012-2017)
+ Assistant Professor of Information Systems (2006-2012) 
+2011 – now Information Systems Research
+ Senior Editor (2017-now)
+ Associate Editor (2011-2016)
+2015 – 2020 Management Science
+ Associate Editor
+2012 – now Cyberport Entrepreneurship Center, Hong Kong
+ Advisory Board Member
+2002 – now SSRN eBUSINESS & eCOMMERCE eJOURNAL
+ Managing Editor
+2002 – 2006 mitbbs.com (Unknown Space, LLC), Boston, USA
+ Co-founder, a social network for Chinese Americans. Wall Street Journal reported it in 2004.
+1999 – 2000 Dayang Image, Co., Ltd. Beijing, China
+ International Marketing Manager
+1998 – 1999 China United Holdings, Beijing, China
+ Investment Banking Consultant
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+• AI in Finance
+• Fintech Analytics
+• Entrepreneurial Finance
+• Digital Transformation
+• Advanced PhD Seminar in Economics of IS
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+• IT in Financial Markets: AI's application, insider trading, financial uncertainty, social media's impact on the financial market, quantitative investment;
+• Online Advertising: online word-of-mouth; search engine auctions;
+• Economics of Data: big data, business analytics, business intelligence, incentives and biases, information environment for managers/investors, social media and social networks, economics of AI;
+• Digital Products: pricing; innovation incentives.
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+PUBLICATIONS
+Kim, K., Park, J., Pan, Y., Zhang, K., Zhang, X., Risk Disclosure in Crowdfunding, Information Systems Research, forthcoming.
+Lu, T., Wang, A., Yuan, X. and Zhang, X., Visual Distortion Bias in Consumer Choices, Management Science, forthcoming.
+Brynjolfsson, E., Wang, A., and Zhang, X., The Economics of IT and Digitization: Eight Questions for Research, MIS Quarterly, 45(1), 473-477.
+Hendershott, T., Zhang, X., Zhao, L., and Zheng, E., FinTech as a Game Changer: Overview of Research Frontiers Information Systems Research, 32(1), 1-17.
+Heifermen, R., Sivan, Y., Zhang, X., Digital Quantum Leap: Strategies and Tactics for Organizational Transformation. August 2020.
+《数字跃迁：数字化变革的战略和战术》北京华章出版公司；
+《數位躍升力：建立敏捷組織與商業創新的數位新戰略》台北時報出版社。
+Kummer, M., Slivkó, O., and Zhang, X., Unemployment and Digital Public Goods Contribution Information Systems Research, 31(3), 2020, 801-819.
+Sun, M., Zhang, X., and Zhu, F., U-Shaped Conformity Marketing Science, 38(3), 2019, 461-480.
+Li, X., Feng, J., and Zhang, X., Online Product Reviews-Triggered Dynamic Pricing: Theory and Evidence Information Systems Research, 30(4), 2019, 1107-1123.
+Wang, A., Zhang, X., and Hann, I., Socially Nudged: A Quasi-Experimental Study of Friends' Social Influence in Online Product Ratings, Information Systems Research, 29(3), 2018, 641-655.
+Du, X., Su, M., Zhang, X., and Zheng, X., Bidding for Multiple Keywords in Sponsored Search Advertising: Keyword Categories and Match Types Information Systems Research, 28(4), Dec 2017, 711-722.
+Zhang, X. and Zhang, L. How Does the Internet Affect the Financial Market? An Equilibrium Model of Internet Facilitated Feedback Trading, MIS Quarterly, 39(1), 2015, 17-38.
+Xu, X., and Zhang, X., Impact of Wikipedia on Market Information Environment: Evidence on Management Disclosure and Investor Reaction, MIS Quarterly, 37(4), 2013, 1043-1068.
+(MISQ Paper of the Year Award)
+Malthouse, E. C., Haenlein, M., Skiera, B., Wege, E., and Zhang, X., Managing Customer Relationships in the Social Media Era: Introducing the Social CRM House, Journal of Interactive Marketing, 27(4), November 2013, 270-280.
+Zhang, X. and Wang, C. Network Positions and Contributions to Online Public Goods: The Case of Chinese Wikipedia, Journal of Management Information Systems, 29(2), Fall 2012, 11-40.
+Zhang, X. and Feng, J. Cyclical Bid Adjustments in Search-Engine Advertising, Management Science, 59(7), September 2011, 1703-1719.
+Zhang, X., and Zhu, F. Group Size and Incentives to Contribute: A Natural Experiment at Chinese Wikipedia, American Economic Review, 101(4), June 2011, 1601-1615.
+Zhu, F. and Zhang, X. Impact of Online Consumer Reviews on Sales: The Moderating Role of Product and Consumer Characteristics, Journal of Marketing, 74(2), March 2010, 133-148.
+Wang, C. and Zhang, X. Sampling of Information Goods, Decision Support Systems, 48(1), December 2009, 14-22.
+Dellarocas, C., Zhang, X., and Awad, N. Exploring the Value of Online Product Reviews in Forecasting Sales: The Case of Motion Pictures Journal of Interactive Marketing, 21 (4), December 2007, 2-20. 
+(Journal of Interactive Marketing 2008 Best Paper Award)
+Brynjolfsson, E. and Zhang, X., Innovation Incentives for Information Goods, (with Erik Brynjolfsson). Innovation Policy and the Economy eds. Adam B. Jaffe, Josh Lerner and Scott Stern, NBER, 2007 vol. 7, 99-121.
+代表性著作 
+主要专利成果 
+PATENTS
+张晓泉，曲丽, 2021, 支付信息费用的方法和系统，国家知识产权局专利号：****11070544.X。
+Zhang, X. and Mo, G., 2015, Method and System for Using a Point System to Deliver Advertisement Emails and to Stop Spam, United States Patents and Trademarks Office, Number: 10/707,694.
+其他成果 
+WORK IN PROGRESS
+Lu, T., Zhang, L., Zhang, X., Zhao, Z. A Measure of Ambiguity with Application to Financial Market Uncertainty
+Kawamata, Y., Zhang, X., Akiyama, E. Impulsive Equilibrium in Search-Engine Advertising
+Cheng, B., Zhang, L. and Zhang, X. Uncertainty and Failure of Diversification
+Li, T., Tang, Z., Lu, T., and Zhang, X., Removing Algorithm Bias with Orthogonal Instrumental Variable
+Hu, M., Han, X., and Zhang, X. Intensified Online Opinion Clashes with Salient Group Identity
+Kawamata, Y., Zhang, X., and Akiyama, E. Expected Search-Engine Revenue in Dynamic Equilibrium
+Li, T. and Zhang, X. Blockchain Network Dynamics: the Role of Multi-Role
+Chen, H., Chen, Y-J, Li, Y., Zhang, X., and Zhou X., Digital Goods Reselling: Implications on Cannibalization and Price Discrimination
+Feng, Y., Lu, X., and Zhang, X., Mutual Disclosures and Content Intimacy in Customer Group Engagement: Evidence from Online Chat Groups
+Gao, C., Hong, H., Zhang, X., and Ye, Q., Seeking Alpha or Seeking Noise? Attention Bias in Online Investment Communities
+Liu, J., Pei, S., and Zhang, X., Environmental Regulation and Political Corruption
+Liu, J., Pei, S., and Zhang, X., Online Food Delivery Platforms and Female Labor Force Participation
+Han, M., Shen, H., Wu, J., and Zhang, X. AI Intensity and Firm Resilience: Evidence from Firm Performance under Disaster Shocks
+Sun, S., Xu, K., and Zhang, X., Do Monetary Incentives Crowd Out UGC Contributions? Evidence from YouTube
+Zhang, L. and Zhang, X., Mispricing and Algorithm Trading
+Fu, Z., Lu, T., Zhang, L., and Zhang, X. Market Uncertainties and Prediction of Rare Events: With an Application to Financial Market Crashes
+Qian, B., Koh, T., and Zhang, X., The Effect of Identity Disclosure on Online Community Participation: A Natural Experiment
+Hong, H., Xu, D., Ye, Q., and Zhang, X. Is the Grass Always Greener on the Other Side? Tourist Bias in Online Restaurant Ratings
+Xiaoyang Li, Yang Shi, Maggie Hu, and X. Zhang, “Are All Heuristics Created Equal? Evidence from P2P Investments.”
+Chi, H., Piramuthu, S., Zhou, W. and Zhang, X., Self-Cannibalization of Durable Goods with Sharing: A Producer Perspective.
+Liu, A., Xu, X., Zhang, X., and Zhao, X., Social Media and Financial Information Asymmetry: How Information Aggregation on Wikipedia Reduces Insider Trading Profitability.
+Liu, Y., Zhang, L., and Zhang, X., Statistical Inference under Ambiguity
+Weiran Shen, Binghui Peng, Xiaoquan Zhang, Hanpeng Liu, Ruohan Qian, Yan Hong, Zhi Guo, Zongyao Ding, Pengjun Lu and Pingzhong Tang, Reinforcement Mechanism Design
+Zihe Wang, Pingzhong Tang and Xiaoquan Zhang, Optimal Commitments in Auctions with Incomplete Information
+Lihong Zhang, Gene Lai, Baimin Yu and Xiaoquan Zhang, Longevity Risk, Optimal Retirement, Consumption Choice, and Risky Investment Decision
+Daning Hu, Xiao Li and Xiaoquan Zhang, The Impacts of Geographic Dispersion on OSS Project Success: Face to Face vs. Virtual Collaboration
+Xiaoquan Zhang, Henry Qian, Alex Wang and Monic Sun, Perilous Randomized Experiments in Social Networks
+Ning Jia, Sean Xu and Michael Zhang, How Investors are Influenced by Social Media: A Large-Scale Field Experiment
+Chen, X, Wang A., and Zhang, X., All Online Friends Are Not Created Equal: Discovering Influence Structure in Online Social Networks.
+Wang, A., Zhang, X., and Tam, K., Role Identity Salience and User Participation in Online Communities.
+Novoselov, K., Hsieh, C-C., and Zhang, X., Do Questions Convey Valuable Information? An Empirical Investigation of Conference Calls
+Wu, W., Zhang, X., and Zheng, R., An Empirical Study on the Monitoring Role of Wikipedia in the Financial Market.
+Wu, W., Shi, W., Zhang, X., and Zheng, R., Firm Performance and Information Dissemination: Evidence from Twitter.
+Wu, W., Xu, H., Zhang, X., and Zheng, R., Ignorance Is Bliss: The Role of Information in Keyword Auctions.
+Zhang, T., and Zhang, X., Corporate Campaign Contributions and Political Favoritism.
+Erik Brynjolfsson and Xiaoquan Zhang, Producer Innovation Incentives and Revenue Distribution of Bundled Products
+CONFERENCES
+Online Food Delivery Platforms and Female Labor Force Participation, Workshop on Information Systems and Economics (WISE), December 2020. (WISE Best Paper Award)
+The Impact of Government Regulation on Sharing Platform Growth: A Channel of Supplier Behavior Change, International Conference on Information Systems (ICIS), December 2020.
+Prediction of Rare Events in Financial Market, 2nd International Conference on Smart Finance (ICSF), August 2020, Beijing, China.
+Effect of Identity Disclosure on User Participation in Online Communities: A Natural Experiment, (with Bingjie Qian and Tat Koon Koh), 80th Annual Meeting of the Academy of Management (AOM), August 2020, Vancouver, BC, Canada.
+Are All Heuristics Created Equal? Evidence from P2P Investments, (with Yang Shi, Maggie Rong Hu, Xiaoyang Li), Symposium on Statistical Challenges in E-Commerce (SCECR 2020), June 2020, Madrid, Spain.
+Are All Heuristics Created Equal? Evidence from P2P Investments, (with Yang Shi, Maggie Rong Hu, Xiaoyang Li), Fifth Annual Conference on Alternative Finance, June 2020, Judge Business School, Cambridge University, UK.
+Are All Heuristics Created Equal? Evidence from P2P Investments, (with Yang Shi, Maggie Rong Hu, Xiaoyang Li), 18th ZEW Conference on the Economics of Information and Communication Technologies (ZEW ICT Conference), June 2020, Mannheim, Germany.
+Practical Dynamic Mechanism Design, (with Weiran Shen, Binghui Peng, Ruohan Qian, Yan Hong, Zhi Guo, Zongyao Ding, Pengjun Lu, and Pingzhong Tang), American Association of Artificial Intelligence (AAAI), Feb 2020, New York, USA.
+The Grass is Always Greener on the Other Side? Tourist Bias in Online Restaurant Ratings, (with Hong Hong, Dapeng Xu, Qiang Ye), Workshop on Information Systems and Economics (WISE), Dec 2019, München, Germany.
+Detecting Regime Change in Financial Data with an Auto-Encoder,” (with Le Zhang, Tao Lu, Weidong Liu), Statistical Challenges in E-Commerce Research (SCECR), June 2019, CUHK Business School, Hong Kong, China.
+Reinforcement Mechanism Design, (with Weiran Shen, Binghui Peng, Ruohan Qian, Yan Hong, Zhi Guo, Zongyao Ding, Pengjun Lu, and Pingzhong Tang), INFORMS Annual Conference, November 2018, Phoenix, AZ, USA.
+Distributional Matthew Effect in Consumer Choices, (with Tao Lu, Alex Wang and May Yuan), INFORMS CIST Conference, November 2018, Phoenix, AZ, USA.
+Statistical Inference with Ambiguity, (with Lihong Zhang and Yu Liu) Statistical Challenges in E-Commerce Research (SCECR), June 2018, Rotterdam School of Management, the Netherlands, Rotterdam, the Netherlands.
+Visual Center Bias in Online Product Ratings, (with Tao Lu, Alex Wang, and May Yuan), ZEW ICT Conference, June 2018, Mannheim, Germany.
+Nonconformity in Social Media Marketing: Experimental Evidence, (with Monic Sun and Feng Zhu), Marketing Analytics and Big Data Conference, September 2017, Columbia Business School, New York, USA.
+Do Questions Convey Valuable Information? An Empirical Investigation of Conference Calls (with Kirill Novoselov and Chia-Chun Hsieh), Canadian Academic Accounting Association (CAAA) 2017 Conference, June 2017, Montreal, Quebec, Canada.
+The Impacts of Geographic Dispersion on OSS Project Success: Face to Face vs. Virtual Collaboration (with Daning Hu and Xiao Li), International Conference on Information Systems (ICIS), December 2016, Dublin, Ireland.
+Social Media and Financial Market Transparency, (Keynote Speech), 14th International Symposium on Financial System Engineering and Risk Management, August 2016, Harbin, China.
+Optimal Commitments in Asymmetric Auctions with Incomplete Information, (with Pingzhong Tang and Zihe Wang). The 17th ACM Conference in Electronic Commerce (ACM EC’17), July 2016, the Netherlands.
+“Economic Downturn and Volunteering: Do Economic Crises Affect Content Generation on Wikipedia?” (with Olga Slivko and Michael Kummer). NBER Summer Institute, July 2016, Boston, MA, USA.
+Firm Performance and Information Dissemination: Evidence from Twitter. (with Weifang Wu and Rong Zheng). SCECR, June 2016, Naxos, Greece.
+Nonconformity in Social Media Marketing: Experimental Evidence, (with Monic Sun and Feng Zhu). ZEW ICT Conference, June 2016, Mannheim, Germany.
+“Economic Downturn and Volunteering: Do Economic Crises Affect Content Generation on Wikipedia?” (with Olga Slivko and Michael Kummer). 8Th Paris ICT Conference on the Economics of Information and Communication Technologies, October 2015, Paris, France.
+Homo Economicus and Market with Imperfections (with Lihong Zhang). SEEK-Digital Economy Workshop, June 2015, Turin, Italy.
+Do Social Media Attenuate Outsiders’ Information Disadvantage? Evidence from Wikipedia and Insider Trading, (with Alfred Liu, Sean Xu and Xiaofei Zhao). Canadian Academic Accounting Association Annual Conference (CAAA), May 2015, Toronto, Canada.
+Do Social Media Attenuate Outsiders’ Information Disadvantage? Evidence from Wikipedia and Insider Trading, (with Alfred Liu, Sean Xu and Xiaofei Zhao). American Accounting Association Financial Accounting and Reporting Section (FARS) Mid-Year Meeting, January 2015, Nashville, Tennessee.
+Crowd Governance: The Monitoring Role of Wikipedia in the Financial Market, (with Weifang Wu and Rong Zheng). Workshop on Information Systems and Economics (WISE), December 2014, Auckland, New Zealand.
+The Impacts of Informant and Friend Relationships on Online Opinion Sharing, (with Yue Feng and Alex Wang). International Conference on Information Systems (ICIS), December 2013, Milan, Italy.
+Do Social Media Attenuate Outsiders’ Information Disadvantage? Evidence from Wikipedia and Insider Trading (with Sean Xu, Zhitao Yin, Alfred Liu), ZEW Wikipedia Workshop, October 2013, Mannheim, Germany.
+To Belong or to Be Different? Evidence from a Large-Scale Field Experiment” (with Monic Sun and Feng Zhu). Marketing Science Conference, July, 2013, Istanbul, Turkey.
+To Belong or to Be Different? Evidence from a Large-Scale Field Experiment” (with Monic Sun and Feng Zhu). 7th Bi-annual Conference on the Economics of Intellectual Property, Software and the Internet, June, 2013, Toulouse, France.
+All Online Friends Are Not Created Equal: Discovering Influence Structure in Online Social Networks (with Xi Chen and Alex Wang). Marketing Science Conference, July, 2013, Istanbul, Turkey.
+All Online Friends Are Not Created Equal: Discovering Influence Structure in Online Social Networks (with Xi Chen and Alex Wang). 14th International Conference on E-Commerce (ICEC), August 2012, Singapore.
+“Network Centrality and Contributions to Online Public Good - The Case of Chinese Wikipedia” (with Alex Wang). 45th Hawaiian Conference on System Sciences (HICSS), January 2012, Maui, HI, USA.
+“Peer-Induced Social Conformity – Evidence from a Natural Field Experiment” (with Kai-Lung Hui and Liwen Hou). Workshop on Information Systems and Economics (WISE), December 2011, Shanghai, China.
+“Unpacking Social Influence in Online Ratings” (with Alex Wang and Yue Feng), Workshop on Information Systems and Economics (WISE), December 2011, Shanghai, China.
+“Internet-Facilitated Feedback Trading,” (with Lihong Zhang). 44th Hawaiian Conference on System Sciences (HICSS), January 2011, Kauai, HI, USA.
+“Role Identity Salience and User Participation in Online Communities,” (with Alex Wang and Kar Yan Tam). International Conference on Information Systems (ICIS), December 2010, St. Louis, USA.
+“Social Bias in Online Product Ratings,” (with Alex Wang). Workshop on Information Systems and Economics (WISE), December 2010, St. Louis, USA.
+“Role Identity Salience and User Participation in Social Networks,” (with Alex Wang). Summer Workshop on Industrial Organization and Management Strategy (IOMS), August 2010, Shanghai, China.
+“Producer Innovation Incentives and Revenue Distribution of Bundled Products,” (with Erik Brynjolfsson), Workshop on Digital Business Models, June 2010, Paris, France.
+“Role Identity Salience and User Participation in Social Networks,” (with Alex Wang). 14th Pacific Asia Conference on Information Systems (PACIS), July 2010, Taipei, Taiwan.
+“Crowding In or Crowding Out? Informational and Normative Social Influence in Online Communities,” (with Alex Wang). 4th China Summer Workshop on Information Management (CSWIM), June 2010, Wuhan, Hu Bei, China. (Workshop Best Paper Award).
+Information Environment and Management Disclosure: How Social Media Play a Different Role Than Traditional Media, (with Sean Xu). Proceedings of the 30th International Conference on Information Systems (ICIS), Dec. 2009, Phoenix, AZ, USA. (Conference Best Paper Nominee).
+“Group Size and Incentives to Contribute – A Natural Experiment at Chinese Wikipedia,” (with Feng Zhu). Workshop on Information Systems and Economics (WISE), December 2008, Montreal, Canada.
+“Pre-release Expectation, Word-of-mouth and Backfire: Evidence from the Motion Pictures Industry” (with Alex Wang and Natatha Foutz). Marketing Science Conference, June 2007, Singapore.
+“Dynamic Price Competition on the Internet: Advertising Auctions,” (with Jane Feng). Proceedings of the 8th ACM Conference on Electronic Commerce (ACM EC’07), San Diego, CA, USA.
+The Lord of the Ratings: How a Movie's Fate is Influenced by Reviews, (with Chris Dellarocas). Proceedings of the 27th International Conference on Information Systems (ICIS), Dec. 2006, Milwaukee, WI, USA.
+The Influence of Online Consumer Reviews on the Demand for Experience Goods: The Case of Video Games, (with Feng Zhu). Proceedings of the 27th International Conference on Information Systems (ICIS), Dec. 2006, Milwaukee, WI, USA.
+Intrinsic Motivation of Open Content Contributions: The Case of Wikipedia, (with Feng Zhu). Workshop on Information Systems and Economics (WISE), Dec. 2006, Chicago, IL, USA.
+Price Cycles in Online Advertising Auctions, (with Juan Feng). Proceedings of the 26th International Conference on Information Systems (ICIS), Dec. 2005, Las Vegas, NV, USA.
+Price Cycles in Online Advertising Auctions - A Theoretical Study (with Juan Feng). INFORMS Annual Meeting, Nov. 2005, San Francisco, CA, USA.
+Is Online Word of Mouth a Complement or Substitute to Traditional Means of Consumer Conversion, (with Chris Dellarocas and Neveen Awad). Workshop on Information Systems and Economics (WISE), Dec. 2004, College Park, MD, USA.
+Exploring the Value of Online Reviews to Organizations: Implications for Revenue Forecasting and Planning, (with Chris Dellarocas and Neveen Awad). Proceedings of the 25th International Conference on Information Systems (ICIS), Dec. 2004, Washington DC, USA.
+Slicing the Gordian Knot: A Novel Mechanism for Providing Innovation Incentives for Digital Goods, (with Erik Brynjolfsson). Proceedings of the 25th International Conference on Information Systems (ICIS), Dec. 2004, Washington DC, USA.
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+Keynote Speaker, China Digital Industry Summit, 2021.
+Best Paper Award, Workshop on Information Systems and Economics (WISE), 2020
+Keynote Speaker, International Conference on Smart Finance, 2020.
+Keynote Speaker, Taiwan CIO Summit, 2020.
+Keynote Speaker, Microsoft-Tsinghua AI Summit, 2019.
+Keynote Speaker, Taiwan CIO Value Institute, 2019.
+Keynote Speaker, 20th ZEW Summer Workshop for Young Economists:
+Digitized Economy and Novel Research Methods, 2018.
+Keynote Speaker, Asia Pacific Quant Conference, 2017.
+Keynote Speaker, Global Artificial Intelligence and Robotics Summit, 2017.
+Service Award, Information Systems Research, 2016.
+Keynote Speaker, The 14th International Symposium on Financial System
+Engineering and Risk Management, 2016
+Associate Editor of the Year, Information Systems Research, 2015
+Paper of the Year, MIS Quarterly, 2014
+NET Institute Summer Research Support, 2012
+Keynote Speaker, International Conference on E-Commerce, 2012
+Best Paper Award, Journal of Interactive Marketing, 2009
+NET Institute Summer Research Support, 2007
+SAS Fellowship on Consumer Sentiments and Market Value, 2006
+4th Annual PSU-SAP Doctoral Award, 2004
+Sloan Fellowship, Wilson Fellowship, Peterson Fellowship, 2000-2006
+ </奖励荣誉>

@@ -1,0 +1,59 @@
+{"title":"周倩","cnUrl":"http://www.sigs.tsinghua.edu.cn/zq/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/c6/39/d1b5c07046ee805500dafd503900/a3952030-f894-43e4-8229-9be7464d948a.jpg","email":"zhou.qian@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1999.09-2003.07，清华大学，精密仪器系，工学学士
+2003.09-2008.07，清华大学，精密仪器系，工学博士
+2008.08-2010.09，清华大学深圳研究生院，工程学部，博士后
+2010.10-2014.11，清华大学深圳研究生院，先进制造学部，讲师
+2014.12-至今，清华大学深圳研究生院，先进制造学部，副研究员 
+教育经历 
+工作经历 
+学术兼职 
+现任中国振动工程学会动态测试技术专业委员会理事 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+测试技术
+ 光学精密测量专题实验 
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+从事光学精密超精密加工与检测的研究，主要集中在衍射光学元件设计制作与应用、红外光谱分析技术、光栅尺、激光精密测距等领域。
+作为项目负责人承担了国家重大仪器专项子项目、国家自然科学基金青年基金、深圳市重大技术攻关项目、深圳市基础研究项目（重点）等多项纵横向课题。作为技术骨干参加了863项目、国家自然基金国家重大科研仪器研制项目等多项项目。
+已发表论文30余篇；申请中国发明专利31项（其中第一、二发明人22项），获得授权19项（其中第一、二发明人17项）；申请PCT专利6 项，其中第一发明人3项, 均获国际检索报告，报告显示所有权利要求均具备新颖性、创造性和工业实用性。
+与研究团队紧密合作，具体研究概况如下：
+在光栅光谱分析研究中，长期研究光栅的制作工艺和光谱分析中核心光学器件平场凹面光栅、菲涅尔光栅等特种光栅，单块光栅工作波段可覆盖至近紫外至近红外。在此基础上，成功地开发了多款微小型光栅光谱仪，把光栅的应用推向医疗检测、药物检测、食品安全等领域的现场光谱分析，并不断致力于仪器产品化工作。
+在光栅尺研究中，设计了基于带零位编码的二维光栅的绝对式光栅尺系统，针对其精密读数技术进行了深入研究，综合考量系统整体的误差补偿及数据处理技术，研发出不含阿贝误差、精度更高的精密二维位移测量系统。
+在激光精密测距研究中，基于双飞秒激光频率梳测距系统，开展大量程高精度的绝对距离测量工作。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1. Qian Zhou, Xinghui Li, Kai Ni*, Rui Tian, Jinchao Pang, Holographic fabrication of large-constant concave gratings for wide-range flat-field spectrometers with the addition of a concave lens, Optics Express, 2016, 24(2): 732-738
+2. Xinghui Li, Jinchao Zhang, Qian Zhou*, Kai Ni, Jinchao Pang, Rui Tian, Design of a variable-line-spacing grating pattern for spectrometers based on a grating-fresnel device, Optics Letters. 2016, 41(6)
+3. Qian Zhou, Jinchao Pang, Xinghui Li*, Kai Ni, Rui Tian, Improving the spectral resolution of flat-field concave grating miniature spectrometers by dividing a wide spectral band into two narrow ones, Applied Optics, 2015, 54 (32): 9450-9455
+4. Qian Zhou, Jinchao Pang, Xinghui Li*, Kai Ni, Rui Tian, A concave grating miniature spectrometer with an expanded spectral band by using two entrance, Chinese Optics Letters, 2015, 13(11): 110501
+5. Guanhao Wu*, Qian Zhou, Luofeng Shen, Kai Ni*, Xianghui Zeng, Yang Li, Experimental optimization of the repetition rate difference in dual-comb ranging system, Applied Physics Express, 2014, 7, 106602 
+代表性著作 
+主要专利成果 
+1. 倪凯，周倩，逄锦超，张锦超，田瑞，许明飞，董昊，一种双入射狭缝光谱仪的设计方法以及双入射狭缝光谱仪，2016.3.2授权，中国，ZL2014105684322
+2. 倪凯，周倩，逄锦超，张锦超，田瑞，许明飞，董昊，一种光谱仪的设计方法以及光谱仪，2016.3.2授权，中国，ZL2014105457403
+3. 周倩，田瑞，庾健航，一种用于制作凹面闪耀光栅的基材结构及凹面闪耀光栅制作方法，2016.2.17授权，中国，ZL2013106197729
+4. 周倩，倪凯，田瑞，逄锦超，许明飞，董昊，张锦超，一种全息光栅的曝光方法及曝光光路，2016.2.10授权，中国，ZL2014100380744
+5. 倪凯，周倩，逄锦超，张锦超，田瑞，许明飞，董昊，一种高分辨率光谱仪的设计方法以及光谱仪，2016.2.10授权，中国，ZL2014106261611
+6. 周倩，倪凯，逄锦超，田瑞，许明飞，董昊，张锦超，闪耀凹面光栅制作装置及制作方法，2015.11.18授权，中国，ZL2014100262165
+7. 周倩，倪凯，逄锦超，张锦超，田瑞，许明飞，董昊，一种凹面光栅光谱仪，2015.11.18授权，中国，ZL2014102843755
+8. 周倩，倪凯，乔晓蕊，马建设，何亮，投影定位装置及方法、交互系统和交互方法，2015.7.22授权，中国，ZL2011103026391
+9. 周倩，乔晓蕊，倪凯，李阳，毛乐山，一种定位交互方法及系统，2015.6.17授权，中国，ZL201210204994X
+10. 周倩，倪凯，田瑞，李阳，许明飞，张锦超，逄锦超，董昊，一种闪耀凹面光栅制作方法，2015.6.10授权，中国，ZL2013104620371
+11. 周倩，乔晓蕊，倪凯，马建设，何亮，毛乐山，一种屏幕书写装置、屏幕书写系统及其实现方法，2014.10.22授权，中国，ZL2011103548974
+12. 周倩，彭诚，倪凯，许武，李阳，许明飞，田瑞，一体化的静脉血管寻找投影装置及系统，2014.8.6授权，中国，ZL2012105034895 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2009年，获“The 2009 IEEE International Workshop on Imaging Systems and Techniques”会议中“First Prize Award for Excellent Paper”奖(排名第一)
+2003年，获清华大学优良毕业生、北京市优秀毕业生
+ </奖励荣誉>

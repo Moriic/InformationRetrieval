@@ -1,0 +1,83 @@
+{"title":"黄宇雄","cnUrl":"http://www.sigs.tsinghua.edu.cn/hyx/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/86/84/100e153443e99e4c445e6c72be8d/c8ca7f4a-c1ab-48ca-a969-a0f503a063f4.png","email":"huang_yuxiong@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2011-2015，美国加州大学圣塔芭芭拉分校（UCSB）环境科学与管理学院，获博士学位
+2007-2011，清华大学，化学工程系，获工学学士学位
+工作经历 
+2021.12至今，清华大学深圳国际研究生院，副教授、特别研究员、博士生导师
+2019.1-2021.12，清华大学深圳国际研究生院，助理教授、特别研究员、博士生导师
+2016.1-2018.12，美国加州大学纳米科技环境影响中心，副研究专员
+学术兼职 
+科技期刊卓越行动计划重点期刊Front. Environ. Sci. Eng.， 青年编委
+水环境联合会会刊Water Environ. Res.，Early Career Editorial Board委员
+SCI期刊J. Environ. Chem. Eng.， Early Career Advisory Board委员
+SCI期刊Energy Environ. Mater.， Young Leaders Committee委员
+期刊Chem. Eng. J. Adv.， Early Career Editorial Board委员
+工业水处理专业委员会， 工业水处理专家库专家
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+# 86000783: Sustainable Nanotechnology: Environmental Applications & Implications 可持续纳米技术：环境应用及其影响（英文）
+# 86000873: Environmental Monitoring and Analysis 环境污染物监测与分析（英文）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+环境纳米技术及功能材料
+污染物的环境地球化学过程及其生物效应
+新污染物的控制技术
+主要项目 
+1. 1. 国家自然科学基金委员会，面上项目，2021-2024，在研，主持；
+2. 2. 国家自然科学基金委员会，青年科学基金项目，2021-2023，在研，主持；
+3. 3. 广东省基础与应用基础研究基金委员会，面上项目，2019-2022，在研，主持；
+4. 4. 深圳市科技创新委员会，优秀科技创新人才培养（优秀青年基础研究）项目，2022-2025，在研，主持；
+5. 5. 深圳市科技创新委员会，基础研究面上项目，2020-2023，在研，主持；
+6. 6. 深圳市科技创新委员会，高等院校稳定资助面上项目，2020-2023，在研，主持；
+7. 7. 清华大学深圳国际研究生院，海外科研合作基金项目，2020-2023，在研，主持；
+ </研究领域>
+<研究成果>
+代表性论文 
+1.Liu, Z.; Zhu, Y.; Lv, S.; Shi, Y.; Dong, S.; Yan, D.; Zhu, X.; Peng, R.; Keller, A. A.; Huang, Y.* Quantifying the Dynamics of Polystyrene Microplastics UV-Aging Process. Environmental Science & Technology Letters 2022, 9 (1), 50–56. DOI: 10.1021/acs.estlett.1c00888. (Cover Feature)
+2.Liu, Z.; Peng, R.; Lv, S.; Wang, A.; Zhao, L.; Dong, S.; Yan, D.; Keller, A. A.; Huang, Y.* Evidence of Indoor Dust Acting as Carrier for Metal-Based Nanoparticles: A Study of Exposure and Oxidative Risks. Environmental Science & Technology Letters 2022, 9 (5), 431–438.DOI: 10.1021/acs.estlett.2c00192.
+3.Sun, L.; Tan, X.; Ding, W.; Huang, Y.* Emerging Investigator Series: Hetero-Phase Junction 1T/2H-MoS2 Nanosheets Decorated by FeOOH Nanoparticles for Enhanced Visible Light Photo-Fenton Degradation of Antibiotic. Environmental Science: Nano 2022. DOI: 10.1039/D2EN00045H. (Cover Feature)
+4.Tan, X.; Ding, W.; Jiang, Z.; Sun, L.; Huang, Y.* Reinventing MoS2 Co-catalytic Fenton reaction: Oxygen-incorporation mediating surface superoxide radical generation. Nano Research2022, 15 (3), 1973–1982. DOI: 10.1007/s12274-021-3848-3.
+5.Huang, Y.; Gao, M.; Wang, W.; Liu, Z.; Qian, W.; Chen, C. C.; Zhu, X.; Cai, Z. Effects of Manufactured Nanomaterials on Algae: Implications and Applications. Frontiers of Environmental Science & Engineering 2022, 16 (9), 122. DOI: 10.1007/s11783-022-1554-3.
+6.Jiang, Z.; Tan, X.; Huang, Y.* Piezoelectric Effect Enhanced Photocatalysis in Environmental Remediation: State-of-the-Art Techniques and Future Scenarios. Science of The Total Environment 2022, 806, 150924. DOI: 10.1016/j.scitotenv.2021.150924.
+7.Liu, P.; Zheng, X.; Shangguan, S.; Zhao, L.; Fang, X.; Huang, Y.*; Hermanowicz, S. W. Public Perceptions and Willingness-to-Pay for Nanopesticides. Nanomaterials 2022, 12 (8), 1292. DOI: 10.3390/nano12081292.
+8.Ding, W.; Tan, X.; Chen, G.; Xu, J.; Yu, K.; Huang, Y.* Molecular-Level Insights on the Facet-Dependent Degradation of Perfluorooctanoic Acid. ACS Applied Materials & Interfaces 2021, 13 (35), 41584–41592. DOI: 10.1021/acsami.1c10136. (Cover Feature)
+9.Tan, X.; Chen, G.; Xing, D.; Ding, W.; Liu, H.; Li, Ti.; Huang, Y.*, Transition Metal-Modified Ga2O3 Hierarchical Nanosheets as Efficient Photocatalysts for Degradation of Perfluorooctanoic Acid. Environmental Science: Nano2020, 7 (8), 2229–2239.DOI: 10.1039/D0EN00259C. (Hot Articles, Cover Feature)
+10.Liao, Y.-Y.#; Huang, Y.#; Carvalho, R.; Choudhary, M.; Da Silva, S.; Colee, J.; Huerta, A.; Vallad, G. E.; Freeman, J. H.; Jones, J. B.; Keller, A.; Paret, M. L. Magnesium Oxide Nanomaterial, an Alternative for Commercial Copper Bactericides: Field-Scale Tomato Bacterial Spot Disease Management and Total and Bioavailable Metal Accumulation in Soil. Environmental Science & Technology 2021. DOI: 10.1021/acs.est.1c00804. (co-first author)
+11.Chen, G.; Wang, H.; Dong, W.; Huang, Y.*; Zhao, Z.; Zeng, Y. Graphene Dispersed and Surface Plasmon Resonance-Enhanced Ag3PO4 (DSPR-Ag3PO4) for Visible Light Driven High-Rate Photodegradation of Carbamazepine. Chemical Engineering Journal 2021, 405, 126850. DOI: 10.1016/j.cej.2020.126850
+12.Zhang, H.; Chen, S.; Jia, X.; Huang, Y.*; Ji, R.; Zhao, L. Comparation of the Phytotoxicity between Chemically and Green Synthesized Silver Nanoparticles. Science of The Total Environment 2021, 752, 142264. DOI: 10.1016/j.scitotenv.2020.142264. 
+13.Huang, Y.; Keller, A. A.; Cervantes-Avilés, P.; Nelson, J. Fast Multielement Quantification of Nanoparticles in Wastewater and Sludge Using Single-Particle ICP-MS. ACS EST Water 2021, 1 (1), 205–213. DOI:10.1021/acsestwater.0c00083.
+14.Huang, Y.; Zhao, L.; Keller, A. A., Interactions, Transformations and Bioavailability of Nano-Copper Exposed to Root Exudates. Environmental Science & Technology2017, 51 (17), 9774-9783. DOI: 10.1021/acs.est.7b02523.
+15.Huang, Y.; Keller, A. A., EDTA functionalized magnetic nanoparticle sorbents for cadmium and lead contaminated water treatment. Water Research 2015, 80, 159-68. DOI:10.1016/j.cej.2015.10.105.
+16.Cervantes-Avilés, P.#; Huang, Y.#; Keller, A. A., Incidence and persistence of silver nanoparticles throughout the wastewater treatment process. Water Research2019, 156, 188-198. DOI: 10.1016/j.watres.2019.03.031. (co-first author).
+17.Huang, Y.; Keller, A. A., Isothermal titration microcalorimetry to determine the thermodynamics of metal ion removal by magnetic nanoparticle sorbents. Environmental Science: Nano2016, 3 (5), 1206-1214. DOI: 10.1039/C6EN00227G.
+18.Huang, Y.; Yang, J.-K.; Keller, A. A., Removal of Arsenic and Phosphate from Aqueous Solution by Metal (Hydr-)oxide Coated Sand. ACS Sustainable Chemistry & Engineering2014, 2 (5), 1128-1138. DOI:10.1021/sc400484s.
+19.Huang, Y.; Keller, A. A., Magnetic Nanoparticle Adsorbents for Emerging Organic Contaminants. ACS Sustainable Chemistry & Engineering2013, 1 (7), 731-736. DOI: 10.1021/sc400047q.
+20.Huang, Y.; Fulton, A. N.; Keller, A. A., Simultaneous removal of PAHs and metal contaminants from water using magnetic nanoparticle adsorbents. Science of the Total Environment2016, 571, 1029-36. DOI:10.1016/j.scitotenv.2016.07.093.
+21.Huang, Y.; Li, W.; Minakova, A. S.; Anumol, T.; Keller, A. A., Quantitative analysis of changes in amino acids levels for cucumber (Cucumis sativus) exposed to nano copper. NanoImpact2018, 12, 9-17. DOI: 10.1016/j.impact.2018.08.008
+22.Huang, Y.; Adeleye, A. S.; Zhao, L.; Minakova, A. S.; Anumol, T.; Keller, A. A., Antioxidant response of cucumber (Cucumis sativus) exposed to nano copper pesticide: Quantitative determination via LC-MS/MS. Food Chemistry 2019, 270, 47-52. DOI: 10.1016/j.foodchem.2018.07.069
+23.Keller, A. A.; Huang, Y.*; Nelson, J., Detection of nanoparticles in edible plant tissues exposed to nano-copper using single-particle ICP-MS.Journal of Nanoparticle Research 2018, 20 (4), 101. DOI: 10.1007/s11051-018-4192-8.
+24.Huang, Y.; Fulton, A. N.; Keller, A. A., Optimization of porous structure of superparamagnetic nanoparticle adsorbents for higher and faster removal of emerging organic contaminants and PAHs. Environmental Science: Water Research & Technology2016, 2 (3), 521-528. DOI:10.1039/C6EW00066E.
+25.Li, B.#; Huang, Y.#; Guo, D.; Liu, Y.; Liu, Z.; Han, J.-C.; Zhao, J.; Zhu, X.; Huang, Y.; Wang, Z.; Xing, B. Environmental Risks of Disposable Face Masks during the Pandemic of COVID-19: Challenges and Management. Science of The Total Environment 2022, 825, 153880. DOI: 10.1016/j.scitotenv.2022.153880. (co-first author)
+代表性著作 
+1. Huang, Y.; Keller, A. A., Design and application of magnetic-core composite nano/micro particles for environmental remediation. In Rational Design of Next-Generation Nanomaterials and Nanodevices for Water Applications, Wang, P., Ed. International Water Association Publishing: 2016, 10.2166/9781780406862pp 17-36.
+2. Huang, Y.; Zhao, L.; Keller, A. A., Application of Metabolomics to Discover the Implications of Nanomaterials for Crop Plants. Book Chapter. Nanoscale Engineering in Agricultural Management 2019. CRC Press of Taylor & Francis Group.
+3. Ying, S.; Huang, Y.* Quantification and Imaging of Nanomaterials in Biological Samples. In Advances in Toxicology and Risk Assessment of Nanomaterials and Emerging Contaminants; Guo, L.-H., Mortimer, M., Eds.; Springer: Singapore, 2022.
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2022，深圳市优秀科技创新人才（深圳优青）
+2022，英国皇家化学会，环境纳米科学新锐科学家
+2021，美国水环境联合会，新锐水污染治理工程师
+2020，美国安捷伦科技公司，核心技术应用奖
+2019，广东省引进高层次人才
+2019，深圳市海外高层次人才
+2015，国家留学基金管理委员会，国家优秀自费留学生奖学金
+ </奖励荣誉>

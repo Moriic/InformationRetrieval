@@ -1,0 +1,53 @@
+{"title":"杨云锋","cnUrl":"http://www.sigs.tsinghua.edu.cn/yyf/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/35/fa/d8c6684345439550754647dcb3e6/bd2f73cc-0dbd-46c8-9a50-017ec6c2c7ae.jpg","email":"yangyf@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1996年获中国科学技术大学学士学位，2003年获美国爱因斯坦医学院博士学位，现任清华大学深圳国际研究生院环境与生态研究院教授。研究领域为土壤微生物学。面向双碳目标，聚焦土壤微生物对碳排放的调控进行机理研究和资源开发，迄今已发表了200篇学术论文，作为第一发明人获两项美国技术专利授权。2018年以来作为第一或通讯作者在PNAS、Nature Climate Change、Nature Communications、Trends in Microbiology等学术期刊上发表了多篇论文。谷歌学术被引1.6万余次，H 指数为62，多次入选科睿唯安全球高被引学者、全球前2%顶尖科学家、全国微生物与免疫学专家学术影响力百强、中国生态与演化领域前50科学家等榜单。是国家级人才项目获得者。
+教育经历 
+1996/08–2003/01 美国爱因斯坦医学院解剖和结构生物学系，微生物专业，博士
+2000/01–2002/05 美国纽约城市大学计算机系，计算机科学专业，硕士 (辅修学位）
+1991/09–1996/07 中国科学技术大学生物系，生物专业，学士
+工作经历 
+2023/10–今   清华大学深圳国际研究生院，环境与生态研究院，教授
+2010/09–2023/10  历任清华大学环境学院特别研究员、研究员；兼任清华大学地球系统科学系双聘教授
+2006/03–2010/09  美国橡树岭国家实验室生命科学部研究员（Staff Scientist）
+2003/02–2006/03  美国橡树岭国家实验室环境科学部博士后
+学术兼职 
+中国生态学学会微生物生态专业委员会，副主任
+兰州大学草地微生物研究中心，学术副主任
+Soil Ecology Letters杂志，创刊副主编
+mLife杂志，创刊副主编
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+聚焦气候变化敏感区参与土壤碳氮周转的功能微生物。在优化宏基因组学、分子生态网络、基因功能鉴定、土壤碳库模型等相关的实验与数据分析工具的基础上，按照“地理格局-响应特性-周转机制”的研究思路，开展与土壤碳降解、氮素硝化、反硝化过程相关的功能微生物研究。解析了青藏高原、高山林线等气候变化敏感区土壤微生物功能基因的地理格局和形成机制，发现土壤微生物群落具有高度功能多样性，环境压力是低温条件下功能微生物种群结构的主要形成机制。深入探究功能微生物对环境扰动的响应特性，发现土壤微生物群落的功能微生物种群结构易被环境影响和改变，证明其对环境扰动比微生物物种组成更为敏感。揭示了微生物驱动土壤碳氮周转的分子机制及区域效应，发现特定条件下微生物碳降解、产甲烷、硝化和反硝化基因丰度与自然环境中土壤有机碳降解速率、温室气体通量、硝化潜势等土壤过程显著关联，突破了国际学术界“DNA不代表活性，不适用于土壤过程分析”的传统认识；进而通过以功能基因参数优化碳库模型的方法创新，显著提高了青藏高原土壤碳库模型估值和实测值的拟合度，更准确地刻画了土壤碳库的变化规律。
+主要项目 
+[1] 海南国家公园研究院，基于微生物的海南热带雨林碳排放评估与调控，2023/04-2025/12，主持
+[2] 国家自然科学基金委，重点国际(地区)合作研究项目，养分添加对全球草地土壤微生物多样性和功能的影响及机理， 2021/10-2026/09，主持
+[3] 国家科学技术部，基于监测的污染物自然衰减新型指标体系与衰减效率评估方法，2020/01-2023/12，主持
+[4] 国家自然科学基金委，国家级人才项目，土壤微生物学，2019/01-2023/12，主持
+[5] 国家科学技术部，第二次青藏高原综合科学考察课题，高原土壤微生物多样性特征，2019/01-2023/12，主持
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] T Dai, D Wen*, C Bates, L Wu, X Guo, S Liu, Y Su, J Lei, J Zhou, and Y Yang* (2022), Nutrient supply controls the linkage between species abundance and ecological interactions in marine bacterial communities, Nature Communications 13: 175
+[2] J Lei, X Guo, Y Zeng, J Zhou, Q Gao*, and Y Yang* (2021), Temporal changes of global soil respiration since 1987, Nature Communications 12: 403
+[3] Y Yang* (2021), Emerging patterns of microbial functional traits, Trends in Microbiology 29 (10): 874-882
+[4] Q Gao, G Wang, K Xue, Y Yang*, J Xie, H Yu, S Bai, F Liu, Z He, D Ning, S Hobbie, P Reich, and J Zhou* (2020), Stimulation of soil respiration by elevated CO2 is enhanced under nitrogen limitation in a decade-long grassland study, Proceedings of the National Academy of Sciences USA 117 (52): 33317-33324
+[5] X Guo, J Feng, Z Shi, X Zhou, M Yuan, X Tao, L Hale, T Yuan, J Wang, Y Qin, A Zhou, Y Fu, L Wu, Z He, JD Van Nostrand, D Ning, X Liu, Y Luo, J Tiedje, Y Yang*, and J Zhou* (2018), Climate warming leads to divergent succession of grassland microbial communities, Nature Climate Change 8: 813-818
+[6] L Wu, Y Yang*, S Wang, H Yue, Q Lin, Y Hu, Z He, JD Van Nostrand, L Hale, X Li, JA Gilbert, and J Zhou (2017), Alpine soil carbon is vulnerable to rapid microbial decomposition under climate cooling, The ISME Journal 11: 2102-2111
+[7] H Yue, M Wang, S Wang, JA Gilbert, X Sun, L Wu, Q Lin, Y Hu, X Li, Z He, J Zhou, and Y Yang* (2015), The microbe-mediated mechanisms affecting topsoil carbon stock in Tibetan grasslands, The ISME Journal 9: 2012-2020
+[8] M Zhao, K Xue, F Wang, S Liu, S Bai, B Sun, J Zhou, and Y Yang* (2014), Microbial mediation of biogeochemical cycles revealed by simulation of global changes with soil transplant and cropping, The ISME Journal 8: 2045-2055
+[9] Y Yang*, Y Gao, S Wang, D Xu, H Yu, L Wu, Q Lin, Y Hu, X Li, Z He, Y Deng, and J Zhou (2014), The microbial gene diversity along an elevation gradient of the Tibetan grassland, The ISME Journal 8 (2): 430-440
+[10] Y Yang*, L Wu, Q Lin, M Yuan, D Xu, H Yu, Y Hu, J Duan, X Li, Z He, K Xue, JD Van Nostrand, S Wang, and J Zhou (2013), Responses of the functional structure of soil microbial community to livestock grazing in the Tibetan alpine grassland, Global Change Biology 19 (2): 637–648
+代表性著作 
+主要专利成果 
+Y Yang (2014), Methods for Targeted Mutagenesis in Biomass-degrading Bacteria, U.S. Patent 8735160
+Y Yang and Y Li (2014), Transformation of Gram-Positive Bacteria by Sonoporation, U.S. Patent 8669085
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+第16届中国土壤学会科学技术奖一等奖（2021）
+清华大学 “学术新人”奖（2014）
+ </奖励荣誉>

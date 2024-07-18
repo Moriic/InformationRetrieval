@@ -1,0 +1,74 @@
+{"title":"唐仙","cnUrl":"http://www.sigs.tsinghua.edu.cn/tx/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/11/61/e05516c242509695e0b64652c6a7/0c59cf28-9a7b-4fdb-83ab-b6bcfb9764da.jpg","email":"tang.xian@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2008年08月-2013年08月，香港中文大学电子工程系，博士
+2011年05月-2011年08月，加拿大多伦多大学电子与计算机工程系，访问学生
+2003年09月-2007年07月，华中科技大学电子科学与技术系，工学学士
+工作经历 
+2018年12月至今，清华大学深圳国际研究生院，副教授
+2013年11月至2018年12月，清华大学深圳研究生院，讲师
+学术兼职 
+2019年至今，IEEE Senior Member
+2018年至今，国际会议IEEE ICTA组织委员会成员
+2018年至2020年，IEEE电路与系统学会深圳分会副主席
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+1、《集成电路设计基础》
+2、《集成电路设计与方法》
+3、《电源管理集成电路》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 主要研究方向为低功耗的模拟及混合信号集成电路与系统设计，包括模拟计算芯片、模数转换芯片、电源管理芯片等。主持国家自然科学基金、广东省自然科学基金、深圳市基础研究重点项目、深圳市高校稳定支持项目、深圳是海外高层次人才创新项目、深圳市国际合作研究项目等十余项，参与科技部重点研发计划、广东省重点领域研发计划等多项。发表论文近40篇，其中SCI论文17篇，包含IEEE Trans. on Power Electronics、IEEE Trans. on Circuits and Systems I&II 等领域权威期刊和IEEE ISSCC-SPR、ASSCC等权威会议，授权发明专利6项。
+主要项目 
+1.国家自然科学基金，基于物联网应用的超低功耗CMOS温度传感芯片的研究，2016-2019
+2.广东省自然科学基金，低功耗语音关键词识别芯片设计关键技术研究，2022-2025
+3.深圳市基础研究重点项目，基于模块芯片的芯片设计技术研究，2021-2023
+4.深圳市基础研究重点项目，面向5G移动设备的高密度电源管理芯片系统及关键模块研究，2020-2022
+5.深圳市高校稳定支持项目，低功耗语音唤醒芯片研究，2021-2022
+6.深圳市海外高层次人才创新项目，高效率高鲁棒性的无线充电系统及芯片研究，2016-2018
+7.深圳市国际合作研究项目，兆赫兹无线充电系统及芯片研究，2018-2020
+8.深圳市基础研究自由探索项目，无线能量与数据同步传输系统的关键技术研究，2018-2020
+ </研究领域>
+<研究成果>
+代表性论文 
+主要期刊论文：
+1.Y. Zhang, J. Ma, and X. Tang, “A CMOS Active Rectifier with Efficiency-Improving and Digitally Adaptive Delay Compensation for Wireless Power Transfer Systems”, Energies, 14(23), 8089, 2021. 
+2.E. Shi, X. Tang, and K. P. Pun, “A 270nW Switched-Capacitor Acoustic Feature Extractor for Always-On Voice Activity Detection”, IEEE Trans. on Circuits and Systems I：Regular Papers, vol. 68, no. 3, pp. 1045-1054, March, 2021.
+3.K. Peng, X. Tang, S. Mai, and Z. Wang, “A Simultaneous Power and Downlink Data Transfer System with Pulse Phase Modulation”, IEEE Trans. on Circuits and Systems II: Express Briefs, vol. 66, no. 5, pp. 808-812, May, 2019.
+4.X. Tang, J. Zeng, K. P. Pun, S. Mai, C. Zhang, and Z. Wang, “Low-cost Maximum Efficiency Tracking Method for Wireless Power Transfer Systems”, IEEE Trans. on Power Electronics, vol. 33, no. 6, pp. 5317-5329, 2018. 
+5.Z. Fu, X. Tang, and K. P. Pun, “Use DAS algorithm to break through the device limitations of switched-capacitor-based DAC in an ADC consisting of pipelined SAR and TDC”, Solid-State Electronics, vol. 138, pp. 119-125, 2017.
+6.X. Tang, J. Zeng, Y. Zheng, K. N. Leung, and Z. Wang, “Limit-cycle oscillation reduction in high-efficiency wireless power receiver”, Electronics Letters, vol. 53, no. 16, pp. 1152-1154, 2017.
+7.M. Ho, J. Guo, K., W. L. Goh, S. Bu, Y. Zheng, X. Tang, and K. N. Leung, “A CMOS Low-Dropout Regulator With Dominant-Pole Substitution”, IEEE Trans. on Power Electronics, vol. 31, no. 9, pp. 6362-6371, 2016.
+8.H. Wang, X. Tang, C. S. Choy, and G. Sobelman, Cascaded Network Body Channel Model for Intra-Body Communication, IEEE Journal of Biomedical and Health Informatics, vol. 26, no. 4, pp. 1044-1052, 2016.
+9.H. Wang, X. Tang, C. S. Choy, K. N. Leung, and K. P. Pun, A 5.4-mW 180-cm Transmission Distance 2.5-Mb/s Advanced Techniques-Based Novel Intrabody Communication Receiver Analog Front End, IEEE Transactions on very large scale integration(VLSI) systems, vol. 23, no.12, pp.2829-2841, 2015. 
+10.X. Tang, W. T. Ng and K. P. Pun, A resistor-based sub-1V CMOS smart temperature sensor for VLSI thermal management, IEEE Transactions on very large scale integration(VLSI) systems, vol.23, no.9, pp.1651-1660, 2015.
+主要会议论文：
+1.H. Cai, Y. Zhao, and X. Tang, “A Wireless Power Transfer System with Regulated Receiver Based on LCC-S Compensation and Global Control”, in IEEE International Symposium on Circuits and Systems (ISCAS), 2022.
+2.M. Zhang, Y. Zhang, and X. Tang, “A Robust and Efficiency-Improving Design for Single-Stage Multiple-Output Receiver of Wireless Power Transfer System”, in IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2021.
+3.B. Sun, J. Wei, and X. Tang, “The Optimization of Object Detection and Localization in Complex Background for Vision-based Robot”, in IEEE International Conference on Integrated Circuits, Technologies and Applications(ICTA), 2020.
+4.M. Zhang, X. Tang, and W. Ng, “A high-efficiency WPT system with dual-output and enhanced coupling efficiency”, in IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT), 2020.
+5.K. Peng, X. Tang, and Z. Wang, “A Simultaneous Wireless Power and Uplink Data Transfer System with Ultra-Low Crosstalk between the Power and Data Link”, in IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2020.
+6.Y. Zhao, X. Tang, Z. Wang and W. Ng, “An Inductive Power Transfer System With Adjustable Compensation Network For Implantable Medical Devices”, in IEEE Asia Pacific Conference on Circuits and Systems (APCCAS), 2019.
+7.G. Zhu, S. Mai, X. Tang, and Z. Wang, “Simplified reconfigurable rectifier with consistent input capacitance for wireless power transfer”, in IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC), 2018.
+8.G. Zhu, S. Mai, X. Tang, and Z. Wang, “Enhancement Method of Efficiency and Working Range in Bio-Implant Wireless Power Transfer”, in IEEE MTT-S Wireless Power Transfer Conference (WPTC), 2018.
+9.G. Zhu, S. Mai, X. Tang, C. Zhang, Z. Wang, and H. Chen, “An Energy-Efficient High-Frequency Neuro-Stimulator with Parallel Pulse Generators, Staggered Output and Extended Average Current Range”, in IEEE International Symposium on Circuits and Systems (ISCAS), pp. 1030-1033, 2018.
+10.D. Li, X. Tang, Z. Fu, J. Wang, B. Debajit, and K. P. Pun, “An 11b 40MS/s charge pump and comparator based pipelined ADC with variable reset voltages”, in IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC), pp. 383-386, 2016.
+会议报告:
+1.X. Tang, W. T. Ng and K. P. Pun, Compact temperature sensor based on resistor and charge-pump, in IEEE International Solid-State Circuits Conference (ISSCC) Student Research Preview, San Francisco, California, USA, Feb.19, 2012.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2019年，清华大学青年教师教学优秀奖
+2019年，教育部国家精品在线课程
+2019年，教育部在线教育中心智慧教学之星
+2016年，清华大学第七届青年教师教学大赛二等奖
+2012年，IEEE 固态电路协会ISSCC Student Travel Grant Award
+ </奖励荣誉>

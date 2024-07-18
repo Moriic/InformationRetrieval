@@ -1,0 +1,70 @@
+{"title":"廖然","cnUrl":"http://www.sigs.tsinghua.edu.cn/lr/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/5b/f4/a0a1de284aa484cf6b9424b1ec0c/0226933d-5d0e-48f6-9de4-92f96bf67180.jpg","email":"liao.ran@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+主要从事海洋仪器研发与应用研究
+教育经历 
+2002年9月-2007年6月，浙江大学，光学工程，博士
+1998年9月-2002年6月，浙江大学，信息工程，学士
+工作经历 
+2019年3月-至今，清华大学深圳国际研究生院，副研究员，副教授
+2011年8月-2019年3月，清华大学深圳研究生院，讲师，副研究员
+2014年11月-2015年11月，美国Scripps海洋研究所，访问学者
+2008年6月-2011年5月，清华大学深圳研究生院，博士后
+2007年7月-2008年5月，西门子磁共振（深圳）有限公司，系统工程师
+学术兼职 
+CSOE, Optica, SPIE, IEEE, Elsevier, MDPI系列杂志审稿人；
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+海洋调查（课号：80460233）
+海洋光学技术（课号：80460242）
+海洋观测技术前沿与仪器（课号：80460302）
+研究生指导 
+招生方向
+与仪器相关的机械、电子、控制、软件方向，大数据分析，传感器技术，人工智能，图像处理；水下移动平台，海洋信息；物理，光学工程。
+招生要求
+除满足招生项目要求以外，需要学习能力强、勤奋自律、吃苦耐劳，具备探索精神和英文读、写能力。
+ </教学>
+<研究领域>
+研究领域 
+海洋颗粒物探测技术及应用；海洋观测仪器，人工智能与智慧感知，物联网；海洋光学，偏振光技术，光学工程。
+主要项目 
+ 在研国家自然科学基金面上项目、自然基金委重大仪器项目子课题、科技部重点研发项目子课题、广东省科技厅项目课题、深圳市深港联合项目。结题国家自然科学基金青年基金、国家博士后科学基金、深圳市科创委项目、中科院先导项目子课题。
+ 研制激光偏振传感器，给出水中悬浮颗粒物分类、浓度和比例，可搭载固定、移动平台。目前已经制备出原理性样机/工程样机、浅海样机和深海样机；样机在西太平洋、东海、南海投放效果良好。样机曾在海博会、高交会、全国光学学会年会上展示，正在产品化。拥有多项专利。
+ 研制水下偏振相机，识别水下目标和窗口形变，研究颗粒物对成像质量、范围、距离影响的模型。已经研制出水下样机，正在研制深海样机。拥有多项专利。
+ </研究领域>
+<研究成果>
+代表性论文 
+（1）文章
+ 2022年
+[1] Hongjian Wang, Ran Liao*, Zhihang Xiong, Zhao Wang, Jiajin Li, Qian Zhou, Yi Tao and Hui Ma, “Simultaneously Acquiring Optical and Acoustic Properties of Individual Microalgae Cells Suspended in Water,” Biosensors 12, 176 (2022).
+[2] Zepeng Zhuo, Hongjian Wang, Ran Liao* and Hui Ma*, “Machine Learning Powered Microalgae Classification by Use of Polarized Light Scattering Data,” Applied Sciences 12, 3422 (2022).
+[3] Hening Li, Ran Liao*, Hailong Zhang, Guoliang Ma, Zhiming Guo, Haibo Tu, Yan Chen and Hui Ma, “Stress Detection of Conical FrustumWindows in Submersibles Based on Polarization Imaging,” Sensors 22, 2282 (2022).
+[4] Hu Zhou, Jiajin Li, Ran Liao*, Yan Chen, Tong Liu, Yihao Wang, Xu Zhang and Hui Ma, “Profile probing of suspended particles in water by Stokes vector polarimetry,” Optics Express 30(9), 14924-14937 (2022).
+ 2021年
+[1] Tong Liu, Shijun Yu, Xiaoshan Zhu, Ran Liao*, Zepeng Zhuo, Yanping He and Hui Ma, “In-situ detection method for microplastics in water by polarized light scattering,” Frontiers in Ocean Science 8, 739683 (2021).
+[2] Jiajin Li, Chujun Zou, Ran Liao*, Liang Peng, Hongjian Wang, Zhiming Guo and Hui Ma, “Characterization of intracellular structure changes of Microcystis under sonication treatment by polarized light scattering,” Biosensors 11, 279 (2021).
+[3] Hongjian Wang, Jiajin Li, Ran Liao*, Yi Tao, Liang Peng, Hening Li, Hanbo Deng and Hui Ma, “Early warning of cyanobacterial blooms based on polarized light scattering powered by machine learning,” Measurement 184, 109902 (2021).
+[4] Jiajin Li, Hongjian Wang, Ran Liao*, Yong Wang, Zhidi Liu, Zepeng Zhuo, Zhiming Guo and Hui Ma, “Statistical Mueller matrix driven discrimination of suspended particles,” Optics Letters 46 (15), 3645-3648 (2021).
+[5] Shijun Yu, Jincai Dai, Ran Liao*, Lei Chen, Weibo Zhong, Hongjian Wang, Yuelu Jiang, Jiajin Li, Hui Ma, “Probing the nanoplastics adsorbed by microalgae in water using polarized light scattering,” Optik 231, 166407 (2021).
+[6] Tongyu Huang, Ruoyu Meng, Ji Qi, Yudi Liu, Xingjian Wang, Yan Chen, Ran Liao and Hui Ma*, “Fast Mueller matrix microscope based on dual DoFP polarimeters,” Optics Letters 46 (7), 1676-1679 (2021).
+[7] Qiang Wang, Hualong Hong, Ran Liao, Bo Yuan, Hanyi Li, Haoliang Lu, Jingchun Liu and Chongling Yan, “Glomalin-related soil protein: The particle aggregation mechanism and its insight into coastal environment improvement,” Ecotoxicology and Environmental Safety 227, 11290 (2021).
+[8] Zhihang Xiong, Hongjian Wang, Jiajin Li, Ran Liao*, Haoji Mai, Caizhong Guan, Zhiming Guo, Shangpan Yang, Yan Chen, Biwang Liu, Tong Liu, Hongyi Li, Wenzheng Ding, Yaguang Zeng and Hui Ma, “Probing individual particles in aquatic suspensions by simultaneously measuring polarized light scattering and fluorescence,” Biosensors 11, 416 (2021). 
+[9] Zhiming Guo, Hanbo Deng, Jiajin Li, Ran Liao* and Hui Ma, “Optimized classification of suspended particles in seawater by dense sampling of polarized light pulses,” Sensors 21, 7344 (2021).
+[10] Qianhao Zhao, Tongyu Huang, Zheng Hu, Tongjun Bu, Shugang Liu, Ran Liao and Hui Ma*, “Geometric Optimization Method for Polarization State Generator of Mueller Matrix Microscope,” Optics Letters 46(22) 5631-5634 (2021).
+[11] Yan Chen, Ran Liao*, Jiajin Li, Hu Zhou, Hongjian Wang, Zepeng Zhuo, Qiang Wang, Chongling Yan and Hui Ma, “Monitoring particulate composition changes during flocculation process using polarized light scattering,” Applied Optics 60(32), 10264-10272 (2021).
+[12] Qiang Wang, Yangxue Wen, Bo Zhao, Hualong Hong, Ran Liao, Junwei Li, Jingchun Liu, Haoliang Lu, Chongling Yan, “Coastal soil texture controls soil organic carbon distribution and storage of mangroves in China,” Catena 207, 105709 (2021).
+代表性著作 
+主要专利成果 
+[1] 廖然，戴进才，马辉，基于后向偏振散射的海藻识别方法和应用于该方法的装置（ZL 2017107255325）。
+[2] 廖然，马辉，一种测量光学窗口双折射效应的装置及方法（ZL 2017107126428）。
+[3] 廖然，马辉，一种检测光学窗口上生物附着的方法（申请号：201710719965X）
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+获公安部科学技术奖二等奖1次，排名3/9
+深圳市后备级人才
+南山区领航人才
+ </奖励荣誉>

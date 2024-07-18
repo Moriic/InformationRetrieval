@@ -1,0 +1,48 @@
+{"title":"毛献忠","cnUrl":"http://www.sigs.tsinghua.edu.cn/mxz/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/b5/13/3844308d4badbaa8a3882a4ef747/c1cfb2b2-2b8e-4305-bab7-6c236675c96e.jpg","email":"maoxz@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1985-1990，本科，北京清华大学工程力学系工程力学专业
+1990–1993，硕士，北京清华大学工程力学系计算流体专业
+1997–1999，博士，香港城市大学数学系数值计算
+工作经历 
+1993/04-2005/04，浙江省水利河口研究院河口所，助理工程师、工程师、高级工程师/总工、副所长
+2002/11-2004/12，美国夏威夷大学海洋和资源工程系，博士后。
+2005/05-2011/12，清华大学深圳研究生院环境工程与管理研究中心，副研究员。
+2011/12至今，清华大学深圳研究生院海洋学部，副研究员。
+学术兼职 
+《水动力学研究与进展》杂志编委
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+环境规划
+环境数学
+数据处理和建模
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+包括研究方向、主持或参与的重大项目情况及成果，在研项目等。
+主要从事水环境灾害模拟、海洋海岸环境、海岸动力过程、环境流体力学、突发性水污染反问题模型等研究，以及环境流体中的计算方法和环境工程中CFD模拟计算等。
+承担和参与国家自然科学基金、国家水专项、863、973和深圳市科技项目等课题30多项，发表文章70余篇，其中SCI和EI文章30余篇。获浙江省科学技术二等奖2次。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1.Li, Z., Mao, X.Z., Global multiquadric collocation method for groundwater contaminant source identification. Environmental modeling and software, 2011, 26(12):1611-1621, DOI:10.1016/j.envsoft.2011.07.010.
+2. Tao Y., Mao XZ, Hu JY, Mok HOL, Wang LY, Au DWT, Zhu J, Zhang XH, Mechanisms of photosynthetic inactivation on growth suppression of Microcystis aeruginosa under UV-C stress, Chemosphere, 2013, 93(4):637-644, doi:10.1016/j.chemosphere.2013.06.031.
+3.Wang LL, Tao Y, Mao XZ, A novel flat plate algal bioreactor with horizontal baffles: structural optimization and cultivation performance, Bioresource Technology, 2014, 164: 20-27, doi:10.1016/j.biortech.2014.04.100.
+4.Zhang SY, Mao XZ, Hydrology, sediment circulation and long-term morphological changes in highly urbanized Shenzhen River estuary, China: a combined field experimental and modeling approach, Journal of Hydrology, 2015, 529:1562-1577, 10.1016/j.jhydrol.2015.08.027.
+5.Li Z, Mao XZ, Li TS, Zhang SY. Estimation of river pollution source using the space-time radial basis collocation method, Advances in Water Resources, 2016, 88:68-79, doi:10.1016/j.advwatres.2015.11.019.
+6. Wang LL, Li Q, Bi HS, Mao XZ, Human impacts and changes in the coastal waters of south China, Science of the Total environment, 2016, 562:108-114, doi:10.1016/j.scitotenv. 2016.03.216.
+7.Li HW, Tang ZG, He ZM, Cui JJ, Guo D, Zhao ZJ, Mao XZ. Performance Evaluation of CO2 capture with diethyl succinate, Applied Energy, 2017, 200:119-131.
+8.Wang LL, Li Q, Mao XZ, Bi H, Yin P. Interannual Sea Level Variability in the Pearl River Estuary Region and Its Response to EI Nino-Southern Oscillation, Global and Planetary Change, 2018, 162:163-174, 10.1016/j.gloplacha.2018.01.007.
+9.毛献忠，李子，河流突发性污染事故反演模型建模及其应用，清华学报，2014，54（7）：853-858。
+10. 赵晨辰、张世彦、毛献忠, 深圳湾流域TN和TP入海年通量变化规律研究, 环境科学, 2014，35（11）：82-88。
+11. 毛献忠，祝倩，Wei Yong, 浙江沿海潜在区域地震海啸风险分析, 海洋学报，2015，37（3）：37-45。
+12.王淋淋，毛献忠，海山后尾迹涡形成因素的数值研究，水动力学研究与进展，2017，A辑，32（3）：331-335。
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

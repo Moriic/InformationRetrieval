@@ -1,0 +1,139 @@
+{"title":"黄绍伦","cnUrl":"http://www.sigs.tsinghua.edu.cn/hsl/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/cb/47/69eaded9467fa331cd263d7b5e6e/3732614e-cd2c-46f6-89d8-0b6118e25d5d.jpg","email":"twn2gold@gmail.com"}
+<个人简历>
+概况 
+Data Science and Information Technology Research Center
+Tsinghua-Berkeley Shenzhen Institute
+Email:twn2gold@gmail.com
+Web: https://sites.google.com/view/slhuang/
+教育经历 
+·Ph.D. (2013) in electrical engineering, Massachusetts Institute of Technology, Cambridge, MA.
+Thesis: The Euclidean Network Information Theory.·M.S. (2009) in electrical engineering, Massachusetts Institute of Technology, Cambridge, MA.Thesis: The Design of Binary Shaping Filter of Binary Code.·B.A. (2008) in electrical engineering, National Taiwan University, Taiwan.
+工作经历 
+• Associate professor,Tsinghua-Berkeley Shenzhen Institute, Tsinghua Shenzhen International Graduate School,January 2021-Present
+• Associate professor, Tsinghua-Berkeley Shenzhen Institute, July 2020- December 2020
+• Director, Tsinghua SIGS-Rato Joint Laboratory,September 2019-Present
+• Assistant professor, Tsinghua-Berkeley Shenzhen Institute, September 2016 - June 2020
+• Postdoctoral researcher, National Taiwan University, October 2013 - August 2016
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+• Learning from Data ，Fall 2017 &2018, Spring & Fall 2019
+•Seminar in Data Science and Technology, Fall 2016, Summer 2018 &2019
+•Introduction to Probability Theory, Spring 2017 & 2020
+•Inference and Information,Fall 2017
+•Information Theory and Statistical Learning, Fall2019,2020,2021&2022,Spring2022
+•Advanced Signal Processing : Method and Practice, Spring 2020
+•Large Deviation and High Dimensional Statistics，Spring 2021
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+·Big data analytics and machine learning.·Information theory, error correcting codes, source coding.·Communication theory, communication system and network design.·Social network theory and the applications to Internet systems.
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+Recent Selected Publications
+1.S.-L. Huang, A. Makur, G. W. Wornell, L. Zheng (2022). On Universal Features for High-Dimensional Learning and Inference. accepted to Foundations and Trends in Communications and Information Theory: Now Publishers. (ArXiv)
+2.X. Xu, S.-L. Huang, “On Distributed Learning with Constant Communication Bits,” accepted to IEEE Journal on Selected Areas in Information Theory, 2021.
+3.S.-L. Huang, X. Xu, “On The Sample Complexity of HGR Maximal Correlation Functions For Large Datasets,” IEEE Transactions on Information Theory, vol. 67, no. 3, pp. 1951-1980, March 2021. 
+4.S.-L. Huang, X. Xu, L. Zheng, “An Information-theoretic Approach to Unsupervised Feature Selection for High-Dimensional Data,” IEEE Journal on Selected Areas in Information Theory, vol. 1, no. 1, pp. 157–166, May 2020.
+5.X. Tong, X. Xu, S.-L. Huang, L. Zheng, “A Mathematical Framework for Quantifying Transferability in Multi-source Transfer Learning,” Thirty-fifth Conference on Neural Information Processing Systems (NIPS), 2021.
+6.Z. Wang, S.-L. Huang, E. Kuruoglu, J. Sun, X. Chen, and Y. Zheng. PAC-Bayes Information Bottleneck. In International Conference on Learning Representations (ICLR), 2022.
+7.X. Xu, S.-L. Huang, On Distributed Hypothesis Testing with Constant-Bit Communication Constraints, IEEE Information Theory Workshop, Oct., 2021.
+8.S.-L. Huang, X. Xu, L. Zheng, G. W. Wornell, “A Local Characterization for Wyner Common Information,” IEEE International Symposium on Information Theory, June, 2020.
+Monograph
+1.S.-L. Huang, A. Makur, G. W. Wornell, L. Zheng (2022). On Universal Features for High-Dimensional Learning and Inference. accepted to Foundations and Trends in Communications and Information Theory: Now Publishers. (ArXiv)
+Journal Papers
+1.G. Yan, T. Li, S.-L. Huang, T. Lan, L. Song,“AC-SGD: Adaptively Compressed SGD for Communication-Efficient Distributed Learning, accepted to IEEE Journal on Selected Areas in Communication(JSAC), 2022.
+2.X. Xu, S.-L. Huang, “On Distributed Learning with Constant Communication Bits,” accepted to IEEE Journal on Selected Areas in Information Theory, 2022.
+3.S.-L. Huang, X. Xu, L. Zheng, G. W. Wornell, “An Information Theoretic Interpretation to Deep Neural Networks,” accepted to Entropy, 2022.
+4.F. Ma, Y. Li, S. Ni, S.-L. Huang, L. Zhang, “Data Augmentation for Audio-Visual Emotion Recognition with an Efficient Multimodal Conditional GAN,” Applied Sciences 12, no. 1: 527, 2022.
+5.S.-L. Huang, X. Xu, “On The Sample Complexity of HGR Maximal Correlation Functions For Large Datasets,” IEEE Transactions on Information Theory, vol. 67, no. 3, pp. 1951-1980, March 2021. 
+6.F. Zhao, M. Ye, S.-L. Huang, “Exact Recovery of Stochastic Block Model by Ising Model,” Entropy 2021, 23, 65.
+7.S.-L. Huang, X. Xu, L. Zheng, “An Information-theoretic Approach to Unsupervised Feature Selection for High-Dimensional Data,” IEEE Journal on Selected Areas in Information Theory, vol. 1, no. 1, pp. 157–166, May 2020.
+8.F. Ma, W. Zhang, Y. Li, S.-L. Huang, L. Zhang, “Learning Better Representations for Audio-Visual Emotion Recognition,” Applied Sciences, doi: 10.3390, 2020.
+9.X. Xu, S.-L. Huang, “On the Optimal Tradeoff between Computational Efficiency and Generalizability of Oja’s Algorithm,” IEEE Access, 2020, 8: 102616-102628.
+10.X. Xu and S.-L. Huang, “Maximal Correlation Regression,” IEEE Access, 2020, 8: 26591-26601.
+11.J. Lian, Y. Li, W. Gu, S.-L. Huang, L. Zhang, “Mining Regional Mobility Patterns for Urban Dynamic Analytics,” Mobile Networks and Applications (2019): 1-15.
+12.S. Zhang, Y. Dong, H. Fu, S.-L. Huang, L. Zhang, “A Spectral Reconstruction Algorithm of Miniature Soectrometer Based on Sparse Optimization and Dictionary Learning,” Sensors (Basel). 2018 Feb. 22. 
+13.K.-C. Chen, S.-L. Huang, L. Zheng, H. V. Poor, “Communication Theoretic Data Analytics,” IEEE Journal on Selected Areas in Communications, vol. 33, no. 4, pp. 663-675, April 2015. 
+14.S.-L. Huang, C. Suh, L. Zheng, “Euclidean Information Theory of Networks,” IEEE transactions on Information Theory, vol. 61, pp. 6795-6814, Dec. 2015. 
+15.E. Abbe, S.-L. Huang, E. Telatar, “Proof of the outage probability conjecture for MISO channels,” IEEE transactions on Information Theory, vol. 59, pp. 2596- 2602, May 2013. 
+Conference Papers
+1.J. Xu, Y. Yan, S.-L. Huang, FedPer++: Toward Improved Personalized Federated Learning on Heterogeneous and Imbalanced Data, in IEEE International Joint Conference on Neural Network (IJCNN), 2022.
+2.J. Xu, S.-L. Huang, L. Song, and T. Lan, Byzantine-robust Federated Learning through Collaborative Malicious Gradient Filtering, in IEEE International Conference on Distributed Computing Systems (ICDCS), 2022.
+3.T. Peng, W. Wang, S.-L. Huang, A Mathematical Framework to Characterize the Dependency Structures in Multimodal Learning With Minimax Principle, IEEE International Symposium on Information Theory (ISIT), June, 2022.
+4.Z. An, Z. Wu, B. Hu, Z. Zhang, J. Zhou, Y. Wang, S.-L. Huang, Decoupled Graph Neural Networks based on Label Agreement Message Propagation, ICLR Workshop on Geometrical and Topological Representation Learning, 2022.
+5.J. Xu, S.-L. Huang, Byzantine-Resilient Decentralized Collaborative Learning, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), May, 2022.
+6.M. Li, S.-L. Huang, L. Zhang, A General Framework For Incomplete Cross-modal Retrieval With Missing Labels And Missing Modalities, IEEE International Conference on Acoustics, Speech, and Signal Processing, May, 2022.
+7.Z. Wang, S.-L. Huang, E. Kuruoglu, J. Sun, X. Chen, and Y. Zheng. PAC-Bayes Information Bottleneck. In International Conference on Learning Representations (ICLR), 2022.
+8.Z. Zheng, X. Tong, X. Yu, X. Xu, S.-L. Huang, Multi-source Transfer Learning for Signal Detection over a Fading Channel with Co-channel Interference, IEEE International Conference on Communications (ICC), May, 2022.
+9.J. Xu, X. Tong, S.-L. Huang, Communication-Efficient and Byzantine-Robust Distributed Stochastic Learning with Arbitrary Number of Corrupted Workers, IEEE International Conference on Communications (ICC), May, 2022.
+10.R. Yu, H. Zhu, K. Li, L. Hong, R. Zhang, N. Ye, S.-L. Huang, X. He ”Regularization Penalty Optimization for Addressing Data Quality Variance in OoD Algorithms,” Proceedings of the 36rd AAAI Conference on Artificial Intelligence (AAAI-22), Feb., 2022.
+11.X. Tong, X. Xu, S.-L. Huang, L. Zheng, “A Mathematical Framework for Quantifying Transferability in Multi-source Transfer Learning,” Thirty-fifth Conference on Neural Information Processing Systems (NIPS), 2021.
+12.B. Eua-arporn, S.-L. Huang, E. Kuruoglu, “Enhancing Neural Network Based Hybrid Learning with Empirical Wavelet Transform for Time Series Forecasting,” 2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI).
+13.G. Yan, S.-L. Huang, T. Lan, L. Song, DQ-SGD: Dynamic Quantization in SGD for Communication-Efficient Distributed Learning, 2021 IEEE 18th International Conference on Mobile Ad Hoc and Smart Systems (MASS)
+14.X. Xu, S.-L. Huang, On Distributed Hypothesis Testing with Constant-Bit Communication Constraints, IEEE Information Theory Workshop, Oct., 2021.
+15.J. Sima, F. Zhao, S.-L. Huang, Exact Recovery in the Balanced Stochastic Block Model with Side Information, IEEE Information Theory Workshop, Oct., 2021.
+16.F. Zhao, J. Sima, S.-L. Huang, On the Optimal Error Rate of Stochastic Block Model with Symmetric Side Information, IEEE Information Theory Workshop, Oct., 2021.
+17.J. Li, Z. Wang, Z. Zhao, Y. Jin, J. Yin, S.-L. Huang, J. Wang, “TriboGait: A Deep Learning Enabled Triboelectric Gait Sensor System for Human Activity Recognition and Individual Identification,” in Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers (UbiComp/ISWC), Sep., 2021.
+18.M. Li, S.-L. Huang, L. Zhang, “OTCMR: Bridging Heterogeneity Gap with Optimal Transport for Cross-modal Retrieval”, 30th ACM International Conference on Information and Knowledge Management (CIKM), 2021.
+19.M. Li, X. Xu, S.-L. Huang, L. Zhang, “Dual Feature Distributional Regularization for Defending against Adversarial Attacks”, 28th International Conference on Neural Information Processing (ICONIP), 2021.
+20.Z. Wang, Y. Yang, R. Wen, X. Chen, S.-L. Huang, Y, Zheng, Lifelong Learning based Disease Diagnosis on Clinical Notes, 25th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2021), May, 2021, Delhi, India. (Best student paper)
+21.X. Xu and S.-L. Huang, “An Information Theoretic Framework for Distributed Learning Algorithms,” IEEE International Symposium on Information Theory (ISIT), July, 2021.
+22.S. Yin, F. Ma, S.-L. Huang, A Semi-supervised Learning Approach for Visual Question Answering based on Maximal Correlation, 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC).
+23.F. Ma, S.-L. Huang, L. Zhang, An Efficient Approach for Audio-Visual Emotion Recognition with Missing Labels and Missing Modalities, IEEE International Conference on Multimedia and Expo (ICME), Jul., 2021. 
+24.Y. Tan, Y. Li, S.-L. Huang. OTCE: A Transferability Metric for Cross-Domain Cross-Task Representations, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Jun., 2021.
+25.W. Sun, F. Ma, Y. Li, S.-L. Huang, S. Ni, L. Zhang, Semi-Supervised Multimodal Image Translation for Missing Modality Imputation, IEEE International Conference on Acoustics, Speech, and Signal Processing, June, 2021.
+26.J. Xu, S.-L. Huang, L. Song, T. Lan, “Live Gradient Compensation for Evading Stragglers in Distributed Learning,” IEEE International Conference on Computer Communications, May, 2021.
+27.Y. Liang, F. Ma, Y. Li, S.-L. Huang “Person Recognition with HGR Maximal Correlation on Multimodal Data” IEEE International Conference on Pattern Recognition (ICPR), Jan., 2021.
+28.Z. Wang, X. Chen, R. Wen, S.-L. Huang, E. Kuruoglu, Y. Zheng, “Information Theoretic Counterfactual Learning from Missing-Not-At-Random Feedback,” Thirty-fourth Conference on Neural Information Processing Systems (NIPS), 2020.
+29.M. Li, Y. Li, S.-L. Huang, L. Zhang, “Semantically Supervised Maximal Correlation For Cross-Modal Retrival” IEEE International Conference on Image Processing (ICIP), Oct., 2020.
+30.X. Xu, W. Wang, S.-L. Huang, “On the Sample Complexity of Estimating Small Singular Modes” IEEE International Symposium on Information Theory, June, 2020.
+31.S.-L. Huang, X. Xu, L. Zheng, G. W. Wornell, “A Local Characterization for Wyner Common Information,” IEEE International Symposium on Information Theory, June, 2020.
+32.Z. Wang, H. Zhu, Z. Dong, X. He, S.-L. Huang, ”Less is better: Unweighted Data Subsampling via Influence Function,” Proceedings of the 34rd AAAI Conference on Artificial Intelligence (AAAI-20), Feb., 2020. 
+33.F. Zhao, F. Ma, Y. Li, S.-L. Huang, L. Zhang, ”Info-detection: An information-theoretic approach to detect outlier.” 2019-26th International Conference on Neural Information Processing (ICONIP). 
+34.X. Xu, S.-L. Huang, “On the Asymptotic Sample Complexity of HGR Maximal Correlation Functions in Semi-supervised Learning,” Allerton Annual Conference on Communication, Control and Computing, Sep. 2019. 
+35.J. Lian, Y. Li, S.-L. Huang, L. Zhang, “Mining Mobility Patterns with Trip- Based Traffic Analysis Zones: A Deep Feature Embedding Approach.” accepted by 2019 IEEE 22nd International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2019. 
+36.S.-L. Huang, X. Xu, “On The Sample Complexity of HGR Maximal Correlation Functions,” IEEE Information Theory Workshop, Aug., 2019. 
+37.M. Li, H. Wang, S.-L. Huang, L. Zhang, “ Anomaly Detection in Surface Mount Technology Process using Multi-modal Data,” Proceedings of the 17th ACM Conference on Embedded Networked Sensor Systems, Nov., 2019. 
+38.Y. Bao, Y. Li, S.-L. Huang, L. Zhang, L. Zheng, A. Zamir, L. Guibas “An Information-Theoretic Approach To Transferability In Task Transfer Learning” IEEE International Conference on Image Processing (ICIP), Sep., 2019. 
+39.S.-L. Huang, X. Xu, “On the Robustness of Noisy ACE Algorithm and Multi-Layer Residual Learning,” IEEE International Symposium on Information Theory, Jul., 2019. 
+40.S.-L. Huang, X. Xu, L. Zheng, G. W. Wornell, “An Information Theoretic Interpretation to Deep Neural Networks,” IEEE International Symposium on Information Theory, Jul., 2019. 
+41.F. Ma, W. Zhang, Y. Li, S.-L. Huang, L. Zhang, “ An End-to-end Learning Approach For Multimodal Emotion Recognition: Extracting Common and Private Information,” IEEE International Conference on Multimedia and Expo (ICME), Jul., 2019. 
+42.L. Li, X. Xu, Y. Li, S.-L. Huang, L. Zhang, “ Maximal Correlation Embedding Network for Multi-label Learning with Missing Labels,” IEEE International Conference on Multimedia and Expo (ICME), Jul., 2019. 
+43.L. Wang, J. Wu, S.-L. Huang, L. Zheng, X. Xu, L. Zhang, J. Huang, “An Efficient Approach to Informative Feature Extraction from Multimodal Data,” Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-19), Jan., 2019. 
+44.H. Wang, M. Li, F. Ma, S.-L. Huang, L. Zhang, “ Unsupervised anomaly detection via generative adversarial networks,” Proceedings of the 18th International Conference on Information Processing in Sensor Networks, Apr., 2019. 
+45.J. Lian, Y. Li, W. Gu, S.-L. Huang, L. Zhang, “Joint Mobility Pattern Mining with Urban Region Partitions,” Proceedings of the 15th International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services, Nov., 2018. (Best paper award)
+46.F. Ma, W. Gu, W. Zhang, S. Ni, S.-L. Huang, L. Zhang, “ Speech Emotion Recognition via Attention-based DNN from Multi-Task Learning,” Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems, Nov., 2018. 
+47.Q. Du, W. Gu, L. Zhang, S.-L. Huang, “ Attention-based LSTM-CNNs For Time- series Classification,” Proceedings of the 16th ACM Conference on Embedded Net- worked Sensor Systems, Nov., 2018. 
+48.X. Xu, S.-L. Huang, L. Zheng, and L. Zhang. “The Geometric Structure of Generalized Softmax Learning,” 2018 IEEE Information Theory Workshop, Nov., 2018. 
+49.S.-L. Huang, L. Zheng, G. Wornell, “Gaussian Universal Features, Canonical Correlations, and Common Information,” IEEE Information Theory Workshop, Nov., 2018. 
+50.S.-L. Huang, L. Zhang, L. Zheng, “An information-theoretic approach to unsupervised feature selection for high-dimensional data,” IEEE Information Theory Workshop, Nov., 2017. 
+51.S.-L. Huang, A. Makur, L. Zheng, G. W. Wornell, “An Information-Theoretic Approach to Universal Feature Selection in High-Dimensional Inference,” IEEE International Symposium on Information Theory, June, 2017. 
+52.I-H. Wang, S.-L. Huang, K.-Y. Lee, “Extracting Sparse Data via Histogram Queries,” Allerton Annual Conference on Communication, Control and Computing, October 2016. 
+53.I-H. Wang, S.-L. Huang, K.-Y. Lee, “Data Extraction via Histogram and Arithmetic Mean Queries: Fundamental Limits and Algorithms,” IEEE International Symposium on Information Theory, June, 2016. 
+54.A. Makur, F. Kozynski, S.-L. Huang, L. Zheng, “Parallel ACE Algorithm: An Efficient Algorithm to Extract Non-Linear Features from High Dimensional Data,” Allerton Annual Conference on Communication, Control and Computing, Octo- ber 2015. 
+55.S.-L. Huang, L. Zheng, “A Spectrum Decomposition to the Feature Spaces and the Application to Big Data Analytics,” IEEE International Symposium on Information Theory, June, 2015. 
+56.A. Makhdoumi, S.-L. Huang, Y. Polyanskiy, M. Medard, “On Locally Decodable Source Coding,” IEEE International Conference on Communications, June, 2015. 
+57.S.-L. Huang, K.-C. Chen, “Information Cascades in Social Networks via Dynamic System Analyses,” IEEE International Conference on Communications, June, 2015. 
+58.S.-L. Huang, A. Makur, F. Kozynski, and L. Zheng, “Efficient Statistics: Extracting Information from IID Observations,” Allerton Annual Conference on Com- munication, Control and Computing, Oct., 2014. 
+59.K.-H., Peng, K.-C. Chen, S.-L. Huang, “Green Traffic Compression in Wireless Sensor Networks,” IEEE 79th Vehicular Technology Conference, May, 2014. 
+60.S.-L. Huang, C. Suh, L. Zheng, “Euclidean Information Theory of Networks,” IEEE International Symposium on Information Theory, July, 2013. 
+61.S.-L. Huang, L. Zheng, “Linear Information Coupling Problems,” IEEE International Symposium on Information Theory, July, 2012. 
+62.E. Abbe, S.-L. Huang, E. Telatar, “Proof of the outage probability conjecture for MISO channels,” IEEE Information Theory Workshop, Sep., 2012. 
+63.S.-L. Huang, Y. Blankenship, and L. Zheng, “The design of binary shaping filter of binary code,” IEEE Wireless Communications, Networking and Information Security, pp. 228-232, June, 2010. 
+代表性著作 
+主要专利成果 
+其他成果 
+·Summer internship as a full-time engineer at Sharp Laboratories of America, 2012.-Participating the project: LTE Device-to-device (D2D) Discovery.
+·Irwin Mark Jacobs and Joan Klein Jacobs Presidential Fellowship, 2008.
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+• Best Paper Award,MobiQuitous,2018
+• Best Student Paper Award,PAKDD,2021 • National Taiwan University Presidential Award, 2008. • International Mathematical Olympiad, Gold Medal (Tokyo, Japan), 2003. • International Mathematical Olympiad, Silver Medal (Glasgow, United Kingdom), 2002.
+ </奖励荣誉>

@@ -1,0 +1,44 @@
+{"title":"谭章熹","cnUrl":"http://www.sigs.tsinghua.edu.cn/tzx/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/f8/97/3646ed974533a1fe54ee3bb7852e/ab05f3ec-9322-482c-905e-a6b483cf0f16.png","email":"xtan@cs.berkeley.edu"}
+<个人简历>
+概况 
+http://www.cs.berkeley.edu/~xtan
+教育经历 
+2013.7 – 2013.10 Computer Science Division, University of California, Berkeley, CA 94720
+Postdoc Researcher in the ASPIRE lab (aspire.eecs.berkeley.edu)
+2005.8 – 2013.7 Computer Science Division, University of California, Berkeley, CA 94720
+PhD in Computer Science, minor in Management of Technology
+Thesis: Using FPGAs to Simulate Novel Data center Network Architectures at Scale
+Advisor: David Patterson and Krste Asanovi？
+2002.9 – 2005.1 Department of Computer Science and Technology,Tsinghua University, China
+Master in Computer Science
+1998.9 – 2002.7 Department of Electronic Engineering,Tsinghua University, China
+工作经历 
+2018.12– Now Adjunct Assistant Professor, Tsinghua-Berkeley Shenzhen Institute (tbsi.berkeley.edu)
+Co-Director of the RISC-V International Open-Source Laboratory (RIOS)
+2017.2– Now Founder and CEO of OURS Technology Inc (www.ours-tech.com)
+OURS is a VC-backed startup in Silicon Valley working on energy-efficient microprocessor designs with the open RISC-V instruction set and silicon photonics applications for self-driving cars and IoT. I lead a group of highly-motivated multinational engineers mostly Berkeley PhD graduates and industry chip design veterans. We have been successfully taping out multiple chips within the first year of funding. OURS (睿思芯科) has been a leading company in promoting RISC-V in China.
+2013.9–2017.2 Founding Engineer of Pure Storage (NYSE: PSTG)
+First chip designer hired by Pure
+Flash Blade TM lead designer (founding member)
+2017 AIconics Best Innovation award in AI Hardware (AI Summit 2017, San Francisco) ; customers include Tesla, Mercedes F1 racing team, Riot Games.
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+My primary research is computer architecture and networks, Microprocessor designs, non-volatile memory systems, SW/HW co-design and implementation of computer system with ASIC and Field Programmable Gate Array (FPGA).
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+Zhangxi Tan, Zhenghao Qian, Xi Chen, Krste Asanovic, David Patterson, DIABLO: A Warehouse-Scale Computer Network Simulator using FPGAs, 20th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-2015), Istanbul, Turkey, March 2015
+Zhangxi Tan, Andrew Waterman, Henry Cook, Sarah Bird, Krste Asanovic, David Patterson, A Case for FAME: FPGA Architecture Model Execution, International Symposium on Computer Architecture (ISCA-2010), Saint-Malo, France, June 2010
+Zhangxi Tan, Andrew Waterman, Rimas Avizienis, Yunsup Lee, Henry Cook, David Patterson, Krste Asanovic, RAMP Gold: An FPGA-based Architecture Simulator for Multiprocessors, in 47th Design Automation Conference (DAC'10), Anaheim, CA, June 2010
+Jonathan Ellithorpe, Zhangxi Tan, Randy Katz, Internet-in-a-Box: emulating data center network architectures using FPGAs, in 46th Design Automation Conference (DAC'09), Association for Computing Machinery, Inc., June 2009
+John Davis, Zhangxi Tan, Fang Yu, and Lintao Zhang, A Practical Reconfigurable Hardware Accelerator for Boolean Satisfiability Solvers, in 45th Design Automation Conference (DAC'08), Association for Computing Machinery, Inc., June 2008
+John D. Davis, Zhangxi Tan, Fang Yu, and Lintao Zhang, Designing an Efficient Hardware Implication Accelerator for SAT Solving, in International Conference on Theory and Applications of Satisfiability Testing (SAT'08), Springer, Guangzhou, China, May 2008
+代表性著作 
+主要专利成果 
+30+ US patents and applications on non-volatile memory systems, hardware accelerator and silicon photonics applications
+其他成果 
+ </研究成果>

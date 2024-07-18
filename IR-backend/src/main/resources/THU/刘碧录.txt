@@ -1,0 +1,66 @@
+{"title":"刘碧录","cnUrl":"http://www.sigs.tsinghua.edu.cn/lbl/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/03/3f/25e7682346ef85c6bdef51f67dab/502d364e-3d14-471a-a290-24437a7c39a2.jpg","email":"bilu.liu@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+刘碧录：博士、博导、清华大学长聘教授。目前担任清华大学深圳国际研究生院材料研究院副院长、深圳市诺贝尔奖科学家实验室—“深圳盖姆石墨烯中心”副主任。主要研究方向是石墨烯等二维材料的规模控制制备及其电子、光电、催化应用。发表高质量论文100多篇，获授权发明专利20余项。刘碧录教授目前承担国家自然科学基金委杰青项目、重点国际合作项目、重大项目（课题负责）、基础科学中心（4名骨干成员之一）、科技部重点研发计划（课题负责）等科研项目，担任两份国际杂志的编辑（Associate Editor），担任多份期刊的编委，被科学出版社聘为《低维材料与器件》丛书编委（2016年）。获得广东省科学技术奖—广东省青年科技创新奖（2022年）、“鹏城孔雀计划”特聘岗位A档（2022年）、深圳市优秀教师称号（2021年）、纳米研究青年科学家奖（Nano Research Young Innovator Award，2021年）、清华大学优秀博士/硕士学位论文指导教师 (5次获得, 2020年、2021、2022年等)、清华大学学术新人奖（2018年）、“中国科学院院长特别奖”（2012年）等荣誉与奖励。研究工作多次被国家自然科学基金委主页、清华大学新闻、《Nature Communications》杂志、《Science Foundation in China》杂志、《National Science Review》杂志、(AAAS) EurekAlert，PhysOrg， NanoWerk等学术网站，央视一套新闻联播等报道，在国内外产生了较大学术影响。目前担任清华大学教代会代表。
+ 刘碧录课题组主页：https://www.tbsi.edu.cn/biluliuGroup/home.html
+教育经历 
+2006/09-2012/01，中科院金属所，材料学，工学博士
+2002/09-2006/07，中国科学技术大学，材料化学，理学学士
+工作经历 
+2012/04-2016/03，美国南加州大学，电子工程系，博士后
+2016/03-2016/06，美国南加州大学，电子工程系，研究助理教授
+2016/06-2020/12，清华大学，清华-伯克利深圳学院/清华大学深圳国际研究生院，准聘副教授、博导
+2020/12-2022/12，清华大学，清华-伯克利深圳学院/清华大学深圳国际研究生院，长聘副教授、博导，材料研究院副院长
+2022/12-至今，清华大学，清华-伯克利深圳学院/清华大学深圳国际研究生院，长聘教授、博导，材料研究院副院长
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+主讲两门英文专业课程：
+ Materials Chemistry (Fall semester)
+ Materials Characterization: Fundamental and new developments (Spring semester)
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+Mass-production of two-dimensional materials and their applications in energy conversion, electronics, and optoelectronics.
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+Published more than 160 papers in prestigious journals with total citations >21000 and H-index of 64.
+10 selected publications.
+(1)Xu, H.; Ding, B.*; Xu, Y. A.; Huang, Z. Y.; Wei, D. H.; Chen, S. H.; Lan, T. S.; Pan, Y. K.; Cheng, H. M.*; Liu, B. L.*, Magnetically tunable and stable deep-ultraviolet birefringent optics using 2D h-BN material. Nature Nanotechnology, 2022, 17, 1091.
+Research Highlight 1#: Young Hee Lee (Sungkyunkwan University, Korea), 2D material inorganic liquid crystals for tunable deep UV light modulation. National Science Review, 2022, 9, nwac252.
+Research Highlight 2#: Alberto Moscatelli (Chief Editor of Nature Nanotechnology), A 2D material-based liquid crystal for deep-ultraviolet light modulation (Research Briefing). Nature Nanotechnology, 2022, 17, 1050-1051.
+(2)Ding, B. F.+; Zeng, P. Y.+; Huang, Z. Y.; Lan, T. S.; Xu, H.; Pan, Y. K.; Luo, Y. T.; Yu, Q. M.; Cheng, H. M.; Liu, B. L.*, A 2D material–based transparent hydrogel with engineerable interference colours, Nature Communications (Editor’s Choice), 2022, 13, 1212.
+(3)Liu, H. M.+; Xie, R. K.+; Luo, Y. T.; Cui, Z.C.; Yu, Q. M.; Gao, Z.; Zhang, Z.; Yang, F.; Kang, X.; Ge, S. Y.; Li, S. H.; Gao, X. F.; Chai, G. L.; Liu, L.; Liu, B. L.*, Dual interfacial engineering towards superior and stable hydrogen evolution at 2500 mA cm-2, Nature Communications, 2022, 13, 6382.
+(4)Huang, Z. Y.; Lan, T. S.; Dai, L. X.; Zhao, X. T.; Wang, Z. Y.; Zhang, Z. H.; Li, B.; Li, J. L.; Liu, J. G.; Ding, B. F.*; Geim, A. K.; Cheng, H. M.; Liu, B. L.*, Two-Dimensional Functional Minerals as Sustainable Materials for Optics. Advanced Materials (Back Cover), 2022, 34, 2110464.
+(5)Yu, Q. M.; Zhang, Z. Y.; Qiu, S. Y.; Luo, Y. T.; Liu, Z. B.; Yang, F. N.; Liu, H. M.; Ge, S. Y.; Zou, X. L.; Ding, B. F.; Ren, W. C.; Cheng, H. M.; Sun, C. H.*; Liu, B. L.*, A Ta-TaS2 monolith catalyst with robust and metallic interface for superior hydrogen evolution. Nature Communications, 2021, 12, 6051.
+(6)Cai, Z. Y.+; Lai, Y. J.+; Zhao, S. L.; Zhang, R. J.; Tan, J. Y.; Feng, S. M.; Zou, J. Y.; Tang, L.; Lin, J. H.; Liu, B. L.*; Cheng, H. M.*, Dissolution-Precipitation Growth of Uniform and Clean Two-Dimensional Transition Metal Dichalcogenides. National Science Review, 2021, 8, nwaa115.
+Reported by EurekAlert! (AAAS), etc.
+(7) Yang, L. S.; Wang, D. S.; Liu, M. S.; Liu, H. M.; Tan, J. Y.; Wang, Z. Y.; Zhou, H. Y.; Yu, Q. M.; Wang, J. Y.; Lin, J. H.; Zou, X. L.; Qiu, L.; Cheng, H. M.; Liu, B. L., Glue-Assisted Grinding Exfoliation of Large-Size 2D Materials for Insulating Thermal Conduction and Large-Current-Density Hydrogen Evolution (Inner Cover). Materials Today 2021, 51, 145-154.
+(8)Zhang, C.+; Tan, J. Y.+; Pan, Y. K.; Cai, X. K.; Zou, X. L.; Cheng, H. M.*; Liu, B. L.*, Mass Production of Two-Dimensional Materials by Intermediate-Assisted Grinding Exfoliation. National Science Review, 2020, 7, 324-332.
+Research Highlight 1#: Kostya Novoselov (2010 Nobel Prize Laureate in Physics), Grinding exfoliation for scalable production of 2D materials, National Science Review, 2020, 7, 559-560.
+Reported by the EurekAlert! (AAAS), Nanowerk, Physorg, Tsinghua News, etc.
+(9)Zhang, C.+; Luo, Y. T.+; Tan, J. Y.; Yu, Q. M.; Yang, F. N.; Zhang, Z. Y.; Yang, L. S.; Cheng, H. M.; Liu, B. L.*, High-Throughput Production of Cheap Mineral-Based Two-Dimensional Electrocatalysts for High-Current-Density Hydrogen Evolution. Nature Communications, 2020, 11, 3724.
+(10) Luo, Y. T.; Tang, L.; Khan, U.; Yu, Q. M.; Cheng, H. M.; Zou, X. L.*; Liu, B. L.*, Morphology and Surface Chemistry Engineering for pH-Universal Catalysts toward Hydrogen Evolution at Large Current Density, Nature Communications (Editor’s Choice), 2019, 10, 269.
+Research Highlight 1#: Science Foundation in China, 2019, 27, 1.
+Reported by NSFC website, Tsinghua news, etc.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+[1]. 广东省科学技术奖，广东省青年科技创新奖（2022年）
+[2]. 广东省材料研究学会，青年科技奖（2022年）
+[3]. 深圳市优秀教师（2021年）
+[4]. 清华大学优秀博士、硕士学位论文指导教师（多次获得）
+[5]. 纳米研究“青年科学家奖”（Nano Research杂志Young Innovator Award，2021年）
+[6]. 清华大学“学术新人奖”（系清华大学青年教师最高学术荣誉，全校每年10名, 2018年）
+[7]. 中国科学院院长特别奖（2012年）
+[8]. 担任材料学领域综合性国际SCI杂志“Science and Technology of Advanced Materials”的编辑（Associate Editor，2017年8月-至今)
+[9]. 担任国际杂志“Nano Select”的编辑（Associate Editor，2020年4月-至今，Wiley出版社)
+ </奖励荣誉>

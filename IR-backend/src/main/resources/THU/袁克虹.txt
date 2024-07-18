@@ -1,0 +1,84 @@
+{"title":"袁克虹","cnUrl":"http://www.sigs.tsinghua.edu.cn/ykh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/e6/3a/b2a135c44d39802fa310045fb017/d45bbfae-760b-49d5-b6ef-30226a6188d7.jpg","email":"yuankh@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1983年9月-1987年7月 南开大学 数学专业 本科
+1990年9月-1993年7月 北京大学 应用数学专业 硕士
+2002年9月-2005年7月 北京大学 应用数学专业 博士
+工作经历 
+1993年-1999年 深圳速达公司和哈尔滨平凡信息技术公司 总工程师/总经理
+1999年-2002年 美国MGI公司和加拿大的BLJC公司任职 算法工程师
+2003年-2005年 北京大学医学物理和工程北京市重点实验室 高级研发人员
+2006年至今 清华大学深圳研究生院\清华大学医院管理研究院 副教授
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+1、医院信息管理，2、应用统计学
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+1、AI疾病筛查， AI辅助诊断和治疗，AI医疗影像设备
+2、AI医疗政策、互联网医院、医养结合政策和模式研究；
+3、现代信息技术在解决“久病床前无孝子”问题的应用研究。
+主要项目 
+软课题：
+1、深圳市建立卫生健康科技创新共享平台研究，深圳市2018年重大研究课题
+2、深圳市养老保障制度研究， 深圳市2018年重大研究课题
+3、“互联网+”医疗模式和方案，深圳市政府办公室厅（2016）
+4、信息技术提升基层医疗服务的新模式示范及对策(JC20140001)，清华大学深圳研究生院交叉项目
+技术课题：
+1、心电人工智能分析技术研究，横向课题（2018）
+2、基于电子病历的脑卒中疾病评估，横向课题（2018）
+3、脑部组织测量技术\脑部深度学习分割技术，横向课题（2018）
+4、基于影像定量分析和特征可视化的虚拟内窥镜关键技术研究子课题(NO.81230035)，国家自然基金重
+点项目
+5、基于保角映射的虚拟内窥镜平展技术研究 （NO. 2011B050500006），广东省科技计划项目
+6、基于内容图像检索的模糊集检索方法研究(2008B030303055)，广东省科技计划项目
+7、基于医学图像模糊内容检索的关键技术研究（30730036）子课题，国家自然基金重点项目
+8、青藏铁路运营安全保障系统研究(2006BAC07B01）的子课题“青藏铁路运营期防止高原病及健康保障
+关键技术研究”的研究，科技部技术攻关
+ </研究领域>
+<研究成果>
+代表性论文 
+论文：
+1、Sun Yao, Huabei Shi, Sure Zhang, Pei Wang, Xiaobo Zhou, and Kehong Yuan，Rapid and Accurate Segmentation of the Eye and Appendages of CT Images for Precision Radiotherapy， Medical Physics,（accepted）；
+2、Yang Deng, Yao Sun, Yongpei Zhu, Yue Xu, Qianxi Yang, Shuo Zhang, Mingwang Zhu, Jirang Sun, Weiling Zhao, Xiaobo Zhou, Kehong Yuan, Efforts estimation of doctors annotating medical image, http://cn.arxiv.org/abs/1901.02355
+3、Yongpei Zhu, Zicong Zhou, Guojun Liao, Qianxi Yang, Kehong Yuan，The method of multimodal MRI brain image segmentation based on differential geometric features，http://cn.arxiv.org/abs/1811.04281
+4、Yao Sun, Yang Deng, Yue Xu, Shuo Zhang, Mingwang Zhu, Kehong Yuan，A Multi-channel Network with Image Retrieval for Accurate Brain Tissue Segmentation，http://cn.arxiv.org/abs/1808.00457
+5、Yang Deng, Yao Sun, Yongpei Zhu, Mingwang Zhu, Wei Han, Kehong Yuan, A Strategy of MR Brain Tissue Images' Suggestive Annotation Based on Modified U-Net, http://cn.arxiv.org/abs/1807.07510
+6、Yang Deng, Yao Sun, Yongpei Zhu, Shuo Zhang, Mingwang Zhu, Kehong Yuan,DASN:Data-Aware Skilled Network for Accurate MR Brain Tissue Segmentation, http://cn.arxiv.org/abs/1807.08473
+7、C. Duan, K. Yuan, F. Liu, Z. Liang, et al. A Multi-scale Window Scheme for Bladder Abnormality Detection with Application to MR Cystography, IEEE Trans. on Information Technology in Biomedicine,2012, 16(4). 2012, 16(4)：720-729
+8、C. Duan, K. Yuan, F. Liu, Z. Liang, et al. Volume-based Feature for Detection of Bladder Wall Abnormal Region via MR Cystography, IEEE Transaction on Biomedical Engineering，2011, 58(9):2506-2512
+9、Tian, Zhen; Jia, Xun;Yuan Kehong; Pan, Tinsu; Jiang, Steve B，Low-dose CT reconstruction via edge-preserving total variation regularization，Physics in Medicine and Biology, 2011,56(18):5949-5967..
+10、Xu, Quansheng; Yuan, Kehong; Ye, Datian, Respiratory motion blur identification and reduction in ungated thoracic PET imaging , Physics in Medicine and Biology, 2011,56(14):4481-4498.
+11、Kehong Yuan, Zhen Tian, Jiying Zou, Yanling Bai, Qingshan You, Brain CT image database for medical diagnosis using content-based image retrieval, Information Processing & Management, 2011,47(2): 176-185
+12、Weixiang Liu, Kehong Yuan, Datian Ye, Reducing Microarray Data via Nonnegative Matrix Factorization for Visualization and Clustering Analysis, Journal of Biomedical Informatics, 2008，41(4): 602-606
+会议：
+1、Shuge Lei, Jing Zheng, Yongpei Zhu, and Kehong Yuan*，Construction of Value Network Based on Electronic Medical Records of Stroke, 2018 International Conference on Brain Informatics (BI'18)
+2、Xinlong Sun, Deqi Cui, Mengqiao Li, Zhengzhong Yi, Shuo Zhang,Pei Wang, Kehong Yuan*，An end-to-end triple cascade CNN forautomatic segmentation of parotid glands in radiation therapy，IEEE Inter. Conf. on Medical Imaging Physics and Engineering(MIPE’17)
+3、Liu Fanghua, Duan Chaijie, Yuan Kehong, Liang Zhengrong, Bao Shanglian. Detecting bladder abnormalities based on inter-layer intensity curve for virtual cystoscopy, MICCAI 2010: Virtual Colonoscopy and Abdominal Imaging. Computational Challenges and Clinical Opportunities pp 76-83.
+代表性著作 
+主要专利成果 
+1、多通道头部磁共振成像组织分割方法，201910007020.4
+2、一种用于磁共振脑组织精确分割的数据感知方法，201910006926.4
+3、一种基于BI-RADS乳腺超声图像多尺度融合的分类方法，201810790245.7
+4、基于深度信息的跌倒检测方法及系统，201810611424.2，
+5、肺结节筛查的新型深度网络结构的设计，201810611520.4
+6、一种疾病筛查和诊断系统， 201811404331.6
+7、一种基于深度学习的图片生成方法及生成对抗网络 201710346320.6
+8、一种电子病历的检索方法及系统 201710340142.6
+9、一种基于视频的跌倒检测方法 201710353563.2
+10、基于病历数据库的虚拟名医，ZL201510665261X
+11、基于结构化病历数据库的参考病历检索方法及装置，ZL2015102688754
+12、心电正/异常大数据处理方法及装置 ， ZL2015102688612
+13、基于心脏CT图像的全心脏提取方法 ZL201410210011.2
+14、基于非线性渐变模型的心脏图像底部自动提取方法 ZL201410210245.7
+15、基于CTA图像的腹主动脉瘤外边界分割方法. ZL 201410210017X.
+16、肺部CT三维配准方法, ZL 201410209850.2.
+17、一种医学图像目标区域勾画方法 ZL201110302081.7
+18、一种腔体内壁三维形态的重建方法 ZL201110284872.1
+其他成果 
+ </研究成果>

@@ -1,0 +1,48 @@
+{"title":"颜昊","cnUrl":"http://www.sigs.tsinghua.edu.cn/yh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/69/a7/26f29b964906b32cafc27b3b869d/14c1d0d8-55e0-44ee-8ba0-7c2425f93dd8.jpg","email":"hyan23@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+颜昊博士于2023年1月加入清华大学深圳国际研究生院担任助理教授。颜昊的主要研究兴趣为光学生物材料、活体生物成像、单细胞分析和时空单细胞组学技术等。颜昊近几年的研究重点主要通过构建多特异性光子生物材料来操控光子从而实现对活体肿瘤的成像、光疗和单细胞分析，近五年在纳米医学、分子成像和单细胞分析领域以第一作者或共同通讯作者发表（或接收）论文10篇，包括Adv. Mater.，Biomaterials和Adv. Funct. Mater等。此外，在过去的四年里，颜昊在哈佛大学医学院Andy Yun实验室领导完成了一项美国国立卫生院（NIH） R01项目，并作为核心成员参与了NIH主任先锋奖和NIH主任变革研究奖等重大项目。
+其他介绍信息：
+LinkedIn: https://www.linkedin.com/in/hao-yan-88634594/.
+教育经历 
+2012年09月-2018年07月，清华大学，材料科学与工程专业，博士（硕博连读）
+2008年09月-2012年07月，天津大学，材料化学专业，学士
+工作经历 
+2023年01月-至今，清华大学深圳国际研究生院，材料研究院，助理教授
+2019年03月-2022年12月，哈佛大学医学院&麻省总医院，博士后研究员
+2018年09月-2019年01月，清华大学材料学院，研究助理
+学术兼职 
+期刊审稿人：Biomaterials, Theranostics, Advanced Healthcare Materials, Frontiers in Immunology, Biomedical microdevices, Nanomedicine等。
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+颜昊的主要研究兴趣为光学相关的生物材料、器件和生物医学技术。希望在对疾病的组织、细胞和分子尺度理解的基础上，构建能够影响、增强和读取特定细胞功能和分子信息的生物材料，用于肿瘤等疾病的快速精准诊断和单细胞分析，并架起单细胞组学技术和医学分子影像匹配融合的桥梁。具体研究兴趣为：
+1，蛋白尺度的超多色发光石墨烯量子点的构建，以及超多通路流式细胞分析/分选新技术的研发；
+2，柔性、贴片式单细胞标记材料&器件的研发，及在空间单细胞组学技术的应用；
+3，可用于活体局部精准治疗的基因编辑工具递送载体材料和技术；
+4，时空单细胞组学/多组学技术相关的材料、生物技术、分析算法和活体应用；
+我们正在寻找充满激情、积极进取、雄心勃勃和富有创造力的年轻科学家（博士研究生、硕士研究生和博士后）加入我们的团队，有意者请将个人CV发送至hyan23@sz.tsinghua.edu.cn。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+近五年代表性论文：
+1. H. Yan, XD Sun*, J Tian*, FY Kang*, et.al. Planted graphene quantum dots for targeted, enhanced tumor imaging and long-term visualization of local pharmacokinetics. Advanced Materials, 2023: 2210809.
+2. H. Yan, SH Yun*, et.al. All-natural-molecule, self-luminescent photodynamic therapy results in complete tumor regression and prevents metastasis, Biomaterials, 2023: 122079.
+3. Q. Wang, JY. Wang, H. Yan*, et al. An ultra-small bispecific protein augments tumor penetration and treatment for pancreatic cancer. European Journal of Nuclear Medicine and Molecular Imaging, 2023: 1-15.（医学大类一区）
+4. Q. Wang#, H. Yan# (co-first author), J Tian*, XM Zhao* et.al. Construction of a novel bispecific fusion protein to enhance targeting for pancreatic cancer imaging, Biomaterials. 2020, 255: 12061-12070.
+5. H. Yan, FY Kang*, et.al. Neoadjuvant nano-photothermal therapy used before operation effectively assists in surgery for breast cancer, Nanoscale, 2019, 2: 706-716.
+6.  Q. Wang#, H. Yan#(co-first author), J Tian*, XM Zhao* et.al. A novel plectin/integrin-targeted bispecific molecular probe for magnetic resonance/near-infrared imaging of pancreatic cancer, Biomaterials. 2018, 183: 173-184.
+7. H. Yan, J Tian*, FY Kang*, et.al. All-in-One Nanoparticles for Trimodality Imaging-Guided Intracellular Photo-magnetic Hyperthermia Therapy under Intravenous Administration, Advanced Functional Materials. 2018, 1705710.
+8. H. Yan, XD Sun*, FY Kang*, et.al. General synthesis of high-performing magneto-conjugated polymer core-shell nanoparticles for multifunctional theranostics, Nano Research. 2017, 10:704-717.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+清华大学优秀学生干部（2013）
+天津市优秀毕业生（2012）
+天津大学优秀学生党员（2011）
+ </奖励荣誉>

@@ -1,0 +1,38 @@
+{"title":"冯海刚","cnUrl":"http://www.sigs.tsinghua.edu.cn/fhg/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/7f/ec/be0f4ee64adf9177bf0c5e20e554/85af1c9b-e081-4bfb-8117-c6e8a0da2aec.jpg","email":"feng.haigang@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+近10年美国顶级公司工作经验，承担及主持多项产品设计、测试和量产。产品涉及低功耗蓝牙、无线通讯和物联网。主持多项物联网和无线通讯领域课题研究。
+教育经历 
+1993年9月~1998年5月，清华大学 电子工程系 工学学士 
+1999年5月~2005年5月，美国伊利诺伊理工学院 电子与计算机系 工学博士
+工作经历 
+2005年3月~2006年12月，美国RF Micro Device公司工作
+2006年12月~2014年9月，美国Qualcomm公司工作
+2014年10月～今，清华大学深圳研究生院 副研究员
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+硕士生英语, 模拟电路
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+低功耗高性能无线通讯、物联网设计
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Qian Chen, et al, “A Single Chain 800M/1.8G/2.4GHz Multi-standard Transceiver with Multi-branch Transformer for Low-cost IoT Applications”, IEEE Transactions on Circuits and Systems II: Express Briefs, vol:69, issue:12, 2022, pp.4684-4688
+[2] Qi Xiao, et al, “A DC-10GHz SPDT RF Switch with Bulk Self-Biasing Technique in 0.25µm BiCMOS Process”, 2022 IEEE 5th International Conference on Electronics Technology (ICET), 2022, pp.1-4
+[3] Haigang Feng; Wang, A.Z.; et al; “A mixed-mode ESD protection circuit simulation-design methodology”, Solid-State Circuits, IEEE Journal of, Volume: 38 , Issue: 6, 2003 , Page(s): 995 – 1006
+[4]Feng, H.; Zhan, R.; Wang, A.Z.; et al; “RC-SCR: very-low-voltage ESD protection circuit in plain CMOS”, Electronics Letters Volume: 38 , Issue: 19 2002 , Page(s): 1099 – 1100
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+深圳市高层次人才、广东省高层次人才
+ </奖励荣誉>

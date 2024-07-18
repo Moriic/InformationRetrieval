@@ -1,0 +1,71 @@
+{"title":"戴琼海院士","cnUrl":"http://www.sigs.tsinghua.edu.cn/dqhys/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/ad/75/1700b25343be89a27c8d2bbfd209/f7a28b9a-b41f-4804-b3ea-c1712107386e.jpg","email":"qhdai@tsinghua.edu.cn"}
+<个人简历>
+概况 
+1964年12月生。清华大学自动化系教授，清华大学生命科学学院兼职教授，中国工程院院士。
+长期致力于立体视觉和计算摄像理论、关键技术研究与人才培养，主持承担了国家科技部重大基础研究973项目和国家基金委重大仪器项目，在立体视觉、三维重建和计算摄像仪器等方面做了基础性和开拓性工作，获国家技术发明一等奖、国家技术发明二等奖和国家科技进步二等奖各一项。
+20年来，培养研究生及博士后近百名，出版专著3部，发表论文百余篇，授权发明专利76件。
+教育经历 
+1987年 陕西师范大学，获工学学士学位
+1994年、1996年 分别获东北大学工学硕士和博士学位学位
+工作经历 
+1999年至今在清华大学自动化系工作
+学术兼职 
+社会兼职 
+2017年 - 至今 中国工程院院士
+ </个人简历>
+<研究领域>
+研究领域 
+1.智能视觉：探索压缩感知与机器学习的机理和模型，并用于视觉感知、立体重建和图像（视频）检索与挖掘，用于智能机器检测，智能无人机，智能医疗，VR/AR，研制智能十亿像素动态光场成像，用于科学观测和城市监控。
+2.智能成像：将智能技术与光学成像技术结合，研究多维多尺度高分辨率智能计算成像技术，可为发现大脑感知和运行新现象、揭示神经网络计算机制，探索脑疾病病理和机理，提供观测工具和海量基础数据，建立脑科学与人工智能的桥梁，为人工智能的发展提供新的思路。
+国家自然科学基金委重大仪器专项，“多维多尺度高分辨率计算摄像仪器”，61327902，负责人
+国家重点基础研究发展计划资助（973)，“复杂条件下飞行器进近可视导航的基础理论研究”，2010CB731800，首席科学家
+国家杰出青年基金，“光场及立体视频研究”，60525111，负责人
+国家自然科学基金委国际合作项目“计算摄像学中的新理论及新方法”， 61120106003，负责人
+国家自然科学基金委重点项目，“数据驱动的多维媒体感知与理解”， 61035002，负责人
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+代表性著作 
+主要专利成果 
+其他成果 
+在本领域发表的文章SCI收录67篇；出版编著1部，译著2部；获得中国发明专利授权62项。
+代表论文：
+1.Jingyu Lin, Yebin Liu, Jinli Suo and Qionghai Dai, Frequency-Domain Transient Imaging, IEEE Transactions on Pattern Analysis and Machine Intelligence, 39(5), 937-950 (2017).
+2.Yuwang Wang, Yang Liu, Jinli Suo, Guohai Situ, Chang Qiao and Qionghai Dai, High Speed Computational Ghost Imaging via Spatial Sweeping, Scientific Reports, 7, 45325 (2017).
+3.Ziwei Li, Jinli Suo, Xuemei Hu, Chao Deng, Jingtao Fan, and Qionghai Dai, Efficient single-pixel multispectral imaging via non-mechanical spatio-spectral modulation, Scientific Reports, 7, 41435 (2017).
+4.Yue Deng, Feng Bao, Yang Yang, Xiangyang Ji, Mulong Du,Zhengdong Zhang, Meilin Wang, and Qionghai Dai, Information transduction capacity reduces the uncertainties in annotation-free isoform discovery and quantification, Nucleic Acids Research, 45(15), e143 (2017).
+5.Jiamin Wu, Bo Xiong, Xing Lin, Jijun He, Jinli Suo and Qionghai Dai, Snapshot Hyperspectral Volumetric Microscopy, Scientific Reports, 6, 24624 (2016).
+6.Genzhi Ye, Elena Garces,Yebin Liu,Qionghai Dai and Diego Gutierrez, Intrinsic Video and Applications, ACM Transactions on Graphics, 33(4), 80 (2014).
+7.Genzhi Ye, Sundeep Jolly, V. Micleal Bove, Qionghai Dai, Ramesh Raskar and Gorden Wetzstein, Toward BxDF Display using Multilayer Diffraction, ACM Transactions on Graphics, 33(6), 191 (2014).
+8.Xing Lin, Yebin Liu, Jiamin Wu and Qionghai Dai, Spatial-spectral Encoded Compressive Hyperspectral Imaging, ACM Transactions on Graphics, 33(6), 233 (2014).
+9.Di Wu, Andreas Velten, Matthew O’Toole, Belen Masia, Amit Agrawal, Qionghai Dai and Ramesh Raskar, Decomposing Global Light Transport using Time of Flight Imaging, International Journal of Computer Vision, 107(2), 123–138 (2014).
+10.Di Wu, Gordon Wetzstein, Christopher Barsi, Thomas Willwacher, Qionghai Dai and Ramesh Raskar, Ultra-fast Lensless Computational Imaging through 5D Frequency Analysis of Time-resolved Light Transport, International Journal of Computer Vision, 110(2), 128-140 (2014).
+11.Chenguang Ma, Xing Lin, Jinli Suo, Qionghai Dai, and Gordon Wetzstein, Transparent object reconstruction via coded transport of intensity, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 3238-3245 (2014)
+12.Chenguang Ma, Xun Cao, Xin Tong, Qionghai Dai and Stephen Lin, Acquisition of High Spatial and Spectral Resolution Video with a Hybrid Camera System, International Journal of Computer Vision, 110(1), 141-155 (2014).
+13.Yangang Wang, Jianyuan Min, Jianjie Zhang, Yebin Liu, Feng Xu, Qionghai Dai and Jinxiang Chai, Video-based Hand Manipulation Capture Through Composite Motion Control, ACM Transactions on Graphics, 32(4), 43 (2013).
+14.Yue Deng, Qionghai Dai, Risheng Liu, Zengke Zhang and Sanqing Hu, Low-Rank Structure Learning via Nonconvex Heuristic Recovery, IEEE Transactions on Neural Networks and Learning Systems, 24(3), 383–396 (2013).
+15.Guannan Li, Chenglei Wu, Carsten Stoll, Yebin Liu, Kiran Varanasi, Qionghai Dai and Christian Theobalt, Capturing Relightable Human Performances under General Uncontrolled Illumination, Computer Graphics Forum, 32(2), 275-284 (2013).
+16.Ruiping Wang, Huimin Guo, Larry S. Davis, and Qionghai Dai, Covariance discriminative learning: A natural and efficient approach to image set classification, IEEE Conference on Computer Vision and Pattern Recognition (CVPR ), 157(10), 2496-2503 (2012).
+17.Yue Gao, Jinhui Tang, Richang Hong, Shuicheng Yan, Qionghai Dai, Camera Constraint-Free View-Based 3-D Object Retrieval, IEEE Transactions on Image Processing, 21(4), 2269-2281 (2012).
+18.Yue Gao, Meng Wang, Dacheng Tao, Rongrong Ji and Qionghai Dai, 3-D object retrieval and recognition with hypergraph analysis, IEEE Transactions on Image Processing, 21(9), 4290-4303 (2012).
+19.Changjun Fu, Xiangyang Ji and Qionghai Dai, Adaptive Compressed Sensing Recovery Utilizing the Property of Signal's Autocorrelations, IEEE Transactions on Image Processing, 21(5), 2369-2378 (2012). (Downloaded 1542 times)
+20.Kun Li, Qionghai Dai, Wenli Xu,and Jingyu Yang, Temporal-Dense Dynamic 3-D Reconstruction With Low Frame Rate Cameras, IEEE Journal of Selected Topics in Signal Processing, 6(5), 447-459 (2012).
+21.Yue Deng, Yebin Liu, Qionghai Dai, Zengke Zhang and Yao Wang, Noisy Depth Maps Fusion for Multiview Stereo Via Matrix Completion, IEEE Journal of Selected Topics in Signal Processing, 6(5), 566-582 (2012).
+22.Jinli Suo, Xilin Chen, Shiguang Shan, Wen Gao and Qionghai Dai, A Concatenational Graph Evolution Aging Model, IEEE Transactions on Pattern Analysis and Machine Intelligence, 34(11), 2083-2096 (2012).
+23.Feng Xu and Qionghai Dai, Occlusion-Aware Motion Layer Extraction Under Large Interframe Motions, IEEE Transactions on Image Processing, 20(9), 2615-2626 (2011).
+24.Xun Cao, Hao Du, Xin Tong, Qionghai Dai and Stephen Lin, A Prism-Mask System for Multispectral Video Acquisition, IEEE Transactions on Pattern Analysis and Machine Intelligence, 33(12), 2423-2435 (2011).
+25.Feng Xu, Yebin Liu, Carsten Stoll, James Tompkin, Gaurav Bharaj, Qionghai Dai, Hans-Peter Seidel, Jan Kautz and Christian Theobalt, Video-based Characters –Creating New Human Performances from a Multi-view Video Database, ACM Transactions on Graphics, 30(4), 32 (2011).
+26.Chenglei Wu, Yebin Liu, Qionghai Dai, and Bennett Wilburn, Fusing Multiview and Photometric Stereo for 3D Reconstruction under Uncalibrated Illumination, IEEE Transactions on Visualization and Computer Graphics, 17(8), 1082-1095 (2011).
+27.Jingyu Yang, Yao Wang, Wenli Xu, and Qionghai Dai, Image and Video Denoising Using Adaptive Dual-tree Discrete Wavelet Packets, IEEE Transactions on Circuits and Systems for Video Technology, 19(5), 642-655 (2009).
+28.Jingyu Yang, Yao Wang, Wenli Xu, and Qionghai Dai, Image Coding Using Dual-tree Discrete Wavelet Transform, IEEE Transactions on Image Processing, 17(9), 1555-1569 (2008).
+29.Wei Jiang, Guihua Er and Qionghai Dai, Similarity-based Online Feature Selection in Content-based Image Retrieval, IEEE Transactions on Image Processing, 15(3), 702-712 (2006).
+30.Qionghai Dai, Xinjian Chen and Chuang Lin, Fast Algorithms for Multidimensional DCT-to-DCT Computation Between A block And Its Associated Sub-blocks, IEEE Transactions on Signal Processing, 53(8), 3219-3225 (2005).
+31.Qionghai Dai, Xinjian Chen and Chuang Lin, A Novel VLSI Architecture for Multidimensional Discrete Wavelet Transform, IEEE Transactions on Circuits and Systems for Video Technology, 14(8), 1105-1110 (2004).
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2016年 “新一代立体视觉关键技术及产业化”获国家科学技术进步奖二等奖
+2012年 “立体视频重建与显示技术及装置”获得国家科学技术发明一等奖
+2008年 “基于融合网络的流媒体新技术”国家科学技术发明二等
+ </奖励荣誉>

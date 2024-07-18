@@ -1,0 +1,85 @@
+{"title":"夏必忠","cnUrl":"http://www.sigs.tsinghua.edu.cn/xbz/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/73/dc/f3217c4a45599a530c8e29f495c4/e30869b0-08ec-49bc-b5ba-be5414365253.jpg","email":"xiabz@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1988.9-1992.7 重庆大学机械工程一系机械设计与制造专业，工学学士 
+1992.9-1995.7 重庆大学机械工程一系流体传动及控制专业，工学硕士 
+1999.9-2003.12 浙江大学流体传动及控制国家重点实验室，工学博士
+2004.1-2006.5 清华大学精密仪器与机械学系，博士后 
+2006.8至今 清华大学深圳研究生院制造技术与系统研究所，讲师，副研究员
+教育经历 
+工作经历 
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+长期从事机械电子控制工程相关领域的研究工作，主要包括智能制造技术与装备，电动汽车BMS关键技术，机器人的机构和控制技术等研究方向。负责或参与国家自然科学基金、教育部新教师基金、“973”项目、“863”及企业横向课题等20余项科研项目，已获授权发明专利20余项，在国内外期刊及会议发表论文50余篇，其中已被SCI、EI收录论文近40余篇。主持和主研的代表性科技项目如下：
+1.“973计划”项目：全断面大型掘进装备设计制造中的基础科学问题，主要学术骨干，2007.7-2011.8； 
+2.国家自然科学基金项目：双组元原动式往复液压泵流量特性研究，50875150，项目负责人，2009.1-2011.12； 
+3.教育部新教师基金项目：双组元液压自由活塞发动机的研究，项目负责人，2009.1-2011.12； 
+4.深圳市基础研究计划重点项目：单组元微型透平发电系统的研究，项目负责人，2009.9-2012.6； 
+5.深圳市重大产业技术公关计划项目：电动汽车用锂离子动力电池组的电源管理系统研发及产业化，项目负责人，2009.10-2011.10； 
+6.总装备部武器装备预研重点基金项目：高能量密度的微型发电系统的研制，主研人，已完成； 
+7.中国博士后科学基金资助项目：两冲程微型摆式自由活塞内燃机中气流组织的数值模拟研究，项目负责人，已完成； 
+8.企业研发项目：磁盘驱动架虚拟制造及有限元分析技术开发，负责人之一，已完成。 
+9.企业研发项目：纳米粉体研磨分散机的关键技术研究，项目负责人，已完成。 
+10.企业研发项目：电容器/超级电容器的组套机的关键技术研究，项目负责人，已完成。 
+11.深圳市新能源专项项目：智能电网锂离子电池储能装置的技术开发及应用，负责人之一，进行中； 
+12.深圳市基础研究计划项目：电动汽车SOC精确实时估算技术研究，项目负责人，进行中。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Tian Yong, Li Dong, Tian Jindong. State of charge estimation of lithium-ion batteries using an optimal adaptive gain nonlinear observer. Electrochimica Acta,2017,225, 225-234. 
+[2] Xia Bizhong, Ren Shiyuan, Shang Xin. Dynamic analysis and optimization of cutting mechanism about aluminum electrolytic capacitor casing machine.  Proceedings of the Institution of Mechanical Engineers Part K-Journal of Multi-Body Dynamics(JCR三区). Dec, 2016,230(4): 368-378.
+[3] Bizhong Xia, Haiqing Wang, Yong Tian etc. State of Charge Estimation of Lithium-Ion Batteries Using an Adaptive Cubature Kalman Filter, energies (JCR二区),2015,8,5916-5936.
+[4] Bizhong Xia, Chaoren Chen, Yong Tian etc. State of charge estimation of lithium-ion batteries based on an improved parameter identification method, Energy(JCR一区), 2015, 90, 1426-1434.
+[5] Bizhong Xia, Haiqing Wang, Mingwang Wang etc. A New Method for State of Charge Estimation of Lithium-Ion Battery Based on Strong Tracking Cubature Kalman Filter. Energies (JCR二区),2015,8,13458-13472.
+[6] Bizhong Xia, Cuiping Yuan, Yong Tian etc. Disturbance estimation and compensation for planar motors on the long-stroke stage of a wafer stage. Journal of Advances in Mechanical Engineering (JCR 三区)，2015,4:1-10.(SCI)
+[7] Bizhong Xia, Chaoren Chen, Yong Tian, Wei Sun, Zhihui Xu and Weiwei Zheng. A novel method for state of charge estimation of lithium-ion batteries using a nonlinear observer. Journal of Power Sources (JCR一区), 2014, 270: 359-366. (SCI)
+[8] Bizhong Xia, Sa Wang, Yong Tian, Wei Sun, Zhihui Xu and Weiwei Zheng. Simulation and Implementation of State-of-Charge Estimation of Power Lithium-ion Battery Using Energy Method. Proceedings of the 2014 9th IEEE Conference on Industrial Electronics and Applications, ICIEA 2014, June 9-11, 2014, Hangzhou, China, pp. 948-953. (EI).
+[9] Bizhong Xia, Sa Wang, Yong Tian, Wei Sun, Zhihui Xu and Weiwei Zheng. Experimental Research on the LiNixCoyMnzO2 Lithium-ion Battery Characteristics for Model Modification of SOC Estimation. Information Technology Journal, 2014, 13(15): 2395-2403.
+[10] Yong Tian, Bizhong Xia, Wei Sun, Zhihui Xu and Weiwei Zheng. A modified model based state of charge estimation of power lithium-ion batteries using unscented Kalman filter. Journal of Power Sources(JCR一区), 2014, 270: 619-626. (SCI)
+[11] Yong Tian, Chaoren Chen, Bizhong Xia, Wei Sun, Zhihui Xu and Weiwei Zheng. An Adaptive Gain Nonlinear Observer for State of Charge Estimation of Lithium-Ion Batteries in Electric Vehicles. Energies (JCR三区), 2014, 7: 5995-6012. (SCI)
+[12] Tian Yong, Xia Bizhong, Wang Mingwang, Sun Wei and Xu Zhihui. Comparison Study on Two Model-Based Adaptive Algorithms for SOC Estimation of Lithium-Ion Batteries in Electric Vehicles, Energies(JCR三区), 2014, 7: 8446-8464. (SCI)
+[13] Yong Tian, Bizhong Xia, Zhihui Xu, Wei Sun. Modified Asymmetrical Variable Step Size Incremental Conductance Maximum Power Point Tracking Method for Photovoltaic Systems. Journal of Power Electronics (JCR三区)，2014，14(1): 156-164. (SCI) 
+14] Tian Yong, Xia Bizhong, Sun Wei, Xu Zhihui and Zheng Weiwei. Modeling and global maximum power point tracking for photovoltaic system under partial shading conditions using modified particle swarm optimization algorithm. Journal of Renewable and Sustainable Energy (JCR三区), 2014, 6(063117): 1-17. (SCI)
+[15] Yong Tian, Bizhong Xia, Wei Sun, Zhihui Xu and Weiwei Zheng. SoC Estimation of LiNi1/3Co1/3Mn1/3O2 Battery Using Unscented Kalman Filtering Method. Proceedings of the 2014 9th IEEE Conference on Industrial Electronics and Applications, ICIEA 2014, June 9-11, 2014, Hangzhou, China, pp. 883-887. (EI)
+[16] Xiaoliang Li, Bizhong Xia and Weiwei Zheng. Analysis on power battery performance test and consistency in packing process. Advances in Mechanical and Electronic Engineering, 2012, 177(2): 71-76. (EI)
+[17] Yong Tian, Bizhong Xia, Zhihui Xu, Wei Sun, Weiwei Zheng. A Review on Inductive Power Transfer Systems for Roadway Powered Electric Vehicles. Transactions of China Electrotechnical Society (supplement), 2013, 28(2): 1-6. (EI)
+[18] Yong Tian, Bizhong Xia, Yue Sun, Zhihui Xu, Wei Sun. Modeling for Segmented Tracks Planning of Roadway-Powered Electric Vehicles. Applied Mechanics and Materials, 385-386(2013): 1159-1163. (EI)
+[19] 夏必忠, 汪劲松等. 单组元发动机—能量自治机器人的新型动力源,机械工程学报:2009,45(8):155-162.(EI)
+[20] 夏必忠, 王学灵, 汪劲松等. 双组元液压自由活塞发动机的研究背景与可行性分析,中国机械工程:2008,19(20),2469-2475.(EI)
+[21] 夏必忠, 张辉, 叶佩青等. 微型摆式内燃发电机的频率特性研究,农业机械学报:2006,37(2):1-3.(EI)
+[22] 王学灵,夏必忠, 毛乐山等. 微型透平气动马达内部流场仿真研究,机械设计: 2009, 26(7), 55-58.
+[23] 夏必忠, 叶佩青,张辉等. 微型摆式内燃发电机的循环能量分析及效率计算,机械科学与技术:2006,25(5):505-508.
+[24] 杨华勇,夏必忠,傅新. 液压自由活塞发动机的发展历程及研究现状, 机械工程学报,2001,37(2):1-7. (EI)
+[25] 夏必忠,傅　新,杨华勇. 液压自由活塞发动机的能量平衡分析,内燃机工程, 2002, 23(3): 76-80. (EI)
+[26] 杨华勇,夏必忠,傅新. 液压自由活塞发动机——未来的动力之星,中国机械工程,2001,12(3):353-357. (EI) 
+[27] Bizhong Xia，Xueling Wang and Pingfa Feng. Research on the Relationships between Blade Angles and External Characteristics of a Centimeter Scale Pneumatic Turbine. Applied Mechanics and Materials Vols. 26-28 (2010) pp 1119-1125. (EI)
+[28] Xia Bizhong，Li Xiaoliang，Xie Haibo，Yang Huayong. Modeling and simulation of dynamic characteristics of a bipropellant-powered hydraulic free piston engine，Proceedings of the 2011 2nd International Conference on Digital Manufacturing and Automation, ICDMA 2011. (EI) 
+[29] Xia, Bizhong ; Feng, Pingfa ; Yang, Huayong. Modeling and analysis on servo adjustment of bidirectional variable displacement pump in hydraulic drive system of the cutter head in a shield tunneling machine，Applied Mechanics and Materials. (EI)
+[30] Xia, Bizhong ; Feng, Pingfa ; Yang, Huayong. Modeling and simulation of the dynamic characteristics of a hydraulic power limiting valve with two-spring, Applied Mechanics and Materials, (EI)
+[31] Chun-Peng Li, Bizhong Xia, Xiaoliang Li ,and Weiwei Zheng. A new type battery equalization circuit of electric vehicle. Advanced Materials Research Vols. 535-537 (2012) pp 495-499. (EI)
+[32] Bizhong Xia, Gang Su, Haibo Xie, Huayong Yang . Analysis on Energy-flow of a bipropellant-powered Hydraulic Free Piston Engine. Applied Mechanics and Materials Vols. 121-126 (2012) pp 3102-3106. (EI)
+[33] Yongbin Lv, Bizhong Xia, and Weiwei Zheng. Smart charge/discharge management system of a portable computer with dual batteries. Advanced Materials Research Vols. 542-543 (2012) pp 1222-1226. (EI) 
+代表性著作 
+主要专利成果 
+[1] 夏必忠，汪劲松，郁鼎文等.单活塞式单组元液压自由活塞发动机，ZL20061006494.0.
+[2] 夏必忠，汪劲松，杨华勇等.双组元液压自由活塞发动机，ZL200710069867.2.
+[3] 夏必忠，汪劲松，王立平等.透平气动马达，ZL200710076497.5.
+[4] 夏必忠，汪劲松，张辉等.单组元微型透平发电系统，ZL200710076496.0.
+[5] 夏必忠，汪劲松，杨华勇等.双组元单活塞式液压自由活塞发动机，ZL200710124791.1.
+[6] 夏必忠，冯平法，杨华勇，汪劲松等.步进式功率限制阀，ZL201010607350.5.
+[7] 夏必忠，冯平法，杨华勇，汪劲松等.比例控制式功率限制阀，ZL201010607417.6.
+[8] 夏必忠，叶佩青，汪劲松，张辉等.透平气动主轴， ZL200710076497.6.
+[9] 夏必忠，叶佩青，汪劲松，张辉等.透平气浮主轴，ZL201210114398.
+[10] 夏必忠，吕永斌，何军平等.电池电量自动均衡电路及其实现方法，ZL201110167491.5. 
+[11] 夏必忠，窦吉庆，何军平等.一种电动汽车车载双向充电机，ZL201110167515.7.
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1.“高性能便携式计算机锂电池组”,深圳市科技进步一等奖（本人排名第二），2015年； 
+2.用于实践教学的基于USB2.0接口的外置式多通道A/D卡（本人排名第二），清华大学第十届实验技术成果二等奖，2008.5。
+ </奖励荣誉>

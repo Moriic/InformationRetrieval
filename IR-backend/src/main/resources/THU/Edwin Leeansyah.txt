@@ -1,0 +1,89 @@
+{"title":"Edwin Leeansyah","cnUrl":"http://www.sigs.tsinghua.edu.cn/Edwin/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/ba/e3/12d2922640559fd766539fc31289/b2658921-d95b-4a12-90fa-45116d753702.jpg","email":"edwin.leeansyah@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2004.3 – 2008.12, Ph.D., Immunology, Monash University, Australia. Thesis title: ‘The effect of HIV-1 infection on FcγR signalling and function’.
+2003.2 – 2003.12, B.Biomed.Sc (Hons)., Biomedicine, Monash University, Australia. Dissertation title: ‘HIV-1 infection of monocyte-derived macrophages specifically inhibits signalling via CD64’. First Class Honours.
+2000.3 – 2002.12, B.Biomed.Sc., Biomedicine, Monash University, Australia.
+工作经历 
+2023.12-present, Associate Professor, Tsinghua Shenzhen International Graduate School (Tsinghua SIGS)
+2020.2-2023.12, Assistant Professor, Tsinghua Shenzhen International Graduate School (Tsinghua SIGS), The People's Republic of China
+2016.2-2019.12, Adjunct Assistant Professor, Programme in Emerging Infectious Diseases, Duke-NUS Medical School, Singapore 
+2014.10- 2019.12, Research Assistant Professor, Center for Infectious Medicine, Karolinska Institutet, Stockholm, Sweden
+2010.10-2014.10, Postdoctoral fellow; Advisor: Prof. Johan K. Sandberg. Center for Infectious Medicine, Karolinska Institutet, Stockholm, Sweden
+2009.10-2010.10, Postdoctoral fellow; Advisor: Prof. Sharon R. Lewin. Department of Medicine, Monash University, Melbourne, Australia.
+2008.4-2009.09, Postdoctoral fellow (60%); Advisor: Prof. Stuart Berzins. Department of Microbiology and Immunology, the University of Melbourne, Melbourne, Australia.
+学术兼职 
+· Member of Singapore Society for Immunology, Swedish Society for Immunology, Scandinavian Society for Immunology, Swedish Institute Network for Future Global Leaders, associate member of Swedish Society of Medicine
+· Guest Associate Editor Frontiers in Immunology, Guest Editor Viruses, Academic Editor Medicine
+· Grant and fellowship reviewers for the United Kingdom Medical Research Council, the Royal Society, the Wellcome Trust, and the French National Research Agency 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+1. The immunobiology of innate-like T cells in health, infectious diseases, and mucosal malignancies 
+2. Application of innate-like T cells in immunotherapy settings against infectious diseases and mucosal malignancies
+3. Mucosal and innate immunity 
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+ For complete publication list, please go to 
+https://pubmed.ncbi.nlm.nih.gov/?term=leeansyah&sort=pubdate
+1.C. Boulouis, W. R. Sia, M. Y. Gulam , J. Q. M. Teo , Y. T. Png, T. K. Phan, J. Y. M. Mak , D. P. Fairlie, I. K. H. Poon, T. H. Koh, P. Bergman, C. M. Lim, L-F. Wang, A. L. H. Kwa, J. K. Sandberg, and E. Leeansyah. Human MAIT cell cytolytic effector proteins synergize to overcome carbapenem resistance in Escherichia coli. PLoS Biol. 2020 18(6):e3000644. doi: 10.1371/journal.pbio.3000644.
+2.C. Boulouis C, J. B. Gorin , J. Dias , P. Bergman , E. Leeansyah, and J. K. Sandberg. Opsonization-Enhanced Antigen Presentation by MR1 Activates Rapid Polyfunctional MAIT Cell Responses Acting as an Effector Arm of Humoral Antibacterial Immunity. J. Immunol. 2020 205(1):67-77. doi: 10.4049/jimmunol.2000003.
+3.K. G. Lal, D. Kim, M. C. Costanzo, M. Creegan, E. Leeansyah, J. Dias, D. Paquin-Proulx, L. A. Eller, A. Schuetz, Y. Phuang-Ngern, S. J. Krebs, B. M. Slike, H. Kibuuka, L. Maganga, S. Nitayaphan, J. Kosgei, C. Sacdalan, J. Ananworanich, D. L. Bolton, N. L. Michael, B. L. Shacklett, M. L. Robb, M. A. Eller, and J. K. Sandberg. Dynamic MAIT cell response with progressively enhanced innateness during acute HIV-1 infection. Nat. Commun. 2020 11(1):272. doi: 10.1038/s41467-019-13975-9.
+4.W. R. Sia, C. Boulouis, M. Y. Gulam, A. L. H. Kwa, J. K. Sandberg, and E. Leeansyah. Quantification of Human MAIT Cell-Mediated Cellular Cytotoxicity and Antimicrobial Activity. Methods Mol Biol. 2020;2098:149-165.
+5.M. Solders, L. Gorchs, E. Tiblad, S. Gidlöf, E. Leeansyah, J. Dias, J. K. Sandberg, I. Magalhaes, A-C. Lundell, and H. Kaipe. Recruitment of MAIT cells to the intervillous space of the placenta by placenta-derived chemokines. Frontiers in Immunology. 2019. 10:1300.
+6.J. Dias, J. Hengst, T. Parrot, E. Leeansyah, S. Lunemann, D. F. G. Malone, S. Hardtke, O. Strauss, C. L. Zimmer, L. Berglin, T. Schirdewahn, S. Cisek, N. Marquardt, T. von Hahn, M. P. Manns, M. Cornberg, H-G. Ljunggren, H. Wedemeyer, J. K. Sandberg, and N. K. Björkström. Chronic hepatitis delta virus infection leads to functional impairment and severe loss of MAIT cells. Journal of Hepatology. 2020. 71:301. 
+7.M. J. Sobkowiak, H. Davanian, R. Heymann, A. Gibbs, J. Emgård, J. Dias, S. Aleman, C. Kruger-Weiner, M. Moll, A. Tjernlund, E. Leeansyah, M. Sällberg-Chen, and J. K. Sandberg. Tissue-resident MAIT cell population in human oral mucosa exhibit an activated profile and produce IL-17. European Journal of Immunology. 2019. 49:133.
+8.J. Dias, C. Boulouis, J-B. Gorin, R. H. G. A. van den Biggelaar, K. G. Lal, A. Gibbs, L. Loh, M.Y. Gulam, W. R. Sia , S. Bari , W. Y. K. Hwang, D. F. Nixon , S. Nguyen, M. R. Betts, M. Buggert, M. A. Eller, K. Broliden, A. Tjernlund, J. K. Sandberg°, and E. Leeansyah°. The CD4-CD8- MAIT cell subpopulation is a functionally distinct subset developmentally related to the main CD8+ MAIT cell pool. Proceedings of the National Academy of Sciences USA. 2018. 115: E11513. ° Co-corresponding authors.
+9.J. Voigt, D. F. G. Malone, J. Dias, E. Leeansyah, N. K. Björkström, H-G. Ljunggren, L. Gröbe, F. Klawonn, M. Heyner, J. K. Sandberg, and L. Jänsch. Proteome analysis of human CD56neg NK cells reveals a homogenous phenotype surprisingly similar to CD56dim NK cells. European Journal of Immunology. 2018. 48:1456. 
+10.J. Dias, C. Boulouis, M. J. Sobkowiak, K. G. Lal, J. Emgård, M. Buggert, T. Parrot, J-B. Gorin, E. Leeansyah, and J. K. Sandberg. Factors influencing functional heterogeneity in human MAIT cells. Frontiers in Immunology. 2018. 9:1602.
+11.K. G. Lal, E. Leeansyah, J. K. Sandberg, and M. A. Eller. Characterization of invariant T cell subset activation in humans. Cytometry: Part A. 2018. 93:499. 
+12.O. Sortino, E. Richards, J. Dias, E. Leeansyah, J. K. Sandberg, and I. Sereti. IL-7 treatment supports CD8+ mucosa-associated invariant T cell restoration in HIV-1 infected patients on antiretroviral therapy. AIDS. 2018. 32:825.
+13.J. Dias, E. Leeansyah, and J. K. Sandberg. Multiple layers of heterogeneity and subset diversity in human MAIT cell responses to distinct microorganisms, and to innate cytokines. Proceedings of the National Academy of Sciences USA. 2017. 114:E5434. 
+14.Gibbs*, E. Leeansyah*, A. Introini, D. Paquin-Proulx, K. Hasselrot, E. Andersson, K. Broliden, J. K. Sandberg, and A. Tjernlund. MAIT cells reside in the female genital mucosa and are biased towards IL-17 and IL-22 production in response to bacterial stimulation. Mucosal Immunology. 2017. 10:35. PMID: 27049062. JIF: 7.352. CI: 62. *Equal contributions.
+15.J. K. Sandberg, A. Norrby-Teglund, and E. Leeansyah. Bacterial deception and diversion of MAIT cells in a thick cloud of superantigen and cytokines. PLOS Biology. 2017. 15:e2003167. PMID: 28742082. 
+16.J. Hengst, B. Strunz, K. Deterding, H. G. Ljunggren, E. Leeansyah, M. P. Manns, M. Cornberg, J. K. Sandberg, H. Wedemeyer, and N. K. Björkström. Non-reversible MAIT cell-dysfunction in chronic hepatitis C despite successful interferon-free therapy. European Journal of Immunology. 2016. 46:2204. PMID: 27296288. 
+17.J. Dias, J. K. Sandberg, and E. Leeansyah. Extensive phenotypic analysis, transcription factor profiling, and effector cytokine production by flow cytometry. Methods in Molecular Biology. 2017. 1514:241. In Lugli, E. (Ed). T-cell differentiation. New York, Springer.
+18.D. Paquin-Proulx, A. Gibbs, S. Bächle, A. Checa, A. Introini, E. Leeansyah, C. E. Wheelock, D. F. Nixon, K. Broliden, A. Tjernlund, M. Moll, and J. K. Sandberg. Innate NKT cell recognition of HIV-1 infected dendritic cells is an early detection mechanism targeted by viral immune evasion. Journal of Immunology. 2016. 197:1843. PMID: 27481843. 
+19.J. Dias, M. J. Sobkowiak, J. K. Sandberg, and E. Leeansyah. Human MAIT cell responses to Escherichia coli: activation, cytokine production, proliferation, and cytotoxicity. Journal of Leukocyte Biology. 2016. 100:233. PMID: 27034405. 
+20.E. Leeansyah°, J. Svärd, J. Dias, M. Buggert, J. Nyström, M. F. Quigley, M. Moll, A. Sönnerborg, P. Nowak, and J. K. Sandberg°. Arming of MAIT cell cytolytic antimicrobial activity is induced by IL-7 and defective in HIV-1 infection. PLOS Pathogens. 2015. 11(8): e1005072. PMID: 26295709. ° Co-corresponding authors.
+21.Solomon, S. Tennakoon, E. Leeansyah, J. Arribas, Y. Van Delft, C. Moecklinghoff, and S. R. Lewin. No difference in telomere length in HIV-infected patients after three years of darunavir/ritonavir with and without nucleoside analogues in the MONET trial. PLoS ONE. 2014. e109718. PMID: 25368992. 
+22.E. Leeansyah, L. Loh, D. F. Nixon, and J. K. Sandberg. Acquisition of innate-like microbial reactivity in mucosal tissues during human fetal MAIT cells development. Nature Communications. 2014. 5:3143. PMID: 24452018. 
+23.C. Chan, P. Neeson, E. Leeansyah, K. Tainton, H. Quach, H. M. Prince, S. J. Harisson, D. I. Godfrey, D. Ritchie, and S. P. Berzins. Natural killer T cell defects in multiple myeloma and the impact of lenalidomide therapy. Clinical and Experimental Immunology. 2014. 175:49-58. PMID: 24032527. 
+24.C. Chan, E. Leeansyah, A. Cochrane, Y. d’Udekem, D. Mittag, L. C. Harrison, D. I. Godfrey, and S. P. Berzins. Ex vivo analysis of human NKT cells demonstrates heterogeneity between tissues and within established CD4+ and CD4- subsets. Clinical and Experimental Immunology. 2013. 172:129-37. PMID: 23480193. 
+25.J. K. Sandberg, J. Dias, B. L. Shacklett, and E. Leeansyah. Will loss of your MAITs weaken your HAART? AIDS. 2013. 27:2501-4. Erratum in: AIDS. 2014. 28:147. PMID: 23595154. 
+26.E. Leeansyah°, A. Ganesh, M. F. Quigley, A. Sönnerborg, J. Andersson, P. W. Hunt, M. Somsouk, S. G. Deeks, J. N. Martin, M. Moll, B. L. Shacklett, and J. K. Sandberg°. Activation, exhaustion and persistent decline of the anti-microbial MR1-restricted MAIT cell population in chronic HIV-1 infection. Blood. 2013. 121:1124-35. PMID: 23243281. 
+27.E. Leeansyah, D. F. G. Malone, D. D. Anthony, and J. K. Sandberg. Soluble biomarkers of HIV transmission, disease progression and co-morbidities. Current Opinion in HIV and AIDS. 2013. 8:117-24. PMID: 23274365.
+28.E. Leeansyah, P. U. Cameron, A. Solomon, S. Tennakoon, P. Velayudham, M. Gouillou, T. Spelman, A. Hearps, C. Fairley, D. Smit, A. B. Pierce, J. Armishaw, S. M. Crowe, D. Cooper, K. K. Koelsch, J-P Liu, J. Chuah and S. R. Lewin. Inhibition of telomerase activity by HIV-1 nucleos(t)ide reverse transcriptase inhibitors: a potential factor contributing to HIV-associated accelerated ageing. Journal of Infectious Diseases. 2013. 207:1157-65. PMID: 23303810. 
+29.L. Bosnjak, P. Sahlström, D. Paquin-Proulx, E. Leeansyah, M. Moll, and J. K. Sandberg. Contact-dependent interference with invariant NKT cell activation by HSV-infected cells. Journal of Immunology. 2012. 188:6216-24. PMID: 22581860. 
+30.E. Leeansyah, J. L. Zhou, G. Paukovics, S. R. Lewin, S. M. Crowe and A. Jaworowski. Decreased NK cell FcRγ in HIV-1 infected individuals receiving combination antiretroviral therapy: a cross-sectional study. PLoS One. 2010. 5:e9643. PMID: 20224795. 
+31.C. Chan, P. Neeson, E. Leeansyah, K. Tainton, H. Quach, H. M. Prince, D. I. Godfrey, D. Ritchie, and S. P. Berzins. Testing the NKT cell hypothesis in lenalidomide-treated myelodysplastic syndrome patients. Leukemia. 2010. 24:592-600. PMID: 20072154. 
+32.E. Leeansyah, B. D. Wines, S. M. Crowe, and A. Jaworowski. The mechanism underlying defective FcγR-mediated phagocytosis by HIV-1 infected human monocyte-derived macrophages. Journal of Immunology. 2007. 178: 1096-1104. PMID: 17202373. JIF: 4.718. CI: 41. 
+33.R. Azzam, K. Kedzierska, E. Leeansyah, H. T. Chan, D. Doischier, P. Gorry, A. L. Cunningham, S. M. Crowe, and A. Jaworowski. Impaired complement-mediated phagocytosis by HIV-1 infected monocyte-derived macrophages involves a cAMP-dependent mechanism. AIDS Research and Human Retroviruses. 2006. 22: 619-629. PMID: 16831086.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2015 | The Jonas Söderquist Foundation Prize for Outstanding Young Scientists in Virology and Immunology Research
+2014 | International AIDS Society Travel Scholarship 
+2014 | Swedish Society for Immunology Travel Award
+2013 | Scandinavian Society of Immunology Travel Award 
+2012 | Swedish Institute Postdoctoral Fellowship
+2012 | Keystone Symposia Global Health Travel Award
+2012 | Keystone Symposia Scholarship (declined)
+2011 | Sven Gard Fund for Virology Research 
+2011 | International AIDS Society Travel Scholarship 
+2008 | Harold Mitchell Foundation Postgraduate Travel Fellowship
+2008 | Australasian Society of Immunology Postgraduate Travel Award 
+2007 | International AIDS Society Travel Scholarship
+2006 | Keystone Symposia Scholarship 
+2005 | Monash University Postgraduate Travel Award 
+2005 | Burnet Institute Otto Basler Travel Award 
+2004 | Australian Postgraduate Award
+2004 | Australasian Society for HIV Medicine Junior Researcher Support Award
+ </奖励荣誉>

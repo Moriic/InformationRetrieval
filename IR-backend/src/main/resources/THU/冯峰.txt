@@ -1,0 +1,73 @@
+{"title":"冯峰","cnUrl":"http://www.sigs.tsinghua.edu.cn/ff/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/b3/fe/745d28524ea5968207c9c78d53dd/e83e91c9-ec71-48d0-bd1f-a8eedbed64b2.png","email":"feng.feng@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+主要从事智能制造与精密加工技术研究
+教育经历 
+2002年9月~2006年7月，清华大学物理系，理学学士
+2006年9月~2012年1月，清华大学物理系，理学博士
+工作经历 
+2012年3月~2014年4月，清华大学深圳研究生院，博士后
+2014年6月~2019年11月，清华大学深圳研究生院，讲师
+2019年12月~今，清华大学深圳国际研究生院，副教授
+学术兼职 
+中国机械工程学会，高级会员；
+中国机械工程学会表面工程分会，委员；
+中国民主同盟深圳高等教育委员会，委员；
+中国复合材料学会，高级会员；
+深圳市真空学会，理事；
+Fractal and Fractional期刊客座编辑；
+Journal of Intelligent Manufacturing、Applied Physics Letters、Applied Surface Science、Ceramics International、Fractal and Fractional、Superconductor Science and Technology、Journal of Applied Physics、The International Journal of Advanced Manufacturing Technology等期刊审稿人。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+深圳国际研究生院：主讲《制造过程数值模拟技术》、《制造技术(1)》、《制造装备设计与性能分析》等课程。
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事智能制造与精密加工技术研究，具体涉及超声加工装备与工艺、复合材料制造技术、结构件应力形变控制、制造装备数字孪生等方向，以第一或通讯作者发表SCI论文40余篇（ESI高被引用论文1篇、期刊封面论文各1篇、期刊Highlights论文2篇），以第一发明人获得国家发明专利授权15项、美国PCT专利授权1项。作为负责人主持国家自然科学基金等7项纵向课题、2项校内课题与7项横向课题等。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+Recent publications (2019-2023):
+[1]J. Xu, C.X. Wang, P.F. Feng, E.L. Jiang, F. Feng*, Meso-scale cracks initiation of Nomex honeycomb composites in orthogonal cutting with a straight blade cutter, Composites Science and Technology, 233 (2023) 109914. (中科院一区，WOS-JCR-Q1)
+[2]J. Xu, Q.Z. Yue, H.T. Zha*, X.M. Yuan, X.K. Cai, C. Xu, Y. Ma, P.F. Feng, F. Feng*, Wear reduction by toughness enhancement of disc tool in Nomex honeycomb composites machining, Tribology International, 185 (2023) 108475. (中科院一区，WOS-JCR-Q1)
+[3]W.M. Zhou, Y.T. Cao, H.L. Zhao, Z.W. Li, P.F. Feng, F. Feng*, Fractal Analysis on Surface Topography of Thin Films: A Review, Fractal and Fractional, 6 (2022) 135. (WOS-JCR-Q1，2023年入选ESI高被引用论文)
+[4]G. Zhou, K. Zhou, J. Zhang, M. Yuan, X.H. Wang, P.F. Feng, M. Zhang*, F. Feng*, Digital modeling-driven chatter suppression for thin-walled part manufacturing, Journal of Intelligent Manufacturing, (2022) published online: DOI 10.1007/s10845-022-02045-5. (中科院一区，WOS-JCR-Q1)
+[5]Z.W. Li, J.J. Wang, M. Yuan, Z.Y. Wang, P.F. Feng, F. Feng*, An indicator to quantify the complexity of signals and surfaces based on scaling behaviors transcending fractal, Chaos, Solitons & Fractals, 163 (2022) 112556. (中科院一区，WOS-JCR-Q1)
+[6]F. Feng, K.X. Zhang, X.H. Li*, Y.S. Xia, M. Yuan, P.F. Feng*, Scaling Region of Weierstrass-Mandelbrot Function: Improvement Strategies for Fractal Ideality and Signal Simulation, Fractal and Fractional, 6 (2022) 542. (中科院一区，WOS-JCR-Q1)
+[7]F. Feng, H.F. Hong, X. Gao*, T. Ren, Y. Ma, P.F. Feng*, Effectiveness of Oxygen during Sintering of Silver Thin Films Derived by Nanoparticle Ink, Nanomaterials, 12 (2022) 1908. (WOS-JCR-Q1)
+[8]F. Feng, M. Yuan, Y.S. Xia, H.M. Xu, P.F. Feng*, X.H. Li*, Roughness Scaling Extraction Accelerated by Dichotomy-Binary Strategy and Its Application to Milling Vibration Signal, Mathematics, 10 (2022) 1105. (WOS-JCR-Q1)
+[9]X.Y. Mei, H.M. Xu, P.F. Feng, M. Yuan, C. Xu, Y. Ma, F. Feng*, Online chatter monitor system based on rapid detection method and wireless communication, The International Journal of Advanced Manufacturing Technology, 122 (2022) 1321-1337.
+[10]J. Xu, P.F. Feng, F. Feng*, H.T. Zha*, G.Q. Liang, Subsurface damage and burr improvements of Aramid Fiber Reinforced Plastics by using longitudinal-torsional ultrasonic vibration milling. Journal of Materials Processing Technology, 297 (2021) 117265. (中科院一区)
+[11]Z.W. Li, X. Qian, F. Feng*, T.M. Qu, Y.S. Xia, W.M. Zhou, A continuous variation of roughness scaling characteristics across fractal and non-fractal profiles. Fractals-Complex Geometry Patterns and Scaling in Nature and Society, 29 (2021) 2150109. (WOS-JCR-Q1)
+[12]G. Zhou, X.H. Wang, F. Feng*, P.F. Feng, M. Zhang*, Calculation of fractal dimension based on artificial neural network and its application for machined surfaces. Fractals-Complex Geometry Patterns and Scaling in Nature and Society, 29 (2021) 2150129. (WOS-JCR-Q1)
+[13]Z.R. Yang, T.M. Qu, F. Feng*, L.L. Wang, P.F. Feng, Wrinkling surface of mono-layered thin film derived by using trifluoroacetate solution, Journal of Sol-Gel Science and Technology, 99 (2021) 13-24. (WOS-JCR-Q1)
+[14]W.M. Zhou, J.C. Lin, F. Feng*, Y. Ma, H.T. Zha, W. Ji, E.L. Jiang, Z.P. Cai, P.F. Feng*, Performance improvement of carbide cutting tool for Ti6Al4V alloys using electromagnetic treatment, The International Journal of Advanced Manufacturing Technology, 113 (2021) 1547–1560.
+[15]Z.W. Li, D.W. Yu, J. Cui, P.F. Feng, F. Feng*, Influences of Brass Surface Morphology on Leidenfrost Effect during Liquid Nitrogen Cooling, Applied Sciences, 11 (2021) 10323.
+[16]L.L. Wang, T.M. Qu, F. Feng*, S.N. Zou*, Z.R. Yang, Z.X. Ma, P.F. Feng, Improvement of bi-layered YBCO superconducting films by using Ag and Au interlayers, Ceramics International, 46 (2020) 3394-3399. (中科院一区，WOS-JCR-Q1)
+[17]W.M. Zhou, X.H. Li, F. Feng*, T.M. Qu, J.L. Huang, X. Qian, H.T. Zha, P.F. Feng*, Robustness of Surface Roughness against Low Number of Picture Elements and Its Benefit for Scaling Analysis, Coatings, 10 (2020) 776.
+[18]F. Feng, X.S. Zhang, T.M. Qu*, Y.Y. Zhang, X. Qian, B.B. Liu, J.L. Huang, P.F. Feng, Scaling analysis of current influence on Hastelloy surface roughness in electro-polishing process, Rare Metals, 38 (2019) 142-150. (中科院一区，WOS-JCR-Q1, Cover Paper）
+[19]F. Feng, L.L. Wang, T.M. Qu*, H.Y. Lu, Y.P. Zhu, Z.R. Yang, C. Gu, X.M. Cheng, P.F. Feng, Investigations on the lead acetate addition in precursor solutions for YBCO superconducting film deposition, Surface & Coatings Technology, 358 (2019) 1017-1021. (中科院一区，WOS-JCR-Q1)
+[20]F. Feng, J.L. Huang, X.H. Li*, T.M. Qu, B.B. Liu, W.M. Zhou, X. Qian, P.F. Feng, Influences of planarization modification and morphological filtering by AFM probe-tip on the evaluation accuracy of fractal dimension, Surface & Coatings Technology, 363 (2019) 436-441. (中科院一区，WOS-JCR-Q1)
+[21]S.C. Wang, J.F. Zhang, F. Feng*, X. Qian*, L.Q. Jiang, J.L. Huang, B.B. Liu, J. Li, Y.S. Xia, P.F. Feng, Fractal Analysis on Artificial Profiles and Electroencephalography Signals by Roughness Scaling Extraction Algorithm, IEEE Access, 7 (2019) 89265-89277. 
+[22]T.M. Qu, G. Lin, F. Feng*, S.T. Deng, X.H. Song, Biaxially textured (Bi, Pb)2Sr2Ca2Cu3Ox thin films on LaAlO3 substrates fabricated via the chemical solution deposition method, Superconductor Science and Technology, 32 (2019) 045006. (中科院一区)
+[23]F. Feng, H. Mu, S.N. Zou*, P. Song, L.L. Wang, Y.F. Yan, Y.B. Yue, T.M. Qu, Effective Measuring Position of Hall Probe and j(c) Characterization of Rectangular HTS Thin Films, IEEE Transactions on Applied Superconductivity, 29 (2019) 8002205.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+[1] 指导硕士生卢弘愿（2014级）获2017年北京市优秀毕业生；
+[2] 指导硕士生张向松（2015级）获2018年院学术新秀提名奖（机械专业学生首次）；
+[3] 指导硕士生符其树（2015级）获2018年北京市优秀毕业生；
+[4] 指导硕士生刘彬彬（2016级）获2018年国家奖学金、2019年清华大学优秀硕士学位论文；
+[5] 指导硕士生黄俊龙（2017级）获2019年国家奖学金；
+[6] 联合指导硕士生周文萌（2018级）获2020年国家奖学金、2021年清华大学优秀硕士学位论文；
+[7] 参与项目“实用化高温超导磁体研制的关键技术及应用”（5/10）获2021年度中国电工技术学会科学技术二等奖；
+[8] 指导硕士生袁梦（2020级）获2022年国家奖学金、2023年北京市优秀毕业生；
+[9] 联合指导硕士生林小暄（2020级）获2023年清华大学优秀毕业生。
+ </奖励荣誉>

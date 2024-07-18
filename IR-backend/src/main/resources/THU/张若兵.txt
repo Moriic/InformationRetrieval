@@ -1,0 +1,63 @@
+{"title":"张若兵","cnUrl":"http://www.sigs.tsinghua.edu.cn/zrb/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/f9/b9/e8da2d39497a99d9d6aae68b9101/8f447dbe-fd95-4ab1-88cc-01d33a0b3258.jpg","email":"zhangrb@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1999年09月-2005年06月，大连理工大学，电气工程与应用电子技术系，博士
+1995年09月-1999年06月，中国矿业大学，能化系，学士
+工作经历 
+2019年08月-至今，清华大学，深圳国际研究生院，副研究员、博士生导师
+2008年12月-2019年08月，清华大学，深圳研究生院，副研究员、博士生导师（2011）
+2007年07月-2008年11月，清华大学，深圳研究生院，讲师
+2005年07月-2007年06月，清华大学，深圳研究生院，博士后
+学术兼职 
+IEEE会员、中国电工技术学会等离子体及应用专业委员会委员、中国物理学会静电专委会委员、全国静电标准化技术委员会委员、非热加工产业技术创新战略联盟理事、深圳市节能专家委员会专家、中国物理学会静电青年委员会秘书长。受邀任：2018、2016全国高电压与放电等离子体学术会议分会场主席；中国物理学会静电专业委员会第21、22、23届全国静电学术年会学术委员会成员、分组主持人；EAPETEA 2017 Session Chair；IEEE CEIDP 2013 Local arrangement committee; GD 2012 Session Chair, Local Organizing committee等；
+国家自然科学基金、广东省科技计划、深圳市发改委、科创委、国资委、经贸委等评审专家。IEEE TDEI、IEEE TPS、APL、PSST、PST、JAP、POP、High voltage、电机工程学报、电网技术、高电压技术等多个期刊审稿人等。 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+现代高电压试验技术（研究生课程、秋季、48学时）
+电磁兼容（研究生课程、秋季、32学时） 
+脉冲功率技术基础（研究生课程、秋季、32学时）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 主要从事高电压新技术相关的研究工作，研究方向包括智能纳秒脉冲激励技术、等离子体技术及应用(医学、材料等)、高压脉冲电场（PEF）技术与装备、染污硅橡胶复合材料憎水性快速恢复技术、液态电介质绝缘特性及在线寿命评估、输变电装备故障诊断和智能识别技术等。主持或参与国家973计划、863项目课题及多项国家自然科学基金项目。目前主持在研国家自然科学基金面上项目、深圳市科技攻关、深圳市基础研究学科布局项目及企业横向重大课题多项。近年来已在国内外等重要期刊及会议发表学术论文100余篇，授权发明专利多项，参编专著1本。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+期刊论文
+[1] Ruobing Zhang,Haochen Huang, Tianshu Yang. Mode transition induced by back-breakdown of the gliding arc and its influence factors. High Voltage, 2019,5(3):306-312.
+[2] Zhang Ruobing，Li Xin，Zhiyuan Wang. Pattern of bubble evolution in liquids under repetitive pulsed power. IEEE Transactions On Dielectrics and Electrical Insulation. 2019,26(2):353-360. 
+[3] Shanshan Wang,Shuang Li,Jianjun Li, Ruobing Zhang*,Hui Liu. Interfacial bonding enhancement of the RTV recoating with sandwiched contaminant by plasma jet. High Voltage.2019,4(4):345-348.
+[4] Shuang Li，Ruobing Zhang，Shanshan Wang，Yongqiang Fu. Plasma Treatment to Improve the Hydrophobicity of Contaminated Silicone Rubber: the Role of the LMWs. IEEE Transactions on Dielectrics and Electrical Insulation. 2019,26(2):416-422.
+[5] Zhang Ruobing，Li Xin，Wang Zhiyuan，Chen ZhiHao，Du Gang.Prediction of the electric discharge occurrence under repetitive bipolar rectangular pulsed electric field < 20 kV/cm. Applied Physics Letters.2018,113(6):063701.
+[6] Ruobing Zhang, Qianting Han, Yan Xia, Shuang Li. Plasma jet array treatment to improve the hydrophobicity of contaminated HTV silicone rubber. Plasma Science and Technology,2017,19(10):79-86.
+[7] Ruobing Zhang, Xinlei Zhou, Yan Xia, Shancheng Su, Zhicheng Guan,Jie Chen,Yang Liu. Hydrophobicity Improvement of Contaminated HTV Silicone Rubber by Atmospheric Plasma Jet Treatment. IEEE Transactions on Dielectrics and Electrical Insulation.2016,23(1):377-384. 
+[8] Ruobing Zhang, Nanchen Zheng, Guohua Guo, Xian Fu, Yuze Jiang. Effect of pollution severity class and service year on corona characteristics and electromagnetic environment degradation of aged conductors. Journal of Electrostatics, 2015,77(1):1-7.
+[9] Ruobing Zhang, Nanchen Zheng, Huaiyu Liu, Liming Wang. Inﬂuencing Factors of Dielectric Breakdown in the PEF Treatment Chamber. IEEE Transactions on Plasma Science. 2015,43(2):610-616.
+会议论文及邀请报告
+[1] Shuang Li,Ruobing Zhang. Influence of Contamination on the Hydrophobic Properties of APPJ-treated Silicone Rubber. 2018 IEEE International Power Modulator and High Voltage Conference, June 3-7th, Wyoming, USA.
+[2] Ruobing Zhang,Jun Wu,Gang Du, Zhichun Qiu.Study on the Aging Properties of Silicone Fluid in GIS Cable Terminations.2018 12th IEEE International Conference on the Properties and Applications of Dielectric Materials,Xi'an,China,438-443
+[3] Ruobing Zhang. Hydrophobicity Improvement of Contaminated HTV Silicone Rubber by Atmospheric Plasma Jet Treatment. 1st Sino-German symposium on atmospheric pressure gas discharges and plasma applications, Oct.11-17,2015,Beijing,China. (Invited)
+[4] Ruobing Zhang. Quick Recovery Techniques of Surface Hydrophobicity for Contaminated HTV Silicone Rubber. 2015 INMR World Congress. Oct.18-21,2015, Munich, Germany. (Invited)
+[5] Ruobing Zhang. Hydrophobicity Improvement of Contaminated HTV Silicone Rubber by Atmospheric Plasma Jet Treatment. 1st Sino-German symposium on “Atmospheric Pressure Gas Discharges and plasma applications”, Oct., 2015, Beijing, China.(Invited).
+[6] Ruobing ZHANG.Dielectric Breakdown in the PEF Treatment Chamber.2014 International Conference on Non-thermal Processing Technologies, Oct., 2014. Beijing.(Keynote Speaker)
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2019年，中国电力科学技术奖 二等奖
+2019年，山东省科技进步奖 二等奖
+2019年，国家电网有限公司科学技术进步 一等奖
+2018年，广州供电局有限公司科技进步 一等奖
+2017年，电力建设科学技术进步 三等奖
+2016年，山东电力科学技术奖 二等奖
+2012年，教育部高等学校科学研究优秀成果奖（自然科学类）二等奖
+2008年，深圳市科技创新奖
+2014年，深圳市高层次专业人才地方级领军人才
+ </奖励荣誉>

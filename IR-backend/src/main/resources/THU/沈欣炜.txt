@@ -1,0 +1,87 @@
+{"title":"沈欣炜","cnUrl":"http://www.sigs.tsinghua.edu.cn/sxw/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/d8/2f/383fa54a479cb4e57df7b08e6983/99acb51e-3464-4472-8a50-31e90e465f8e.jpg","email":"sxw.tbsi@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+沈欣炜，主要从事电力系统与综合能源、能源互联网、海洋可再生能源研究。2010年7月、2016年1月毕业于清华大学电机系，分获学士和博士学位。曾在美国伊利诺伊理工大学（2014）、加州伯克利大学（2017）、澳门大学任访问学者（2021）。主要研究方向为能源互联网/综合能源/配电系统/海洋可再生能源的规划和运行优化。主要学术兼职包括IEEE高级会员、中国电工技术学会高级会员，IEEE PES能源互联网协调委员会委员及officer、综合能源多能流网络建模与规划工作组联合主席、IEEE PES中国区能源互联网专委会运行与控制分委会秘书、分布式资源及配电网规划分委会执行委员等。发表60余篇SCI/EI检索文章，近5年论文总被引近千次、H指数17。曾获2020年IEEE PES技术委员会青年人才奖提名(2020)、中国电机工程学会（CSEE）“青年人才托举工程”(2020)、“领跑者5000”学术论文奖(2020)、IEEE PES GM会议最佳论文奖（2019/2020）、IEEE TSG(2016)/CSEE JPES优秀审稿人(2021)等荣誉。课题组常年招收博士后、博士生、科研助理、访问学生/学者，诚挚欢迎电气工程方向或其他交叉学科背景、致力于研究电力系统与综合能源、能源互联网等方向的同学加入。
+教育经历 
+2010年9月-2016年1月，清华大学电机系，电力系统专业，博士（获北京市优秀毕业生称号）
+2014年3月-2014年8月，美国伊利诺伊理工大学，访问学者
+2006年9月-2010年7月，清华大学电机系，电气工程及其自动化专业，学士
+工作经历 
+2021年11月-至今， 清华大学深圳国际研究生院，助理教授/博士生导师/特别研究员
+2018年11月-2021年10月，清华-伯克利深圳学院/清华大学深圳国际研究生院，研究科学家
+2021年1月-2021年7月，澳门大学，访问学者
+2016年7月-2018年10月，清华-伯克利深圳学院，博士后
+2017年8月-2017年10月，美国加州伯克利大学，访问学者
+2016年2月-2016年7月，清华大学电机系，研究助理
+学术兼职 
+2013年-至今，IEEE/IEEE PES Member（自2021年起为IEEE Senior Member高级会员）
+2014年-至今，IEEE Trans. on Power Systems/Smart Grid/Sustainable Energy, IET Generation, Transmission &Distribution/Renewable Power Generation, Applied Energy等期刊审稿人
+2018年8月-至今，IEEE PES 低碳能源系统转型/需求侧响应工作组成员
+2020年9月-至今，IEEE PES 综合能源系统/多能网络建模与规划工作组联合主席
+2020年10月-至今，IEEE PES中国区分布式资源与配电系统规划分委会执委
+2020年8月-至今，IEEE PES能源互联网协调委员会(Energy Internet Coordinating Committee, EICC)委员及官员(officer)
+2018年8月-至今，中国电机工程学会会员、电工技术学会会员（自2020年起为高级会员）
+2019年1月–2020年6月，中电联团体标准“电化学储能电站调频与调峰技术规范”编写组成员
+2022年3月-至今，CSEE Journal of Power and Energy Systems (SCI一区)副编辑（Associate Editor）
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+研究生指导 
+曾指导/联合指导10余名硕士/博士研究生，毕业去向包括：
+1. 继续深造：（博士在读，均获多个全额奖学金offer）美国康奈尔大学/华盛顿大学/英国剑桥大学/清华大学深圳国际研究生院；
+2. 就业单位：腾讯、顺丰科技、华为，国家电网公司国调中心等。
+目前在读研究生10余名（含联合指导）。
+2021年12月-至今，任清华SIGS海洋工程研究院研究生工作组组长。
+ </教学>
+<研究领域>
+研究领域 
+主要研究方向为能源互联网/综合能源/配电系统/海洋可再生能源的规划和运行优化
+主要项目 
+主持/参与了多个国家自然科学基金/重点研发计划/企业资助科技项目的研究工作。
+2021年9月-至今，南方电网重点科技项目“支撑多能互补园区规划的能效数据挖掘技术研究”，主持
+2020年11月-至今，国家自然科学基金青年基金“数据驱动的含多种储能综合能源配电系统规划方法”，主持
+2020年10月-至今，国家重点研发计划“数字电网关键技术”，课题五“融合深度学习和电力知识图谱的数字电网智能快速服务关键技术研究与应用”技术骨干，联合主持
+2019年12月-至今，南方电网科技项目“基于大数据的智慧城市用能分析与发展建议研究”，联合主持
+2019年7月-至今，国家电网科技项目“计及规模化储能和新能源的电网协调优化调控关键技术研究及应用”，联合主持
+2017年7月-2021年7月，深圳市科创委基础研究项目“能源互联网多能流系统规划及设计平台研究”，联合主持
+2018年9月-2021年6月，南方电网科技项目“综合能源系统中长期备用随机规划方法研究”，主持
+2018年4月-2019年8月，中国博士后科学基金会第11批特别资助“基于两阶段鲁棒优化的综合能源系统规划方法”，主持
+2016年8月-2021年6月，国家重点研发计划“工业园区多元用户互动的配用电系统关键技术研究与示范”，参与
+2014年3月-2018年8月，国家863计划“集成多种可再生能源的主动配电网研究及示范”，参与（获2018年南方电网公司科技进步一等奖）
+ </研究领域>
+<研究成果>
+代表性论文 
+发表60余篇SCI/EI检索文章，节选如下：
+[1] X. Shen, M. Shahidehpour, Y. Han, S. Zhu and J. Zheng, Expansion Planning of Active Distribution Networks With Centralized and Distributed Energy Storage Systems, in IEEE Transactions on Sustainable Energy, vol. 8, no. 1, pp. 126-134, Jan. 2017. 
+[2]X. Shen, M. Shahidehpour, S. Zhu, Y. Han and J. Zheng, Multi-Stage Planning of Active Distribution Networks Considering the Co-Optimization of Operation Strategies, in IEEE Transactions on Smart Grid, vol. 9, no. 2, pp. 1425-1433, March 2018. 
+[3]X. Shen, Yingduo Han, Shouzhen Zhu et al. “Comprehensive Power-supply Planning of Active Distribution System Considering Cooling, Heating and Power Load Balance”. Journal of Modern Power Systems and Clean Energy, vol.3 issue 4, 2015. (Best Paper Award of CSEE journals, Second Prize in 2018)
+[4]H. Liu, L. Yang, X. Shen*, Q. Guo, H. Sun*, and M. Shahidehpour. A Data-Driven Warm Start Approach for Convex Relaxation in Optimal Gas Flow. IEEE Transactions on Power Systems 36, no. 6 (2021): 5948-5951.
+[5]X. Zhao, X. Shen*, Q. Guo, H. Sun*, S. Oren. “A stochastic distribution system planning method considering regulation services and energy storage degradation” in Applied Energy, 2020, 277: 115520. 
+[6]A. Xuan, X. Shen*, Q. Guo, H. Sun*. A Conditional Value-at-Risk Based Planning Model for Integrated Energy System with Energy Storage and Renewables in Applied Energy, 2021, 294: 116971. 
+[7]H. Liu, X. Shen*, Q. Guo, H. Sun*. A Data-Driven Approach towards Fast Economic Dispatch in Electricity-Gas Coupled Systems Based on Artificial Neural Network in Applied Energy, 2021, 286: 116480. 
+[8]C. Chen, H. Sun, X. Shen*, Y. Guo et al. Two-stage robust planning-operation co-optimization of energy hub considering precise energy storage economic model in Applied energy, 2019, 252: 113372. 
+[9]X. Qin, H. Sun, X. Shen* et al. A generalized quasi-dynamic model for electric-heat coupling integrated energy system with distributed energy resources in Applied energy, 2019, 251: 113270. 
+[10]H. Liu; X. Shen*; Q. Guo; H. Sun* et al., Application of modified progressive hedging to stochastic unit commitment in electricity-gas coupled systems, in CSEE Journal of Power and Energy Systems, vol. 7, no. 4, pp. 840-849. 
+[11]沈欣炜, 郭庆来, 许银亮 & 孙宏斌 (2019), 考虑多能负荷不确定性的区域综合能源系统鲁棒规划, 电力系统自动化, Vol. 43 No. 07, pp. 34-41.
+[12]沈欣炜, 朱守真, 郑竞宏, 韩英铎, et al(2015), 考虑分布式电源及储能配合的主动配电网规划–运行联合优化, 电网技术, Vol. 39 No. 7, pp. 1913-1920. (2020 年获“领跑者5000”（F5000）中国精品科技期刊顶尖学术论文奖)
+[13]陈聪, 沈欣炜, 夏天, 郭庆来, 孙宏斌 et al (2019), 计及㶲效率的综合能源系统多目标优化调度方法, 电力系统自动化, Vol. 43 No. 12, pp. 60-67.
+[14]C. Chen, X. Shen*, Q. Guo, H. Sun and M. Shahidehpour, Adaptive Robust Planning-Operation Co-optimization of Energy Hubs with Modified Column-and-Constraint Generation Algorithm, 2019 IEEE Power & Energy Society General Meeting (PESGM), Atlanta, GA, USA, 2019, pp. 1-5.（获2019年IEEE PES GM best paper award）
+[15]X. Shen*, Sunwei Li, Hongke Li. “Large-scale Offshore Wind Farm Electrical Collector System Planning: A Mixed-Integer Linear Programming Approach”, presented in 5th IEEE conf. on Energy Internet and Energy system Integration, Taiyuan, China, Oct. 2021.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2021年 CSEE JPES年度优秀审稿人
+2020年 IEEE PES技术委员会青年人才（Tech. Council Young Professional）奖提名
+2020年 入选中国电机工程学会“青年人才托举工程”
+2020年 “领跑者5000”中国精品科技期刊顶尖学术论文奖（第一作者）
+2020年 IEEE能源互联网与能源系统集成会议最佳论文奖（as advisor）
+2019/2020年 IEEE PES GM会议最佳论文奖（as advisor）
+2018年 中国电机工程学会优秀期刊论文奖二等奖（第一作者）
+2017年 Journal of Modern Power System and Clean Energy优秀审稿人
+2016年 IEEE Trans. on Smart Grid杰出审稿人/《电网技术》期刊年度优秀作者
+2016年 北京市优秀毕业生
+ </奖励荣誉>

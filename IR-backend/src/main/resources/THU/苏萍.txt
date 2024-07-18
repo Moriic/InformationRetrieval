@@ -1,0 +1,60 @@
+{"title":"苏萍","cnUrl":"http://www.sigs.tsinghua.edu.cn/sp_548/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/55/32/cd4824f74ab7b62e8d40f5aa834e/0b89a779-0155-42c5-9823-ed3e9d002930.jpg","email":"su.ping@mail.sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+近十年来，深耕光的衍射和散射的理论与应用基础研究。在衍射理论方面，基于新算法和新器件扩展了全息原理，将新的全息技术应用于生命科学、制造、测量等各个领域；在散射理论方面，建立新的物理、几何模型，更精确高效地估计散射信道特性，促进了深紫外通讯的实用化。
+教育经历 
+2005/09-2010/07，清华大学精密仪器与机械学系，光学工程专业，工学博士，导师：金国藩院士
+2001/09-2005/07，清华大学精密仪器与机械学系，测控技术与仪器专业，工学学士
+工作经历 
+2021/12至今，清华大学深圳研究生院，副研究员
+2012/10-2021/12，清华大学深圳研究生院，讲师，硕士生导师
+2010/10-2012/10，清华大学深圳研究生院，博士后
+学术兼职 
+中国光学工程学会计算成像专委会副秘书长；中国光学学会全息专委会委员；Optica/OSA，IEEE，SPIE，中国光学学会、中国光学工程学会会员，多家SCI期刊审稿人、审稿编辑。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+开设课程：精密计量与测试
+参与课程：LED技术及其应用，信息存储与数据安全实践
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 近十年来，深耕光的衍射和散射的理论与应用基础研究。在衍射理论方面，基于新算法和新器件扩展了全息原理，将新的全息技术应用于生命科学、制造、测量等各个领域；在散射理论方面，建立新的物理、几何模型，更精确高效地估计散射信道特性，促进了深紫外通讯的实用化。
+主要项目 
+独立承担项目包括国家自然科学基金青年基金、深圳市基础研究项目、广东省省部产学研项目、深圳市国际合作项目等。
+1. 基于发光二极管与数字微镜器件的全息三维再现效果增强，国家自然科学基金青年基金，2015.01-2017.12，负责人，已结题
+2. 超分辨全息显微成像术的多维度分辨率增强技术研究，深圳市国际合作，2019.01-2022.06，负责人，在研
+3. 大视场衍射光学元件的高精度快速设计方法研究，深圳市基础研究面上，2020.06-2023.07，负责人，在研
+4. 基于衍射光学元件的自由立体大屏幕显示效果增强，深圳市基础研究面上，2015.10-2017.10，负责人，已结题
+5. 多层光盘读写伺服技术合作项目，华为，2020.10-2022.10，骨干，在研
+6. 基于Micro-LED的新一代数字光技术研究，深圳市基础研究重点，2021.01-2023.12，骨干，在研
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Ping Su, Junrong Wang, Chao Cai, et al. Large field-of-view lensless holographic dynamic projection system with uniform illumination and U-net acceleration. Optics and Lasers in Engineering, 2022
+[2] Qinghua Wang, Jianshe Ma, Ping Su*. A Multi-Wavelength Phase Retrieval With Multi-Strategy for Lensfree On-Chip Holography. Frontiers in Photonics, 2022
+[3] Zhitao Hao, Wei-Na Li, Bowen Hou, Jianshe Ma, Ping Su*. Characterization Method for Particle Extraction From Raw-Reconstructed Images Using U-Net. Frontiers in Physics, 2022
+[4] Mingyuan Liu, Ping Su, Jianshe Ma*, et a;/ Design and Experimental Investigation of Three Degrees of Freedom Nanoscale Microsuspension Actuators. IEEE Transactions on Industrial Electronics, 2022
+[5] Ping Su, Wenbo Cao&. Jianshe Ma*, Bingchao Cheng, Xianting Liang. Fast computer-generated hologram generation method for three-dimensional point cloud model, Journal of Display Technology, 2016, 99:1-1
+[6] Zhenpeng Luo &, Jianshe Ma, Ping Su*, and Liangcai Cao*. Digital holographic phase imaging based on phase iteratively enhanced compressive sensing. Optics Letters, 2019, 44(6)
+[7] Tao Shan, Jianshe Ma, Tianfeng Wu, Zanqiu Shen, and Ping Su*. Modeling of ultraviolet omni-directional multiple scattering channel based on Monte Carlo method, Optics Letters, 2020, 45(20), 5724-5727
+[8] Wei-Na Li, Ping Su*, Jianshe Ma and Xiaohao Wang. Short U-net model with average pooling based on in-line digital holography for simultaneous restoration of multiple particles, Optics and Lasers in Engineering, 2021, 139(2021), 106449
+[9] Ping Su, Da Sun, Jianshe Ma*, Zhenpeng Luo, Hua Zhang, Shilun Feng, Liangcai Cao*. Axial resolution analysis in compressive digital holographic microscopy, Optics Express, 2021,29(2),1275-1288
+[10] Zanqiu Shen, Jianshe Ma, Ping Su*. LMMSE-based SIMO Receiver for Ultraviolet Scattering Communication with Nonlinear Conversion, IEEE Wireless Communication Letters, accepted, 2021
+[11] Tianfeng Wu, Fang Yang, Jian Song, Jianshe Ma, and Ping Su*. Modeling of UV diffused-LOS communication channel incorporating obstacle and its applicability analysis, Optics Letters, 2021, 46(18), 4578-4581
+[12] Tianfeng Wu, Fang Yang, Jian Song, Jianshe Ma, and Ping Su*. Modeling of UV diffused-LOS communication channel incorporating obstacle and its applicability analysis, Optics Letters, 2021, 46(18), 4578-4581
+[13] Zanqiu Shen, Jianshe Ma, Serge B. Provost, and Ping Su*. Effects of transceiver jitter on the performance of optical scattering communication systems, Optics Letters, 2020, 45(20), 5680-5683
+[14] Yifan Wu, Jianshe Ma, Ping Su *, Lijun Zhang, Bizhong Xia. Full-color realization of micro-LED displays, Nanomaterials, 2020,10(12),2482-2514
+代表性著作 
+主要专利成果 
+一种裸眼3D投影屏幕及裸眼3D投影系统，中国，201210003117.6，排名1/6
+一种立体投影设备的质量评价方法、装置及系统，中国，201110209437.2，排名1/10
+LED立体显示屏及制作方法、显示系统和显示方法，中国，201110337301.X，排名1/5
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2017级硕士生骆珍鹏获得国家奖学金、清华大学工程硕士优秀学位论文。2019级硕士生孙达获得国家奖学金。指导学生获得第10届国际应用光学与光子学技术交流大会优秀青年论文奖、ICCT 2020最佳口头报告奖、SPIE OIT17最佳学生论文奖（唯一）。曾获2018年IWH唯一最佳口头报告奖、光学学报期刊最佳论文奖。
+ </奖励荣誉>

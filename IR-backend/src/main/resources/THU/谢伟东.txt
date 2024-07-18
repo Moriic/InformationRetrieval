@@ -1,0 +1,56 @@
+{"title":"谢伟东","cnUrl":"http://www.sigs.tsinghua.edu.cn/xwd/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/1c/3c/c6afb7514f3e95b8ef7e11dd4ea2/5d4535be-a374-4494-a6cd-3d039473e0a4.jpg","email":"xiewd@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2000年09月-2005年07月 中国医学科学院&北京协和医学院，药用植物研究所，硕博连读，药理学博士
+1993年09月-1997年07月 湖南中医药大学，药学本科，学士
+工作经历 
+2012年12月至今 清华大学深圳研究生院，药理学副教授
+2014年12月-2015年12月 美国宾夕法尼亚大学医学院，国家公派访问学者
+2013年06月-2013年09月 美国理海大学（Lehigh University）, 短期访问学者
+2007年07月-2012年11月 清华大学深圳研究生院，药理学讲师
+2005年07月-2007年06月 清华大学深圳研究生院，生物学博士后
+1997年09月-2000年07月 益阳医学高等专科学校，药理学助理教师
+学术兼职 
+《Molecules》杂志编委；《Chinese Journal of Integrative medicine》杂志编委
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+国际院：《遗传药理学与毒理学》、《药理学与药理学实验技术》、《医学与生物学实验》（轮转4）、《生命职业伦理与科学道德规范》等
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+分子药理学与创新药物研究。主要运用药理学思维，依托分子与细胞生物学等先进技术平台，发挥整体动物研究特长，实施转化医学策略，从事重大疾病创新药物研究。具体表现为制作和优化糖尿病、高脂血症、肥胖等经典药理动物模型，探讨上述疾病发生、发展与转归的生物学规律，寻找能有效防治该类型疾病的创新药物。
+主要项目 
+承担国家自然科学基金面上项目、广东省自然科学基金面上项目等多项，作为副课题组长或重要技术骨干参与国家“十一五” 、“十二五”重大专项新药创制、国家自然科学基金、国家自然科学基金－中加合作项目等多项。
+[1]国家自然科学基金面上项目（资助编号：81373460）。基于ceRNA与miRNA网络对话研究胰岛细胞炎症微环境与功能及探索抗糖尿病药物新策略，2014.1-2017.12，主持。
+[2]国家自然科学基金面上项目（资助编号：81072680）。TZDs“锚定”于内源性miR-181a 对高糖下单核细胞TLRs炎症信号通路的调节及胰岛保护的机制，2011.1－2013.12，主持。
+[3]“重大新药创制”科技重大专项“十二五”计划第二批课题：糖脂代谢新药BLP的研究（资助编号：2012ZX09103-201-041）。主要药效学子课题负责人，2012.1-2015.12.
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Yangyang Wang#, Yipei Ding#,Pengbo Sun#, Wanqiu Zhang#, Qilei Xin, Ningchao Wang, Yaoyun Niu, Yang Chen, Jingyi Luo, Jinghua Lu, Jin Zhou, Naihan Xu, Yaou Zhang, Weidong Xie*. Empagliflozin-Enhanced Antioxidant Defense Attenuates Lipotoxicity and Protects Hepatocytes by Promoting FoxO3a- and Nrf2-Mediated Nuclear Translocation via the CAMKK2/AMPK Pathway. Antioxidants 2022, 11(5), 799.
+[2]Liao W#, Xu N#, Zhang H, Liao W, Wang Y, Wang S, Zhang S, Jiang Y, Xie W*, Zhang Y*. Persistent high glucose induced EPB41L4A-AS1 inhibits glucose uptake via GCN5 mediating crotonylation and acetylation of histones and non-histones. Clinical and Translational Medicine. 2022 Feb;12(2): e699.
+[3]Yaoyun Niu#, Yuehui Zhang#, Yang Chen, Wanqiu Zhang, Wenhui Hao, Jinghua Lu, Jin Zhou, Lijun Wang, Weidong Xie*. Canagliflozin ameliorates NLRP3 inflammasome-mediated inflammation through inhibiting NF-κB signaling and upregulating Bif-1. Frontiers in Pharmacology. 2022 Mar 28; 13:820541.
+[4]Luo J, Sun P, Zhang X, Lin G, Xin Q, Niu Y, Chen Y, Xu N, Zhang Y, Xie W*. Canagliflozin Modulates Hypoxia-Induced Metastasis, Angiogenesis and Glycolysis by Decreasing HIF-1α Protein Synthesis via AKT/mTOR Pathway. International Journal of Molecular Sciences. 2021 Dec 11;22(24):13336.
+[5]Luo J, Sun P, Wang Y, Chen Y, Niu Y, Ding Y, Xu N, Zhang Y, Xie W*. Dapagliflozin attenuates steatosis in livers of high-fat diet-induced mice and oleic acid-treated L02 cells via regulating AMPK/mTOR pathway. European Journal of Pharmacology. 2021 Jul 3; 907:174304.
+[6]Pengbo Sun#, Yangyang Wang#, Yipei Ding, Jingyi Luo, Jin Zhong, Naihan Xu, Yaou Zhang, Weidong Xie*. Canagliflozin attenuates lipotoxicity in cardiomyocytes and protects diabetic hearts by inhibiting the mTOR/HIF-1α pathway. iScience. 2021 May 7;24(6):102521. 
+[7]Yaoyun Niu#, Yang Chen#, Pengbo Sun, Yangyang Wang, Jingyi Luo, Yipei Ding, Weidong Xie*. Intragastric and atomized administration of canagliflozin inhibit inflammatory cytokine storm in lipopolysaccharide-treated sepsis in mice: a potential COVID-19 treatment. International Immunopharmacology. 2021 Jul; 96:107773.
+[8]Zhong J#, Sun P#, Xu N, Liao M, Xu C, Ding Y, Cai J, Zhang Y*, Xie W*. Canagliflozin inhibits p-gp function and early autophagy and improves the sensitivity to the antitumor effect of doxorubicin. Biochemical Pharmacology. 2020 May; 175:113856. 
+[9]Zhao Y#, Wang Z#, Mao Y, Li B, Zhu Y, Zhang S, Wang S, Jiang Y, Xu N, Xie Y, Xie W*, Zhang Y*. NEAT1 regulates microtubule stabilization via FZD3/GSK3β/P-tau pathway in SH-SY5Y cells and APP/PS1 mice. Aging (Albany NY). 2020 Nov 18;12(22):23233-23250. 
+[10]Lee M, Zhao H, Liu X, Liu D, Chen J, Li Z, Chu S, Kou X, Liao S, Deng Y, Li H*, Xie W*. Protective Effect of Hydroxysafflor Yellow A on Nephropathy by Attenuating Oxidative Stress and Inhibiting Apoptosis in Induced Type 2 Diabetes in Rat. Oxidative Medicine and Cellular Longevity. 2020 Mar 11; 2020:7805393. 
+[11]Xu C#, Wang W#, Zhong J, Lei F, Xu N, Zhang Y, Xie W*. Canagliflozin exerts anti-inflammatory effects by inhibiting intracellular glucose metabolism and promoting autophagy in immune cells. Biochemical Pharmacology. 2018 Mar 15; 152:45-59 
+[12]Liao M, Liu Q, Li B, Liao W, Xie W*, Zhang Y*. A group of long noncoding RNAs identified by data mining can predict the prognosis of lung adenocarcinoma. Cancer Science. 2018 Dec;109(12):4033-4044.
+[13]Wan G#, Xie W#, Liu Z, Xu W, Lao Y, Huang N, Cui K, Liao M, He J, Jiang Y, Yang BB, Xu H, Xu N, Zhang Y. Hypoxia-induced MIR155 is a potent autophagy inducer by targeting multiple players in the MTOR pathway. Autophagy. 2014;10(1):70-9.
+[14]Xie Weidong, Zhao Yunan, Du Lijun*. Emerging approaches of traditional Chinese medicine formulas for the treatment of hyperlipidemia. Journal of Ethnopharmacology 2012;140(2):345-67.
+[15]Weidong Xie, Lijun Du*. Diabetes is an inflammatory disease: evidences from traditional Chinese Medicines. Diabetes, Obesity and Metabolism 2011; 13:289-301.
+代表性著作 
+[1] 谢伟东 副主编。编写第十一章 内分泌系统实验动物模型。见杜力军，赵玉男主编《实验动物与实验动物模型》，北京：中国医药科技出版社，第1版，2012年3月：279-318 
+主要专利成果 
+[1]谢伟东，张雅鸥，许乃寒 一种预防和/或治疗糖尿病的药物组合物.中国专利（专利号：ZL201310206355.1）
+[2]谢伟东，张雅鸥.一种治疗糖尿病的药物.中国专利（专利号：ZL200910236067.4）
+[3]谢伟东，蔡国平，王乃利，张雅鸥. 薤白提取物制备方法与应用. 中国专利(专利号：ZL200910077042.4)
+其他成果 
+ </研究成果>

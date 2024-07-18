@@ -1,0 +1,54 @@
+{"title":"周栋","cnUrl":"http://www.sigs.tsinghua.edu.cn/zd/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/5a/6a/ff7a6cff42ab80602422e3be1b27/a7cb9ae7-525f-4770-a04f-0f165cc635ff.jpg","email":"zhou.d@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+ 周栋博士现为清华大学深圳国际研究生院助理教授、博士生导师。2017年博士毕业于清华大学材料学院，师从康飞宇教授。其后先后加入澳大利亚悉尼科技大学清洁能源技术中心和日本东京大学理学院从事博士后研究。研究方向主要为新型二次电池的电极、电解质材料研究及界面行为分析。目前以第一/通讯作者在Nat. Nanotechnol., Nat. Commun., Chem, J. Am. Chem. Soc., Angew. Chem. Int. Ed., Adv. Mater., Energy Environ. Sci., Nano Lett., ACS Energy Lett.等期刊发表论文30余篇，总被引3700余次（谷歌学术）。当选日本JSPS Fellow、澳大利亚DECRA Fellow。2020年获得广东省自然科学一等奖。
+教育经历 
+2013年9月-2017年7月，清华大学，材料学院，材料科学与工程专业，博士(导师：康飞宇教授)
+2010年9月-2013年1月，北京科技大学，材料科学与工程学院，材料科学与工程专业，硕士(导师：范丽珍教授)
+2006年9月-2010年7月，华北电力大学（北京），能源与动力工程学院，材料科学与工程专业，学士
+工作经历 
+2021年11月-至今，清华大学，清华大学深圳国际研究生院，助理教授
+2021年1月-2021年10月，日本东京大学，工学院化学系统工程系，博士后研究助理(导师：山田淳夫教授)
+2017年9月-2021年1月，澳大利亚悉尼科技大学，理学院清洁能源技术中心，博士后研究助理(导师：汪国秀教授)
+学术兼职 
+担任Nature Communications, Chem, Advanced Materials, Advanced Energy Materials, Nano Energy, Energy Storage Materials, Journal of Materials Chemistry A, ACS Applied Materials & Interfaces, Journal of Power Sources等国际期刊审稿人。
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+•用于新型二次电池体系（包括锂金属电池，锂硫电池，高电压锂电池，钠离子电池，钠硫电池，超级电容器等）的关键电解质材料（包括电解液、凝胶聚合物电解质和全固态电解质）和电极材料的设计与制备；
+•先进二次电池体系中电极|电解质微观界面电化学的研究;
+•新型纳米/聚合物材料在能源、环境科学领域的应用及机理探究。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Junru Wu, Xianshu Wang, Qi Liu, Shuwei Wang, Dong Zhou*(共同通讯作者), Feiyu Kang, Devaraj Shanmukaraj, Michel Armand*, Teofilo Rojo, Baohua Li*, Guoxiu Wang*. A synergistic exploitation to produce high-voltage quasi-solid-state lithium metal batteries.Nature Communications, 2021, 12, 5746.
+[2] Zengming Man, Javad Safaei, Zhen Zhang, Yizhou Wang, Dong Zhou*(共同通讯作者), Peng Li, Xiaogang Zhang, Lei Jiang*, Guoxiu Wang*. Serosa-mimetic nanoarchitecture membranes for highly efficient osmotic energy generation. Journal of the American Chemical Society, 2021, 143, 16206-16216.
+[3] Pauline Jaumaux, Xu Yang, Bao Zhang, Javad Safaei, Xiao Tang, Dong Zhou*(共同通讯作者), Chunsheng Wang*, Guoxiu Wang*. Localized water-in-salt electrolyte for aqueous lithium-ion batteries. Angewandte Chemie International Edition, 2021, 60, 19965-19973.
+[4] Xiao Tang, Dong Zhou*(共同通讯作者), Bao Zhang, Shijian Wang, Peng Li, Hao Liu, Xin Guo, Pauline Jaumaux, Xiaochun Gao, Yongzhu Fu, Chengyin Wang, Chunsheng Wang*, Guoxiu Wang*. Universal strategy towards high–energy aqueous multivalent ion batteries. Nature Communications, 2021, 12, 2857.
+[5] Qi Liu, Yizhou Wang, Xu Yang, Dong Zhou* (共同通讯作者), Xianshu Wang, Pauline Jaumaux, Feiyu Kang, Baohua Li*, Xiulei Ji*, Guoxiu Wang*. Rechargeable anion-shuttle batteries for low-cost energy storage. Chem, 2021, 7, 1993-2021.
+[6] Dong Zhou†, Xiao Tang†, Xin Guo, Peng Li, Devaraj Shanmukaraj, Hao Liu, Xiaochun Gao, Yizhou Wang, Teofilo Rojo*, Michel Armand*, Guoxiu Wang*. Polyolefin-based Janus separator for rechargeable sodium batteries. Angewandte Chemie International Edition, 2020, 59, 16725-16734.
+[7] Yizhou Wang†, Dong Zhou† (共同第一作者), Veronica Palomares†, Devaraj Shanmukaraj†, Bing Sun, Xiao Tang, Chunsheng Wang*, Michel Armand*, Teófilo Rojo*, Guoxiu Wang*. Revitalising sodium-sulfur batteries for non-high-temperature operation: a crucial review. Energy & Environmental Science, 2020, 13, 3848-3879.
+[8] Pauline Jaumaux, Qi Liu, Dong Zhou* (共同通讯作者), Xiaofu Xu, Tianyi Wang, Yizhou Wang, Feiyu Kang, Baohua Li*, Guoxiu Wang*. Deep eutectic solvent-based self-healing polymer electrolyte for safe and long-life lithium metal batteries. Angewandte Chemie International Edition, 2020, 59, 9134-9142。
+[9] Xiaofu Xu, Kui Lin, Dong Zhou* (共同通讯作者), Qi Liu, Xianying Qin, Shuwei Wang, Shun He, Feiyu Kang, Baohua Li*, Guoxiu Wang*.Quasi-solid-state dual-ion sodium metal batteries for low-cost energy storage. Chem, 2020, 6, 902-918.
+[10] Dong Zhou, Guoxiu Wang*. Supercool sulfur, Nature Nanotechnology,2020, 15, 167-168.
+[11] Xiao Tang, Dong Zhou* (共同通讯作者), Peng Li, Xin Guo, Bing Sun, Hao Liu, Kang Yan, Yury Gogotsi*, Guoxiu Wang*. MXene-based dendrite-free potassium metal batteries. Advanced Materials, 2020, 32, 1906739.
+[12] Dong Zhou†, Devaraj Shanmukaraj†, Anastasia Tkacheva, Michel Armand*, Guoxiu Wang*. Polymer electrolytes for lithium-based batteries: advances and prospects.Chem, 2019, 5, 2326-2352.
+[13] Dong Zhou†, Anastasia Tkacheva†, Xiao Tang, Bing Sun, Devaraj Shanmukaraj, Peng Li, Fan Zhang, Michel Armand, Guoxiu Wang*. Stable conversion chemistry-based lithium metal batteries enabled by hierarchical multifunctional polymer electrolytes with near-single ion conduction.Angewandte Chemie International Edition, 2019, 58, 6001-6006.
+[14] Dong Zhou, Yi Chen, Baohua Li*, Hongbo Fan, Faliang Cheng, Devaraj Shanmukaraj, Teofilo Rojo, Michel Armand*, Guoxiu Wang*. A stable quasi-solid-state sodium-sulfur battery. Angewandte Chemie International Edition, 2018, 57, 10168-10172.
+[15] Xiaofu Xu†, Dong Zhou† (共同第一作者), Xianying Qin, Kui Lin, Feiyu Kang, Baohua Li*, Devaraj Shanmukaraj, Teofilo Rojo, Michel Armand*, Guoxiu Wang*. A room-temperature sodium-sulfur battery with high capacity and stable cycling performance. Nature Communications, 2018, 9, 3870.
+代表性著作 
+主要专利成果 
+[1] 康飞宇,周栋,贺艳兵,柳明,李宝华,游从辉,杜鸿达,杨全红，一种制备固态聚合物电解质锂离子电池的方法，发明专利，CN104638296A.
+[2] 康飞宇,周栋,贺艳兵,柳明,李宝华,游从辉,杜鸿达,杨全红，一种全固态聚合物电解质及其在电池中的应用，发明专利，CN104681865B.
+[3] 康飞宇,柳明,周栋,贺艳兵,李宝华,游从辉,杜鸿达,杨全红，一种聚合物锂硫电池及其制备方法，发明专利，CN104795592A.
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2020年广东省自然科学一等奖（排名第七）
+日本The Japan Society for the Promotion of Science (JSPS) Fellowship
+澳大利亚The Discovery Early Career Researcher Award (DECRA) 
+北京市优秀毕业生/清华大学优秀博士学位论文
+ </奖励荣誉>

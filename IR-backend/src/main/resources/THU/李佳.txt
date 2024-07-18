@@ -1,0 +1,50 @@
+{"title":"李佳","cnUrl":"http://www.sigs.tsinghua.edu.cn/lj/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/5f/db/0f86005d42039f58a034b6faa1f9/34695e3f-f555-4912-8c5a-122ae1891694.jpg","email":"li.jia@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1997年09月-2001年06月，中山大学 物理学 本科
+2002年09月-2009年06月，清华大学 物理学 博士
+2009年10月-2010年10月，德国马普学会Fritz-Haber研究所 博士后
+2011年04月-2013年12月，清华大学深圳研究生院 讲师
+2013年12月至今，清华大学深圳研究生院 副教授
+教育经历 
+工作经历 
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+计算材料学（课程号70350172，秋季学期，32学时）
+新能源材料物理基础（课程号70350472，秋季学期，32学时）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+通过理论计算模拟材料的各种物理化学性质，可以深入理解材料从微观到宏观多个尺度的各类现象与特征，并对材料的物性和结构进行预言，从而为新材料的设计提供指导。本人长期从事材料模拟与计算领域的研究，目前的研究兴趣包括：
+1.低维纳米材料和异质结构的生长机理
+2.高效能量转化和存储器件设计及机制研究
+3.高通量材料计算和数据挖掘
+更多信息请访问课题组主页http://cmt.sz.tsinghua.edu.cn/
+主要项目 
+1. 国家自然科学基金面上项目（2019-2022）：面向应用的高性能电催化拓扑材料的设计与模拟
+2. 国家重点研发计划项目（2017-2021）：跨尺度高通量自动流程功能材料集成计算算法和软件，子课题负责人
+3. 广东省重点领域研究计划项目（2019-2021）：高通量计算与数据融合的新材料设计平台，子课题负责人
+4. 广东省本土创新团队核心成员（团队带头人：康飞宇教授）
+5. 深圳市科创委基础研究布局（2017-2020）：石墨烯等二维纳米材料的外场诱导相变改性及其电化学储能特性研究
+ </研究领域>
+<研究成果>
+代表性论文 
+全部论文目录和引用情况见https://publons.com/researcher/2764701/jia-li/。近两年代表性论文：
+1. Xi Wu, Feiyu Kang,* Wenhui Duan, Jia Li* , Density functional theory calculations: A powerful tool to simulate and design high- performance energy storage and conversion materials, Progress in Natural Science: Materials International 2019, 29 : 247-255(Review).
+2. Shuyang Zhao, Ke Wang, Xiaolong Zou,* Lin Gan,* Hongda Du, Chengjun Xu, Feiyu Kang, Wenhui Duan, Jia Li*, Group VB transition metal dichalcogenides for oxygen reduction reaction and strain-enhanced activity governed by p-orbital electrons of chalcogen, Nano Research 2019, 12 : 925-930.
+3. Wei Jiang, Xiaolong Zou,* Hongda Du, Lin Gan, Chengjun Xu, Feiyu Kang, Wenhui Duan, Jia Li*, Universal descriptor for large-scale screening of high-performance MXene-based materials for energy storage and conversion, Chemistry of Materials 2018, 30 : 2687-2693.
+4. Yi Shen,* Yongfang Zhou, Duo Wang, Xi Wu, Jia Li*, Jingyu Xi., Nickel-copper alloy encapsulated in graphitic carbon shells as electrocatalysts for hydrogen evolution reaction. Advanced Energy Materials, 2018, 8: 1701759
+5. Jinsong Zhang, Ankun Yang, Xi Wu, Jorik van de Groep, Peizhe Tang, Shaorui Li, Bofei Liu, Feifei Shi, Jiayu Wan, Qitong Li, Yongming Sun, Zhiyi Lu, Xueli Zheng, Guangmin Zhou, Chun-Lan Wu, Shou-Cheng Zhang, Mark L. Brongersma, Jia Li, Yi Cui, Reversible and selective ion intercalation through the top surface of few-layer MoS2. Nature Communications, 2018, 9 : 5289.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1.计算材料学青年奖（Early Career Award of Computational Materials Science Award，2019）
+2.深圳市海外高层次B类人才（2013）
+ </奖励荣誉>

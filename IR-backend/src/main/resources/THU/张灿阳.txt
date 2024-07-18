@@ -1,0 +1,57 @@
+{"title":"张灿阳","cnUrl":"http://www.sigs.tsinghua.edu.cn/zcy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/c7/fa/a32185114328b3fca1c27ad2e187/91cbf84f-9e1d-4630-bcec-ce7917ac330c.png","email":"zhang.cy@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2009年09月-2014年12月，华南理工大学，化学工程专业，博士
+2012年10月-2013年10月，慕尼黑大学，药学科技专业，联合培养
+2005年09月-2009年06月，西南民族大学，化学工程与工艺专业，学士
+工作经历 
+2023年12月至今，清华大学深圳国际研究生院，副教授
+2021年5月-2023年12月，清华大学深圳国际研究生院，助理教授
+2019年06月-2020年12月，麻省理工学院-新加坡科研中心，博士后
+2016年08月-2019年06月，华盛顿州立大学，博士后
+2015年03月-2016年08月，国家纳米科学中心，助理研究员
+学术兼职 
+Journal of Future Foods编委、Exploration学术编辑
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+生物物理化学、实验生物学、纳米医药研究概论、循证医学与真实世界研究
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+研究方向重点是面向生物医药与生命健康领域重大需求与问题，理性设计和高效开发多功能工程化刺激响应型生物材料载体和活性物质靶向递送体系，用于预防和治疗疾病，如癌症、感染、自身免疫性疾病。主要有四个研究方向:
+1)聚合物等功能材料的理性设计与高效合成
+2)细胞介导的靶向制剂的开发与应用
+3)基于阳离子聚合物与脂质的核酸制剂开发与应用
+4)透皮给药微针贴片开发与应用
+5)活性物质口服制剂开发与应用
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Yun Hao Feng, Wei Xin Guo, Xiaobin Li, Jiahui Liu, Vahideh Nosrati-Siahmazgi, Maryam Toolabi, Wen Min Fei, Yong Cui, Bo Zhi Chen, Mohammad-Ali Shahbazi, Li Juan Zhang, Can Yang Zhang*, Xin Dong Guo*, Strategies to prevent water soluble drug leakage from nanovesicles in blood circulation: A coarse-grained molecular study, Chemical Engineering Science, 2023, 276, 118715
+[2] Zhiguo He, Can Yang Zhang*, Yu Lei*, Guolin Song, Youwei Yao, Plasmonic nanomaterials: A versatile phototheranostic platform of cancers, Materials Today, 2023, 62, 168-189. (Front Cover Article)
+[3] Xiaobin Li, Junyu Liu, Haihong Chen, Yaxin Chen, Yi Wang, Can Yang Zhang*, Xin-Hui Xing*, Multi-functional engineered polypeptide-based drug delivery systems for improved cancer therapy, Green Chemical Engineering, 2023, 4, 173-188.
+[4] Yaxin Chen, Duotian Qin, Jianhua Zou, Xiaobin Li, Xin Dong Guo, Yi Tang, Chuang Liu, Wei Chen, Na Kong, Can Yang Zhang*, Wei Tao*, Living Leukocyte-Based Drug Delivery Systems, Advanced Materials, 2023, 35, 2207787. (Front Cover Article)
+[5] Hai-Hong Chen, Wei Li, Yi Wang, Bing Xu, Xi Hu, Xiaobing Li, Junyu Liu, Chong Zhang, Can Yang Zhang, Xin-Hui Xing*, Mining and Validation of Novel Hemp Seed-Derived DPP-IV-Inhibiting Peptides Using a Combination of Multi-omics and Molecular Docking, Journal of Agricultural and Food Chemistry, 2023, 71, 9164-9174. 
+[6] Wei Li, Hai-Hong Chen, Bing Xu, Yi Wang, Can Yang Zhang, Yong Cao, Xin-Hui Xing*, Research progress on classification, sources and functions of dietary polyphenols for prevention and treatment of chronic diseases, Journal of Future Foods, 2023, 3-4, 75-98. 
+[7] Yan Wang, Juan Li, Jinping Shi, Junyu Liu, Can Yang Zhang*, Graphene-based nanomaterials for cancer therapy and anti-infections, Bioactive Materials. 2022, 14, 335-349. 
+[8] Jinping Shi, Juan Li, Yan Wang, Can Yang Zhang*, TiO2-based Nanosystem for Cancer Therapy and Antimicrobial Treatment: A Review, Chemical Engineering Journal, 2022, 431, 133714. (ESI Highly Cited Paper)
+[9] Junyu Liu, Xiaobin Li, Xiaopeng Zhang, Runming Wang, Sanyang Han, Peiwu Qin*, Xin-Hui Xing, Can Yang Zhang*, Gut lumen-targeted oral delivery system for bioactive agents to regulate gut microbiome, Journal of Future Foods, 2022, 2, 307-325.
+[10] Wen Xuan Li, Xiao Peng Zhang, Bo Zhi Chen, Wen Min Fei, Yong Cui*, Can Yang Zhang*,  Xin Dong Guo*, An update on microneedle-based systems for diabetes, Drug Delivery and Translational Research. 2022, 1-12. 
+[11] Yun Hao Feng, Bo Zhi Chen, Wen Min Fei, Yong Cui, Can Yang Zhang*, Xin Dong Guo*, Mechanism studies on the cellular internalization of nanoparticles using computer simulations: A review, AIChE Journal, 2022, e17507. 
+[12] Jinping Shi#, Juan Li#, Yan Wang, Xiaobin Li, Can Yang Zhang*, TiO2-based Nanosystem for Cancer Therapy and Antimicrobial Treatment: A Review. Chemical Engineering Journal. 2021, 431, 133714. 
+[13] 黄龙;曾文;徐冰;张灿阳;马少华;张翀;王怡*;邢新会*, 口服多糖靶向药物递送体系在结肠疾病治疗中的应用研究进展, 药学学报, 2021, 1073. (IF 11.413). Q1
+[14] Can Yang Zhang, Xinyue Dong, Jin Gao, Wenjing Lin, Ze Liu, Zhenjia Wang*, Nanoparticle-induced neutrophil apoptosis increases survival in sepsis and alleviates neurological damage in stroke, Science Advances, 2019, 5(11), eaax7964. (IF 14.136). Q1
+[15] Can Yang Zhang, Wenjing Lin, Jin Gao, Xutong Shi, Maryam Davaritouchaee, Amy Nielsen, Rock Mancini, Zhenjia Wang*. pH-Responsive Nanoparticles Targeted to Lungs for Improved Therapy of Acute Lung Inflammation/Injury, ACS Applied Materials & Interfaces, 2019, 11(18), 16380-16390. 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+广东省珠江人才计划、深圳市海外高层次人才
+ </奖励荣誉>

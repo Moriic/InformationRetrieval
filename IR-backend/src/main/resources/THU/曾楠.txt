@@ -1,0 +1,45 @@
+{"title":"曾楠","cnUrl":"http://www.sigs.tsinghua.edu.cn/cn/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/ca/4c/a1cf2f174e0aa555f1dfe998bb32/d3087fda-63b3-41ee-80a8-1ac767c864f1.jpg","email":"zengnan@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1996.09-2000.07 清华大学电子工程系 攻读工学学士
+2000.07-2005.07 清华大学电子工程系 硕博连读
+2005.07-2007.12 清华大学深圳研究生院 博士后
+2007.12-2010.12 清华大学深圳研究生院 助理研究员
+2010.12至今 清华大学深圳研究生院 副研究员
+教育经历 
+工作经历 
+学术兼职 
+《光学学报》专题刊编委；
+中国光学学会，生物医学光子学专业委员会，委员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+主讲课程，均为国际院开设
+生物医学光学
+偏振光学
+实验设计与数据处理
+生物组织物理模型与医学应用
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+偏振光学技术方法和应用研究，近年来集中研究光学建模仿真、组织和细胞显微成像、悬浮粒子高通量动态检测分析，以及上述在生物医学等交叉领域的应用和仪器化。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1.Yuerong Chen, Nan Zeng, Sirui Chen, Yonghong He, Hui Ma, Study on morphological analysis of suspended particles using single angle polarization scattering measurements, Journal of Quantitative Spectroscopy and Radiative Transfer, 224: 556~565,2019. 
+2.Ruiwei Liao, Nan Zeng, Maomao Zeng, Yonghong He, Hui Ma, Estimation and extraction of the aerosol complex refractive index based on Stokes vector measurements, Optics Letters, 44 (19): 4877-4880, 2019. 
+3.Jintao Chang, Nan Zeng, Honghui He, Yonghong He, Hui Ma, Single-shot spatially modulated Stokes polarimeter based on a GRIN lens, Optics Letters, 39(9): 2656-2659, 2014. 
+4.Da Li, Nan Zeng, Dongjian Zhan, Yuerong Chen, Maomao Zeng, Hui Ma, Differentiation of soot particulates in air using polarized light scattering method, Applied Optics, 56(14): 4123-4129, 2017. 
+5.Da Li, Fei Chen, Nan Zeng, Zhigang Qiu, Honghui He, Yonghong He, Hui Ma, Study on polarization scattering applied in aerosol recognition in the air，Optics Express, 27(12): A581-A595, 2019. 
+6.Da Li, Nan Zeng, Maomao Zeng, Ran Liao, Hui Ma, Identification of soot particles in air based on polarization scattering method, Journal of Infrared and Millimeter Waves, 36(6): 701~705, 2017. 
+7.Yihong Guo, Nan Zeng, Honghui He, Celong Liu, E Du, Yonghong He, Hui Ma, Retardance of bilayer anisotropic samples consisting of well-aligned cylindrical scatterers and birefringent media, Journal of Biomedical Optics, 21(5):55002, 2016. 
+8.Jintao Chang, Nan Zeng, Honghui He, Yihong Guo, Hui Ma, Removing the polarization artifacts in Mueller matrix images recorded with a birefringent gradient-index lens, Journal of Biomedical Optics, 19(9):095001, 2014. 
+9.Tianliang Yun, Nan Zeng, Wei Li, Dongzhi Li, Xiaoyu Jiang, Hui Ma, Monte Carlo simulation of polarized photon scattering in anisotropic medium, Optics Express, 17(19): 16590-16602, 2009. 
+10.Yunfei Wang, Yihong Guo, Nan Zeng, Dongsheng Chen, Honghui He, Hui Ma, Study on the validity of 3×3 Mueller matrix decomposition，Journal of Biomedical Optics, 20(6): 065003, 2015
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

@@ -1,0 +1,81 @@
+{"title":"景路","cnUrl":"http://www.sigs.tsinghua.edu.cn/jl/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/0d/1f/9d1d06d44e9fa4eda44303b8f98b/0728a972-2c81-4b00-ac6b-1af0c241b507.jpg","email":"lujing@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+景路，清华大学深圳国际研究生院助理教授，博士生导师，入选国家级人才计划。2017年在香港大学土木工程系获博士学位，2018-2022年在美国西北大学流体与颗粒材料非线性动力学实验室从事博士后研究，2022年7月入职清华大学。主要研究方向为颗粒流与泥沙运动力学、海洋防灾数字化。现任国际地质灾害与减灾协会、国际土力学与岩土工程学会专委会成员，美国物理学会流体力学分会、美国地球物理学会会员。主持或参与国内外基础研究项目近10项，发表SCI论文20余篇，包括多篇自然指数期刊及领域顶刊。课题组常年招收博士后、博士生、科研助理、访问学生，诚挚欢迎土木、水利、岩土、地质、港航、力学、应用数学、计算机等专业的学生加入。
+教育经历 
+2013/01-2017/03，香港大学，土木工程，博士
+2010/09-2012/09，同济大学，岩土工程，硕士
+2006/09-2010/06，同济大学，土木工程，学士
+工作经历 
+2022/07至今，清华大学，深圳国际研究生院，助理教授、博导
+2018/10-2022/05，美国西北大学，博士后研究员
+2017/05-2018/09，香港大学，高级研究助理
+2018/04-2018/06，荷兰特温特大学，访问学者
+学术兼职 
+国际土力学与岩土工程学会TC105宏微观土力学专委会，委员
+国际地质灾害与减灾协会，会员
+美国地球物理学会地球与行星地表过程分会，会员
+美国物理学会流体力学分会，会员
+JGR: Earth Surface、JFM、PRFluids、Granular Matter等SCI期刊审稿人
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+1. 高等数值分析，公共课
+2. 颗粒材料力学理论与实践，专业课
+3. 水沙两相流动力学，专业课
+4. 岩土工程原理与数值分析，专业课（英）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+研究领域为“海洋工程防灾减灾”，聚焦水利与海洋工程环境中的复杂颗粒流动过程及其灾变效应，例如泥石流、海底滑坡等自然灾害和海上风电基础冲刷、深海采矿羽流扩散污染等工程风险，采用多尺度力学、高性能计算、精密物理测量和人工智能等学科交叉手段，在探索颗粒-流体非线性体系基本物理规律的同时，发展物理-数据双驱动的海洋工程灾害数值仿真方法，为海洋防灾数字化及智能预报提供理论支撑。目前主要研究兴趣包括：
+（1）颗粒流与泥沙运动（固液相变、颗粒分选、局部冲刷、水沙两相流）
+（2）计算流体力学（离散元与流体耦合、无网格法、人工智能流体力学）
+（3）面向海洋工程防灾减灾的数字孪生和数值模拟技术研发
+主要项目 
+1. 国家自然科学基金委员会，某国家级人才项目，非均匀沙床面演化跨尺度理论，2023-2025，在研，主持
+2. 清华大学深圳国际研究生院，科研启动经费，泥沙运动跨尺度理论及生态河流海岸多尺度多过程模拟方法，2023-2025，在研，主持
+3. 清华大学水沙科学与水利水电工程国家重点实验室，开放基金，阶梯-深潭结构细颗粒运移沉积规律及生态响应试验研究，2023-2024，在研，主持
+4. 四川大学水力学与山区河流开发保护国家重点实验室，开放基金，泥石流入江形成堰塞坝的动力学模拟及堆积结构研究，2023-2024，在研，主持
+5. 广东省基础与应用基础研究基金委员会，区域联合基金-粤港澳研究团队项目，海洋-气象灾害数字孪生、数值模拟技术研发及其示范应用，2022-2026，在研，参与
+6. 美国国家科学基金，GOALI项目，Flow-driven segregation at the particle level，2019-2024，在研，参与
+7. 香港研究资助局，GRF项目，Multiscale study of basal resistance for geophysical granular flows over complex topography，2022-2025，在研，参与
+8. 香港研究资助局，GRF项目，Towards a physics-based, multiscale paradigm for the modeling of debris flow entrainment，2021-2024，在研，参与
+9. 香港研究资助局，GRF项目，Coupled fluid-particle modeling for debris flows，2014-2018，结题，参与
+ </研究领域>
+<研究成果>
+代表性论文 
+论文主要发表在物理、流体、地学、计算力学、颗粒材料等领域期刊上，包括Physical Review Letters、Journal of Fluid Mechanics、Journal of Geophysical Research、Journal of Computational Physics等顶级刊物。
+[1] Jing, L., Ottino, J.M., Umbanhowar, P.B., Lueptow, R.M. Drag force in granular shear flows: Regimes, scaling laws, and implications for segregation. Journal of Fluid Mechanics, 2022, 948, A24.
+[2] Duan, Y., Jing, L., Umbanhowar, P.B., Ottino, J.M., Lueptow, R.M. Segregation forces in dense granular flows: Closing the gap between single intruders and mixtures. Journal of Fluid Mechanics, 2022, 935, R1.
+[3] Jing, L., Ottino, J.M., Lueptow, R.M., Umbanhowar, P.B. A unified description of gravity- and kinematics-induced segregation forces in dense granular flows. Journal of Fluid Mechanics, 2021, 925, A29.
+[4] Jing, L., Ottino, J.M., Lueptow, R.M., Umbanhowar, P.B. Rising and sinking intruders in dense granular flows. Physical Review Research, 2020, 2(2), 022069.
+[5] Jing, L., Kwok, C.Y., Leung, Y.F. Micromechanical origin of particle size segregation. Physical Review Letters, 2017, 11(118): 118001.
+[6] Jing, L., Yang, G.C., Kwok, C.Y., Sobral, Y.D. Flow regimes and dynamic similarity of immersed granular collapse: A CFD-DEM investigation. Powder Technology, 2019, 345, 532–543.
+[7] Jing, L., Yang, G.C., Kwok, C.Y., Sobral, Y.D. Dynamics and scaling laws of underwater granular collapse with varying aspect ratios. Physical Review E, 2018, 98(4): 042901.
+[8] Jing, L., Kwok, C.Y., Leung, Y.F., Zhang, Z., Dai, L. Runout scaling and deposit morphology of rapid mudflows. Journal of Geophysical Research: Earth Surface, 2018, 8(123): 2004-2023.
+[9] Jing, L., Kwok, C.Y., Leung, Y.F., Sobral, Y.D. Characterization of base roughness for granular chute flows. Physical Review E, 2016, 94, 052901.
+[10] Jing, L., Kwok, C.Y., Leung, Y.F., Sobral, Y.D., Extended CFD-DEM for free-surface flow with multi-size granules. International Journal for Numerical and Analytical Methods in Geomechanics, 2016, 40(1): 62-79.
+[11] Yang, G.C., Yang, S.C., Jing, L., Kwok, C.Y., Sobral, Y.D. Efficient lattice Boltzmann simulation of free-surface granular flows with μ(I)-rheology. Journal of Computational Physics, 2023, 479: 111956.
+[12] Cui, K.F.E., Zhou, G.G.D., Jing, L. Particle segregation and diffusion in fluid-saturated granular shear flows. Physical Review Fluids, 2022, 7, 014305.
+[13] Cui, K.F.E., Zhou, G.G.D., Jing, L. Viscous effects on the particle size segregation in geophysical mass flows: Insights from immersed granular shear flow simulations. Journal of Geophysical Research: Solid Earth, 2021, 126, e2021JB022274.
+[14] Cui, K.F.E., Zhou, G.G.D., Jing, L., Chen, X., Song, D. Generalized friction and dilatancy laws for immersed granular flows containing large and small particles. Physics of Fluids, 2020, 32, 113312.
+[15] Zhou, G.G.D., Cui, K.F.E., Jing, L., Zhao, T., Song, D., Huang, Y. Particle size segregation in granular mass flows with different ambient fluids. Journal of Geophysical Research: Solid Earth, 2020, 125, e2020JB019536.
+[16] Yang, G.C., Jing, L., Kwok, C.Y., Sobral, Y.D. Size effects in underwater granular collapses: Experiments and coupled lattice Boltzmann and discrete element method simulations. Physical Review Fluids, 2021, 6, 114302.
+[17] Yang, G.C., Jing, L., Kwok, C.Y., Sobral, Y.D. Pore-scale simulation of immersed granular collapse: Implications to submarine landslides. Journal of Geophysical Research: Earth Surface, 2020, 125(1), e2019JF005044.
+[18] Yang, G.C., Jing, L., Kwok, C.Y., Sobral, Y.D. A comprehensive parametric study of LBM-DEM for immersed granular flows. Computers and Geotechnics, 2019, 114, 103100.
+[19] Weinhart, T., Orefice, L., Post, M., et al. Fast, flexible particle simulations - An introduction to MercuryDPM. Computer Physics Communications, 2020, 249, 107129.
+[20] van der Vaart, K., Thornton, A.R., Johnson, C.G., Weinhart, T., Jing, L., Gajjar, P., Gray, J.M.N.T., Ancey, C. Breaking size-segregation waves and mobility feedback in dense granular avalanches. Granular Matter, 2018, 20(3), 46.
+[21] Duan, K., Kwok, C.Y., Wu, W., Jing, L. DEM modeling of hydraulic fracturing in permeable rock: influence of viscosity, injection rate and in-situ states. Acta Geotechnica, 2018, 13(5), 1187–1202.
+[22] Meng, Y., Zhu, H.J., Kwok, C.Y., Kuo, M., Jing, L., Huang, X. Effect of coefficient of friction on arch network in shearing process under low confinement. Powder Technology, 2018, 335, 1–10.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+某国家级人才计划，2021
+“鹏城孔雀计划”特聘岗位B类，2022 
+国际岩土工程会议青年学者最佳论文奖，2016
+ </奖励荣誉>

@@ -1,0 +1,59 @@
+{"title":"李孙伟","cnUrl":"http://www.sigs.tsinghua.edu.cn/lsw/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/63/6f/435039fe4e74bd215a4bc4de6c9d/950b4917-4ea9-4740-9ee6-2c18748aff41.jpg","email":"li.sunwei@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2008年09月-2012年05月，加拿大西安大略大学，土木与环境工程专业，博士
+2005年09月-2008年05月，同济大学，风工程专业，硕士
+2001年09月-2005年07月，清华大学，土木工程专业，学士
+工作经历 
+2022年7月至今，清华大学，深圳国际研究生院，副教授
+2020年09月-2022年7月，清华大学，深圳国际研究生院，助理教授
+2019年08月-2020年09月，清华大学，深圳国际研究生院，讲师
+2014年11月-2019年08月，清华大学，深圳研究生院，讲师
+2013年08月-2014年11月，香港科技大学，CLP风洞实验室，访问学者
+2012年07月-2013年07月，香港科技大学，博士后
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+清华大学深圳国际研究生院，研究生专业基础课《海洋工程与技术概论》，32学时
+清华大学深圳国际研究生院，研究生专业选修课《计算流体力学》，32学时
+清华大学深圳国际研究生院，研究生公共课《研究生英语》，32学时
+清华大学深圳国际研究生院，研究生专业选修课《出海实践》，32学时
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事台风致灾性，海上风能开发，天然气水合物开发和二氧化碳长期固化地质风险研究。从台风致灾性角度，综合利用中尺度数值模拟，实地飞行观测以及地面远距离雷达观测等叔段针对台风风场和台风引发的极端海况进行系统研究。在海上风能开发领域，提出了新型柔性连接的多浮体浮式风机基础，通过数值模拟和工程水池试验等手段对新型浮式基础进行动力响应和极端海况下的安全性方面的研究。从天然气水合物开发地质风险分析角度，主要采用数值模拟和缩尺比试验手段研究了天然气水合物分解和二氧化碳水合物扰动条件下的地质塌陷风险，同时研究了使用水合物方式长期固碳带来的潜在地质风险。
+截止2022年，作为项目负责人承担了国家自然科学基金青年基金，深圳市孔雀计划创新项目，深圳市技术攻关项目，横向咨询项目6项，累计主持经费超过了200万元。作为项目骨干参与了深圳市海洋经济示范市项目，广东省促进海洋经济高质量发展专项，深圳市创新链+产业链项目等5项，累计到账项目经费超过1000万元。
+截止2022年，共发表论文SCI索引论文38篇，其中其第一和通讯作者身份发表24篇，总他引超过了200次。多次应邀参加在国际会议，并发表口头报告。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Tse, K. T., Weerasuriya, A. U., Zhang, X., Li, S.*, Kwok, K. C. S. (2017). Pedestrian-level wind environment around isolated buildings under the influence of twisted wind flows. Journal of Wind Engineering and Industrial Aerodynamics, 162, 12-23.WOS:000395840000003, 总引：16, 他引：9, 影响因子(IF)：3.625, 分区(Quartile): Q1.
+[2] Liu, Y., Chen, D., Yi, Q., Li, S.* (2017). Wind Profiles and Wave Spectra for Potential Wind Farms in South China Sea. Part I: Wind Speed Profile Model. Energies, 10(1), 125.WOS:000392422500124,总引：11, 他引：9, 影响因子(IF)：2.99, 分区(Quartile): Q3.
+[3] Song, J., Hu, G., Tse, K. T., Li, S.*, & Kwok, K. C. S. (2017).Performance of a circular cylinder piezoelectric wind energy harvester fitted with a splitter plate. Applied Physics Letters, 111(22), 223903.WOS:000416697400050, 总引：20, 他引：20, 影响因子(IF)：3.521, 分区(Quartile): Q1.
+[4] Liu, Y. C., Chen, D. Y., Li, S.*, & Chan, P. W. (2018). Revised power-law model to estimate the vertical variations of extreme wind speeds in China coastal regions. Journal of Wind Engineering and Industrial Aerodynamics, 173, 227-240.WOS:000424723000019, 总引：3, 他引：2, 影响因子(IF)：3.625, 分区(Quartile): Q1.
+[5] Weerasuriya, A., Hu, Z. Z., Zhang, X., Tse, K. T.Li, S. W.*, & Chan, P. W. (2018). New inflow boundary conditions for modeling twisted wind profiles in cfd simulation for evaluating the pedestrian-level wind field near an isolated building. Building & Environment, 132.,302-318. WOS:000428484400028, 总引：6, 他引：4, 影响因子(IF)：5.379, 分区(Quartile): Q1.
+[6] Liu Y, Chen D, Li S*, Chan P W. (2018), Discerning the spatial variations in offshore wind resources along the coast of China via dynamic downscaling. Energy. 160: 582-596. WOS:000445985300047, 总引：6, 他引：6, 影响因子(IF)：5.747, 分区(Quartile): Q1.
+[7] Liu, Y. C., Chen, D. Y., Li, S.* (2018).The artificial generation of the equilibrium marine atmospheric boundary layer for the CFD simulation of offshore wind turbines. Journal of Wind Engineering and Industrial Aerodynamics,183,44-54. WOS:000454382100004, 总引：2, 他引：2, 影响因子(IF)：3.625, 分区(Quartile): Q1.
+[8] Liu, Y., Chen, D., Li, S.*, Chan, P. W., Zhang, Q. (2019). A three-dimensional numerical simulation approach to assess typhoon hazards in china coastal regions. Natural Hazards.96(2), 809~835. WOS:000472974200013,总引：0, 他引：0, 影响因子(IF)：2.604, 分区(Quartile): Q2.
+[9] Li, W., Hu, Z., Pei, Z., Li, S.*, & Chan, P. W. (2020). A discussion on influences of turbulent diffusivity and surface drag parameterizations using a linear model of the tropical cyclone boundary layer wind field.Atmospheric Research, 104847. 总引：0, 他引：0, 影响因子(IF)：4.114, 分区(Quartile): Q1.
+[10] Li, W., Li, S.* (2020). Investigation of Factors Influencing Power Takeoff for a Wind Turbine Installed Inside a High-Rise Building, Journal of Energy Engineering, 164(4),总引：0, 他引：0, 影响因子(IF)：1.351, 分区(Quartile): Q3.
+[11] Li, S., Hu, Z. Z., Chan, P. W., & Hu, G. (2017). A study on the profile of the turbulence length scale in the near-neutral atmospheric boundary for sea (homogeneous) and hilly land (inhomogeneous) fetches. Journal of Wind Engineering and Industrial Aerodynamics, 168, 200-210.WOS:000408299700019, 总引：0, 他引：0, 影响因子(IF)：3.625, 分区(Quartile): Q1.
+[12] Liu, Y., Li, S., Yi, Q., Chen, D. (2017). Wind Profiles and Wave Spectra for Potential Wind Farms in South China Sea. Part II: Wave Spectrum Model. Energies, 10(1), 127.WOS:000392422500126, 总引：3, 他引：2, 影响因子(IF)：2.99, 分区(Quartile): Q3.
+[13] Liu, Y., Li, S., Chan, P. W., & Chen, D. (2017). Empirical correction ratio and scale factor to project the extreme wind speed profile for offshore wind energy exploitation. IEEE Transactions on Sustainable Energy. 9(3): 1030~1040, WOS:000436000000004, 总引：0, 他引：0, 影响因子(IF)：8.713, 分区(Quartile): Q1.
+[14] Liu, Y, Li, S, Chan P W, Chen D. (2018). On the failure probability of offshore wind turbines in the China coastal waters due to typhoons: A case study using the OC4-DeepCwind semisubmersible. IEEE Transactions on Sustainable Energy, 10(2), 522-532.WOS:000462375900003, 总引：2, 他引：2, 影响因子(IF)：8.713, 分区(Quartile): Q1.
+[15] Feng, Y, Li, S, Chan, D, Xiao, Q. (2019). Predictions for combined In-Line and Cross-Flow VIV responses with a novel model for estimation of tension. Ocean Engineering, 191, 106531. WOS:000502888100035, 总引：1, 他引：1, 影响因子(IF)：3.067, 分区(Quartile): Q1.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2008-2012年，获得留学基金委建设高水平大学公派留学奖学金资助
+2010年，获得西安大略大学的Thesis Research Award
+2011年，获得西安大略大学的A. G. Davenport Memorial Award
+ </奖励荣誉>

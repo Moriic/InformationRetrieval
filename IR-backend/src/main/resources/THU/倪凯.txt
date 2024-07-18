@@ -1,0 +1,108 @@
+{"title":"倪凯","cnUrl":"http://www.sigs.tsinghua.edu.cn/nk/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/80/8e/3feb9d3b4d5a8b80272a1e6d8a3c/34653ada-f6bc-44bd-8dba-1a3597fd5b3f.jpg","email":"ni.kai@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2003年09月～2008年07月，清华大学，光学工程专业，工学博士，导师：金国藩
+1999年09月～2003年07月，清华大学，测控技术与仪器专业，工学学士
+工作经历 
+2019年08月～今，清华大学深圳国际研究生院，先进制造学部，副研究员
+2016年12月～2019年08月，清华大学深圳研究生院，先进制造学部，副研究员
+2011年04月～2016年12月，清华大学深圳研究生院，先进制造学部，讲师
+2008年08月～2011年04月，清华大学深圳研究生院，工程学部，博士后
+现任职务
+先进制造学部副主任
+海洋工程研究院院长助理
+分析仪器中心副主任
+深圳清华精仪系校友会秘书长
+学术兼职 
+中国计量测试学会计量仪器专业委员会 委员
+深圳市微米纳米技术学会 理事
+美国光学学会（OSA） 会员
+Analytical Chemistry 审稿人
+International Journal of Mass Spectrometry 审稿人
+Measurement 审稿人
+Microelectronic Engineering 审稿人
+Chinese Optics Letters 审稿人
+Optics Communications 审稿人
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+嵌入式处理器高级应用
+科学仪器
+测试技术
+工程测量系统
+海洋观测技术前沿与仪器
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+长期从事精密测量与仪器领域的研究，主要包括精密光电测量和小型分析仪器技术，重点瞄准其在现场检测中的共性科学问题和关键核心技术，并积极开展相关工程应用。在先进制造、高端装备、航空航天、深地深海等领域，主要聚焦于跨尺度几何量精密测量，多物理量光学遥感遥测等技术的研究；在环境保护、医疗器械、公共安全、海洋勘探等领域，主要聚焦于有毒有害气体、毒品、爆炸物等痕量物质检测技术的研究。
+小型离子阱质谱仪（Ion Trap Mass Spectrometry）
+离子迁移谱仪（Ion Mobility Spectrometry）
+光频梳绝对距离测量（Dual Comb Ranging）
+光频梳红外光谱测量（Dual Comb Spectrometry）
+光栅及其应用（Grating and its applications）
+数据采集与信号处理（Data Acquisition and Signal Processing）
+主要项目 
+国家重大科学仪器设备开发专项（子项目）
+国家自然科学基金（重点）项目
+国家自然科学基金（重大科研仪器研制）项目
+国家自然科学基金（青年基金）
+广东省科技计划项目
+深圳市基础研究（重点）项目
+深圳市基础研究（学科布局）项目
+深圳市技术攻关项目
+深圳市基础研究（自由探索）项目
+企事业单位委托技术开发项目
+ </研究领域>
+<研究成果>
+代表性论文 
+共发表论文96篇，其中SCI检索53篇，EI检索43篇。
+1. H. Yu, Q. Zhou, X. Li, X. Wang, K. Ni*, Mode-resolved dual-comb spectroscopy using error correction based on single optical intermedium. Opt. Express, 2021, 29(4): 6271-6281.
+2. H. Yu, Q. Zhou, X. Li, X. Wang, X. Wang, K. Ni*, Improving Resolution of Dual-Comb Gas Detection Using Periodic Spectrum Alignment Method. Sensors (Basel), 2021, 21(3): 903.
+3. Y. Han†, K. Ni†, X. Li*, G. Wu, K. Yu, Q. Zhou, X. Wang, An FPGA Platform for Next-Generation Grating Encoders. Sensors, 2020, 20(8): 2266.
+4. H. Yu, K. Ni*, Q. Zhou, X. Li, X. Wang, G. Wu*, Digital error correction of dual-comb interferometer without external optical referencing information. Opt. Express, 2019, 27(20): 29425-29438.
+5. Y. Shi†, K. Ni†, X. Li*, Q. Zhou, X. Wang, Highly accurate, absolute optical encoder using a hybrid-positioning method. Opt. Lett., 2019, 44(21): 5258-5261.
+6. K. Guo, K. Ni*, X. Song, K. Li, B. Tang, Q. Yu, X. Qian, X. Wang*, Ion Distribution Profiling in an Ion Mobility Spectrometer by Laser-Induced Fluorescence. Anal Chem, 2018, 90(7): 4514-4520.
+7. Q. Zhou, X. Li, M. Geng, H. Hu, K. Ni*, L. Zhong, P. Yan, X. Wang*, Economic fabrication of a novel hybrid planar Grating/Fresnel lens for miniature spectrometers. Opt. Express, 2018, 26(5): 6079-6089.
+8. Q. Zhou, X. Qiao, K. Ni*, X. Li*, X. Wang, Depth detection in interactive projection system based on one-shot black-and-white stripe pattern. Opt. Express, 2017, 25(5): 5341-5351.
+9. Q. Zhou, X. Li, K. Ni*, R. Tian, J. Pang, Holographic fabrication of large-constant concave gratings for wide-range flat-field spectrometers with the addition of a concave lens. Opt. Express, 2016, 24(2): 732-738.
+10. K. Ni*, J. Guo, Z. Yu, L. Cao, Q. Yu, X. Qian, X. Wang, A progressively reduced pretension method to fabricate Bradbury-Nielsen gates with uniform tension. Rev. Sci. Instrum., 2015, 86(11): 6.
+11. K. Ni*, J. Guo, G. Ou, X. Zhang, Q. Yu, X. Qian, X. Wang, Study of ion transmission for a linear mode Bradbury-Nielsen gate in ion mobility spectrometer. Int. J. Mass Spectrom., 2015, 379: 75-79.
+12. K. Ni*, J. Guo, G. Ou, Y. Lei, Q. Yu, X. Qian, X. Wang, A simple template-based transfer method to fabricate Bradbury-Nielsen gates with uniform tension for ion mobility spectrometry. Rev. Sci. Instrum., 2014, 85(8): 7.
+代表性著作 
+主要专利成果 
+中国发明专利授权91项，美国专利授权5项，日本专利授权3项。
+1. 一种用于离子迁移谱仪的离子门控制方法, 中国, CN201910745716.7.
+2. 一种改善离子迁移谱中BN门歧视效应的离子门控制方法, 中国, CN201910595864.5.
+3. 一种离子迁移谱仪离子门开关门控制方法和离子迁移谱仪, 中国, CN201910483254.6.
+4. 一种电晕放电电离源结构及离子迁移谱仪, 中国, CN201910477779.9.
+5. 角速度测量方法、装置及应用系统, 中国, CN201910299406.7.
+6. 一种角速度测量方法、测量系统及载体, 中国, CN201910299404.8.
+7. 一种角速度测量装置、方法及其载具, 中国, CN201811175104.0.
+8. 解决傅里叶变换离子迁移谱仪的频谱信号衰减问题的方法, 中国, CN201810040359.X.
+9. 一种基于光纤SPR传感器的离子迁移谱仪, 中国, CN201810030730.4.
+10. 一种直驱射频电源, 中国, CN201710318377.5.
+11. Method for tracing distribution of moving ions in ion mobility spectrometer, 美国, 15/486,040.
+12. 用于飞秒激光跟踪仪的数据采集与处理系统及方法, 中国, CN201610911927.X.
+13. 飞秒激光测距装置和方法, 中国, CN201610865133.4.
+14. Method of spectrometer and spectrometer, 美国, 15/206,992.
+15. 一种减小离子迁移谱仪离子门感应冲击的装置和方法, 中国, CN201610421157.0.
+16. 离子迁移谱仪中运动离子分布的示踪办法, 中国, CN201510934309.2.
+17. 一种BN离子门的制作方法及专用的夹具, 中国, CN201510234588.1.
+18. 二重入射スリット分光器の設計方法及び二重入射スリット分光器, 日本, P2016-554788.
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2020，中国机械工业科学技术奖（特等奖）
+2020，中国计量测试学会科学技术进步奖（一等奖）
+2017，深圳市南山区领航人才
+2015，深圳市后备级人才
+2013，北京市科学技术奖（一等奖）
+2012，教育部科技成果完成者证书
+2008，清华大学优秀博士论文
+2008，清华大学学术新秀
+2004，教育部科技成果完成者证书
+ </奖励荣誉>

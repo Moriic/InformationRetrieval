@@ -1,0 +1,71 @@
+{"title":"王希林","cnUrl":"http://www.sigs.tsinghua.edu.cn/wxl/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/32/fb/d2da875a4bcfbb245b38e774da79/6f6386d3-d208-4451-8a36-320441b24ea0.jpg","email":"wang.xilin@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2002年09月-2006年07月，北京化工大学，材料科学与工程专业，学士
+2006年08月-2011年07月，清华大学，材料科学与工程专业，博士
+工作经历 
+2011年9月-2013年8月，清华大学，电气工程博士后流动站，绝缘材料研究；
+2013年9月-2020年12月，清华大学深圳国际研究生院，讲师
+2020年12月-至今，清华大学深圳国际研究生院，副教授
+学术兼职 
+广东省复杂滨海环境电力装备可靠性工程技术研究中心副主任
+深圳市复杂滨海环境电力装备可靠性工程实验室副主任
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+研究生课程：工程电介质导论、气体放电、太阳能光伏发电系统、电气工程师职业素养、高电压试验安全学、材料显微结构分析方法
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 主要从事高电压与绝缘技术相关领域研究，包括新型复合绝缘材料的研发、绝缘材料的老化检测、智能电网输变电设备的在线检测评估方法、气体放电、强电场下陶瓷场致烧结、电介质陶瓷的性能提升与表征等。
+主要项目 
+ 主持的科技项目有：
+ 国家自然科学基金面上，交变电场下纳米-微米多孔介质放电特性及其用于陶瓷场致烧结机理研究，2021.01-2024.12.在研
+ 国家自然科学基金青年，基于激光诱导击穿光谱技术的复合材料定量在线检测方法研究”，2017.01-2019.12，结题
+ 新型陶瓷与精细工艺国家重点实验室开放课题重点项目，交流强电场致陶瓷室温烧结机理研究，2019.10-2021.12，在研
+ 深圳市基础研究项目，绝缘子污秽远程在线检测技术研究，2018.02-2020.02，在研
+ 深圳市基础研究项目，高压直流非线性材料研究，2015.08-2017.07，结题
+ 深圳市基础研究项目，基于激光诱导击穿光谱的智能电网在线检测关键技术研究，2016.07-2018.06，结题
+ 深圳市个人创客项目，复合材料老化状态评估系统开发，2017.03-2017.12，结题
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Liu J, Huang R, Wang X*, et al. Mechanism of flash sintering with high electric field: In the view of electric discharge and breakdown. Scripta Materialia, 2020, 187:93-96
+[2] Li X, Huang R, Wang X*, et al. A simple optimized design of an electrode to conduct flash sintering at room temperature and low onset electric field, Scripta Materialia, 2020,186: 158-162；
+[3] Jiming Liu; Xiang Li; Xilin Wang*; Rongxia Huang*; Zhidong Jia; Alternat ing current field flash sintering 99% relative density ZnO ceramics at room temperature, Scripta Materialia, 2019, 176: 28-31.
+[4] Wang, Xilin*; Zhu, Yuchen; Huang, Rongxia; Mei, Hongwei; Jia, Zhidong; Flash sintering of ZnO ceramics at 50 ℃ under an AC field, Ceramics International, 2019, 45(18): 24909-24913.
+[5] Wang Xilin*; Hong Xiao; Chen Ping; Zhao Chenlong; Jia Zhidong; Wang Liming; Zou Lin. Surface Hardness Analysis of Aged Composite Insulators via Laser-Induced Plasma Spectra Characterization, IEEE Transactions on Plasma Science, 2019, 47(1): 387-394. 
+[6] Wang, Xilin*; Huang, Rongxia; Zhao, Yongjie; Zhao, Yuzhen; Zhou, Heping; Jia, Zhidong; Dielectric and tunable properties of Zr doped BST ceramics prepared by spark plasma sintering, Journal of Alloys and Compounds, 2012, 533: 25-28. 
+[7] Wang, Xilin*; Hong, Xiao; Wang, Han; Chen, Can; Zhao, Chenlong; Jia, Zhidong; Wang, Liming; Zou, Lin; Analysis of the silicone polymer surface aging profile with laser-induced breakdown spectroscopy, Journal of Physics D-Applied Physics, 2017, 50(41).
+[8] Xilin W, Xiao H, Ping C, et al. In-situ and quantitative analysis of aged silicone rubber materials with laser-induced breakdown spectroscopy[J]. High Voltage, 2018, 3(2): 140-146.
+[9] Wang, Xilin; Wang, Han; Chen, Can; Jia, Zhidong. Ablation Properties and Elemental Analysis of Silicone Rubber Using Laser-Induced Breakdown Spectroscopy，IEEE Transactions on Plasma Science, July 21, 2016，vol.44, (11):2766-2771
+代表性著作 
+主要专利成果 
+[1] 授权专利号ZL201610029402.3，一种复合绝缘材料老化状态判定方法，发明人：王希林，王晗，叶蔚安，贾志东.
+[2] 授权专利号ZL201510768064.0，一种干式清除绝缘子老化RTV涂料的方法，发明人：王希林，王晗，贾志东.
+[3] 授权专利号ZL201510733835.2，一种绝缘子RTV涂层厚度的测量方法，发明人：王希林，王晗，贾志东.
+[4] 授权专利号ZL201610994918.1. 一种绝缘子表面污秽盐密测量方法，发明人：王希林，洪骁，陈灿，赵晨龙，王晗，叶蔚安，贾志东.
+[5] 授权专利号ZL201710365388.9，纳米颗粒填料、硅橡胶复合材料及其制备方法，发明人：王希林，郭聚一，王俊，徐笑然，姚有为，贾志东.
+[6] 授权专利号ZL201610994916.2, 一种适应复杂电场的双掺杂硅橡胶复合材料及其制备方法，发明人：王希林，徐笑然，王俊，姚有为，贾志东.
+[7] 授权专利号ZL201810898087.7，一种基于激光诱导击穿光谱技术的表面粗糙度测量方法，发明人：王希林，陈凭，贾志东，王黎明.
+[8] 美国专利，US 15/836,323，Method for inspecting aging state of silicone rubber compsite insulating material, Inventors: Xilin Wang, Han Wang, Weian Ye, Zhidong Jia， Authorized.
+[9] 授权专利号，ZL 201910724308.3，提高电场辅助烧结能力的制备方法，发明人，王希林，祝宇辰，刘杰明，贾志东.
+其他成果 
+主编、参编国家能源行业标准4项。
+[1] 《NB/T 42136-2017电网设施金属构件 湿热环境防腐涂层技术要求》，
+[2] 《NB/T 10279-2019 输变电设备湿热环境条件》
+[3] 《NB/T 10280-2019电网用状态监测装置湿热环境条件与技术要求》
+[4] 《NB/T 10189-2019输变电设备 大气环境条件 监测方法》
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2014年,清华大学教学成果二等奖一项，排名第4
+2019年,国家电网科学技术进步奖三等奖，“输电线路外绝缘湿雪闪络防治关键技术及应用”，排名第2
+2019年,中国电力科学技术进步奖三等奖，“海洋性湿热气候下输变电设备外绝缘污秽关键技术与应用”，排名第5
+2020年,国家电网科技进步奖二等奖，“交直流设备复合外绝缘运行性能提升与检测关键技术及工程应用”，排名第2
+2020年,中国机械工业科学技术奖二等奖“附生藻类对复合外绝缘的影响及防治技术”，排名第8
+2020年,中国电工技术学会先进工作者。
+ </奖励荣誉>

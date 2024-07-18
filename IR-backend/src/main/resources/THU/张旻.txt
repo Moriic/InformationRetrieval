@@ -1,0 +1,51 @@
+{"title":"张旻","cnUrl":"http://www.sigs.tsinghua.edu.cn/zm/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/e4/32/64f6f84a41c8b587803cbeae51b1/c088e265-364c-4711-b654-7aad7de81b2c.jpg","email":"zhang.min@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2002年04月-2006年09月，大连理工大学，机械工程学院，博士
+1999年09月-2002年03月，华北电力大学（北京），能源动力与机械工程学院，硕士
+1994年09月-1998年06月，江苏大学，汽车学院，学士
+工作经历 
+2019年08月至今，清华大学深圳国际研究生院，先进制造学部，副研究员
+2012年01月-2019年08月，清华大学深圳研究生院，先进制造学部，副研究员
+2012年04月-2012年06月，University of Minnesota，访问学者
+2009年01月-2011年12月，University of Minnesota，机械工程系，博士后
+2006年10月-2008年12月，清华大学，精密仪器与机械学系，博士后
+学术兼职 
+1. 《Sensors》期刊编委；
+2. 《Advances in Mechanical Engineering》期刊编委；
+3. 中国微米纳米技术学会特种微纳器件与系统分会，理事
+4. 深圳市微米纳米技术学会，监事长。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+微纳米加工技术，国际院
+MEMS加工工艺原理与实践，国际院
+柔性电子器件与制造，国际院
+MEMS and Its Applications，TBSI
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+长期从事微/纳机电系统（MEMS/NEMS）领域研究工作，重点研究微纳传感器与执行器，包括柔性微型智能机器昆虫、面向机器人电子皮肤的柔性触觉传感技术、触觉再现技术和智能可穿戴设备、MEMS高温传感器等。近年来先后主持国家863项目、十三五国防装备预研项目、广东省科技计划项目、广东省自然科学基金、深圳市学科布局、技术攻关项目等国家省市级项目十余项。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Zicong Miao, Jiaming Liang, Huimin Chen, Jiangfeng Lu, Xiang Sun, Ying Liu, Fei Tang*, Min Zhang*. Power Autonomy and Agility Control of an Untethered Insect-Scale Soft Robot. Soft Robotics. http://doi.org/10.1089/soro.2021.0201.
+[2] Ying Liu, Jiaming Liang, Jiangfeng Lu, Huimin Chen, Zicong Miao, Dongkai Wang, Xiaohao Wang and Min Zhang*, Complex Three-Dimensional terrains traversal of insect-scale soft robot. Soft Robotics, 2022, http://doi.org/10.1089/soro.2022.0073.
+[3] Jiangfeng Lu, Zicong Miao, Zihan Wang, Ying Liu, Dekuan Zhu, Jihong Yin, Xiaohao Wang, Wenbo Ding*, Min Zhang*, Piezoelectric soft robot driven by mechanical energy, Nano Research. 2023, 16(4), 4970-4979. 
+[4] Wenying Qiu, Junwen Zhong, Tao Jiang, Zhaoyang Li, Mingze Yao, Zhichun Shao, Qilong Cheng, Jiaming Liang, Dongkai Wang, Yande Peng, Peisheng He, David B. Bogy, Min Zhang*, Xiaohao Wang, Liwei Lin*. A low voltage-powered soft electromechanical stimulation patch for haptics feedback in human-machine interfaces, Biosensors and Bioelectronics, 2021, 193, 113616. (IF: 10.618)
+[5] Jiaming Liang, Yichuan Wu, Justin K. Yim, Huimin Chen, Zicong Miao, Hanxiao Liu, Ying Liu, Yixin Liu, Dongkai Wang, Wenying Qiu, Zhichun Shao, Min Zhang*, Xiaohao Wang, Junwen Zhong*, Liwei Lin*. Electrostatic footpads enable agile insect-scale soft robots with trajectory control. Science Robotics, 2021,6, eabe7906.
+[6] Mengmeng Li, Jiaming Liang, Min Zhang*, Ultra-Sensitive Flexible Pressure Sensor Based on Microstructured Electrode. Sensors, 2020, 20, s20020371.
+[7] Yichuan Wu, Justin K. Yim, Jiaming Liang, Zhichun Shao, Mingjing Qi, Junwen Zhong,* Zihao Luo, Xiaojun Yan, Min Zhang,* Xiaohao Wang, Ronald S. Fearing, Robert J. Full, Liwei Lin*, Insect-scale fast moving and ultrarobust soft robot, Science Robotics, 2019,4, eaax1594.
+[8] Yichuan Wu, Ilbey karakurt, Levent Beker, Yoshihiro Kubota, Renxiao Xu, Kong Yin Ho, Shilong Zhao, junwen zhong, Min Zhang*, Xiaohao Wang, Liwei Lin. Piezoresistive Stretchable Strain Sensors with Human Machine Interface Demonstrations. Sensors and Actuators A: Physical. 2018,279,46-52.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+深圳市海外高层次人才B类
+ </奖励荣誉>

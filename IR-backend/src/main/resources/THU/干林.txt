@@ -1,0 +1,61 @@
+{"title":"干林","cnUrl":"http://www.sigs.tsinghua.edu.cn/gl/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/fc/6b/c85b6462479386bcf066e72394f3/c03030f0-5a20-4abe-a60b-c848cd849949.jpg","email":"lgan@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+2000年9月-2004年7月，清华大学，材料科学与工程系，工学学士
+2004年9月-2009年6月，清华大学，材料科学与工程系，工学博士
+2009年7月-2011年7月，清华大学材料科学与工程系，北京电子显微镜中心，博士后
+2011年8月-2014年5月，德国柏林工业大学(Technische University Berlin)，化学系博士后
+2014年6月至今，清华大学深圳研究生院，能源与环境学部，副教授
+教育经历 
+2000年9月~2004年7月，清华大学，材料科学与工程系，工学学士
+2004年9月~2009年6月，清华大学，材料科学与工程系，工学博士
+工作经历 
+2009年7月~2011年7月，清华大学材料科学与工程系，北京电子显微镜中心，博士后
+2011年8月~2014年5月，德国柏林工业大学(Technische Universität Berlin)，化学系，博士后
+2014年6月~至今，清华大学深圳研究生院，能源与环境学部，副教授
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+主讲3门研究生专业课程：
+透射电子显微实验（课程号80350672秋季，32学时）
+能源与环境催化材料（课程号80350712，秋季，32学时）
+氢能利用与燃料电池（课程号85990562，国际研究生院课程，春季，32学时）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事原子尺度的电化学功能材料设计与表征，重点发展和利用具有超高空间分辨率的像差矫正透射电子显微学方法，结合原位电化学谱学表征，获得材料的精确原子结构和电子结构及其在固液电化学环境下的动态行为，揭示其相关电化学性能，从而设计高性能的电催化剂、电解质等电化学功能材料，研究其在燃料电池、电解水制氢和CO2电还原等器件中的应用。研究成果在Science, Nature Materials, Angewandte Chemie, Nano Letters, Advanced Functional Materials和ACS Catalysis等期刊上发表论文50余篇，先后获国家自然科学基金面上基金、优秀青年基金和广东省杰出青年科学基金等多项国家和省部级项目资助。
+每年招收1名博士后、2名博士研究生和3名硕士生（含推免生），欢迎对科研有热情、善于沟通合作、且有扎实的凝聚态物理、材料物理和光谱电化学等方面背景的同学联系。
+主要项目 
+1. 国家自然科学基金面上项目（2022-2025）：过渡金属单原子催化剂配位结构和自旋态的原子分辨解析与电催化性能。
+2. 国家自然科学基金优秀青年科学基金（2017-2019）：金属合金纳米电催化材料
+3. 国家自然科学基金面上项目（2015-2019）：多面体纳米颗粒的生长机制、成分偏聚与电催化性能研究
+4. 广东省杰出青年科学基金（2016-2020）：用于高效水分解的铁族过渡金属氧化物电催化剂
+5. 深圳市科创委基础研究布局（2018-2020）：高性能低铂燃料电池催化剂及其应用研究
+ </研究领域>
+<研究成果>
+代表性论文 
+在Science, Nature Materials, Angewandte Chemie, Nano Letters, Advanced Functional Materials等国际著名期刊上发表学术论文50余篇。代表性论文：
+1. Jie Wei, Dongsheng Xia, Yinping Wei, Xuya Zhu, Jia Li, Lin Gan*. Probing the oxygen reduction reaction intermediates and dynamic active site structures of molecular and pyrolyzed Fe–N–C electrocatalysts by in situ Raman spectroscopy. ACS Catalysis, 2022, doi:10.1021/acscatal.2c00771.
+2. Dongsheng Xia, Chenchen Yu, Yinghao Zhao, Yinping Wei, Haiyan Wu, Yongqiang Kang, Jia Li,* Lin Gan* and Feiyu Kang*. Degradation and regeneration of Fe-Nx active sites for oxygen reduction reaction: the role of surface oxidation, Fe demetallation and local carbon microporosity, Chemical Science, 2021, 12: 11576.
+3. Bingqin Lin, # Xi Wu, # Lin Xie,* Yongqiang Kang, Hongda Du, Feiyu Kang, Jia Li,* Lin Gan.* Atomic imaging of subsurface hydrogen and insight into the surface reactivity of palladium hydrides. Angewandte Chemie International Edition, 2020, 59, 20348-20352.
+4. Xiaozhang Yao, Yingpin Wei, Zhongxiang Wang, Lin Gan.* Revealing the role of surface composition on the particle mobility and coalescence of carbon-supported Pt alloy fuel cell catalysts by in situ heating (S)TEM. ACS Catalysis, 2020, 10, 7381-7388.
+5. Xin Yang,# Dongsheng Xia,# Hongda Du, Feiyu Kang, Lin Gan,* Jia Li.* Unraveling the fifth ligand on the Fe-N4-C electrocatalyst and its impact on the pH-dependent ORR activities and poisoning kinetics. Advanced Science, 2020, 7 (12), 2000176
+6. Dongsheng Xia,# Xin Yang, # Jia Li*, Lin Gan*, Feiyu Kang*. Direct growth of carbon nanotubes doped with single atomic Fe-N4 sites and neighboring graphitic nitrogen for efficient and stable oxygen reduction electrocatalysis. Advanced Functional Materials, 2019, 29 (49), 1906174.
+7. Zhongxiang Wang, Xiaozhang Yao, Yongqiang Kang, Linqing Miao, Dongsheng Xia, Lin Gan*. Structurally ordered low-Pt intermetallic electrocatalysts toward durably high oxygen reduction reaction activity. Advanced Functional Materials, 2019, 29 (35), 1902987.
+8. Lin Gan, Marc Heggen, Chunhua Cui, Peter Strasser*. Thermal facet healing of concave Pt-Ni octahedral nanoparticles imaged in situ at atomic scale: implications for rational synthesis of durable high performance ORR electrocatalysts. ACS Catalysis, 2016，6：692-695.
+9. Lin Gan, Chunhua Cui, Marc Heggen, Fabio Diogini, Stefan Rudi, Peter Strasser*. Element-specific anisotropic growth of shaped platinum alloy nanocrystals. Science, 2014, 346: 1502-1506.
+10. Lin Gan, Marc Heggen, Rachel O’Malley, Brian Theobald, Peter Strasser*. Understanding and controlling nanoporosity formation for improving the stability of bimetallic fuel cell catalysts. Nano Letters, 2013, 13, 1131-1138.
+11. Chunhua Cui, Lin Gan, Marc Heggen, Stefan Rudi, Peter Strasser*. Compositional segregation in shaped Pt alloy nanoparticles and their structural behavior during electrocatalysis. Nature Materials, 2013, 12, 765-771.
+12. Lin Gan, Stefan Rudi, Marc Heggen, Chunhua Cui, Peter Strasser*. Core-shell compositional fine structures of dealloyed PtxNi1-X nanoparticles and their impact on oxygen reduction catalysis. Nano Letters 2012, 12, 5423-5430.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1.国际显微学会联合会第18届国际显微大会青年科学家奖 (IFSM Young Scientist Award 2014)
+2.深圳市国家级领军人才（2015）、深圳市孔雀计划B类（2014）
+ </奖励荣誉>

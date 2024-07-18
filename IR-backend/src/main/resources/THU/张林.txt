@@ -1,0 +1,85 @@
+{"title":"张林","cnUrl":"http://www.sigs.tsinghua.edu.cn/zl/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/83/0c/ef86eb9d4a59843869b4bc4203e3/69eb3fc4-06c0-46f4-88b3-07de8f646eac.jpg","email":"inzhang@tsinghua.edu.cn"}
+<个人简历>
+概况 
+工学博士，教授。
+清华大学电子工程系
+电话：010-62786545
+传真：010-62770317
+电子邮件：linzhang AT tsinghua.edu.cn
+实验室主页：http://sensor.ee.tsinghua.edu.cn/
+教育经历 
+2006年1月，工学博士，清华大学
+2001年7月，工学硕士，清华大学
+1998年6月，工学学士，清华大学
+工作经历 
+2001年9月～今，研究实习员、讲师，副教授，教授，清华大学
+2004年6月～2004年12月，香港大学，访问学者
+2011年4月～2012年7月，斯坦福大学，访问学者
+2012年7月～2013年5月，加州伯克利大学，访问学者 
+学术兼职 
+2006年～2008年，IEEE ComSoc APB Secretary
+2009年～2011年，IPSO Technical Advisory Board Member
+社会兼职 
+2003年～2010年，电子系工程系副主任、副书记
+ </个人简历>
+<教学>
+教学课程 
+信息论（70230063）
+通信网络研究专题（30230012）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+张林博士的研究涉及无线传感器网络的各个方面，包括系统体系结构、协议设计与性能优化分析、传感信息的提取与处理等领域，他对于应用统计信号处理、机器学习和信息论工具，解决海量传感数据的传输以及从中提取有效信息的计算传感问题有着特别的兴趣。
+他的研究得到了中国自然科学基金委、科技部863计划、重大专项计划的资助，还得到了来自企业界的支持。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+代表性著作 
+主要专利成果 
+其他成果 
+完整论文列表参见http://sensor.ee.tsinghua.edu.cn/research.php
+网络传输协议相关论文
+物理层
+[1] Bingfeng Xia, Qiao Fu, Dong Li, Lin Zhang, “Performance evaluation and channel modeling of IEEE 802.15.4c in urban scenarios,” Proc. of 2010 16th Asia-Pacific Conference on Communications (APCC), pp.497-502, Oct. 31 2010-Nov. 3 2010
+[2] Wei Hou, Lei Yang, Lin Zhang, Xiuming Shan, Heather Zheng, “Understanding Cross-Band Interference in Unsynchronized Spectrum Access,” Proc. of Cognitive Radio Networks Workshop, in conjunction with MobiCom 2009, Beijing, China, Sep., 2009
+[3] Yi Gai, Lin Zhang, Xiuming Shan, “Energy Efficiency of Cooperative MIMO with Data Aggregation in Wireless Sensor Networks,” Proc. of IEEE WCNC 2007, March, 2007, Hong Kong, pp. 791 - 796.
+链路调度
+[4] Yiming Liu, Victor Li, Ka-cheong Leung, Lin Zhang, “Topology-Transparent Distributed Multicast and Broadcast Scheduling in Mobile Ad Hoc Networks,” Proc. of IEEE VTC 2012 Spring, Tokyo, Japan.
+[5] Shuai Fan, Lin Zhang, Wei Feng, Wenzhu Zhang, Yong Ren, “Optimization-based Design of Wireless Link Scheduling with Physical Interference Model,” in IEEE Transaction on Vehicular Technology, Vol. 61, Issue 8, pp. 3705 - 3717, Oct. 2012.
+[6] Xingyang Chen, Lin Zhang, Yuhan Dong, Xuedan Zhang, Yong Ren, “Achieving Fairness without Loss of Performance in Selection Cooperation of Wireless Networks,” IEICE Trans. on Communications, E94.B no. 8, pp. 2406-2410
+[7] Shuai Fan, Lin Zhang, Yong Ren, Bhaskar Krishnamachari, “Approximation algorithms for link scheduling with physical interference model in wireless multi-hop networks,” Proc. of 2010 48th Annual Allerton Conference on Communication, Control, and Computing (Allerton), pp.522-529, Sept. 2010
+[8] Xuedan Zhang, Jun Hong, Lin Zhang, Xiuming Shan and Victor O. K. Li. “CPTDMA: coloring- and probability-based TDMA scheduling for wireless ad hoc networks.” IEICE Transaction on Communications, 2008, Vol. E91-B, No. 1.
+[9] Xuedan Zhang, Jun Hong, Lin Zhang, Xiuming Shan, Victor O.K. Li, “CC-TDMA: Coloring- and Coding-based Multi-channel TDMA Scheduling for Wireless Ad Hoc Networks,” Proc. of IEEE WCNC 2007, March, 2007, Hong Kong, pp.133-137.
+网络路由
+[10] Qiao Fu, Wei Feng, Yixin Zheng, Lin Zhang, “DAWN: A Density Adaptive Routing Algorithm for Vehicular Delay Tolerant Sensor Networks,” Proc. of 2011 49th Annual Allerton Conference on Communication, Control, and Computing (Allerton), Sept. 2011
+[11] Yiqun Wu, Lin Zhang, Yihong Wu, Zhisheng Niu, “Motion-Indicated Interest Dissemination With Directional Antennas for Wireless Sensor Networks With Mobile Sinks,” IEEE Transaction on Vehicular Technology, Vol.58, No.2, pp.977-989, Feb. 2009.
+[12] Tianshi Gao, Lin Zhang, Yi Gai, Xiuming Shan, “Load-Balanced Cluster-Based Cooperative MIMO Transmission for Wireless Sensor Networks,” Proc. of IEEE 4th International Symposium on Wireless Communication Systems 2007 (ISWCS07), Oct. 2007,Trondheim, Norway, pp.602-606.
+[13] Yihong Wu, Lin Zhang, Yiqun Wu, Zhisheng Niu, “Interest Dissemination with Directional Antennas for Wireless Sensor Networks with Mobile Sinks,” Proc. of ACM SenSys 2006, Nov. 2006, Boulder, CO, USA, pp.99-111.
+[14] Meng Li, Lin Zhang, Victor Li, Xiuming Shan, An Energy-Aware Multipath Routing Protocol for Mobile Ad Hoc Networks, Proc of Sigcomm Asia Workshop 2005, April 2005, Beijing, China, pp.166 - 174.
+[15] Lin Zhang, Dongxu Shen, Victor Li, Xiuming Shan, Receiver Initiated Soft-state Probabilistic Multicasting Protocol in Wireless Ad Hoc Network, Proc of IEEE ICC 2005, May 2005, Seoul, Korea, pp. 3365-3369.
+水下传感网
+[16] P. Wang, W. Feng, L. Zhang, and Victor. O.K. Li, “Asynchronous Cooperative Transmission in Underwater Acoustic Networks”, International Symposium on Underwater Technology 2011 and International Workshop on Scientific Use of Submarine Cables and Related Technologies 2011 (UT’11 and SSC’11), Tokyo, Japan, 2011.
+[17] Ping Wang, Lin Zhang, Bhaskar Krishnamachari, Victor O.K. Li, “Token-based Data Collection Protocols for Multi-Hop Underwater Acoustic Sensor Networks,” Proc. of the 4th ACM International Workshop on Underwater Networks (WUWNet), in conjunction with ACM SenSys 2009, November 3, 2009, Berkeley, California, USA.
+传感网定位
+[18] Yu Zhang, Lin Zhang, Xiuming Shan, “Ranking-Based Statistical Localization for Wireless Sensor Networks,” Proc. of IEEE WCNC 2008, Las Vegas NV, Apr. 2008（全文）
+[19] Yu Zhang, Lin Zhang, Xiuming Shan, “Robust Distributed Localization with Data Inference for Wireless Sensor Networks,” Proc. of IEEE ICC 2008, Beijing CHN, May. 2008（全文）
+[20] Ningning Qin, Lin Zhang, Baoguo Xu, “A Novel Locomotion Trajectory Algorithm in Wireless Sensor Networks,” Journal of China University of Posts and Telecommunications, 2007 14 (2): 64-68.
+网络系统
+[21] Wenzhu Zhang, Bing Zhu, Lin Zhang, Jian Yuan, I. You, “Exploring urban dynamics based on pervasive sensing: Correlation analysis of traffic density and air quality,” Proc. of The Sixth International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing (IMIS‘12), 2012.
+[22] Wenzhu Zhang, Lin Zhang，“ Understanding City Dynamics by Manifold Learning Correlation Analysis,” in proc. of IPSN 2012 Workshop on Urban Sensing, April 2012, Beijing, China.
+[23] Wenzhu Zhang, Lin Zhang, Yong Ding, T. Miyaki, D. Gordon, M. Beigl, “Mobile ？sensing in metropolitan area: Case study in Beijing,” Proc. of Mobile Sensing Workshop in 13th International Conference on Ubiquitous Computing (UbiComp’11), 2011.
+[24] Lin Zhang, Wenzhu Zhang, Xinyu Mao, Jiantao Jiao, Shijie Zheng, Linglong Li, Yujie Liu, Teng Wang, and Ming Gu, “NOMAD: networked-observation and mobile-agent-based scene abstraction and determination,” in Proc. of the 8th ACM Conference on Embedded Networked Sensor Systems (SenSys '10). pp. 415-416, Zurich, Switzerland, Nov. 2010. (Best Demo Award)
+传感数据分析
+[25] Jiantao Jiao, Lin Zhang, Robert Nowak, “Minimax Bounds for Detectors Based on Estimated Prior Probabilities,” in IEEE Transaction on Information Theory, Vol. 58, Issue 9, 2012 , pp.6101- 6109.
+[26] Xiaoxiao Yu, Huasha Zhao, Lin Zhang, Shining Wu, Bhaskar Krishnamachari, Victor Li, “Cooperative Sensing and Compression in Vehicular Sensor Networks for Urban Monitoring, Proc. of 2010 IEEE International Conference on Communications (ICC), pp.1-5, 23-27 May 2010
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+IEEE/ACM SenSys Best Demo Awards, 2010
+Tsinghua Outstanding Teaching Awards, 2010
+Student Research Training, Best Project Awards, 2006
+Tsinghua Linfeng Counselor Contribution Awards, 2005
+Tsinghua Outstanding Faculty Member Award, 2002
+ </奖励荣誉>

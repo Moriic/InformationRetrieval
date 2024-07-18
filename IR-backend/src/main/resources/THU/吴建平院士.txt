@@ -1,0 +1,80 @@
+{"title":"吴建平院士","cnUrl":"http://www.sigs.tsinghua.edu.cn/wjpys/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/b2/25/eedc2c0242fda091e9cba232babe/1acb4f33-aa44-4488-91bd-f992079cd162.jpg","email":"jianping@cernet.edu.cn"}
+<个人简历>
+概况 
+吴建平，清华大学计算机科学与技术系教授，中国工程院院士。1953年山西太原出生，清华大学电子工程系计算机专业毕业（1977），以后分别获清华大学硕士（1982）和博士学位（1997）。现任清华大学计算机科学与技术系主任、网络科学与网络空间研究院院长、信息化技术中心主任。担任中国教育和科研计算机网CERNET专家委员会主任和网络中心主任，下一代互联网核心网国家工程实验室主任，国家信息化专家咨询委员会委员，中国互联网协会副理事长。IEEE Fellow（2012）。曾任亚太地区先进网络学会APAN主席（2008-2012）。2015年当选为中国工程院院士。
+长期致力于计算机网络技术研究、工程建设和人才培养。在互联网工程设计建设、核心装备自主研制和体系结构技术创新等方面进行了系统深入的研究。主持研制成功中国教育和科研计算机网CERNET，为开拓和推动我国互联网科技进步和人才培养发挥了重要作用；主持研制成功中国下一代互联网示范工程核心网CNGI-CERNET2/6IX，建成世界上纯IPv6下一代互联网，为我国下一代互联网科技进步和跻身国际领先行列做出了开拓性贡献；主持研制IPv6核心路由器，促进了我国互联网核心装备的技术突破和国产化进程；提出并攻克真实源地址验证SAVA技术和4over6过渡技术，分别解决互联网地址溯源和IPv4向IPv6平稳过渡的难题，引领相关IETF国际标准制定，实现了我国在互联网国际标准制定方面的重要突破。
+以第一完成人获国家技术发明二等奖1项、国家科技进步二等奖3项和三等奖1项；以第一作者完成IETF国际标准4项；以第一发明人获国家发明专利20项；发表学术论文300多篇，教材和专著8部；培养研究生100多名。获国家杰出青年基金（1998）、教育部某学者奖励计划特聘教授（2000）和何梁何利科技奖（2008）。获国际互联网协会ISOC最高奖：乔纳森·帕斯塔尔奖（2010）。
+教育经历 
+大学本科 (电子工程), 清华大学, 中国, 1977;
+工学硕士 (计算机系统结构), 清华大学, 中国, 1982;
+工学博士 (计算机系统结构), 清华大学, 中国, 1997.
+工作经历 
+学术兼职 
+社会兼职 
+清华大学信息化工作领导小组: 副组长、办公室主任 (2010-);
+清华大学信息网络工程研究中心: 主任 (1994-);
+中国教育和科研计算机网（CERNET）: 网络中心主任、专家委员会主任 (1994-);
+教育部计算机网络技术研究中心: 主任 (2001-);
+清华大学信息科学与技术国家实验室: 副主任 (2006-);
+国家下一代互联网核心网国家工程实验室: 主任 (2008-);
+国家信息化专家咨询委员会: 委员 (2000-);
+中国互联网协会: 副理事长 (2001-);
+亚太地区先进网络学会APAN: 主席 (2007-);
+中国计算机学会: 互联网专委会主任 (2003-);
+中国下一代互联网示范工程CNGI: 专家委员会委员 (2004-)、副主任 (2010-);
+日本庆英大学: 兼职教授 (2008-2010).
+ </个人简历>
+<研究领域>
+研究领域 
+计算机网络, 互联网, 计算机网络体系结构
+协议测试, 形式化技术
+我于1977年开始从事计算机网络领域的科研和教学工作，先后主持完成20多项国家重点、重大科研和计算机网络工程项目。
+1. 主持研制中国教育和科研计算机网CERNET示范工程。1994年，在中国还没有大型互联网设计和建设经验的情况下，联合十所高校艰苦奋斗、协力拼搏，主持研制成功 “中国教育和科研计算机网CERNET示范工程”。CERNET是我国一项面向二十一世纪的宏大工程，是一个先进的覆盖全国的计算机网络，其技术已达到了九十年代的国际先进水平。该成果获1997年国家科技进步二等奖。这一过程中，提出了以无连接分组交换、分区域路由寻址和基于流量计费等技术为核心的大型互联网总体设计方案，提出了基于运行流程主动网元技术和数据链路动态采集技术的大规模互联网运行管理体系方案，和基于安全周期视图的安全保障体系方案，并组织实施。长期负责CERNET技术工作，先后主持完成6项国家重大工程，使CERNET成为目前世界上规模最大的国家学术互联网，对加快我国互联网技术进步、推广应用和人才培养发挥了重要作用。
+2. 长期研究计算机网络路由和交换核心技术。主持研制的IPv6核心路由器，促进了中国下一代互联网关键技术的重大突破和国产化进程。上世纪八十年代，在国外限制中国进口网络设备的情况下，先后主持研制成功X.25分组交换网络及路由设备，高级网络处理机和高性能安全路由器，并推广应用。核心路由器技术复杂，是互联网的心脏，以前只有美、日等国家掌握其核心技术。中国互联网大量采用国外进口路由器，给国家安全造成重大隐患。2004年，带领课题组，主持研制成功具有自主知识产权的“IPv6核心路由器”。该设备是第一个通过信息产业部IPv6核心路由器入网测试规范（草案）测试的国内路由器，总体技术达到了国际先进、国内领先水平。在可扩展路由器操作系统BWOS等四个方面有重要创新，其中IPv6/IPv4双栈混合路由表方法和新的IPv4overIPv6隧道建立方法为国际领先。该成果获2005年国家科技进步二等奖。提出了分布式分级多处理机体系结构、BWOS总体方案、IPv6/IPv4双栈动态自适应路由表分配方法和IPv4overIPv6隧道建立方法，并组织自主设计实现全部核心部件和协议软件。该成果获国家发明专利5项，已广泛应用于CNGI等网络工程。
+3. 长期探索和研究互联网体系结构及其协议理论，取得了创新性研究成果。互联网技术核心是其体系结构和协议理论。于上世纪九十年代提出了基于扩展标号变迁系统的协议一致性测试理论，研制了“TCP/IP协议一致性测试系统”，有效地应用于互联网协议测试。2003年，被聘为国家973计划“新一代互联网体系结构基础理论研究” 项目首席科学家，带领项目组刻苦钻研，取得了一批创新研究成果。提出了一种规模、功能、性能、安全和服务可扩展的多维可扩展互联网体系结构及其必须包含的五个基本要素。提出了“建设纯IPv6大型互联网主干网”技术路线，解决大规模IPv6主干网拓扑结构和路由设计、地址和域名规划、网络测量和管理等技术难题。提出了“IPv4 over IPv6过渡理论”，采用非显性隧道技术，解决了IPv4和IPv6兼容性、传输映射、可管理、可扩展、安全控制和自动配置等技术难题。提出了“基于真实IPv6源地址的网络寻址体系结构”，成为可信任下一代互联网的重要技术基础之一。以上成果已获得国家发明专利11项，推动国际互联网标准组织IETF成立工作组Softwire和SAVI，提交IETF国际标准草案10多项。近年来，以第一完成人完成的“真实IPv6源地址认证技术方案”和“IPv4向IPv6过渡技术方案”，被批准为IETF互联网国际标准RFC 5210、RFC 5565和RFC 5747，是中国科技人员参与互联网IETF国际标准制定的重大突破。
+4. 主持研制中国下一代互联网示范工程核心网CNGI－CERNET2/6IX等项目。1998年开始下一代互联网技术研究。2000年主持研制“中国高速互联试验研究网络NSFCNET”，在国内率先采用IP/DWDM技术实现10Gbps高速IPv6互联网试验床，并连接国际下一代互联网。2003年，联合清华大学等25所高校，主持研制“CNGI示范网络核心网CNGI-CERNET2/6IX”。该网络是目前世界上规模最大的纯IPv6大型互联网主干网。该项目立足于国产关键网络设备和自行研发的网络技术，设计和建设了以国产设备为主的大型下一代互联网主干网，技术起点高，实现难度很大，已在国内外产生了重要影响。该项目有多项重大创新，特别是建设纯IPv6大型互联网主干网、基于真实IPv6源地址的网络寻址体系结构、和IPv4overIPv6网状体系结构过渡技术，均属国际首创，总体上达到世界领先水平。该项目有力推动了我国下一代互联网的核心设备国产化进程，为建设中国参与国际下一代互联网及其应用研究的开放性试验环境做出了重要贡献。提出并组织实施了“建设纯IPv6大型互联主干网”的技术路线，提出并确定了“主要采用国产IPv6核心路由器组建大型主干网”重大技术决策，使用大规模动态互操作测试技术，解决了大规模跨域路由、互通互操作、统一网管等技术难题。 采用提出的“真实IPv6源地址网络寻址体系结构”和“IPv4overIPv6过渡理论”，组织实施了相应技术系统，在国际学术界产生了重大影响。该项目被两院院士评为2004年和2006年“中国十大科技进展”，其成果获2007年国家科技进步二等奖。
+5. 长期活跃在国际计算机互联网领域。1999年开始担任国际亚太地区下一代互联网学术组织APAN副主席，2008年被选为APAN主席。2005年被IEEE Spectrum评为中国十大科技英才。2007年获得国际IPv6论坛组织的“IPv6先锋奖”。先后担任IEEE ICCNMC 2003、ICNP 2007、ICDCS 2008等国际学术会议主席。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+代表性著作 
+主要专利成果 
+其他成果 
+[2] Jun Bi, Jianping Wu, Wenmao Zhang, A trust and reputation based anti-SPIM method, 27th IEEE Conference on Computer Communications (INFOCOM 2008), 2008
+[3] Jianping Wu and Yong Cui, et al, “The transition to IPv6, Part I：4 over 6 for the China Education and Research Network”, IEEE Internet Computing, 10(3), MAY 2006
+[4] Yong Cui and Jianping Wu et al, “The transition to IPv6, Part II: The softwire mesh framework solution”, IEEE Internet Computing, 10(5), SEP 2006
+[5] Jianping Wu, Xing Li and Gang Ren, “Source Address Validation: Architecture and Protocol Design”, Proc. IEEE ICNP’2007
+[6] Lijun Wang, Jianping Wu and Ke Xu, “Modified flap damping mechanism to improve inter-domain routing convergence”, Computer Communications, Vol. 30 (7), 2007
+[7] Dan Li, Jianping WU and Yong Cui, “QoS-aware Streaming in Overlay Multicast Considering the Selfishness in Construction Action”, IEEE INFORCOM’07, May 2007
+[8] Jianping Wu and Ke Xu, “Research on Next Generation Internet Architecture”, Journal of Computer Science And Technology, 21(5): 723-731, SEP 2006
+[9] Jianping Wu and Dan Li et al, “Stability of ALM tree with selfish receivers: A simulation study”, Computer Communications, 29(15), SEP 2006
+[10] Zhiliang Wang, Wu Jianping and Yin Xia, “Using TIMEDTTCN-3 in interoperability testing for real-time communication systems”, Proc. of IFIP Testing Of Communication Systems (TESTCOM’06), 3964: 324-340 2006
+[11] Jianping Wu, Dan Li and Yong Cui, “Stability of ALM tree with selfish receivers: a simulation study”, Computer Communications, Vol. 29 (15): 2895-2903 SEP 2006
+[12] Dan Li, Yong Cui, Ke Xu and Jianping Wu, “Impact of receiver cheating on the stability of ALM tree”, GLOBECOM’05, IEEE Global Telecommunications Conference, Vol 1-6, Discovery Past and Future, 2005, 667-671
+[13] Zhongjie Li, Jianping Wu and Xia Yin, “Testing multi input-output transition system with all-observer”, The 16th IFIP International Conference on Testing of Communicating Systems (TESTCOM’2004), Oxford, United Kingdom, 2004
+[14] Zhiliang Wang, Jianping Wu and Xia Yin , “Towards Interoperability Test Generation of Time Dependent Protocols: a Case Study”, GLOBALCOM 04
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+何梁何利基金: 科学与技术进步奖 (2008);
+IPv6 Forum: 全球IPv6先锋奖 (2007);
+IEEE Spectrum: 中国十大杰出科技专家 (2005);
+WORLDWIDE: 21世纪成就提名奖 (2003);
+国家杰出青年基金 (1998);
+北京市优秀教师 (1997);
+人事部: 中青年有突出贡献专家 (1996);
+国务院: 政府特殊津贴 (1996);
+香港Croucher基金会: Croucher基金会奖 (1994);
+加拿大国际理事会: 加拿大研究奖 (1994);
+国家科技进步二等奖—— CNGI示范网络核心CNGI-CERNET/6IX (2007);
+国家科技进步二等奖——IPv6核心路由器 (2005);
+国家科技进步二等奖——中国教育计算机科研CERNET网示范工程 (1997);
+国家科技进步三等奖——北京交易所计算机交易系统 (1997);
+教育部科技进步一等奖—— CNGI示范网络核心CNGI-CERNET/6IX (2006);
+中国计算机学会“王选奖”一等奖——IPv6核心路由器 (2006);
+信息产业部中国信息产业重大发明奖一等奖——IPv6核心路由器关键技术 (2004);
+中国通信学会科学技术一等奖——IPv6核心路由器 (2004);
+教育部高校科技进步一等奖——计算机信息网路及其应用关键技术研究 (2000);
+教育部科技进步一等奖——中国教育计算机科研CERNET网示范工程 (1996).
+ </奖励荣誉>

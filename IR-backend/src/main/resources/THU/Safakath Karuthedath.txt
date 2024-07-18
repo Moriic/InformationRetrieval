@@ -1,0 +1,49 @@
+{"title":"Safakath Karuthedath","cnUrl":"http://www.sigs.tsinghua.edu.cn/Safakath K/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/32/f3/93d64c784e39b894e8495df014b1/6cf549ae-2a0d-4a5b-ae39-35033a26925d.jpg","email":"safakath@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+常年招收博士后、博士生和硕士生，欢迎大家加入课题组进行学习交流！！！
+教育经历 
+2012年9月-2015年10月，马德里自治大学，凝聚态物理学专业，博士
+2008年7月-2011年4月，印度国家技术学院，光子学专业，硕士
+2005年6月-2008年5月，印度卡利卡特大学，物理学专业，学士
+工作经历 
+2023年01月-至今，清华大学深圳国际研究院，材料研究院，助理教授
+2022年01月-2022年12月，沙特阿卜杜拉国王科技大学，研究科学家（研究员）
+2016年02月-2021年12月，沙特阿卜杜拉国王科技大学，博士后
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+课程名称: 有机半导体的光物理性质
+课程编号：85991313
+48课时，3学分，硕士生和博士生课程
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+超快光谱、光与物质相互作用、有机电子学、半导体物理
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] H.Tang#, Z Liao, S. Karuthedath#, S. Chen, H. Liu, J.I Khan, M. Babics, W.Yang, M. Alqurashi, Y. He, J. Gorenflot, J. Huang, G. Li, S. De Wolf, X. Lu, C. J. Brabec, F. Laquai, and S. Lu, Rationale for Highly Efficient and Outdoor-Stable Terpolymer Solar Cells, Energy & Environmental Science 16 (5), 2056-2067, (Shared first author) 
+[2] Y. Huang, S. Chung, S. Karuthedath*, C. S. P. De Castro, H.Tang, M. Jeong, S. Lu, K. Cho, F. Laquai, and Z. Kan, Charge Carrier Dynamics in Planar Heterojunction Organic Solar Cells.Solar RRL, 2300267, 2023, [Corresponding Author].
+[3] B. Liu, S. Liang, S. Karuthedath, Y He, J. Wang, W. L Tan, H. Li, Y. Xu, F. Laquai, C. J Brabec, C. R McNeill, C. Xiao, Z. Tang, J. Hou, F. Yang, W. Li, Double-Cable Conjugated Polymers Based on Simple Non-Fused Electron Acceptors for Single-Component Organic Solar Cells,Macromolecules, 2023, 56, 3, 1154–1164(Shared first author) 
+[4] S. Karuthedath, S.H. K. Paleti, A. Sharma, H. Yin, C. S. P. De Castro, S. Chen, H. Xu, N.Alshehri, N.Ramos, J. I. Khan, J. Martin, G. Li, F. Laquai, D.Baran and J. Gorenflot Rationalizing the influence of tunable energy levels on quantum efficiency to design optimal non fullerene acceptor-based ternary organic solar cells, Advanced Energy Materials (2023)
+[5] S. Karuthedath, J. Gorenflot, Y. Firdaus, N. Chaturvedi, C. SP De Castro, G.T Harrison, J. I Khan, A. Markina, A. H Balawi, T. A.D. Peña, W. Liu, R. Liang, A. Sharma, S. HK Paleti, W. Zhang, Y. Lin, E. Alarousu, D. H Anjum, P. M Beaujuge, S. De Wolf, I. McCulloch, T. D Anthopoulos, D. Baran, D. Andrienko, F. Laquai. , Intrinsic Efficiency Limits in Low-bandgap Non- fullerene Acceptor Organic Solar Cells, Nature  Materials 20, 378–384 (2021)
+[6] Y. Firdaus,V. M. Le Corre, S. Karuthedath, et al., Long-range exciton diffusion in molecular non-fullerene acceptors, Nature Communications, 11 (1), 5220, 2020
+[7] X. Jiang#, Z. Ma#, S. Karuthedath#, J. Li, W. Lai, C. Li, C. Xiao, L. Ye, F. Laquai ,Z. Tang, W. Li, Miscibility-Controlled Phase Separation in Double-Cable Conjugated Polymers for SingleComponent Organic Solar Cells with Efficiencies over 8%, Angewandte Chemie IE(2020), (Shared first author)
+[8] S Karuthedath, J Gorenflot, A Melianas, Z Kan, M Kemerink, F Laquai, Build-up of Triplet State Population in Operating TQ1:PC71BM Devices Does Not Limit Their Performance,The Journal of Physical Chemistry Letters, 11, 8, 2838-2845 (2020)
+[9] S.Karuthedath*, Y. Firdaus, R-Z. Liang, J. Gorenflot, P. M. Beaujuge, T. D. Anthopoulos, F. Laquai, Impact of Fullerene on the Photophysics of Ternary Small Molecule Organic Solar Cells, Advanced Energy Materials, 2019, 9 (33), 1901443,DOI: 10.1002/aenm.201901443, (2019)
+[10] S.Karuthedath*, J. Gorenflot, Y. Firdaus, W‐Y. Sit, F. Eisner, A.Seitkhan, M. K. Ravva, T. D. Anthopoulos, F.Laquai, Advanced Energy Materials 9 3, 1802476 (2019) 
+[11] M. Filatov, S. Karuthedath, P. Polestshuk, H. Savoie, K. Flanagan, C. Sy, E.Sitte, M.Telitchko, F.Laquai, R. W Boyle, M. O Senge, Generation of Triplet Excited States via Photoinduced Electron Transfer in meso-anthra-BODIPY: Fluorogenic Response Towards Singlet Oxygen in Solution and in Vitro, The Journal of the American Chemical Society, 139 (18), 6282–6285 (2017)
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+欧盟玛丽·居里奖学金（Marie Curie Fellowship awarded by the European Union）
+哈佛大学德里克-博克教学中心的高等教育教学课程证书
+ </奖励荣誉>

@@ -1,0 +1,36 @@
+server:
+  port: 8100
+
+spring:
+  application:
+    name: springbootInit
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+# mysql连接数据库
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/oral
+    username: root
+    password: 123456
+
+# mybatis-plus 配置
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: false
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      logic-delete-field: isDelete # 全局逻辑删除的实体字段名
+      logic-delete-value: 1 # 逻辑已删除值（默认为 1）
+      logic-not-delete-value: 0 # 逻辑未删除值（默认为 0）
+
+init:
+  jwt:
+    # 设置jwt签名加密时使用的秘钥
+    user-secret-key: secretKey
+    # 设置jwt过期时间
+    user-ttl: 7200000
+    # 设置前端传递过来的令牌名称
+    user-token-name: authentication

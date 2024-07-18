@@ -1,0 +1,93 @@
+{"title":"李彬彬","cnUrl":"http://www.sigs.tsinghua.edu.cn/lbb/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/e0/64/f8c417184eaeb02cefe9ffbf8cd8/498250be-50a8-400a-861c-2667bf2e4656.jpg","email":"libinbin@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+ 2005年毕业于清华大学土木工程系，2011年于哈尔滨工业大学获工学博士，师从土木与海洋工程专家、工程院院士欧进萍教授。历任新加坡南洋理工大学博后研究员、法国船级社南亚技术研发中心浮体部经理、新加坡硕泰海工研发总监。现任中国海洋工程学会理事、西澳大学Gledden高级访问学者、国际海洋技术大会OTC ASIA技术委员会委员等职。曾任马来西亚国油大学海洋工程客座教授、新加坡国立大学土木与环境学院兼职博士生导师。在浮式结构物水动力、耐波性及系泊系统的学术研究和工程设计分析方面有十余年的经验，领导和参与了40余项工业界项目，包括FPSO、FLNG及TLP等各类浮式油气平台。主持、参与了国家863计划、科技部重大专项、自然科学基金、广东省科技厅、深圳市科创委、新加坡海事局及海事研究院、澳洲研究理事会等科研项目。入选深圳市海外高层次人才计划，担任SCI TOP期刊Ocean Engineering、船舶海工权威SCI期刊Brodogradnja编委，在学术期刊及会议上发表60篇技术论文，SCI收录40余篇，曾获中国土木工程学会优秀论文奖，开发了浮式系统时域耦合响应及海上作业安装专业计算软件KraKen。
+教育经历 
+2005年9月-2011年3月，哈尔滨工业大学，土木工程专业，博士
+2001年9月-2005年7月，清华大学，土木工程专业，学士
+工作经历 
+2021年6月-至今  清华大学深圳国际研究生院  副教授
+2019年7月-2021年5月 新加坡Sortec Offshore海工科技     研发总监
+2017年1月-2019年7月 法国船级社深水技术研发中心，新加坡  浮式系统经理
+2016年7月-2016年12月 法国船级社，澳大利亚珀斯    研发项目经理
+2013年1月-2016年7月 法国船级社深水技术研发中心，新加坡    资深研发工程师
+2012年7月-2013年1月 法国船级社研发部，法国巴黎    执行研发工程师
+2011年6月-2012年7月 南洋理工大学，新加坡   博后Research Fellow
+学术兼职 
+中国海洋工程学会理事
+西澳大学Robert and Maude Gledden高级访问学者
+国际海洋技术大会OTC ASIA技术委员会委员（2018-2024）
+海洋工程SCI 期刊Ocean Engineering编委
+船舶工程SCI期刊Brodogradnja编委
+韩国海洋工程学会会刊Journal of ocean engineering and technology国际编委
+马来西亚国油大学（Universiti Teknologi Petronas）海洋工程结构客座讲师
+新加坡国立大学土木与环境学院兼职博士生导师
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+船舶与海洋浮式结构物的静力学与耐波性（85990742，国际研究生院）
+浮式结构系泊定位系统（85990852，国际研究生院）
+海洋可再生能源前沿（85990842，国际研究生院）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+  在海洋浮式结构物耐波性及浮式系统动力学的学术研究、工程设计和分析软件开发等方面拥有十余年的经验。主持参与国家863、国家科技重大专项、国家自然科学基金、新加坡海事局和澳大利亚研究理事会等科研项目，领导了工业界40余项高技术咨询和应用研究项目。研究工作融合了工程实践和相关学术前沿，目前的研究兴趣包括：
+• 海洋漂浮式平台水动力学、缆索结构动力学、海上复杂作业动力学研究
+• 漂浮式风电基础概念设计、结构水弹性及有限元分析、智能结构健康检测、共享系泊系统设计与分析
+• 海上吊装、拖航、登离作业操作性、窗口期和安全性分析与评估
+• 风电场运维母船关键装备研发
+• 深远海养殖工船关键技术研发
+• KraKen海洋浮式系统（浮体/缆索/管线）耦合动力学计算软件开发
+主要项目 
+1. 运维船和浮式风机的大幅相对运动及舷梯的主动补偿机理研究，国家自然科学基金面上项目，主持，在研
+2. 广东省科技创新战略专项资金海洋经济发展专项，主持，在研
+3. 波浪作用下深远海养殖工船的水动力性能研究，深圳科创委基础研究面上项目，主持，在研
+4. 深圳市智能融合重点实验室，主要成员，在研
+5. 海洋-气象灾害数字孪生、数值模拟技术研发及其示范应用，广东省区域联合基金-粤港澳研究团队项目，主要成员，在研
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Binbin Li*, Z Liu, H Liang, et al, BEM modeling for the hydrodynamic analysis of the perforated fish farming vessel, Ocean Engineering, 115225, 2023
+[2] Binbin Li*, C Wang, The absolute nodal coordinate formulation in the analysis of offshore floating operations Part I: theory and modeling, Ocean Engineering, 114650, 2023
+[3] C Wang, J Liu, Binbin Li*, W Huang, The absolute nodal coordinate formulation in the analysis of offshore floating operations Part II: code validation and case study, Ocean Engineering, 114645, 2023 
+[4] W Huang, Binbin Li* DK Kim*, An investigation on material diversity of synthetic fiber ropes in the course stability of towing under wind, Ocean Engineering, 114410, 2023
+[5] W Huang, Binbin Li*, X Chen, A new quasi-dynamic method for the prediction of tendon tension of TLP platform, Ocean Engineering, 113590, 2023
+[6] Lekkala MR, Mohamed L, Jung JH, Jin CK, Binbin Li*, Jeong B, Kim DK*, Numerical investigations of flow over wavy cylinders at sub-critical Reynolds number, Ocean Engineering, 113501, 2023
+[7] Y Li, D Qiao, Binbin Li*, etc, Dynamic controller design for parallel active motion compensated gangway of offshore wind service operation vessel based on the state-space model and inverse kinematics, Ocean Engineering, 112999, 2022
+[8] S Leng, S Li, Z Hu, H Wu, Binbin Li, Development of a Micro-in-Meso-scale Framework for Simulating Pollutant Dispersion and Wind Environment in Building Groups, Journal of Cleaner Production, 132661, 2022
+[9] Binbin Li*, D Qiao, W Zhao, Z Hu, S Li, Operability analysis of SWATH as a service vessel for offshore wind turbine in the southeastern coast of China, Ocean Engineering, 111017, 2022
+[10] Binbin Li*, Effect of hydrodynamic coupling of floating offshore wind turbine and offshore support vessel, Applied Ocean Research, 102707, 2021
+[11] Jun Yan, Dongsheng Qiao, Binbin Li*, An improved method of mooring damping estimation considering mooring line segments contribution, Ocean Engineering, 109887, 2021
+[12] D Qiao, Y Li, J Yan, W Tang, D Ning, Binbin Li*, Jinping Ou, Influence of Active Control Strategy on the Motion Compensation at the Truncated Point of Mooring Line, China Ocean Engineering, 35(700–711), 2021
+[13] Binbin Li, Operability study of walk-to-work for floating wind turbine and service operation vessel in the time domain, Ocean Engineering, 108397, 2021
+[14] Binbin Li, Hui Liang, etc, Study of telescopic gangway motions in time domain during offshore operation, Ocean Engineering, 108692, 2021
+[15] D Qiao, G Zhi, J Yan, Binbin Li, H Liang, D Ning, Active truncation model test method of deep-water mooring system: a numerical simulation study on time delay compensation of actuator motion, Applied Ocean Research, 102645, 2021
+[16] Binbin Li, Multi-body hydrodynamic resonance and shielding effect of vessels parallel and nonparallel side-by-side, Ocean Engineering, 2020, 108188, 2020
+[17] Binbin Li, Wei Huang and Hui Liang, An efficient method to assess effect of fins on the course stability of towing system, Ocean Engineering, 108055, 2020
+[18] D Qiao, Binbin Li*, J Yan, Y Qing, H Liang, D Ning, Transient response evaluation of FPSO with different failure scenarios of mooring lines，J. Mar. Sci. Eng. 9(2), 103, 2021
+[19] D Qiao, H Liang, W Tang, D Ning, Binbin Li, J Ou, Motion tracking control of actuator in the active-truncated model test of deep-water mooring system, Applied ocean research, 102397, 2020
+[20] D Qiao, B Guan, H Liang, D Ning, Binbin Li, J Ou, An Improved Method of Predicting Drag Anchor Trajectory Based on the Finite Element Analyses of Holding Capacity, China Ocean Engineering, 2020
+[21] Z Wang, Y M Low, Binbin Li, Stochastic analysis of the non-Gaussain airgap response of a semi-submersible using frequency domain analysis, Marine Structures, 2019
+[22] Binbin Li, Wei Huang, Xiaobo Chen, A numerical study of dynamic response of crane Semi-submersible along TLP in Tender-assisted drilling operation, Ships and Offshore Structures, 2018, 273-286
+[23] W Zhao, Z Pan, F Lin, Binbin Li, PH Taylor, M Efthymiou, Estimation of gap resonance relevant to side-by-side offloading, Ocean Engineering, 2018
+[24] W. Huang, Binbin Li*, X Chen, A. Rodrigo, Numerical and experimental studies on dynamic gangway response between monohull flotel and FPSO in non-parallel side-by-side configuration, Ocean Engineering, 149, 341-357, 2018
+[25] W Jian, D Cao, EY Lo, Z Huang, X Chen, Z Cheng, H Gu, Binbin Li, Wave runup on a surging vertical cylinder in regular waves, Applied ocean research, 2017
+[26] Binbin Li*, Z Huang, Y M Low, Experimental and numerical study of the effects of heave plate on the motion of a new deep draft multi-spar platform, Journal of marine science and technology, 18, 229-246, 2013
+[27] Binbin Li*, J Ou, B Teng, Numerical investigation of damping effects on coupled heave and pitch motion of an innovative deep draft multi-spar, Journal of marine science and technology, 19(2), 231-244, 2011
+[28] Binbin Li*, J Ou, B Teng, Fully coupled effects of hull, mooring and risers model in time domain based on an innovative deep draft multi-spar, China ocean engineering, 2010
+[29] Binbin Li*, K Liu, G Yan, J Ou, Hydrodynamic comparison of a semi-submersible, TLP, and Spar: Numerical study in the South China Sea environment, Journal of Marine Science and Application, 2011
+[30] Binbin Li*, J Ou, Concept design of a new deep draft platform, Journal of Marine Science and Application, 2010
+[31] 李彬彬，欧进萍，深吃水多立柱式平台的运动响应分析，中国造船，2010
+[32] 李彬彬，欧进萍，滕斌，深吃水多立柱平台稳性与水动力分析，海洋工程，2010
+[33] 李彬彬，欧进萍，Truss Spar平台垂荡响应频域分析，海洋工程，2009
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+第八届中国土木工程学会优秀论文奖
+第四届中国海洋工程设计大赛一等奖、优秀指导教师
+ </奖励荣誉>

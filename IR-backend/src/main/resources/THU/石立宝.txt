@@ -1,0 +1,35 @@
+{"title":"石立宝","cnUrl":"http://www.sigs.tsinghua.edu.cn/slb/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/6f/6e/1bb3dc794d07b520e60fab07e6e1/6859ee7f-592f-4515-9e1a-a35d1ca55b89.jpg","email":"shilb@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1990.09-1994.07，重庆大学电机系，电力系统及其自动化专业，学士
+1994.09-1997.07，重庆大学电机系，电力系统及其自动化专业，硕士
+1997.09-2000.12，重庆大学电气工程学院，电力系统及其自动化专业，博士
+2001.03-2002.02，烟台东方电子信息产业股份有限公司，项目经理
+2002.02-2004.02，上海交通大学电气工程学科，博士后
+2004.04-2004.07，澳大利亚昆士兰大学信息与电气工程学院，访问学者
+2004.08-2006.06，香港大学电气与电子工程学系，访问学者、研究助理
+2006.07至今，清华大学深圳研究生院，电力系统国家重点实验室深圳研究室
+教育经历 
+工作经历 
+学术兼职 
+(1) 电气电子工程师学会高级会员（IEEE Senior Member）
+(2) 深圳市创新委项目评审专家
+(3) 深圳市政府采购中心专家
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+数字智能电网支撑平台的关键技术研究，包括：风-水-火-储并网运行与控制及协同调度相关技术研究；电力系统连锁故障及恢复控制研究。计算智能/网格技术及其在电力系统中的应用；电力系统动态安全评估；EMS/DTS系统集成。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] L. B. Shi, C. Wang, L. Z. Yao, L. M. Wang and Y. X. Ni. An analytical solution for wind farm power output. IEEE Trans on Power Systems, 2014 , 29(6):3122-3123.
+[2] Libao Shi, Shuming Sun, Liangzhong Yao, Yixn Ni, Masoud Bazargan. Effects of wind generation intermittency and volatility on power system transient stability. IET Renewable Power Generation, July 2014, 8(5): 509-521.
+[3] Libao Shi, H. L. Ding, and Zhao Xu. Determination of weight coefficient for power system restoration. IEEE Trans on Power Systems, 2012, 27(2): 1141-1142.
+[4] L. B. Shi, C. Wang, L. Z. Yao, Y. X. Ni, B. Masoud. Optimal power flow solution incorporating wind power. IEEE Systems Journal, 2012, 6(2): 233-241.
+[5] L. B. Shi, C. Wang, L. Z. Yao, L. M. Wang, Y. X. Ni. Analysis of impact of grid-connected wind power on small signal stability. Wind Energy, 2010, 14(4): 517-537. 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

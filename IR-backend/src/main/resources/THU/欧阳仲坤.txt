@@ -1,0 +1,49 @@
+{"title":"欧阳仲坤","cnUrl":"http://www.sigs.tsinghua.edu.cn/oyzk/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/99/60/57758f5e46ee97f8057e213013d1/9836254e-f51f-4539-8352-a17df1e0a8b7.jpg","email":"ouyangzk@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2015年1月-2019年5月，佐治亚理工学院，岩土工程专业，博士 （导师：Paul Mayne）
+2013年8月-2014年12月，佐治亚理工学院，土木工程专业，硕士（导师：Paul Mayne）
+2011年8月-2013年5月，香港大学，土木工程专业，学士（导师：Albert T. Yeung）
+工作经历 
+2022年7月-至今，清华大学深圳国际研究生院，助理教授、博导
+2021年9月-2022年7月，University of Newhaven纽黑文大学，助理教授、硕导
+2020年8月-2021年8月，University of Mount Union联合山大学，助理教授
+2019年9月-2020年8月，Oregon State University俄勒冈州立大学，讲师
+学术兼职 
+ICE Géotechnique、 Journal of Geotechnical & Geoenvironmental Engineering、ASTM Geotechnical Testing Journal、 Transportation Research Record: Journal of the Transportation Research Board (TRR Journal)、Geofluids、Applied Sciences Journal by MDPI等期刊审稿人
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+ 欧阳仲坤博士的主要研究主题包括：海洋岩土原位测试技术、海洋岩土工程测试设备开发（静力触探仪CPTu、扁铲侧胀试验DMT）、海洋结构基础分析、海洋岩土体工程力学性质、物理性质分析等。在土木、岩土领域重要国际期刊(ASCE-Journal of Geotechnical and Geoenvironmental Engineering, Canadian Geotechnical Journal, Geotechnical Testing Journal)发表SCI论文近20篇。欧阳仲坤博士从事科研教学多年，研究课题合作部门包括：美国佐治亚州交通部、伊利诺伊交通部、荷兰辉固国际集团（Fugro）、加拿大ConeTec等，内容涉及岩土工程勘探、基础设施建设。欧阳仲坤团队开发的利用孔隙静力触探仪（Piezocone Penetration Test）以及扁铲侧胀仪（Flat Dilatometer）分析海相软黏土有效应力参数系统被多家国际知名工程岩土工程勘探公司（加拿大ConeTec、荷兰辉固Fugro、美国Gregg Drilling）、美国多个州与联邦交通部、美国国家公路与运输协会（AASHTO）、美国工程院（National Academy of Engineering）等单位部门采纳为测试标准。同时担任Géotechnique、ASCE-Journal of Geotechnical and Geoenvironmental Engineering 等SCI期刊审稿人。
+ 欧阳仲坤教授于2022年7月加盟清华大学深圳国际研究生院海洋工程研究院担任助理教授，建立海洋智能岩土测试与设备开发实验室，欢迎土木水利、海洋工程、计算机等相关专业的同学踊跃报考。ouyangzk@sz.tsinghua.edu.cn
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Ouyang, Z., Mayne, P.W. 2017. Effective friction angle of soft to firm clays from flat dilatometer tests. Geotechnical Engineering. Vol. 170 (2) Proc. Institution of Civil Engineers, London: 137-147 https://doi.org/10.1680/jgeen.16.00073 (JCR Q4)
+[2]Ouyang, Z., Mayne, P.W. 2018. Effective friction angle of clays and silts from cone piezocone penetration tests. Canadian Geotechnical Journal. 55(9): 1230–1247, doi:10.1139/cgj-2017-0451 (Editor’s Choice papers for 2018, JCR Q2)
+[3]Ouyang, Z., Mayne, P. W. 2018. Effective stress strength parameters of clays from DMT. ASTM Geotechnical Testing Journal. Vol. 41, No. 5: 851-867: https://doi.org/10.1520/GTJ20170379. ISSN 0149-6115 (JCR Q4)
+[4]Agaiby, S., Ouyang, Z., Mayne, P.W. 2018. Helical probe tests in residual soils of the Appalachian Piedmont. Geomechanics and Geoengineering. an international journal, Taylor & Francis Group, London: DOI: 10.1080/17486025.2018.1434244 
+[5]Ouyang, Z., Mayne, P.W. 2019. Modified NTH method for assessing the effective friction angle of normally-consolidated and overconsolidated clays from piezocone tests. ASCE Journal of Geotechnical and Geoenvironmental Engineering, 145(10)https://doi.org/10.1061/(ASCE)GT.1943-5606.0002112 (JCR Q2)
+[6]Ouyang, Z., Mayne, P.W. 2020. Effective stress friction angle of normally consolidated and overconsolidated intact clays from piezocone tests. Geotechnical Engineering Journal of the SEAGS & AGSSEA Vol. 51 No. 2
+[7]Ouyang, Z., & Mayne, P. W. 2020. Closure to “Modified NTH Method for Assessing Effective Friction Angle of Normally Consolidated and Overconsolidated Clays from Piezocone Tests” by Zhongkun Ouyang and Paul W. Mayne. Journal of Geotechnical and Geoenvironmental Engineering, 146(9), https://doi.org/10.1061/(ASCE)GT.1943-5606.0002340. (JCR Q2)
+[8]Ouyang, Z., Mayne, P.W. 2021. Variable Rate Piezocone Data Evaluated Using NTH Limit Plasticity Solution. ASTM Geotechnical Testing Journal. Vol. 44 https://doi.org/10.1520/GTJ20190183. (JCR Q4)
+[9]Ouyang, Z., Mayne, P.W. & Sharp, J. 2016. Review of clay chamber tests using miniature cone and piezocone penetrometers, Proc. GeoVancouver 2016, (69th Canadian Geotechnical Conference), Canadian Geotechnical Society: www.cgs.ca
+[10]Ouyang, Z., Mayne, P.W. 2016. New DMT method for evaluating soil unit weight in soft to firm clays, Proc. Fifth International Conference on Geotechnical and Geophysical Site Characterization (ISC-5, Jupiters Resort, Gold Coast), Australian Geomechanics Society: www.isc5.com.au
+[11]Ouyang, Z., Mayne, P.W. 2017. Spherical cavity expansion nexus between CPTu and DMT in soft-firm clays. Proceedings of the 19th International Conference on Soil Mechanics and Geotechnical Engineering, Vol. 1, Korean Geotechnical Society, Seoul: 631-634. www.issmge.org
+[12]Ouyang, Z., Mayne, P. W. 2018. Calibration of NTH method for friction angle using centrifuge CPTu in clays. Proceedings, 4th International Symposium on Cone Penetration Testing, (CPT'18, Delft), CRC Press/Balkema: 491-498.www.cpt18.org
+[13]Ouyang, Z., Mayne, P. W. 2019. Evaluating rigidity index, OCR, and su from dilatometer data in soft to firm clays. Proceedings, 16th Panamerican Conference on Soil Mechanics and Geotechnical Engineering, Cancun. Mexican Geotechnical Society):www.issmge.org
+[14]Ouyang, Z., Mayne, P.W. 2020. Modified NTH solution for overconsolidated fissured clays, Proc. Sixth International Conference on Geotechnical and Geophysical Site Characterization ISC-6 
+[15]Mayne, P.W., Agaiby, S., Ouyang, Z. 2021. Analytical effective stress piezocone methods for assessing geoparameters of offshore clay, Proc. 4th International Symposium on Frontiers in Offshore Geotechnics
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+[1]2022纽黑文大学年度教学杰出奖（提名）
+[2]2019美国土木工程师协会George Sowers最佳博士奖
+[3]佐治亚理工2017最佳助教奖
+ </奖励荣誉>

@@ -1,0 +1,46 @@
+{"title":"李丘林","cnUrl":"http://www.sigs.tsinghua.edu.cn/lql/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/56/27/3fd6b15b4b6eb703e4fbbeeaa42d/1ccda477-b777-4667-b451-2e06ff6bd831.jpg","email":"liql@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2000/04-2004/04，大连理工大学，材料加工，博士
+1997/09-2000/03，河北工业大学，材料加工，硕士
+1993/09-1997/07，河北工业大学，材料加工，学士
+工作经历 
+2021/12 至今，清华大学深圳国际研究生院，研究员
+2011/12-2021/12，清华大学深圳研究生院，副研究员
+2006/06-2011/11，清华大学 深圳研究生院，助理研究员
+2004/05-2006/05，清华大学 深圳研究生院，博士后
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+长期从事核能用新材料、外场与材料相互作用领域研究工作，特别是在中子防护材料设计与制备、熔体中固液两相界面能对电磁场效应及真空电磁冶金技术进行过深入研究，主持或作为骨干参与国家自然科学基金青年基金、973项目及国防973项目等10余项基础研究，承担过中国工程物理研究院材料研究所、中广核工程有限公司等多项横向科研项目。
+主要研究方向：
+1.核能用新材料 铝基碳化硼中子吸收材料，主要用于乏燃料贮存领域
+2.复合材料制备技术 液态搅拌铸造技术，主要用于颗粒及短晶须增强金属基复合材料制备
+3.外场与材料相互作用 电磁纯净化、电磁细晶、中子辐照效应、多场耦合效应
+主要项目 
+1.国家自然科学基金青年基金，50904042，2010-2012，负责人
+2.ITER专项，2013GB109004，2013-2017，子课题负责人
+3.ITER专项，2011GB108006，2012-2014，子课题负责人
+4.军工973项目，613144，2010-2014，子专题负责人
+5.973项目，2007CB613702，2007-2011，子课题负责人
+6.中广核工程有限公司横向项目（260万）-中子吸收材料研制，2012-2013，负责人
+7.中国工程物理研究院材料研究所（295万）-真空电磁净化，2010-2011，负责人
+ </研究领域>
+<研究成果>
+代表性论文 
+1、He, YJ, Li, QL, Liu, W, Separating Effect of a Novel Combined Magnetic Field on Inclusions in Molten Aluminum Alloy. Metallurgical And Materials Transactions B, 2012,v43(5),1149-1155.
+2、Yecong Han, Qiulin Li, Wei Liu, Yanjie He, Effect of Electromagnetic Vibration on the Agglomeration Behavior of Primary Silicon in Hypereutectic Al-Si Alloy. Metallurgical And Materials Transactions A,2012, V43(3),1400-1404.
+3、He, YJ, Li, QL, Liu, W, Effect of combined magnetic field on the eliminating inclusions from liquid aluminum alloy. Materials Letters, 2011, v65(8), p1226-1228.
+4、Zhang, XD, Liu, W, Li, QL, Godfrey, A. Effect of magnetic field on solidification structure of a centrifugal cast high speed steel. Materials Science and Technology, 2010, v22(10), p1177-1183.
+5、Chunhui Zhao, Qiulin Li, Wei Liu. Use of driven flow caused by traveling magnetic field to eliminate inclusions from liquid aluminum alloy. Rare Metal Materials and Engineering.2012, v41(s2), p573-576.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+深圳市地方级领军人才
+ </奖励荣誉>

@@ -1,0 +1,55 @@
+{"title":"陈鑫磊","cnUrl":"http://www.sigs.tsinghua.edu.cn/cxl/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/06/67/dd8293af4bba81b4905e2aa6f2f4/360ce64c-41cb-4870-8d07-e9139c010b84.png","email":"chen.xinlei@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+主要从事智能物联网，多智能体协同、强化学习、普适计算、脑机接口等方面研究
+教育经历 
+2013.08-2018.05，卡耐基梅隆大学，电子与计算机工程专业，博士
+2009.08-2012.07，清华大学，电子工程专业，硕士
+2005.08-2009.07，清华大学，电子工程专业，学士
+工作经历 
+2021年06月-至今，清华大学，深圳国际研究生院，助理教授，特别研究员
+2020年09月-2021年05月，清华大学，刘云浩教授课题组，访问学者
+2018年06月-2020年05月，卡耐基梅隆大学，博士后研究员
+2014年05月-2014年08月，微软亚洲研究院，研发实习生
+学术兼职 
+General Co-Chair of CPD workshop in ACM Ubicomp 2018-2020
+Competition Co-Chair of ACM/IEEE IPSN 2019
+TPC Co-Chair of CPD workshop of ACM Ubicomp 2021
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+数据可视化（国际院）
+数据挖掘：理论与算法（国际院）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+研究方向：智能物联网，多智能体，普适计算，机器人与无人机集群，脑机接口，强化学习等
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+Wang, Ziteng and Hu, Chun and Zheng, Dezhi* and Chen, Xinlei* (2021). Ultralow-Power Sensing Framework for Internet of Things: A Smart Gas Meter as a Case. IEEE Internet of Things Journal, 9(10), 7533-7544.
+Na, Rui and Zheng, Dezhi and Sun, Ying and Han, Mingzhe and Wang, Shuai and Zhang, Shuailei and Hui, Qianxin and Chen, Xinlei* and Zhang, Jun and Hu, Chun*. (2021). A Wearable Low-Power Collaborative Sensing System for High-Quality SSVEP-BCI Signal Acquisition. IEEE Internet of Things Journal, 9(10), 7273-7285.
+Chen, X.#, Xu, S.#, Liu, X., Xu, X., Noh, H.Y., Zhang, L. and Zhang, P., 2020. Adaptive Hybrid Model-enabled Sensing System (HMSS) for Mobile Fine-Grained Air Pollution Estimation. IEEE Transactions on Mobile Computing
+Chen, X.#, Xu, S.#, Han, J., Fu, H., Pi, X., Joe-Wong, C., Li, Y., Zhang, L., Noh, H.Y. and Zhang, P., 2020. PAS: Prediction-Based Actuation System for City-Scale Ridesharing Vehicular Mobile Crowdsensing. IEEE Internet of Things Journal, 7(5), pp.3719-3734.
+Chen, X., Ruiz, C., Zeng, S., Gao, L., Purohit, A., Carpin, S. and Zhang, P., 2020. H-DrunkWalk: Collaborative and Adaptive Navigation for Heterogeneous MAV Swarm. ACM Transactions on Sensor Networks (TOSN), 16(2), pp.1-27.
+Xu, S.#, Chen, X.#, Pi, X., Joe-Wong, C., Zhang, P. and Noh, H.Y., 2019. iLOCuS: Incentivizing vehicle mobility to optimize sensing distribution in crowd sensing. IEEE Transactions on Mobile Computing, 19(8), pp. 1831-1847.
+Chen, X.*, Zhao, Y. and Li, Y., 2019. Qoe-aware wireless video communications for emotion-aware intelligent systems: A multi-layered collaboration approach. Information Fusion, 47, pp.1-9.
+Chen, X., Wang, Y., He, J., Pan, S., Li, Y. and Zhang, P., 2019. Cap: Context-aware app usage prediction with heterogeneous graph embedding. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 3(1), pp.1-25.
+Chen, X.*, Zhao, Y., Li, Y., Chen, X., Ge, N. and Chen, S., 2018. Social trust aided D2D communications: Performance bound and implementation mechanism. IEEE Journal on Selected Areas in Communications, 36(7), pp.1593-1608.
+Chen, X., Zhu, Z., Chen, M. and Li, Y., 2018. Large-scale mobile fitness app usage analysis for smart health. IEEE Communications Magazine, 56(4), pp.46-52.
+Chen, X., Purohit, A., Pan, S., Ruiz, C., Han, J., Sun, Z., Mokaya, F., Tague, P. and Zhang, P., 2017. Design experiences in minimalistic flying sensor node platform through sensorfly. ACM Transactions on Sensor Networks (TOSN), 13(4), pp.1-37.
+Chen, X., Purohit, A., Dominguez, C.R., Carpin, S. and Zhang, P., 2015, November. Drunkwalk: Collaborative and adaptive planning for navigation of micro-aerial sensor swarms. In Proceedings of the 13th ACM Conference on Embedded Networked Sensor Systems (pp. 295-308).
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2017 IEEE/ACM IPSN Best Poster Award
+2016 ACM SenSys Best Poster Runner-Up 
+2016 ACM SenSys Best Demo Award
+2012 清华大学优秀硕士论文
+ </奖励荣誉>

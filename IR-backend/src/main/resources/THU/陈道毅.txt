@@ -1,0 +1,114 @@
+{"title":"陈道毅","cnUrl":"http://www.sigs.tsinghua.edu.cn/cdy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/c3/fc/27748f0e40fbb6f0ba529948723f/cc247f8e-4055-4a41-806c-eabbcc91cbba.jpg","email":"Chen.daoyi@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1978.2-1982.1 重庆建筑工程学院给排水工程专业 工学学士
+1982.3-1984.6 清华大学水力学及河流海岸动力学专业 工学硕士
+1985.1-1988.9 清华大学水力学及河流海岸动力学专业学位 工学博士
+工作经历 
+1984.6-1984.12 清华大学水利系 助教
+1988.10-1990.9 美国康奈尔大学 博士后
+1990.10-1995.2 美国康奈尔大学 助理研究员
+1995.3-2000.7 英国曼切斯特大学 英国讲师 (tenure track, 博导)
+2000.8-2005.8 英国曼切斯特大学 高级讲师 (终身)
+2005.9至今 英国利物浦大学 讲席教授(chair professor 终身)
+2011至今 清华大学深圳研究生院 清华大学环境学院 教授和学科带头人
+学术兼职 
+Associate Editor for J of Hydro-Environment Research
+深圳近海动力环境演变重点实验室主任
+国家级“深圳深海海洋工程装备配套试验平台(筹)”主任
+深圳市青年创新人才遴选委员
+中国海洋学会理事
+挪威船级社大中华区海洋工程技术委员会委员
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+海洋环境和可燃冰：得到美国自然科学基金会和英国工程与物理基金会多个项目的资助。在近海和河流多种复杂条件下的的污染扩散，难降解有机污染物的计算模拟和现场污染治理等方面取得一系列有重要的学术和应用价值的成果。回国后继续在石油污染物的吸附解析特性方面开展工作。鉴于可燃冰的重大应用前景，回国后开始建立可燃冰研究团队和实验室。目前已经建成微纳尺度的X-射线观测系统。正在进行可燃冰的机理和开采工艺的研究。
+海洋仪器和装备：获得了英国工程与物理基金会的重大项目资助，与英国国家实验室合作以开发超高速度LDV/PIV仪检测纳米颗粒及海洋观测仪器。在超高速图像获取、处理和传输等方面取得重要突破，有广泛和重要的应用价值。回国后得到863重大项目课题和孔雀计划课题资助，研制成功深海原位微颗粒速度和通量观测仪器，近期将安放在深海，连入国家海底科学实验网。近期获批国家级《深圳深海海洋工程装备配套试验平台项目》，在深圳大鹏筹建海上试验场。
+海洋动力学：浅水动力学的浅水海岛尾流问题是多年来困扰科学家们的难题。首次在实验室成功的重演了卫星观测到的洋流大尺度紊动水流结构并找出了流态演变的控制参数。运用稳定性理论成功地获得与天然观测和实验室模拟吻合的结果。实验成果在权威的国际流体力学年鉴中被评价为非常漂亮的成果。这一创造性工作对浅水动力学作出了重大的贡献。该研究领域已发展为一门新兴学科，是三次国际浅水动力学会议的科学顾问，被公认为该新兴学科的主要创始人之一。回国后继续开展海岛和海山尾流的研究，参加由中国海洋大学主持的国家973项目关于岛屿周围涡动力学的课题。
+海洋卫星遥感和信息： 在卫星遥感的中红外波段信号成功地检测植物水，所提出的新植物指数NDWI在国际上得到广泛认可。单篇文章SCI引用超200次。回国后正在开展海洋遥感方面的工作， 包括卫星高度计，SAR等方面。在信息科学方面，与美国大气与海洋管理局合作开发了现代化的环境和水文信息系统用于河流和近海环境污染预测和防洪，并且作为欧洲环境和水文开放式系统的一部分继续开发。回国后主持环保部公益科研项目关于污水排海优化的数据库和信息系统开发。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1.Chen, D. (1991), Turbulent dynamic equations based on eddy and its application in k-e model. Advances in Applied Mathematics and Mechanics in China, V.3, 65--73, International Academic Publishers, Pergamon Press, Oxford.
+2.Chen, D. and G. H. Jirka (1994), Axisymmetric instability of the annular Hagen Poiseuille flow with small inner radius by Chebyshevpseudospectral method. International J. of Computational Fluid Dynamics, V.3, 265-280.
+3.Chen, D. and G. H. Jirka (1995), Experimental study of plane turbulent wakes in a shallow water. Fluid Dynamics Research, V.16, 11-41. (SCI citations over 120)
+4.Chen, D. and W. Brutsaert (1995), Diagnostics of landsurface spatial variability and water vapor flux. J. of Geophysical Research 100(D12), 25595-25606.
+5.Nash, J., G. H. Jirka and D. Chen (1995), Large scale planar laser induced fluorescence in turbulent density stratified flows. Experiments of Fluids, V.19, 297-304.
+6.Brutsaert, W. and D. Chen (1995), Desorption and the two drying stages of tall grass prairie. Water Resources Research, V.31, No.5, 1305-1313.
+7.Brutsaert, W. and D. Chen (1996), Diurnal variation of surface fluxes during thorough drying (or severe drought) of natural prairie. Water Resources Research, V.32, No.7, 2013-2020.
+8.Chen, D., T. Engman and W. Brutsaert (1997), Spatial distribution and pattern persistence of surface soil moisture and temperature over prairie from remote sensing. Remote Sensing of Environment, V.61(3), 347-360.
+9.Chen, D. and G. H. Jirka (1997), Absolute and convective instabilities of plane turbulent wakes in shallow-water layer. J. of Fluid Mechanics, V.338, 157-172.
+10.Chen, D. and G. H. Jirka (1998), Instability characteristics of mixing layer and jet under the joint effects of bottom friction and viscosity. IAHR J. of Hydraulic Research, V.36, 815-830.
+11.Chen, D. and W. Brutsaert (1998), Satellite-sensed distribution and spatial patterns of vegetation parameters over tall grass prairie. J. of the Atmospheric Sciences, V55(7), 1225-1238.
+12.Chen, D. and G. H. Jirka (1999), LIF study of plane jet bounded in shallow water layer. ASCE J. of Hydraulic Eng., V.125(8), 817-826.
+13.Spanou, M. and D. Chen (2000), An Object-Oriented tool for the control of point-source pollution in river systems. Environmental Modelling and Software, V.15(1),35-54.
+14.Letherman, S. B., M. A. Cotton, P. K. Stansby, C. Chen and D. Chen, (2000), An assessment of k-e and k-i turbulence models for oscillatory rough bed flows, IAHR Journal of Hydroinformatics, V.4(2), 221-234.
+15.Lloyd, P. M., P. K. Stansby and D. Chen (2001), Wake formation around islands in oscillatory laminar shallow-water flows. J.ofFluid Mechanics. V.429, 217-238.
+16.Spanou, M. and D. Chen (2001), Water quality modelling of the upper Mersey River system using an Object-Oriented software. IAHR Journal of Hydroinformatics, V.3, 173-194.
+17.Spanou, M. and D. Chen (2002), Integrated management of Upper Mersey River basin using the SMILE Object-Oriented software system, IWA Water Science and Technology, V46(6-7), 105-112.
+18.Jackson, T.J., D. Chen, M.H. Cosh, F. Li, C. Walthall, M. Anderson, C. Walthall, P. Doriaswamy and E.R. Hunt (2004), Vegetation water content mapping using Landsat data derived normalized difference water index for corn and soybeans, Remote Sensing of Environment, V92, 475-482. (SCI citations over 320)
+19.Chen, D., F.E. Tang and C.Q. Chen (2005), Pollutant Trapping at a Coastal Headland, ASCE J. of Waterway, Port, Coastal and Ocean Engineering. V131(3), 98-114
+20.Chen, D. and J.F. Huang and T. Jackson (2005), Vegetation Water Content Estimation Using MODIS Near- and Short-Wave Infrared Bands and Derived Indices, Remote Sensing of environment, V98, 225-236.(SCI citations over 200)
+21.Shams, S. P. Bhattacharya, S. Langaas, G. Jacks, K.M. Ahmed,G. Anders, D. Chen and A. Granlund (2006), Mapping and Interpretation of field data for Evaluation and Mitigation of Groundwater Contamination: The Case of Arsenic in Bangladesh. J. of Hydroinformatics, V7, 25-36.
+22.Ahmed, A.A. and D. Chen (2006), Effects of contamination age on phenanthrene desorption from aquifers, Journal of Environmental Science and Health Part A: Toxic/Hazardous Substance & Environmental Engineering, V41, 1-15.
+23. Leone A, Shams S and Chen D (2006) An Object-Oriented and OpenGIS Supported Hydro Information System (30-HIS) for Upper Mersey River Basin Management. Journal of River Basin Management, V4(2), 1-9.
+24.Ahmed, A.A. and D. Chen (2006), Field Scale DNAPLs transport under nonequilibrium sorption conditions, Journal of Environmental Science and Health Part A: Toxic/Hazardous Substance & Environmental Engineering, V41(3), 273-290.
+25.Daoyi Chen, CQ Chen, Fu-Ee Tang, PK Stansby, Ming Li, (2007), Boundary Layer Structure of Oscillatory Open-Channel Shallow Flows over Smooth and Rough Beds, Experiments in Fluids, V42 (5), 719-736.
+26. Yonghong Yi, Dawen Yang, Daoyi Chen and Jingfeng Huang (2007) Retrieving crop physiological parameters and assessing water deficiency using MODIS data during winter wheat growing period. Canadian Journal of Remote Sensing, V.33(3), 189-202.
+27.Andrea Leone and Daoyi Chen, (2007), Implementation of an Object Oriented data model in an Information System for water catchment management: JAVA JDO and db4o Object Database. Environmental Modelling& Software, V22, 1805-1810
+28.Ming Li, B.A O’Connor, S Pan and D Chen, (2007), Development of a quasi-3d numerical model for sediment transport in the coastal region, J of Hydro-Environment Research, V.1 (2) 143-156.
+29.YH Yi, DW Yang, D Chen, JF Huang (2008) Evaluation of MODIS surface reflectance products for wheat LAI retrieval .ISPRS Journal of Photogrammetry and Remote Sensing, V63 (6), 661-677
+30.Burrows R, (Walkington IA), Yates NC, Hedges TS, Li M, Zhou JG, Chen DY, (Wolf J, Holt J and Proctor R) (2009) 'Tidal energy potential in UK waters'. Proceedings of the Institution of Civil Engineers - Maritime Engineeringvol 162 issue MA4 pp 155-164
+31.JF Huang, D Chen and M Cosh (2009) Sub-Pixel Reflectance Unmixing in Estimating Vegetation Water Content and Dry Biomass of Corn and Soybeans Cropland using Normalized Difference Water Index (NDWI) from Satellites. International Journal of Remote Sensing V30 (8), 2075-2104
+32. Ashraf A Ahmed and Daoyi Chen (2010) Desorption Kinetics of TCE and PCE in Aged DNAPL Contaminated Soil. Water and Environment Journal, V24, 159-164
+33. Shahriar Shams, EblalZakzok, Daoyi Chen, Jingfeng Huang (2010), Estimation and monitoring non-point source pollutant loads: an object oriented hydro information approach, International Journal of Environment and Waste Management, V6 (3/4), 220-236.
+34.Ahmed AT, Khalid HA, (Ahmed AA) and Chen D (2010) Experimental and numerical characterisation of the leaching of incinerator bottom ash waste. Waste Management, V30 (8/9), 1536-1543
+35. D Chen, S Shams, C Carmona-Moreno and A Leone (2010) Assessment of Open Source GIS Software for Water Resources Management in Developing Countries. J of Hydro-Environment Research, V.4 (3), 253-264
+36. Itugha, O.D, Chen, D and Ahmed, A.A., (2010) Solute migration and transport in coastal sand-beach sediments under strong tides, Environmental Hydraulics: Proceedings of the 6th Symposium on Environmental Hydraulics, Athens, CRC Press, Taylor & Francis, Eds, G. C. Christodoulou and A. I. Stamou, V.2, 935-942. (ISBN: 978-0-415-59546-9)
+37. Dondeynaz,C. P. Mainarsi, C. Carmona-Moreno and D Chen, (2010), A web based knowledge management platform for the cooperation and development in the water sector: AquaKnow.net, Processding ofthe9th International Conference on Hydroinformatics (HIC2010), Tianjin, China, pp 1026-1034 ISBN 978-7-89472-324-6 Chemical Industry Press
+38.SX Shi and D Chen (2011), The Development of An Automated PIV Image Processing Software - SmartPIV, Flow Measurement and Instrumentation, V22, 181–189
+39.SX Shi and D Chen (2011), Enhancing particle image tracking performance with a sequential Monte Carlo method the bootstrap filter, Flow Measurement and Instrumentation V22, 190-200.
+40.J. A. Griffiths, D. Chen, R. Turchetta, G. J. Royle (2011), Characterization study of an intensified complementary metal–oxide–semiconductor active pixel sensor, Review of Scientific Instrument, 82, 033709
+41.GQ Wang, D Chen and XK Wang, M Asim and JQ Xia (2011), Effects of Shallowness on Sediment Depositions in Shallow Recirculation Zones, submitted to ASCE J of Hydraulic Engineering，V137(9)976-985
+42.Xin Chen, Yong Li, XiaojingNiu, Daoyi Chen , Xiping Yu (2011), A two-phase approach to wave-induced sediment transport under sheet flow conditions, Coastal Engineering, V.58, 1072-1088
+43.Xin Chen , Yong Li , XiaojingNiu , Ming Li , Daoyi Chen , Xiping Yu, (2011), A general two-phase turbulent flow model applied to the study of sediment transport in open channels, International Journal of Multiphase Flow, V37(9), 1099-1108
+44. Ashraf A Ahmed and Daoyi Chen (2012), Modelling of naphthalene sorption in shallow beach aquifers, Proceedings of the ICE - Water Management, V.165(7), 355 –364.
+45. F.E Tand and D Chen, (2012), Tidal Flow Patterns Near A Coastal Headland, World Academy of Science, Engineering and Technology V.63, 782-790
+46. Chen, D. and Huang, H. (2012), Interaction of flows and particles at sub-micrometer scales, Environmental Fluid Mechanics: Memorial Volume of IAHR Monographs in honour of Prof. Gerhard H. Jirka, Taylor & Francis, Edited by Wolfgang Rodi, Markus Uhlmann Chapter 12, 239-247. (ISBN-978-0-415-67045-6)
+47. Chen， D(2012)，Onset Conditions for Vortex Shedding Wakes in Atmosphere and Ocean，3rd Int. Symp.on Shallow Flows,Iowa City, USA, June 4 - 6, 2012
+48. Wu, GZ, L. He and D. Chen (2013) Sorption and distribution of asphaltene, resin, aromatic and saturate fractions of heavy crude oil on quartzsurface: molecular dynamic simulation, Chemosphere, V92, 1465-1471.
+49. Wu G, Zhu X, Ji H, Chen D (2015) Molecular modeling the interactions between heavy crude oil and the soil organic matter coated quartz surface, Chemosphere, V119, 242-249
+50. Huang, L ; Fang, HW ; Fazeli, M ; Chen, YS ; He, GJ; Chen, DY (2015)，Mobility of phosphorus induced by sediment resuspension in the Three Gorges Reservoir by flume experiment，Chemosphere，V 134 ，374-379.
+51. Zhu X, Wu G, Chen D (2015) Molecular dynamic simulation of asphaltene co-aggregation with humic acid during oil spill，Chemosphere, 138, 412-421.
+52. Huang, L ; Fang, HW ; Fazeli, M ; Chen, YS ; He, GJ; Chen, DY (2015)，Mobility of phosphorus induced by sediment resuspension in the Three Gorges Reservoir by flume experiment，Chemosphere，V 134 ，374-379.
+53. 李邵龙，陈道毅 (2015)，水体扰动条件下物质在沉积介质中的迁移研究，环境科学 36(10): 3683-3690.
+54. 蔡加祥，林雄伟，李邵龙，李磊，陈道毅, 刘敏, 董宇涵, 李强 (2015)，深海原位微颗粒观测系统的设计及实现，海洋工程 V.33(4): 68-78
+55.Sui, H., Li, L., Zhu, X., Chen, D., Wu, G., 2016. Modeling the adsorption of PAH mixture in silica nanopores by molecular dynamic simulation combined with machine learning. Chemosphere 144, 1950-1959.
+56.Liu, YC; Li, SW; Yi, Q; Chen, D, 2016, Developments in semi-submersible foundations supporting wind turbines: A comprehensive review, Renewable and Sustainable Energy Reviews, V60, 433-449
+57. Zi, Mucong; Chen, Daoyi; Ji, Haoqing; Wu, Guozhong,（2016），Effects of asphaltenes on the formation and decomposition of methane hydrate：a molecular dynamics study, Energy &Fuels, 2016, 30 (7), 5643–5650
+58.Zhu X, Chen D, Wu G, (2016), Insights into asphaltene aggregation in the Na-montmorillonite interlayer, Chemosphere, V 160 (10), 62–70
+59.Zhu X, Wu G, Chen D, (2016),Molecular dynamics simulation of cyclodextrin aggregation and extraction of Anthracene from non-aqueous liquid phase, Journal of Hazardous Materials, V 320 (12), 169–175.
+60.Okuroghoboye, D.I, Chen, D. and Guo Y. (2016), Pollutant Advective Spreading in Beach Sand Exposed to High-Energy Tides, Estuarine, Coastal and Shelf Science, V181, 70–82.
+61.Ji, Haoqing; Wu, Guozhong; Zi, Mucong; Chen, Daoyi (2016), Microsecond molecular dynamics simulation of methane hydrate formation in the humic acid amended Na-montmorillonite, Energy & Fuels, 30 (9), 7206–7213
+62. Zhang, Zhiyong; Shi, Bing; Guo, Yakun; Chen, Daoyi (2016) Prediction of clear-water scour around submarine pipeline， Maritime Engineering Journal， in press.
+63. 吴世克，王久娟，陈道毅，霍学深，（2016），基于高分辨率高度计沿轨数据的吕宋海峡亚中尺度过程季节波动分析，应用海洋学报.
+64.Shengmu Yang, Jiuxing Xing, Daoyi Chen, Shengli Chen (2017)，A modelling study of eddy-splitting by an Island/Seamount in the South China Sea. Ocean Science, V13, 837-849.
+65.HaoqingJi, Daoyi Chen, and Guozhong Wu (2017)，Molecular Mechanisms for Cyclodextrin-Promoted Methane Hydrate Formation in Water， J. Phys. Chem. C, 2017, 121 (38), 20967–20975
+66.Yichao Liu, Daoyi Chen, Qian Yi and Sunwei Li (2017),Wind Profiles and Wave Spectra for Potential Wind Farms in South China Sea. Part I: Wind Profile Model, Energies 2017, 10, 125
+67. Yichao Liu, Sunwei Li, Qian Yi and Daoyi Chen (2017)，Wind Profiles and Wave Spectra for Potential Wind Farms in South China Sea. Part II: Wave Spectrum Model, Energies 2017, 10, 127
+68. Ji, Haoqing; Chen, Daoyi; Zhao, Chen; Wu, Guozhong (2018)，Molecular Dynamics Simulation of Methane Hydrate Formation and Dissociation in the Clay Pores With Fatty Acids. The Journal of Physical Chemistry，Part: Part C. 122 (2), pp 1318–1325
+69. Manlu Li, Daoyi Chen, Yang Liu, Chia Ying Chuang, Fanzhou Kong, Paul J. Harrison, Xiaoshan Zhu, Yuelu Jiang, (2017)，Exposure of engineered nanoparticles to Alexandriumtamarense (Dinophyceae): Healthy impacts of nanoparticles via, toxin-producing dinoflagellate, Science of Total Environment, 610-611, 356-366.
+70. Y. Liu, S. Li, P.W. Chan, D. Chen（2017），Empirical correction ratio and scale factor to project the extreme wind speed profile for offshore wind energy exploitation，IEEE Transactions on Sustainable Energy, PP(99):1-1（DOI: 10.1109/TSTE.2017.2759666）
+71. Q. Han, DY. Chen, YK Guo (2018), Saltwater-freshwater mixing fluctuation in shallow beach aquifers, Estuarine, Coastal and Shelf Science(in press) 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1995年获洛克菲勒基金会授予的中国-康奈尔奖励基金
+2000年获英国皇家工程院的工程展望奖
+ </奖励荣誉>

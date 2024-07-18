@@ -1,0 +1,34 @@
+{"title":"刘振宇","cnUrl":"http://www.sigs.tsinghua.edu.cn/lzy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/0c/32/ef8c6eb1457f97f344ec85240f4e/74c8a3f4-71a1-4d9e-b438-937b80bde9b8.jpg","email":"zhenyuliu@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+Dr. Zhenyu Liu joined Tsinghua Shenzhen International Graduate School as an Assistant Professor in September 2023. He was a Postdoctoral Associate at the Laboratory for Information and Decision Systems at the Massachusetts Institute of Technology (MIT) from 2022 to 2023. Dr. Liu received the Ph.D. degree in networks and statistics from MIT. He received the B.S. degree (with honor) and the M.S. degree in electronic engineering from Tsinghua University, Beijing, China. His research interests include wireless communication, signal processing, statistical inference, networked control, network localization and navigation, and Internet-of-Things. He has been a regular reviewer for multiple IEEE journals.
+教育经历 
+2014年9月-2022年5月，麻省理工学院，网络与统计专业，博士
+2011年9月-2014年5月，清华大学，信息与通信工程专业，硕士
+2007年8月-2011年7月，清华大学，电子信息科学与技术专业，学士
+工作经历 
+2023年9月-至今，清华大学深圳国际研究生院，助理教授
+2022年7月-2023年6月，麻省理工学院，博士后
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+Research Interest 
+-Decentralized inference and learning
+-Network localization and navigation
+-Next generation wireless communication
+-Sensor networks and Internet-of-Things
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Z. Liu, A. Conti, S. K. Mitter, and M. Z. Win, “Communication-Efficient Distributed Learning over Networks–Part I: Sufficient Conditions for Accuracy,” IEEE J. Sel. Areas Commun., vol. 41, no. 4, pp. 1081–1101, Apr. 2023.
+[2] Z. Liu, A. Conti, S. K. Mitter, and M. Z. Win, “Communication-Efficient Distributed Learning over Networks–Part II: Necessary Conditions for Accuracy,” IEEE J. Sel. Areas Commun., vol. 41, no. 4, pp. 1102–1119, Apr. 2023.
+[3] Z. Liu, A. Conti, S. K. Mitter, and M. Z. Win, “Continuous-Time Distributed Filtering with Sensing and Communication Constraints,” IEEE J. Sel. Areas Inf. Theory, 2023, to appear.
+[4] Z. Liu, A. Conti, S. K. Mitter, and M. Z. Win, “Filtering over Non-Gaussian Channels: The Role of Anytime Capacity,” IEEE Contr. Syst. Lett., vol. 7, pp. 472–477, 2023.
+[5] Z. Liu, W. Dai, and M. Z. Win, “Mercury: An Infrastructure-Free System for Network Localization and Navigation,” IEEE Trans. Mobile Comput., vol. 17, no. 5, pp. 1119–1133, May 2018.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

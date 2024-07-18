@@ -1,0 +1,98 @@
+{"title":"张正华","cnUrl":"http://www.sigs.tsinghua.edu.cn/zzh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/7f/43/50e257d74f17a961085d38726542/dbde9d52-b713-43eb-934e-0dc320ee6369.png","email":"zhenghua.zhang@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+ 张正华，特别研究员/副教授，博士生导师，国际先进材料协会会士，全球前2%顶尖科学家，澳大利亚昆士兰科技大学兼职教授，广东省杰出青年基金获得者，当选MIT Technology Review-China (麻省理工科技评论-中国）的封面人物，2022年Cell Press中国最佳论文获得者，被国际知名期刊Journal of Materials Chemistry A评为2021 年度国际新锐科学家。博士和博士后期间师从美国工程院院士来自澳大利亚新南威尔士大学 (The University of New South Wales)的T. David Waite教授，获得环境工程博士学位及Australian Postgraduate Award。任SCI期刊Frontiers in Environmental Chemistry副主编，SCI期刊Frontiers of Environmental Science & Engineering青年编委，SCI期刊Processes编委，SCI期刊Separations编委，中国海水淡化与水再利用学会青年专家委员会委员，青岛国际水大会专家委员会委员等。
+  主要研究方向是基于限域效应的膜等功能材料开发及高效水处理技术：1）膜法水处理：膜法限域催化、膜法水/污水处理工艺、膜污染控制及清洗策略；2）高级氧化法水处理：电化学、限域催化、类芬顿等；3）功能材料的制备及水处理应用：二维材料、功能高分子材料、MOF等。
+ 迄今在环境领域主流期刊发表SCI一区论文100余篇，其中近5年以唯一通讯作者在Nature Communications (亮点论文, 唯一通讯，2篇)，Energy & Environmental Science, ACS Catalysis，Chem Catalysis，Water Research, Green Chemistry, Applied Catalysis B: Environmental, Journal of Membrane Science等发表SCI一区论文74篇；并参编Elsevier/Springer英文专著3部；以第一发明人申请专利15项，其中授权7项国内和国际发明专利；主持和参与科研项目共30项，其中主持23项，包括国家自然科学基金、广东省杰出青年基金、澳大利亚Linkage重大基础研究项目、国家科技部973项目等，到账经费1600多万。参编行业标准1项。同时也是Nature Water, Nature Communications, PNAS, Chemical Review, Advanced Materials, Environmental Science & Technology, Water Research等权威期刊的审稿人。
+ 已获得或即将取得环境、材料、高分子、化学、理论计算等相关专业学位，具备扎实的专业基础知识的申请人，特别是具有功能材料、膜制备、二维材料、限域催化、密度泛函理论（DFT）及分子动力学模拟（MD）研究背景的申请人，欢迎加入膜法&纳米技术水处理课题组(博后、博士、硕士、本科及访问学者)。
+教育经历 
+2011年03月-2014年09月，澳大利亚新南威尔士大学，环境工程，博士 (导师：美国工程院外籍院士，Prof. T David Waite；联合国教科委膜中心主任, Prof. Greg L. Leslie)
+2008年08月-2011年03月，浙江大学，高分子物理与化学，硕士
+2007年08月-2008年07月，教育部水处理中心-浙江大学高分子系，研究助理
+2003年08月-2007年07月，合肥工业大学，高分子材料与工程，本科
+工作经历 
+2021年6月-至今，清华大学深圳国际研究生院，特别研究员/副教授，博士生导师；
+2020年10月-2021年6月，清华大学深圳国际研究生院，特别研究员/助理教授，博士生导师；
+2019年08月-2020年10月，清华大学深圳国际研究生院，讲师；
+2017年10月-2019年08月，清华大学深圳研究生院，讲师；
+2017年10月-2017年11月，日本京都大学, 助理教授-交流访问；
+2015年06月-2017年10月，清华康达环境纳米研究院，研发主管；
+2015年06月-2017年06月，清华大学深圳研究生院，助理研究员/博士后；
+2014年10月-2015年05月，澳大利亚新南威尔士大学，博士后(导师：美国工程院外籍院士，Prof. T David Waite)
+学术兼职 
+1. Frontiers in Environmental Chemistry 期刊副主编
+2. Processes 期刊专刊主编
+3. SCI期刊Processes编委，SCI期刊Separations编委,SCI期刊Frontiers of Environmental Science & Engineering青年编委 
+4. Nature Water, Nature Communications, PNAS, Chemical Review, Advanced Materials, Chemical Review, Environmental Science & Technology, Water Research, Journal of Membrane Science, Applied Catalysis B: Environmental等二十几个期刊审稿人
+5. 青岛国际水大会专家委员会委员
+6. 中国海水淡化与水再利用学会青年专家委员会委员
+7. 捷克、卡塔尔、中国国家自然科学基金的外审专家
+8. 国际水协 (IWA) 会员
+9. 美国化学会 (ACS) 会员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《膜科学与技术》，32学时，
+《高等环境化学》，32学时，
+《环境功能材料》，32学时，
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要研究方向是基于限域效应的膜等功能材料开发及高效水处理技术：
+1）膜法水处理
+膜法限域催化、膜法水/污水处理工艺、膜污染控制及清洗策略
+2）高级氧化法水处理
+电化学、限域催化、类芬顿等
+3）功能材料的制备及水处理应用
+二维材料、功能高分子材料、MOF等
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+迄今在环境领域主流期刊发表SCI一区论文100余篇，其中近5年以唯一通讯作者在Nature Communications (亮点论文, 唯一通讯，2篇)，Energy & Environmental Science, ACS Catalysis，Chem Catalysis，Water Research, Green Chemistry, Applied Catalysis B: Environmental, Journal of Membrane Science等发表SCI一区论文74篇；
+https://scholar.google.com/citations?hl=zh-CN&user=R64NyKYAAAAJ&view_op=list_works
+https://www.researchgate.net/profile/Zhenghua-Zhang
+代表性论文：
+1. M Tian, Y Liu, C Yu, K Ostrikov, Z Zhang*, 2024, Overcoming the permeability-selectivity challenge in water purification using two-dimensional cobalt-functionalized vermiculite membrane, Nature Communications, 391, 15
+2. C Meng, B Ding, S Zhang, L Cui, K Ostrikov, Z Huang, B Yang, J Kim, Z Zhang*, 2022, Angstrom-confined catalytic water purification within Co-TiOx laminar membrane nanochannels, NatureCommunications, 13, 4010 (Featured article) 
+3. X Zhao, M Long, Z Li, Z Zhang*, 2024,Two dimensional Co(OH)2 catalytic gravity-driven membrane for water purification: A green and facile fabrication strategy and excellent water decontamination performance,Materials Horizons. 10.1039/D3MH01924A
+4. L Cui, B Chen, L Zhang, H Kang, J Qiu, W Jing*, K Ostrikov, Z Zhang*, 2024, Anti-electrowetting carbon film electrode with self-sustained aeration for industrial H2O2 electrosynthesis, Energy & Environmental Science.17, 655-667 
+5. W Zhang, S Zhang, C Meng, Z Zhang*, 2023, Nanoconfined catalytic membranes assembled by cobalt-functionalized graphitic carbon nitride nanosheets for rapid degradation of pollutants, Applied Catalysis B: Environmental, 322, 122098 
+6. W Zhang, S Zhang, Z Chen, Z Zhang*, 2023, Cobalt-ferrite functionalized graphitic carbon nitride (CoFe2O4@g-C3N4) nanoconfined catalytic membrane for efficient water purification: Performance and mechanism,Journal of Materials Chemistry A, 11, 18933-18944  
+7. L Cui, X Zhao, H Xie, Z Zhang*, 2022, Overcoming the Activity-Stability Trade-Off in Heterogeneous Electro-Fenton Catalysis: Encapsulating Carbon Cloth-Supported Iron Oxychloride within Graphitic Layers, ACS Catalysis, 12, 13334-13348 
+8. M Asif,  S Zhang, L Qiu, Z Zhang*, 2022, Ultrahigh permeance functionalised boron nitride membrane for nanoconfined heterogeneous catalysis, Chem Catalysis, 2,1-13 
+9. Q Ly, L Cui, M Asif, W Khan, L Nghiem, Y Hwang, Z Zhang*, 2023, Membrane-based nanoconfined heterogeneous catalysis for water purification: A critical review, Water Research, 230, 119577 
+10. L Cui, M Sun, Z Zhang*, 2023, An efficient, green and residual oxidant-free wastewater treatment technology enabled by coupling dual-cathode heterogeneous electro-Fenton and UV radiation in tandem, Green Chemistry, 25, 6315-6326 
+11. M Asif, H Kang, Z Zhang*, 2023, Assembling CoAl-layered metal oxide into the gravity-driven catalytic membrane for Fenton-like catalytic degradation of pharmaceuticals and personal care products, Chemical Engineering Journal, 463, 142340 
+12. L Cui, M Sun, Z Zhang*, 2022, Flow-through integration of FeOCl/graphite felt-based heterogeneous electro-Fenton and Ti4O7-based anodic oxidation for efficient contaminant degradation, Chemical Engineering Journal, 450, 138263 
+13. T Maqbool, Q Ly, K He, L Cui, Y Zhang, M Sun, Z Zhang*, 2022, Reactive electrochemical ceramic membrane for effective removal of high concentration humic acid: insights of different performance and mechanisms, Journal of Membrane Science, 651, 120460 
+14. Y Ma, H Wang, X Lv, D Xiong, H Xie, Z Zhang*, 2022, Three-dimensional ordered mesoporous Co3O4/peroxymonsulfate triggered confined heterogeneous catalysis for rapid removal of ranitidine in aqueous solution, Chemical Engineering Journal, 443, 136495 
+15. T Maqbool, M Sun, L Chen, Z Zhang*, 2022, Exploring the fate of dissolved organic matter at the molecular level in the reactive electrochemical ceramic membrane using fluorescence spectroscopy and FT-ICR MS, Water Research, 210, 117979 
+16. C Meng, Z Wang, W Zhang, B Yang*, H Xie, Z Zhang*, 2022, Laminar membranes assembled by ultrathin cobalt-copper oxide nanosheets for nanoconfined catalytic degradation of contaminants, Chemical Engineering Journal, 449, 137811 
+17. Y Ma, B Ji, X Lv, D Xiong, X Zhao, H Xie, Z Zhang*, 2022, Confined heterogeneous catalysis by boron nitride-Co3O4 nanosheet cluster for peroxymonosulfate oxidation toward ranitidine removal, Chemical Engineering Journal, 435, 135126 
+18. M Asif, H Kang, Z Zhang*, 2022, Gravity-driven layered double hydroxide nanosheet membrane activated peroxymonosulfate system for micropollutant degradation, Journal of Hazardous Materials, 425, 127988 
+19. M Asif,  S Iftekhar, T Maqbool, B Paramanik, S Tabraiz, M Sillanpää, Z Zhang*, 2022, Two-dimensional nanoporous and lamellar membranes for water purification: Reality or a myth?Chemical Engineering Journal, 432, 134335 
+20. M Asif, B Ren, C Li, K He, X Zhang, Z Zhang*, 2021, Understanding the role of in-situ ozonation in Fe(II)-dosed membrane bioreactor (MBR) for membrane fouling mitigation, Journal of Membrane Science, 633, 119400 
+21. Y Ma, X Lv, D Xiong, X Zhao, Z Zhang*, 2021, Catalytic degradation of ranitidine using novel magnetic Ti3C2-based MXene nanosheets modified with nanoscale zero-valent iron particles, Applied Catalysis B: Environmental, 284, 119720 
+22. M Asif, Z Zhang*, 2021, Ceramic membrane technology for water and wastewater treatment: A critical review of performance, full-scale applications, membrane fouling and prospects, Chemical Engineering Journal, 418, 129481 
+23. X Zou, X Zhao, J Zhang, W Lv, Q Lin, Z Zhang*, 2021, Photocatalytic degradation of ranitidine and reduction of nitrosamine dimethylamine formation potential over MXene–Ti3C2/MoS2 under visible light irradiation, Journal of Hazardous Materials, 413, 125424 
+24. M Asif, C Li, B Ren, T Maqbool, X Zhang, Z Zhang*, 2021, Elucidating the impacts of intermittent in-situ ozonation in a ceramic membrane bioreactor: Micropollutant removal, fouling mechanisms and functional genes,Journal of Hazardous Materials, 402, 123730 
+25. T Maqbool, Q Ly, Y Qin, C Li, M Asif, Z Zhang*, 2020, Exploring the relative changes in dissolved organic matter for assessing the water quality of full-scale drinking water treatment plants using a fluorescence ratio approach, Water Research, 183, 116125 
+代表性著作 
+1. Z Zhang*, 2020, Chapter 8: Nutrient removal in MBRs and by membrane separation, Current Developments in Biotechnology and Bioengineering: Advanced Membrane Separation Processes for Sustainable Water and Wastewater Management – Aerobic Membrane Bioreactor Processes and Technologies, ISBN 9780128198094, Elsevier
+2. M Asif, Z Zhang, T Vu, M.A.H Johir, N Pathak, L Nghiem and L Nguyen, 2021, Chapter: Membrane bioreactor for wastewater treatment: Current status, novel configurations and cost analysis, Cost-efficient Wastewater Treatment Technologies: Engineered Systems (The Handbook of Environmental Chemistry), Nasr M. & Negm A. Eds, Springer. 
+3. M Asif*, Z Zhang*, S Iftekharb, V Lehtob, 2021, Chapter: Recent advances in polysaccharide-derived biopolymeric nanomaterials for water treatment, Biopolymeric Nanomaterials: Fundamentals and Applications, Gupta R.M. et al. Eds. ISBN 9780128243640, Elsevier.  
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1. 国际先进材料协会会士
+2. 全球前2%顶尖科学家（连续入选）
+3. 广东省杰出青年基金获得者
+4. MIT Technology Review-China (麻省理工科技评论-中国）的封面人物
+5. 2022年Cell Press中国最佳论文获得者
+6. Journal of Materials Chemistry A-2021 年度国际新锐科学家
+ </奖励荣誉>

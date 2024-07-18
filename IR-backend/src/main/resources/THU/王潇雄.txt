@@ -1,0 +1,65 @@
+{"title":"王潇雄","cnUrl":"http://www.sigs.tsinghua.edu.cn/wxx/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/e6/eb/a0d53c304e6b9eaab1d21ce9bd16/f1522d00-8a37-4234-b1a6-9d4ef5a88c01.png","email":"wang.xiaoxiong@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2013年08月 – 2018年07月，清华大学，环境科学与工程专业，博士
+2009年08月 – 2013年07月，清华大学，化学工程与工业生物工程专业，学士
+工作经历 
+2023年01月 – 今，清华大学深圳国际研究生院，助理教授
+2018年10月 – 2022年10月，耶鲁大学（美国），博士后
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《海水资源化与污染控制纳米技术前沿》、《海洋学导论》、《海洋生物地球化学》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事基于功能导向型电化学膜/穿透式电极的海水资源回收与污染控制技术研究。研究内容包括：1）电化学膜污染物（硝氮、卤代物等）转化脱除；2）电气化海水资源回收与新能源生产；3）膜污堵原位控制与消毒。
+主要项目 
+[1] 国家高层次青年人才项目，国家自然科学基金委员会，2023，主持
+[2] 单原子电化学膜瞬时深度转化脱除硝氮的研究，广东省基础与应用基础研究基金面上项目，广东省科学技术厅，2024，主持
+[3] Nano Electrified Membrane for Removing Emerging Contaminants，香港创新转化项目，香港科技园，2024，主持
+[4] 深圳市海洋生态前沿技术重点实验室，深圳市重点实验室，深圳市科技创新局，2024，核心成员
+[5] 面向海上风电制氢的水合固化储氢技术关键问题研究，广东省基础与应用基础研究基金重点项目，广东省科学技术厅，2024，参与
+[6] Center for Hybrid Approaches in Solar Energy to Liquid Fuels (CHASE)，美国能源部，2022，成员
+[7] Nanosystems Engineering Research Center for Nanotechnology-Enabled Water Treatment (NEWT)，美国国家科学基金会，2019，成员
+[8] 再生水景观环境利用水质基准与风险控制技术，国家重点研发计划项目，中华人民共和国科学技术部，2018，参与
+[9] 望虞河东岸水设施功能提升与全系统调控技术及示范，国家科技重大专项项目（课题），中华人民共和国科学技术部，2017，参与
+[10] 再生水安全供水系统与关键技术，国家重点研发计划项目，中华人民共和国科学技术部，2016，参与
+ </研究领域>
+<研究成果>
+代表性论文 
+已发表SCI论文40余篇，近五年以第一/通讯作者在Nature Nanotechnology、Nature Water、PNAS、Environmental Science & Technology、Water Research等权威期刊发表论文（篇均IF 13.5），论文引用数1800余次，H因子22。
+代表性论文
+[1]. Young-Jun Kim, Zhengyang Huo, Xiaoxiong Wang#, Haojie Dai, Dong-Min Lee, In-Yong Suh, Joon-Ha Hwang, Youngwook Chung, Hyeon Yeong Lee, Ye Du, Wenbo Ding, Sang-Woo Kim. Walking-induced electrostatic charges enabling in-situ electroporated disinfection in portable water bottles. Nature Water, 2024.
+[2]. Zhengyang Huo, Xiaoxiong Wang#, Xia Huang, Menachem Elimelech. Intensifying electrified flow-through water treatment technologies via local environment modification. Frontiers of Environmental Science & Engineering, Special Issue “Toward a Pollution-free Planet”, 2024, 18(6): 69.
+[3]. Shuhan Ge, Wanqing Tian, Ziyi Lou, Xiaoxiong Wang*, Linlan Zhuang, Jian Zhang. Long-term toxicity assessment of antibiotics against Vibrio fischeri: test method optimization and mixture toxicity prediction. Journal of Hazardous Materials, 2024, 469: 133933.
+[4]. Xiaoxiong Wang, Xuanhao Wu, Wen Ma, Xuechen Zhou, Shuo Zhang, Dahong Huang, Lea R. Winter, Jae-Hong Kim, Menachem Elimelech. Free-standing membrane incorporating single-atom catalysts for ultrafast electro-reduction of low-concentration nitrate. Proceedings of the National Academy of Sciences, 2023, 120(11): e2217703120.
+[5]. Chungseok Choi, Xiaoxiong Wang#, Soonho Kwon, James L. Hart, Conor L. Rooney, Nia J. Harmon, Quynh P. Sam, Judy J. Cha, William A. Goddard III, Menachem Elimelech, Hailiang Wang. Efficient electrocatalytic valorization of chlorinated organic water pollutant to ethylene. Nature Nanotechnology, 2023, 18: 160-167.
+[6]. Kuichang Zuo, Sergi Garcia-Segura, Gabriel A. Cerrón-Calle, Fengyang Chen, Xiaoyin Tian, Xiaoxiong Wang, Xiaochuan Huang, Haotian Wang, Pedro J. J. Alvarez, Jun Lou, Menachem Elimelech, Qilin Li. Electrified water treatment: fundamentals and roles of electrode materials. Nature Reviews Materials, 2023, 8: 472-490.
+[7]. Xiaoxiong Wang, Tong Wang, Tianyuan Zhang, Lea R. Winter, Jinghan Di, Qingshi Tu, Hongying Hu, Edgar Hertwich, Julie B. Zimmerman, Menachem Elimelech. Microalgae commercialization using renewable lignocellulose is economically and environmentally viable. Environmental Science & Technology, 2023, 57(2): 1144-1156.
+[8]. Zhengyang Huo, Lea R. Winter, Xiaoxiong Wang*, Ye Du, Yinhu Wu, Uwe Hübner, Hongying Hu, Menachem Elimelech. Synergistic nanowire-enhanced electroporation and electro-chlorination for highly efficient water disinfection. Environmental Science & Technology, 2022, 56(15): 10925-10934.
+[9]. Meng Sun, Xiaoxiong Wang#, Lea R. Winter, Yumeng Zhao, Wen Ma, Tayler Hedtke, Jae-Hong Kim, Menachem Elimelech. Electrified membranes for water treatment applications. ACS ES&T Engineering, 2021, 1 (4): 725-752. (Most read article)
+[10]. Xiaoxiong Wang, Meng Sun, Yumeng Zhao, Chi Wang, Wen Ma, Michael S. Wong, Menachem Elimelech. In situ electrochemical generation of reactive chlorine species for efficient ultrafiltration membrane self-cleaning. Environmental Science & Technology, 2020, 54 (11): 6997-7007.
+[11]. Yumeng Zhao, Meng Sun, Xiaoxiong Wang, Chi Wang, Dongwei Lu, Wen Ma, Sebastian A. Kube, Jun Ma, Menachem Elimelech. Janus electrocatalytic flow-through membrane enables highly selective singlet oxygen production. Nature Communications, 2020, 11(1): 1-10.
+[12]. Xiaoxiong Wang, Tianyuan Zhang, Guohua Dao, Zibin Xu, Yinhu Wu, Hongying Hu. Assessment and mechanisms of microalgae growth inhibition by phosphonates: Effects of intrinsic toxicity and complexation. Water Research, 2020, 186: 116333.
+[13]. Xiaoxiong Wang, Guohua Dao, Linlan Zhuang, Tianyuan Zhang, Yinhu Wu, Hongying Hu. Enhanced simultaneous removal of nitrogen, phosphorous, hardness, and methylisothiazolinone from reverse osmosis concentrate by suspended-solid phase cultivation of Scenedesmus sp. LX1. Environment International, 2020, 139: 105685.
+[14]. Xiaoxiong Wang, Wenlong Wang, Guohua Dao, Zibin Xu, Tianyuan Zhang, Yinhu Wu, Hongying Hu. Mechanism and kinetics of methylisothiazolinone removal by cultivation of Scenedesmus sp. LX1. Journal of Hazardous Materials, 2020, 386: 121959.
+[15]. Xiaoxiong Wang, Yinhu Wu, Tianyuan Zhang, Xueqiao Xu, Guohua Dao, Hongying Hu. Simultaneous nitrogen, phosphorous, and hardness removal from reverse osmosis concentrate by microalgae cultivation. Water Research, 2016, 94: 215-224.
+(#Co-first author, *Corresponding author)
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2023.01 国家级高层次青年人才
+2023.01 深圳市鹏城孔雀计划B档
+2018.07 清华大学环境学院优秀博士毕业生
+2018.05 清华大学校长杯创新挑战赛 挑战奖（十强团队）
+2016.10 博士研究生国家奖学金
+2011.05 清华大学百年校庆突出贡献奖
+ </奖励荣誉>

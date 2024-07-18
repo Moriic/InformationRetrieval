@@ -1,0 +1,70 @@
+{"title":"刘晓","cnUrl":"http://www.sigs.tsinghua.edu.cn/lx2/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/9a/cf/3abd28d5430a846aa195181a6757/cb0b0bad-124a-4607-a465-664f3aaa793c.jpg","email":"liuxiao@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2012年10月-2017年03月，丹麦哥本哈根大学，生物系，博士
+2005年09月-2008年06月，南京大学，生命科学学院，生物化学和分子生物学专业，硕士
+1999年09月-2003年07月，南京大学，化学化工学院，化学专业，学士
+工作经历 
+2020年11月至今，清华大学，深圳国际研究生院，副教授、博士生导师
+2017年03月-2019年12月，深圳华大生命科学研究院，研究员、研究所长
+2008年06月-2012年09月，深圳华大生命科学研究院，研究中心主任
+学术兼职 
+Nature Communications、Cell Research等近20家SCI期刊审稿人
+Frontiers in Immunology主题编辑
+中国生物医学工程学会细胞免疫治疗分会青年委员
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+主要研究方向：
+1.功能免疫组学的新技术和方法；
+2.功能免疫组学在肿瘤、感染、自身免疫病等重大疾病的筛查、预后监控、治疗等方向应用；
+3.人类疾病的其它组学和转化医学研究。
+作为国际肿瘤基因组协作组（ICGC）中国团队和亚洲人癌症研究团队（ACRG）的核心成员，课题组最早对肝细胞癌的致病基因突变、表达和信号通路进行了全基因组水平的深入研究。尤其是，开发了一种高通量低成本在全基因组范围寻找病毒整合信号的工具，用来对乙肝病毒相关的肝癌和人乳头瘤病毒相关的宫颈癌基因组进行了全面和系统的研究，发现大量病毒基因在癌细胞基因组的整合信号，与肿瘤发展进程相关。最近五年课题组开发了大量免疫组学的工具，来研究不同的免疫微环境中T、B淋巴细胞受体谱在应激条件下的特征和变化。开发的工具可以对所有受体序列进行准确定量和进化分析。课题组还首次开发了对不同物种受体胚系基因进行推导和预测的工具。运用这些技术，对各种免疫相关的疾病进行了应用型研究和探索，包括肿瘤、自身免疫病和疫苗诱导的免疫微环境。研究发现受体谱的变化与疾病预后密切相关，能够成为新型的疾病分子分型和诊断工具。课题组还建立了一个大型数据库PIRD，包括了超过十种疾病的上万份数据，以及抗原特异性数据，来探索应用机器学习和深度学习的数据挖掘技术。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+ 截至2020年，发表SCI收录论文70余篇，其中一作和通讯作者论文超过30篇，论文总引用超过20000次，H-index 35(google)，授权专利20余项。
+ 近5年主要发表的论文如下： 
+# 共同第一作者， * 通讯作者
+1.Zhiming Li#, Jingjing Xia#, … Xiao Liu*, Jiucun Wang*. Characterization of the human skin resistome and identification of two microbiota cutotypes. Microbiome. 2021. (IF 11.6, JCR Q1)
+2.Xiaomin Liu#, Hanshi Xu#, … Xiao Liu*, Shilong Zhong*. New genetic variants associated with major adverse cardiovascular events in patients with acute coronary syndromes and treated with clopidogrel and aspirin. The Pharmacogenomics Journal. 2021
+3.Jinghua Wu#, Xie Wang, …Changgang Li*, Xiao Liu*.Developing an Unbiased Multiplex PCR System to Enrich the TRB Repertoire Toward Accurate Detection in Leukemia. Frontiers in Immunology. 2020
+4.Xu Jiang#, Shiyu Wang#, … Xiao Liu*, Xuan Zhang*. Comprehensive TCR repertoire analysis of CD4 T-cell subsets in rheumatoid arthritis. Journal of Autoimmunity. 2020.(Correspondence, IF 7.5, JCR Q1)
+5.Gang Yi#, Yi Zhao#,… Xiao Liu*, Bin Li*. Single-cell RNA-seq unveils critical regulators of human FOXP3+ regulatory T cell stability. Science Bulletin. 2020.(Correspondence, IF 6.3, JCR Q1)
+6.Xiao Liu#, Wei Zhang#, Ming Zhao#, et al., T cell receptor β repertoires as novel diagnostic markers for systemic lupus erythematosus and rheumatoid arthritis. Annals of the Rheumatic Diseases. 2019. (IF 14.3, JCR Q1)
+7.Kai Gao#, Lingyan Chen#, …, Xiao Liu* and Xiu Qiu*. Germline-Encoded TCR-MHC Contacts Promote TCR V Gene Bias in Umbilical Cord Blood T Cell Repertoire. Frontiers in Immunology. 2019.(IF 4.7, JCR Q1)
+8.Ke Cao#, Jinghua Wu#,…Shaoheng he*, Xiao Liu*. T cell receptor repertoire data provides new evidence for hygiene hypothesis of allergic diseases. Allergy. 2019. (IF 6.8, JCR Q1)
+9.Wei Zhang#, Longlong Wang#, …Xiao Liu*. PIRD: Pan Immune Repertoire Database. Bioinformatics. 2019. (IF 4.5, JCR Q1)
+10.Yi Zhao, Xiao Li,…Yong Hou* and Xiao Liu*. Single-cell Transcriptomic Landscape of Nucleated Cells in Umbilical Cord Blood. GigaScience. 2019. (IF 4.7, JCR Q1)
+11.Wei Zhang, Xinyue Li, Longlong Wang,…I-Ming Wang* and Xiao Liu*. Identification of Variable and Joining germline genes and alleles for Rhesus macaque from B-cell receptor repertoires. The Journal of Immunology. 2019. (IF 4.7, JCR Q1)
+12.Mingdao Wang, Yan Li, …, Xiao Liu*. Alterations in the human gut microbiome associated with Helicobacter pylori infection. FEBS Open Bio. 2019 (IF 2, JCR Q2)
+13.Chen Huang, Xuemei Li, Jinghua Wu,…Xiao Liu*. The landscape and diagnostic potential of T and B cell repertoire in Immunoglobulin A Nephropathy. Journal of Autoimmunity. 2018 (IF 7.5, JCR Q1)
+14. Longlong Wang, Wei Zhang, Liya Lin,…Xiao Liu*. A comprehensive analysis of the T and B lymphocytes repertoire shaped by HIV vaccines. Frontiers in Immunology. Sept. 2018. (IF 5.5, JCR Q1)
+15. Xiao Liu*, Jinghua Wu. History, Applications and challenges of immune repertoire research. Cell Biology and Toxicology. Jan 2018. (IF 5.1, JCR Q1)
+16. Wei Zhang, Qiang Feng, Changxi Wang, … Christian Datz* and Xiao Liu*, Characterization of BCR repertoire in the intestinal mucosa and of tumor-infiltrating lymphocytes in colorectal adenoma and carcinoma. The Journal of Immunology. March 2017. (Cover article)
+17.Ting Wang, Changxi Wang, Jinghua Wu,…, Xiao Liu*. The different T-cell receptor repertoires in breast cancer tumors, draining lymph nodes, and adjacent tissues. Cancer Immunology Research. December 2016. DOI: 10.1158/2326-6066.CIR-16-0107 (IF 8.6, JCR Q1)
+18. Wei Zhang, I-ming Wang, Changxi Wang,…, Xiao Liu*. IMPre: an accurate and efficient software for prediction of T- and B-cell receptor germline genes and alleles from rearranged repertoire data. Frontiers in Immunology. doi: 10.3389/fimmu.2016.00457 (IF 6.0, JCR Q1)
+19.Ling-Hao Zhao#, Xiao Liu#, He-Xin Yan# et al., Genomic and oncogenic preference of HBV integration in hepatocellular carcinoma. Nature Communications, 2016 Oct 5;7:12992. doi: 10.1038/ncomms12992 (IF 11.9, JCR Q1)
+20.Jinghua Wu, Shan Jia, Changxi Wang,…, Xiao Liu*. Minimal Residual Disease Detection and Evolved IGH Clones Analysis in Acute B Lymphoblastic Leukemia Using IGH Deep Sequencing. Frontiers in Immunology. 04 October 2016 | http://dx.doi.org/10.3389/fimmu.2016.00403 (IF 6.0, JCR Q1)
+21.Longfei Fu, Xinyang Li, Wei Zhang,..Xiao Liu*. A comprehensive profiling of T- and B-lymphocyte receptor repertoires from a Chinese-origin rhesus macaque by high-throughput sequencing. PLoS ONE. 12(8):e0182733 · August 2017 
+22.Zheng Su, Junjie Zhang, Chanchal Kumar,…, Xiao Liu*. Species specific exome probes reveal new insights in positively selected genes in nonhuman primates. Scientific Reports. 2016 Sep 23;6:33876. doi: 10.1038/srep33876. 
+23.Xinyang Li, Xiaobo Duan, Kai Yang,…Xiao Liu*, Wen Tan*. Comparative Analysis of Immune Repertoires between Bactrian Camel's Conventional and Heavy-Chain Antibodies. PLOS ONE.2016 Sep 2;11(9):e0161801. doi: 10.1371/journal.pone.0161801. eCollection 2016. 
+24.Xiao Liu, Wei Zhang, Xiaojing Zeng, et al,. Systematic Comparative Evaluation of Methods for Investigating the TCRβ Repertoire. PLoS ONE 11(3):e0152464 · March 2016. DOI: 10.1371/journal.pone.0152464 
+25.Xiao Liu, Zesong Li, Zheng Su, et al., Novel Y-chromosomal microdeletions associated with non-obstructive azoospermia uncovered by high throughput sequencing of sequence-tagged sites (STSs). Scientific Reports. 6:21831 · February 2016. DOI: 10.1038/srep21831 
+26.Wei Zhang, Zheng Su, Yuanping Du,…, Xiao Liu*. IMonitor: a robust pipeline for TCR and BCR repertoire analysis. Genetics. 201(2) · August 2015. DOI: 10.1534/genetics.115.176735 (IF 4.6, JCR Q1)
+27.Xuehan Zhuang, Yongping Li, Hongzhi Cao,…Xiao Liu*, Ling Wang*. Case report of a Li–Fraumeni syndrome-like phenotype with a de novo mutation in CHEK2. Medicine. 2016 Jul;95(29):e4251. doi: 10.1097/MD.0000000000004251. 
+28.Sung ,W.K#., Zheng, H#., Li, S#., Chen, R#., Liu ,X#., Li ,Y., Lee, N.P., Lee, W.H., Ariyaratne ,P.N., Tennakoon, C., et al.,Genome-wide survey of recurrent HBV integration in hepatocellular carcinoma. Nature Genetics, doi:10.1038/ng.2295, 2012 (IF 31.6, JCR Q1)
+29.Zhengyan Kan#, Hancheng Zheng#, Xiao Liu# et al. Whole genome sequencing identifies recurrent mutations in hepatocellular carcinoma. Genome Research. 2013. doi:10.1101/gr.154492.113 (IF 11.5, JCR Q1)
+30.Jung Yong Hong#, Xiao Liu#, Mao Mao et al. Genetic Aberrations in Imatinib-Resistant Dermatofibrosarcoma Protuberans Revealed by Whole Genome Sequencing. PLOS ONE. 8(7): e69752. doi:10.1371/journal.pone.0069752 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+深圳市海外高层次人才-B类人才
+深圳市高层次专业人才-地方级领军人才
+ </奖励荣誉>

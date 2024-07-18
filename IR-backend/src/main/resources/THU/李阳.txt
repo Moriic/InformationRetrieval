@@ -1,0 +1,80 @@
+{"title":"李阳","cnUrl":"http://www.sigs.tsinghua.edu.cn/ly2_829/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/f8/bf/602ca71e4927bc3ce2348ef23b3a/a638e480-ac64-437a-8bc9-81a23f621c5b.jpg","email":"yangli@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+Ph.D. in Computer Science, Stanford University, 2011 - 2017.Dissertation: Exploiting Shared Structures in Large GPS Trajectory Datasets under UncertaintyAdvisor: Leonidas J. GuibasB.A. Double major in Computer Science and Mathematics, Smith College, 2007 - 2011.Honors Thesis: Inverse Kinematics Methods for the Protein Loop Closure ProblemAdvisor: Ileana Streinu
+工作经历 
+Assistant Professor October 2019 - PresentData Science and Information Technology Research Center, Tsinghua-Berkeley Shenzhen Institute.
+IoT and Cyber-Physical System Lab, Tsinghua-Berkeley Shenzhen Institute.Principal Investigator: Lin Zhang
+Graduate Research Assistant July 2012 - December 2016Geometric Computing Lab, Stanford University.Advisor: Leonidas J. GuibasGraduate Research Assistant April 2011 - June 2011First Year Research Rotation Program, Computer Science Department, Stanford University.Advisor: Kenneth SalisburyGraduate Research Assistant September 2011 - March 2011First Year Research Rotation Program, Computer Science Department, Stanford University.Advisor: Leonidas J. GuibasSummer Intern May - August 2011Linkage Lab, Smith CollegeUndergraduate Fellow May 2009 - April 2011Mellon Mays Undergraduate Research Fellowship Program, Smith CollegeFaculty mentor: Ileana StreinuResearch Assistant November 2007 - May 2009Ileana Streinu, Computer Science Department, Smith CollegeUndergraduate Researcher May - August 2008Women in Science Summer Research Fellows Program, Clark Science Center, Smith College
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究成果>
+代表性论文 
+Papers
+Nikolaos Zygouras, Nikolaos Panagiotou, Yang Li, Dimitrios Gunopulos, and Leonidas Guibas. 2019.
+HTTE: A Hybrid Technique For Travel Time Estimation In Sparse Data Environments. In Proceedings
+of the 27th SIGSPATIAL International Conference on Advances in Geographic Information Systems
+(SIGSPATIAL ’19), 2019
+Jing Lian, Yang Li, Weixi Gu, Shao-Lun Huang and Lin Zhang, Mining Mobility Patterns with Trip-Based
+Traffic Analysis Zones: A Deep Feature Embedding Approach, In Proceedings of 2019 IEEE Intelligent
+Transportation Systems Conference (ITSC), 2019
+Yajie Bao*, Yang Li*, Shao-Lun Huang, Lin Zhang, Lizhong Zheng, Amir R. Zamir, and Leonidas
+Guibas. An Information- Theoretic Metric to Transferability for Task Transfer Learning. In Proceedings
+of the 26th IEEE International Conference on Image Processing (ICIP), 2019. (*Joint first author)
+Lu Li, Yang Li, Xiangxiang Xu, Shao-Lun Huang and Lin Zhang, Maximal Correlation Embedding
+Network for Multilabel Learning with Missing Labels, In Proceedings of 2019 IEEE International
+Conference on Multimedia and Expo (ICME), July 2019
+Fei Ma, Wei Zhang, Yang Li, Shao-Lun Huang, and Lin Zhang, An End-to-End Learning Approach
+for Multimodal Emotion Recognition: Extracting Common and Private Information, In Proceedings of
+2019 IEEE International Conference on Multimedia and Expo (ICME), July 2019
+Yang Li, Dimitrios Gunopulos, Cewu Lu and Leonidas Guibas, Personalized Travel Time Prediction
+Using a Small Number of Probe Vehicles, ACM Transactions on Spatial Algorithms and Systems,
+Special Issue on Urban Mobility: Algorithms and Systems, 2019.
+Jing Lian, Yang Li, Weixi Gu, Shao-Lun Huang and Lin Zhang？ijNMining Regional Mobility Patterns ˇ
+for Urban Dynamic Analytics, Mobile Networks and Applications, July 2019, Springer
+Jing Lian, Yang Li, Weixi Gu, Shao-Lun Huang, and Lin Zhang. Joint Mobility Pattern Mining with
+Urban Region Partitions. In EAI International Conference on Mobile and Ubiquitous Systems: Computing,
+Networking and Services (MobiQuitous ’18), 2018 (Best Paper Award)
+Yang Li, Dimitrios Gunopulos, Cewu Lu and Leonidas Guibas, Urban Travel Time Prediction Using
+a Small Number of GPS-Floating Cars, 25th SIGSPATIAL International Conference on Advances in
+Geographic Information Systems (ACM SIGSPATIAL ’17), 2017.
+Yang Li, Yangyan Li, Dimitrios Gunopulos, and Leonidas Guibas, Knowledge-Based Trajectory Completion
+from Sparse GPS Samples, In Proceedings of the 24th SIGSPATIAL International Conference on Advances
+in Geographic Information Systems (ACM SIGSPATIAL ’16), 2016
+Yang Li, Qixing Huang, Michael Kerber, Li Zhang and Leonidas Guibas, Large-Scale Joint Map Matching
+of GPS Traces, In Proceedings of the 21th SIGSPATIAL International Conference on Advances in
+Geographic Information Systems (GIS ’13), 2013.
+Naomi Fox, Filip Jagodzinski, Yang Li, Ileana Streinu, KINARI-Web: A Web Server for Protein Rigidity
+and Flexibility Analysis , Nucleic Acids Research, 39 (Web Server Issue), 2011.
+Dominique Thiebaut, Yang Li, Diana Jaunzeikare, Alexandra Cheng, Ellysha Raelen Recto, Gillian
+Riggs, Xia Ting Zhao, Tonje Stolpestad, and Cam Le T Nguyen, Processing Wikipedia Dumps: A Case
+Study Comparing the XGrid and MapReduce Approaches, , in Proceedings of 1st International Conference
+on Cloud Computing and Services Science (CLOSER 2011), Noordwijkerhout, NL, May 2011.
+Naomi Fox, Filip Jagodzinski, Yang Li, and Ileana Streinu, A Web-Based Tool for Rigidity Analysis of
+Proteins in Biotechnology and Bioinformatics Symposium (BIOT 2009), Lincoln, Nebraska, 2009.
+Posters and Abstracts
+Lu Li, Yang Li, Xiangxiang Xu and Lin Zhang, A Maximal Correlation Embedding Method for Multilabel
+Human Context Recognition, Poster abstract accepted to the 18th ACM/IEEE Conference on Information
+Processing in Sensor Networks (IPSN’19), Montreal , Canada, April, 2019
+Yang Li and Leonidas Guibas, Leader-Follower Relationships in Trajectories – a Case Study, Abstract accepted
+for oral presentation at the 2012 Computational Geometry: Young Researchers Forum, Chapel Hill, NC,
+June, 2012
+Yang Li and Ileana Streinu, Finding Inverse Kinematics Solutions of Short Robotic Chains, Poster abstract
+published in Proceedings of Celebrating Collaborations 2010 , Smith College, April, 2010
+Yang Li and Ileana Streinu, Inverse Kinematics Algorithm on Short Robotic Chains, Poster abstract published
+in Proceedings of Women in Sciences Summer Research, Smith College, September, 2009
+Yang Li, Naomi Fox, Filip Jagodzinski and Ileana Streinu, Protein Flexibility Analysis: A Friendly Interface,
+Poster abstract published in Proceedings of Celebrating Collaborations 2009 , Smith College, April, 2009
+Yang Li, Naomi Fox, Filip Jagodzinski and Ileana Streinu, Developing GUI Front-end and Output Visualization
+for Protein Flexibility Analysis Tool, Poster abstract published in Proceedings of Women in Sciences Smith
+Summer Research, September, 2008
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+Stanford Graduate Fellowship in Science and Engineering, Stanford University (2012)Highest Honors Thesis in Computer Science, Smith College (2011);Pokora Prize for Excellence in Mathematics, Smith College (2011);Bert Mendelson Prize for excellence in computer science, Smith College, (2009, 2011),Mellon Mays Undergraduate Research Fellowship, Smith College, 2009-2011.Dean’s List and First Group Scholar, Smith College, 2007-2011,Smith Summer Undergraduate Research Fellowship, Smith College, Summer 2008.
+ </奖励荣誉>

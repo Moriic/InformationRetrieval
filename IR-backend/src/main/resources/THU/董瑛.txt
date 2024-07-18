@@ -1,0 +1,49 @@
+{"title":"董瑛","cnUrl":"http://www.sigs.tsinghua.edu.cn/dy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/01/83/45b2f5ff4d6c9439d9a2213c3818/f3713216-3b24-4e35-9a1e-caaeefdb47aa.jpg","email":"dongy@tsinghua.edu.cn"}
+<个人简历>
+概况 
+ 1992-1996 浙江大学光学仪器工程系 学士
+ 1996-2001 中国科学院西安光学精密机械研究所 博士
+ 2001-2003 清华大学精密仪器系 博士后
+ 2003-2006 清华大学精密仪器系 助理研究员
+ 2006-2011 清华大学精密仪器系 副研究员
+ 2010-2011 美国加州大学伯克利分校 访问学者
+ 2011至今 清华大学深圳研究生院 副研究员
+教育经历 
+工作经历 
+学术兼职 
+中国微米纳米技术学会、中国光学学会高级会员
+深圳市微米纳米技术学会秘书长
+广东省纳米技术标准化技术委员会副秘书长
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+微纳米加工技术
+微机电系统技术及应用
+现代传感技术
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+用于生物电信号体表监测的仿生柔性干电极
+基于柔性传感器的可穿戴式中医脉诊系统
+基于MEMS气体传感器的呼出气电子鼻
+基于硅基光波导传感器的集成生化检测系统
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1.Zitao Liu,Tuoyu Yang,Ying Dong*，Xiaohao Wang, A Room Temperature VOCs Gas Sensor Based on a Layer by Layer Multi-Walled Carbon Nanotubes/Poly-ethylene Glycol Composite, Sensors,Vol.18, 3113, 2018
+2. Yao Chu, Junwen Zhong,* Huiliang Liu, Yuan Ma, Nathaniel Liu, Yu Song, Jiaming Liang, Zhichun Shao, Yu Sun, Ying Dong,* Xiaohao Wang, and Liwei Lin*, Human Pulse Diagnosis for Medical Assessments Using a Wearable Piezoelectret Sensing System, Adv. Funct. Mater., 1803413, 2018
+3. W.Y. Zhang, Y. Dong*, Y.S.Tan, M. Zhang, X. Qian, X.H. Wang, Electric Power Self-Supply Module for WSN Sensor Node Based on MEMS Vibration Energy Harvester, Micromachines, Vol.9, No.4, P.1, 2018
+4. Y. Sun，Y. Dong*，R.Y. Gao，Y. Chu，M. Zhang, X. Qian, X. H. Wang , Wearable Pulse Wave Monitoring System Based on MEMS Sensors, Micromachines, Vol.9, No.2, P.1, 2018
+5. Tan Yushan, Dong Ying*, Wang Xiaohao*, Review of MEMS Electromagnetic Vibration Energy Harvester, J. MEMS, Vol.26, No.1, p1, 2017
+6. Yuan Dengpeng, Dong Ying*, Liu Yujin, Li Tianjian, Design of a High-Performance Micro Integrated Surface Plasmon Resonance Sensor Based on Silicon-On-Insulator Rib Waveguide Array, Sensors, Vol.15, No.7, p.17313, 2015
+7. Yuan Dengpeng, Dong Ying*, Liu Yujin, Li Tianjian, Mach-Zehnder Interferometer Biochemical Sensor Based on Silicon-on-Insulator Rib Waveguide with Large Cross Section , Sensors, Vol.15, No.9, p.21500, 2015
+8. Li Tianjian, Dong Ying*, Yuan Dengpeng, Liu Yujin, A Modified Consumer Inkjet for Preparation of Sensitive Polymer Materials , AIP Advances, Vol.5, No.4, p.041327, 2015
+9. Ying Dong, Wei Gao, Qin Zhou, Yi Zheng, Zheng You, Characterization of the gas sensors based on polymer-coated resonant microcantilevers for the detection of volatile organic compounds, Analytica Chimica Acta, Vol.671, p.85, 2010
+10. Zhou Qin, Dong Ying, Dong Zhe, You Zheng, Principle and simulation of micro resonating cantilever sensor based on 3rd harmonic detection, J. Microlithogr. Microfabr. Microsyst., Vol.5, No.1, p.013003, 2006
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

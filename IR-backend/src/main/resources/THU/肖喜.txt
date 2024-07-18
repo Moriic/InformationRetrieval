@@ -1,0 +1,77 @@
+{"title":"肖喜","cnUrl":"http://www.sigs.tsinghua.edu.cn/xx_443/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/a5/9b/0f087f7b413d8c0dab2c12261aed/a7112a8f-0e86-4430-9f04-eb0af396f8d8.jpg","email":"xiaox@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1998年09月-2002年07月，南开大学数学专业，学士
+2005年09月-2008年07月，首都师范大学数学专业，硕士
+2008年09月-2011年07月，中国科学院研究生院信息安全专业，博士
+工作经历 
+2011年10月-2016年12月，清华大学深圳研究生院，讲师
+2016年12月-2019年8月，清华大学深圳研究生院，副教授
+2019年8月至今，清华大学深圳国际研究生院，副教授
+学术兼职 
+中国密码协会会员，中国计算机学会会员
+TDSC、Computer & Security、Information Sciences、Neutral Networks、JSS等期刊审稿人
+NDSS、AAAI、ICSE、CVPR、NeurIPS、IJCAI、WWW等会议审稿人
+国家自然基金委项目评审专家
+深圳市科技创新委员会专家
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《随机过程》《工程硕士数学》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 主要研究方向为AI安全和网络安全，包括AI模型的攻击及防御、漏洞挖掘与bug定位、网络流量识别、谣言检测、网络钓鱼检测等。在国际学术期刊和会议发表论文100多篇，包括TDSC、Computer & Security、Information Sciences、Neutral Networks、JSS等国际著名期刊和IEEE S&P、NDSS、ICSE、AAAI、ICSE、CVPR、SIGIR、NeurIPS、IJCAI、WWW等顶级学术会议。担任多个权威期刊和会议的审稿人。已获授权专利20余项。主持科研项目多项，包括国家重点研发计划子课题、国家自然科学基金项目、国家863计划子课题、广东省自然科学基金项目等。与华为、腾讯、阿里等公司及海外高校有紧密的合作。 
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Xi Xiao, Wentao Xiao, Rui Li, Xiapu Luo*, Haitao Zheng, and Shutao Xia. EBSNN: Extended Byte Segment Neural Network for Network Traffic Classification, IEEE Transactions on Dependable and Secure Computing, 2021, 19(5): 3521-3538. SCI JCR Q1. CCF A
+[2] Haozhen Zhang, Le Yu, Xi Xiao*, Qing Li*, Francesco Mercaldo, Xiapu Luo, Qixu Liu. TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Traffic Classification. The ACM Web Conference 2023 (WWW 23), Austin, Texax, USA, 2023/04/30-2023/05/04. CCF A
+[3] Xi Xiao, Xiang Zhou, Zhenyu Yang, Le Yu*, Bin Zhang, Qixu Liu, Xiapu Luo. A comprehensive analysis of website fingerprinting defenses on Tor, Computers & Security 2023, 136 (2024), 103577. SCI JCR Q1. CCF B 
+[4] Yuxin Cao, Xi Xiao*, Ruoxi Sun, Derui Wang, Minhui Xue, Sheng Wen. StyleFool: Fooling Video Classification Systems via Style Transfer. The 44th IEEE Symposium on Security and Privacy (SP 23), Hyatt Regency, San Francisco, California, USA, 2023/05/22-2023/05/25. CCF A
+[5] Yuxin Cao, Ziyu Zhao, Xi Xiao*, Derui Wang, Minhui Xue, Jin Lu. LogoStyleFool: Vitiating Video Recognition Systems via Logo Style Transfer. The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 24), Vancouver, Canada. 2024/02/20-2024/02/27. CCF-A
+[6] Kunpeng Zhang, Xiaogang Zhu, Xi Xiao*, Minhui Xue, Chao Zhang, Sheng Wen. ShapFuzz: Efficient Fuzzing via Shapley-Guided Byte Selection. Network and Distributed System Security Symposium 2024 (NDSS 2024), San Diego, California, 2024/01/26-2024/03/01. CCF A. 
+[7] Kunpeng Zhang, Xi Xiao, Xiaogang Zhu*, Ruoxi Sun, Minhui Xue, Sheng Wen. Path Transitions Tell More: Optimizing Fuzzing Schedules via Runtime Program States, Proc. 44th International Conference on Software Engineering (ICSE 2022), Pittsburgh, PA, USA, 2022/05/21-2022/05/29. CCF A 
+[8] Xi Xiao, Renjie Xiao, Qing Li*, Jianhui Lv, Shunyan Cui, Qixu Liu. BugRadar: Bug Localization by Knowledge Graph Link Prediction. Information and Software Technology (IST), 2023. SCI. CCF B. 
+[9] Jiying Zhang, Xi Xiao*, Long-Kai Huang, Yu Rong, Yatao Bian*. Fine-Tuning Graph Neural Networks via graph Topology induced Optimal Transport. The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI 22), Messe Wien, Vienna, Austria, 2022/7/23-2022/07/29. CCF A
+[10] Yuzhao Chen, Yatao Bian, Xi Xiao*, Yu Rong, Tingyang Xu, Junzhou Huang. On Self-Distilling Graph Neural Network, Proc. 30th International Joint Conference on Artificial Intelligence (IJCAI-21), Montreal, Canada, 2021/08/21 - 2021/08/26. CCF A
+[11] Sifan Wu, Xi Xiao, Qianggang Ding, Peilin Zhao, Ying Wei, Junzhou Huang. Adversary Sparse Transformer for Time Series Forecasting, Proc. 34rd Conference on Neural Information Processing Systems (NeurIPS 2020), virtual, 2020/12/6-2020/12/12. CCF A
+[12] Bowen Zhao, Xi Xiao, Guojun Gan, Bin Zhang, Shutao Xia. Maintaining Discrimination and Fairness in Class Incremental Learning, Proc. Internaltional Conference on Computer Vision and Pattern Recogintion (CVPR 2020), Washington, USA, 2020/6/16-2020/6/18. CCF A
+[13] Tian Bian, Xi Xiao, Tingyang Xu,Peilin Zhao,Wenbing Huang,Yu Rong,Junzhou Huang. Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks, Proc. 34th AAAI Conference on Artificial Intelligence (AAAI 2020), New York, USA, 2020/2/7-2020/2/12. CCF A
+[14] Kelong Mao, Xi Xiao, Jieming Zhu, Biao Lu, Ruiming Tang, Xiuqiang He. Item Tagging for Information Retrieval: A Tripartite Graph Neural Network based Approach, Proc. 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020), Xi'an, China, 2020/7/25-2020/7/30. CCF A
+[15] Zhutian Lin, Xi Xiao*, Guangwu Hu*, Qing Li, Bin Zhang, Xiapu Luo. Tracking phishing on Ethereum: Transaction network embedding approach for accounts representation learning, Computers & Security 2023, 135 (2023), 103479. SCI JCR Q1. CCF B.
+[16] Xi Xiao, Wentao Xiao, Dianyan Zhang, Bin Zhang, Guangwu Hu, Qing Li, Shutao Xia. Phishing websites detection via CNN and multi-head self-attention on imbalanced datasets, Computers & Security, 2021, 108(2021), 102372. SCI JCR Q1. CCF B
+[17] Zhengxin Zhang, Yucheng Huang, Guanglin Duan, Qing Li*, Dan Zhao, Yong Jiang, Lianbo Ma, Xi Xiao, and Hengyang Xu. Metis: Understanding and Enhancing Regular Expressions in Network, Proc. 37rd Conference on Neural Information Processing Systems (NeurIPS 2023), Pittsburgh, PA, USA, 2023/12/10-2023/12/16. CCF A.
+[18] Ruoyu Li, Qing Li*, Yu Zhang, Dan Zhao, Xi Xiao, Yong Jiang. Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction, Proc. 2024 IEEE International Conference on Computer Communications (INFOCOM 2024), Vancouver, Canada, 2024/5/20-2024/5/23. CCF A.
+[19] Ruibo Yan, Xi Xiao, Guangwu Hu, Sancheng Peng,YongJiang. New Deep Learning Method to Detect Code Injection Attacks on Hybrid Applications, Journal of Systems and Software, 2018, 3(137): 67-77. SCI JCR Q1. CCF B
+[20] Tiru Wu, Xi Xiao*, Qing Li, Qixu Liu, Guangwu Hu, Xiapu Luo, Yong Jiang. BehavSniffer: Sniff User Behaviors from the Encrypted Traffic by Traffic Burst Graphs. The 20th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON 2023), Madrid, Spain, 2023/09/11-2023/09/14. CCF B.
+代表性著作 
+主要专利成果 
+[1] 肖喜, 付鹏, 刘睿彤, 李清, 王振龙, 一种钓鱼网站检测方法及装置, 专利号ZL201410310819.8. 
+[2] 肖喜, 肖仙妮, 江勇, 付鹏, 李清, 夏树涛, 批量安卓恶意软件检测方法及其装置, 专利号 ZL201510142665.0. 
+[3] 肖喜, 张少峰, 李清, 胡光武, 江勇, 夏树涛, 一种APP应用重打包检测方法, 专利号ZL201510595733.9. 
+[4] 肖喜, 张少峰, 李清, 胡光武, 夏树涛, 江勇, 一种针对混合模式移动应用的检测方法及装置, 专利号ZL201510489679.X. 
+[5] 肖喜, 陈春辉, 李清, 胡光武, 江勇, 夏树涛, 一种基于混合模式移动应用的数据本地存储控制方法及装置, 专利号 ZL 201510435463.5. 
+[6] 肖喜, 卞天, 刘睿彤, 郑海涛, 江勇, 夏树涛, 一种基于网络风险熵差的谣言风险评估方法, 专利号ZL201810239750.2
+[7] 韩金新, 郑海涛, 王伟, 陈金元, 肖喜, 一种智能问题生成方法、装置和计算机可读存储介质, 专利号ZL201810068857.5
+[8] 李睿，肖喜，夏树涛，郑海涛，江勇. 一种基于主题模型的动态自更新网络流量分类方法，专利号ZL201910425904.1
+[9] 肖喜，毛科龙，夏树涛，郑海涛，江勇. 一种网络流量分类方法，专利号ZL201910314300.X
+[10] 肖喜，毛科龙，夏树涛，郑海涛，江勇. 基于多阶马尔科夫链的流量异常检测方法，专利号ZL 201910301114.2
+[11] 肖喜，毛科龙，夏树涛，郑海涛，江勇. 一种可识别未知流量的网络流量分类方法和终端设备，专利号201910314329.8 
+[12] 张宾，肖喜，黄重庆，张伟哲，黄兴森，武化龙，Arun Kumar Sangaiah，一种勒索软件的检测方法、装置、设备及存储介质，专利号ZL201911087368.5.
+[13] 张宾，肖喜，张殿炎，文晟，张伟哲，黄兴森，网络隐私信息的保护方法、装置及计算机存储介质，专利号ZL202010389702.9
+[14] 肖喜，周舒雨，江勇，夏树涛，陆孺牛，一种基于亲和传播算法的路由分簇方法及装置，专利号ZL202110630958.9
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+深圳市后备级人才
+讲授课程的教学评估多次位居清华大学全校前5%
+荣获清华大学2016年度“青年教师教学优秀奖” 
+指导的多篇毕业论文获清华大学校优秀硕士学位论文
+指导学生多人次获国家奖学金、北京市优秀毕业生
+ </奖励荣誉>

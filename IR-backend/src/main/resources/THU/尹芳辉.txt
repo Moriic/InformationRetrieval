@@ -1,0 +1,65 @@
+{"title":"尹芳辉","cnUrl":"http://www.sigs.tsinghua.edu.cn/yfh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/94/09/916da0844e2395022849ce2fc654/1d81b4b4-b7d9-442a-9785-1e19db81531a.jpg","email":"yin.fanghui@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2013年01月-2017年06月，魁北克大学，电气工程专业，博士
+2005年09月-2008年07月，重庆大学，电气工程专业，硕士
+2000年09月-2004年07月，重庆大学，计算机科学与技术专业，学士
+工作经历 
+2021年11月-至今，清华大学深圳国际研究生院，助理教授
+2021年01月-2021年10月，清华大学深圳国际研究生院，工程师
+2017年09月-2020年12月，清华大学深圳国际研究生院，博士后
+2012年04月-2012年12月，魁北克大学，研究助理
+学术兼职 
+Vice-chair, IEEE DEIS Technical Committee ‘Discharge in Air at UHV’
+Member, IEEE DEIS Technical Committee ‘Outdoor Insulation Technical Committee’ 
+Technical Committee Member, International Workshop on Atmospheric Icing of Structures (IWAIS 2022). 
+委员, 《高海拔环境绝缘子覆冰闪络试验方法》能源行业标准制定工作组
+委员，中电联标准化技术委员会输变电设备仿真技术标准委员会
+会员，CIGRE WG B2.69, Coatings for Power Network Equipment
+审稿人，IEEE Transactions on Instrumentation and Measurement，IEEE Transactions on Dielectrics and Electrical Insulation，IEEE Transactions on Power Delivery，Journal of Electrostatics，IET Generation, Transmission & Distribution，Journal of Applied Polymer Science等。
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+1. 输电线路、风力发电机覆冰及防护；
+2. 大功率电力电子设备冷却；
+3. 无线充电；
+4. 变压器状态监测等。
+主要项目 
+1. 交、直流输电线路导线带电覆冰过程试验及其数值仿真研究，国家自然科学基金面上项目，主持。
+2. 水珠电荷共存对憎水性材料表面沿面放电特性研究，国家自然科学基金面上项目，参与。
+3. 适用于覆冰地区使用的复合绝缘子伞形结构研究，国家自然科学基金面上项目，参与。
+4. 绝缘材料比选、测试化验，南网科研项目，参与。
+5. 绞合式碳纤维导线非线性动力工况分析及试验研究，南网科研项目，参与。
+6. 主网架输电线路复合绝缘子均压环配置技术研究，南网科研项目，参与。
+7. 架空地线绝缘间隙优化技术研究与应用，广东电网，参与。
+8. Maximum withstand Flashover Performance of Two Types of Post Insulators, Alstom, Canada
+9. Ice Accumulation Tests on Cable Samples, General Cable Technology Center, USA
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]H. Mei, H. Jiang, J. Chen, F. Yin*, L. Wang, and M. Farzaneh, “Detection of Internal Defects of Full-Size Composite Insulators Based on Microwave Technique,” IEEE Transactions on Instrumentation and Measurement, DOI: 10.1109/TIM.2021.3085111, In press.
+[2]H. Mei, H. Jiang, F. Yin*, L. Wang, and M. Farzaneh, “Terahertz Imaging Method for Composite Insulator Defects Based on Edge Detection Algorithm,” IEEE Transactions on Instrumentation and Measurement, DOI: 10.1109/TIM.2021.3075031, In press.
+[3]J. Li, F. Yin, and L. Wang*, “Research on the transmission efficiency of different shielding structures of wireless power transfer system for electric vehicles”, Chinese Society for Electrical Engineering Journal of Power and Energy Systems, DOI: 10.17775/CSEEJPES.2019.00500, In press.
+[4]Y. Yi, L. Wang, and F. Yin*, “Interval support vector regression enables high-throughput machine learning predictions for dielectric constant of polymer dielectrics,” Applied Physics Letters, 118, 223901, 2021. 
+[5]B. Cao, F. Yin*, D. Yang, L. Wang, and M. Farzaneh, “Characterisation parameter of atmospheric pollutant concentration for external insulation,” IET Generation, Transmission & Distribution, vo. 14, no. 20, pp. 4547-4552, 2020.
+[6]F. Yin, M. Farzaneh, and X. Jiang, “Electrical characteristics of an energized conductor under various weather conditions,” High Voltage, vol. 2, no. 2, pp. 102-109, 2017.
+[7]F. Yin, M. Farzaneh, and X. Jiang, “Corona Investigation of an Energized Conductor under Various Weather Conditions,” IEEE Trans. Dielectr. Electr. Insul., vol. 24, no. 1, pp. 462-470, 2017. 
+[8]F. Yin, M. Farzaneh, and X. Jiang, “Influence of AC Electric Field on Conductor Icing,” IEEE Trans. Dielectr. Electr. Insul., vol.23, no. 4, pp.2134-2144, 2016.
+[9]F. Yin, M. Farzaneh, and X. Jiang, “Laboratory Investigation of AC Corona Loss and Corona Onset Voltage on a Conductor under Icing Conditions,” IEEE Trans. Dielectr. Electr. Insul., vol.23, no. 3, pp. 1862-1871, 2016.
+[10]F. Yin, X. Jiang, and M. Farzaneh, “Electrical Performance of Composite Insulators under Icing Conditions,” IEEE Trans. Dielectr. Electr. Insul., vol. 21, no. 6, pp. 2584-2593, 2014.
+技术手册和标准：
+[1]Coating for improvement of electrical performance of outdoor insulators under pollution conditions, CIGRE TB-837, Corresponding Member, 2021.
+[2]Coatings for protecting overhead power networks against icing, corona noise, corrosion and reducing their visual impact, CIGRE TB-838, Chapter Co-Chair, 2021.
+[3]IEEE Guide on the Selection of Transmission and Distribution Insulators with Respect to Cold Weather Conditions, IEEE 1820-2020.
+译著：
+[1] 架空输电线路电气设计，蒋兴良，尹芳辉，范才进，胡玉耀，董丽娜，汪泉霖，机械工业出版社，2016。
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+Excellence Scholarship，魁北克大学，2014
+ </奖励荣誉>

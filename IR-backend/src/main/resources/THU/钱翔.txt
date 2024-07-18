@@ -1,0 +1,47 @@
+{"title":"钱翔","cnUrl":"http://www.sigs.tsinghua.edu.cn/qx/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/d1/ad/3df0b5234c14993c87791d95b97c/14dcc472-c8ec-4f5f-8abb-6bf633c68621.jpg","email":"qian.xiang@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2004-2009, 清华大学, 生物医学工程, 博士, 导师: 叶大田 教授
+2002-2004, 清华大学, 生物医学工程, 硕士, 导师: 叶大田 教授
+1998-2002, 清华大学, 生物医学工程, 学士
+工作经历 
+2017-至今, 清华大学, 深圳研究生院, 副教授
+2011-2017, 清华大学, 深圳研究生院, 讲师
+2009-2011, 清华大学, 博士后
+学术兼职 
+深圳市微米纳米技术学会，理事；
+深圳市科创委、发改委、经信委，评审专家
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+主讲“数字信号处理”课程
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要研究方向为用于生物医学检测的质谱仪联用微流控芯片的设计、工艺实现及应用，发展了一系列基于微流控芯片的原位/敞开式离子化方法和关键器件，在尽量减少前处理的条件下，可以快速分析生物医学样品复杂基质环境下的目标物质，未来有望结合小型化质谱仪面向广大的基层医疗机构形成快速筛查仪器。在相关科研领域总计以第一、第二及通讯作者发表SCI、EI论文20余篇，获得中国发明专利授权10余项；主持自然科学基金青年基金、教育部博士点基金、深圳市基础研究基金等，参与国家863项目、国家自然科学基金以及其他省、市科研项目多项。 
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Yan Wu, Xiang Qian*, Min Zhang, Ying Dong, Shuqing Sun, Xiaohao Wang. Mode Transition of Droplet Formation in a Semi-3D Flow-Focusing Microfluidic Droplet System. Micromachines, 2018, 9(4), 139.
+[2] Yan Wu, Xiang Qian*, Shengli Mi, Min Zhang, Shuqing Sun, Xiaohao Wang. Generation of Size-controlled Poly (ethylene glycol) diacrylate Droplets via Semi-3-Dimensional Flow Focusing Microfluidic Devices, Journal of Visualized Experiments, accepted.
+[3] Cilong Yu, Fei Tang, Xiang Qian*, Yan Chen, Quan Yu, Kai Ni, Xiaohao Wang*. Multi-channel microfluidic chip coupling with mass spectrometry for simultaneous electro-sprays and extraction, Scientific Reports, 2017, 7(1): 17389.
+[4] Quan Yu*, Qian Zhang, Xinqiong Lu, Xiang Qian*, Kai Ni, Xiaohao Wang. Developing a Vacuum Electrospray Source To Implement Efficient Atmospheric Sampling for Miniature Ion Trap Mass Spectrometer, Analytical Chemistry, 2017, 89 (23): 12938-12944.
+[5] Xiang QIAN, Qian ZHANG, Xin-Qiong LU, Quan YU*, Kai NI, Chao ZHANG, Xiao-Hao WANG*. Development of Electrospray/Photoionization Miniature Ion Trap Mass Spectrometer, Chinese Journal of Analytical Chemistry, 2017, 45 (7): 1096-1101.
+[6] Zhang M*, Huang J, Qian X, Mi S, Wang X. Controllable picoliter pipetting using hydrophobic microfluidic valves, REVIEW OF SCIENTIFIC INSTRUMENTS, 2017, 88(6): 065001.
+[7] Ziwei Zhu, Xiang Qian*, Qian Zhao, Qian Zhou, Kai Ni, Xiaohao Wang. TFT-LCD uneven brightness correction and recognition of MURA area based on EMD method, Audio, Language and Image Processing (ICALIP), International Conference on, 2017: 366-369.
+[8] Cilong Yu, Xiang Qian*, Yan Chen, Quan Yu, Kai Ni, Xiaohao Wang*. Microfluidic self-aspiration sonic-spray ionization chip with single and dual ionization channels for mass spectrometry, RSC Advances, 2016, 6: 50180-50189.
+[9] Xiang Qian*, Wenhui Zhang, Cheng Peng, Xingyang Liu, Quan Yu, Kai Ni; Xiaohao Wang, Characterizing the Deformation of the Polydimethylsiloxane (PDMS) Membrane for Microfluidic System through Image Processing, Micromachines, 2016, 7(5), 92.
+[10] Huan Liu, Xiang Qian, Zhenjie Wu, Rui Yang, Shuqing Sun, Hui Ma. Microfluidic synthesis of QD-encoded PEGDA microspheres for suspension assay, Journal of Materials Chemistry B, 2015, 4(3): 482-488.
+[11] Cilong Yu, Xiang Qian*, Yan Chen, Quan Yu, Kai Ni, Xiaohao Wang*, Three-Dimensional Electro-Sonic Flow Focusing Ionization Microfluidic Chip for Mass Spectrometry, Micromachines, 2015, 6(12): 1890-1902.
+[12] Xiang Qian*, Jie Xu, Cilong Yu, Yan Chen, Quan Yu, Kai Ni, Xiaohao Wang. A Reliable and Simple Method for Fabricating a Poly(Dimethylsiloxane) Electrospray Ionization Chip with a Corner-Integrated Emitter, Sensors, 2015, 15(4): 8931-8944.
+[13] Zhang R, Qian X, Ye DT*. A modified Gray-Level Difference Algorithm for Analysing Gaussian Blurred Texture Images. Proceedings - 4th International Congress on Image and Signal Processing, 2011, 2: 833-837.
+[14] Qian X, Peng C, Wang XL, Ye DT*. Self-organizing map-based multi-thresholding on neural stem cells images. MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING, 2009, 47(7): 801-808.
+[15] Peng C, Qian X, Ye DT*. Electrogastrogram extraction using independent component analysis with references. NEURAL COMPUTING & APPLICATIONS, 2007, 16(6): 581-587.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

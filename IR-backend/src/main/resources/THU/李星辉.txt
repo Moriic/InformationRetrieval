@@ -1,0 +1,230 @@
+{"title":"李星辉","cnUrl":"http://www.sigs.tsinghua.edu.cn/lxh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/2c/17/6c783f8d4d789241dca5e131e86e/86c16ba1-f119-4d78-a481-9a9d42b502c6.png","email":"li.xinghui@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2011年10月-2014年09月，Tohoku University，纳米力学，工学博士
+2009年10月-2010年09月，Tokyo Institute of Technology，硕士联合培养
+2008年09月-2011年04月，西安交通大学，机械工程，工学硕士
+2004年09月-2008年06月，武汉大学，机械设计制造及其自动化，工学学士
+工作经历 
+2021年12月-至今，清华大学深圳国际研究生院/清华-伯克利深圳学院，副教授，博士生导师
+2020年10月-2021年11月，清华大学深圳国际研究生院/清华-伯克利深圳学院，助理教授，博士生导师
+2019年04月-2020年09月，清华大学深圳国际研究生院，讲师
+2017年10月-2019年03月，清华大学深圳研究生院，讲师
+2017年01月-2017年09月，清华大学深圳研究生院，研究助理
+2014年11月-2016年12月，清华大学深圳研究生院，博士后
+2012年12月-2013年01月，KAIST，访问学者
+2011年11月-2012年01月，清华大学，访问学者
+现任职务
+1. 清华大学深圳国际研究生院数据与信息研究院院长助理
+2. 清华大学深圳国际研究生院-南宁智能制造中心主任
+学术兼职 
+1. 2023.05-至今，国际期刊《光学精密工程》编委
+2. 2023.01至今，国际期刊《Journal Nanomanufacturing and Metrology (NMME)》精密和微/纳米计量机器学习特刊的首席客座编辑
+3. 2022.09至今，国际纳米制造学会ISNM*青年科学家委员会秘书
+4. 2017.01至今，国际期刊《International Journal of Precision Engineering and Manufacturing (IJPEM)》编委
+学术会议
+1. 国内会议主席，第一届清华-鹏城工业智能技术研讨会，2023.1.5-2023.1.6，深圳，中国
+2. 国际会议联合主席, 2022 ISNM Symposium on Non-Conventional Manufacturing, Dec 16-17, Changchun, China
+3. 国际会议联合主席, 分会场主席, 2022 ISNM Symposium on Measurement Technologies, Sep 23-25, 2022, Chongqing, China
+4. 国际会议组委会成员, 分会场主席, the 8th International Conference on Nanomanufacturing (nanoMan2022) and the 4th Asia Education Technology (AET2022) Symposium, Aug. 30-Sep. 1, 2022, online
+5. 国际会议分会场主席, the 7th International Conference on Nanomanufacturing, Nov 17-19, 2021, Xi’an, China
+6. 国际会议分会场主席, the 10th International Symposium on Precision Engineering Measurements and Instrumentation (ISPEMI 2018), Aug 8-10, 2018, Kunming, China
+7. 国际会议分会场主席, the 14th International Symposium on Measurement Technology and Intelligent Instrument (ISMTII 2019), Sep 1-4, 2019, Niigata, Japan
+*国际纳米制造学会（International Society for Nanomanufacturing，https://www.isnm.org，简称ISNM）成立于2006年，是制造和计量领域具有引领性的国际组织，有数百位来自世界不同国家的成员。学会宗旨是为全世界从事微米、纳米、原子及近原子尺度制造与计量领域的专家、学者及业界人员提供交流平台。学会主办系列国际纳米制造会议（International Conference on Nanomanufacturing，简称nanoMan）。每两年一届的nanoMan在世界不同国家举行，已经发展成为制造与测量领域国际主要会议之一。ISNM于2018年发起创办了“纳米制造与计量”（Nanomanufacturing and Metrology , 简称NMME）期刊，并由Springer Nature出版。期刊收录微米、纳米、原子及近原子尺度制造和计量学中相关的物理、化学和材料学问题，以及微米、纳米、原子及近原子尺度制造和计量中的工具、工艺、装备及应用等相关领域的研究、短讯及综述性论文。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+1.《Metrology in Semiconductor Industry》（半导体工业量测技术，3学分，全英文课程，48学时)，深圳国际研究生院
+2.《Testing and Measurement Technology》（测试技术，3学分，全英文课程，48学时），TBSI（2017-2022）
+3.《机器人与仿生学》（2学分，主讲，承担24学时），深圳国际研究生院
+4.《仪器行业》（2学分，合讲，承担16学时），深圳国际研究生院
+5.《光学测量专题实验》（2学分，合讲，承担16学时），深圳国际研究生院
+6.《制造技术I》（3学分，承担18学时，机器视觉技术），深圳国际研究生院
+7.《科技写作》（2学分，合讲，承担16学时），深圳国际研究生院
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 近五年来，面向国家制造业转型升级的战略需求，围绕先进制造中精密化和智能化的重要目标，开展了精密测量技术与仪器、智能生产技术与装备两个领域的研究，搭建了纳米光栅干涉测量、先进光栅与光刻制造、微小型光谱仪与光谱共焦、高精度高动态结构光三维重建、人工智能自动缺陷检测、自主移动定位导航、超声自动化检测等八个科研方向和平台。在上述领域，发表学术论文90余篇，申请发明专利20余项，获得国家自然科学基金、省重点基金、博士后特别资助、新型研发机构平台建设等各类科研项目合计1700余万元，培养博士后、博士生、硕士生20余名。在上述领域的学术贡献、创新成果及其科学与社会经济价值介绍如下。
+ 首先，在纳米光栅干涉测量方面，提出了基于二维纳米计量光栅反射面的纳米/亚角秒六自由度超精密测量方法，拓展了延续140余年的迈克尔逊干涉仪方案，发表至今已被引用超过140次，并被评选为“Highly Cited Research”。在此基础上，进一步深入研究，又提出基于混合编码的复合二维光栅测量原理，使其兼具六自由度、亚纳米、绝对式和大行程的多重优点，为解决我国集成电路制造核心装备光刻机开发中的“卡脖子”环节提供了有效的解决方案。其次，在先进光学制造方面，提出了具大调谐范围的偏振型全息光刻技术，深入研究了偏振调制中的工作界面的等效折射率理论，并提出了基于路径和界面调控的空间偏振模型仿真方法，成功搭建了可达单次曝光可达109个微结构单元的大尺度跨度阵列结构加工平台，为包括衍射光栅、光子晶体、分子自组装等多种领域所需的大面积微纳结构成型提供了有力的制造工具。第三，在光谱共焦测量领域，提出了空间滤波光瞳、自参考光路系统与参量差分方案，彻底地解决了自变量动态变化与光谱响应差异性问题，极大地提升了光谱共焦系统在纳米级位移和反射率精确表征的稳定性，为多种高端制造领域提供了品质表征手段。上述精密测量技术与仪器领域的多项研究，均突破了相关领域的技术瓶颈，为我国精密测量技术的发展以及先进制造行业中诸如光刻机等高端装备的自主发展奠定了坚实基础。
+ 另一方面，在智能化、柔性化的生产领域，面向智能制造的可重构物流技术与产品品质自动分选的需求，重点研究了其中的关键技术与装备：具有自动移动与导航能力的移动平台，人工智能自动光学检测（AI-AOI）系统。首先，在自主移动定位方面，基于光学视觉、激光雷达测距技术和惯性导航相结合的融合感知，实现基于SLAM技术的多场景下高鲁棒性的物流小车自主移动，为智能制造中可重构装配、柔性生产中的自动码料提供了灵活的移动平台。其次，在机器人自主操作的视觉辅助方面，提出了面向高精度高动态三维重建的FPGA控制MEMS振镜结构光投影技术，通过稳定且高质量的投影，并提出了精确且高效的相位还原与展开算法，快速精准地重构出三维物体，实现执行对象的准确识别和定位，为多种场景下的智能操作提供了技术保障。第三，针对目前智能制造领域的品质检测环节，我们提出了基于人工智能和自动光学检测为主的品质分选技术，开展了基于迁移学习的人工智能研究，使得品质分拣的效率和质量大幅提升。该领域研究成果得到了成功转化，成立了科技公司，所开发的人工智能分选机，已经为磁瓦、玻璃盖板、Pogo Pin等多个领域客户提供了满意的解决方案，累计产生经济效益超过3000万元。同时，基于超声技术在内部缺陷的无损检测能力，开发了能够面向工业生产高节拍需求的阵列式自动化超声检测平台。上述智能生产技术与装备领域的研发成果，为我国制造业相关领域提质增效提供了有力的支撑，有助于我国制造业在新形势下国际竞争力的提升。
+主要项目 
+1. 外差光栅干涉原子级超精密测量技术与系统，深圳市稳定支持计划项目，2023.12-2025.11，主持
+2. 在线水质分析仪的智能化技术研究，企业合作项目，2023.10-2025.09，主持
+3. 大面积混合光栅加工技术研究项目，华为技术有限公司，2023.08-2025.02，主持
+4. 基于混合编码平面光栅的绝对式六自由度纳米/亚角秒测量机理与系统，国家自然科学基金项目，2023.1-2026.12，主持
+5. 光芯片微视觉检测系统关键技术研究开发，企业合作项目，2021.11-2023.11，主持
+6. 面向14nm光刻机的多维光栅干涉测量模型与动态误差补偿机制研究，广东省基础与应用基础研究基金项目，2021.10-2024.9，主持
+7. 基于超声辅助和智能视觉的高效能制造生产技术研究，清华大学深圳国际研究生院联合研究项目，2021.10-2024.9，主持
+8. 基于机器视觉的品质检验关键技术研究，深圳市科技计划基础研究稳定支持项目，2021.6-2024.5，参与
+9. 清华大学深圳国际研究生院-南宁智能制造中心，2021.1-2023.12，主持
+10. 高一致性平面二维纳米光栅干涉光刻加工关键技术研究，国家自然科学基金项目，2020.1-2022.12，主持
+11. 面向多场景自动光学检测的智能打光平台，企业合作项目，2019.4-2021.4，主持
+12. 基于二维光栅阵列的高精度干涉测距数据融合方法与实现，清华大学深圳国际研究生院青年科研基金项目，2018.7-2020.6，主持
+13. 长尺度高分辨六自由度光栅尺，广东省自然科学基金项目，2018.5-2021.4，主持
+14. 超长尺度多自由度精密光栅测距系统关键技术研究，深圳市基础研究计划，2018.4-2021.3，参与
+15. 高速度高精度PE膜红外测厚仪开发，企业合作项目，2017.5-2018.5，主持
+16. 光栅制造偏差检测及大量程测量误差补偿方法，国家重点研发计划项目，2016.6-2019.6，参与
+17. 面向高端装备的光栅干涉测距关键元件制作工艺研究，深圳市基础研究计划，2016.7-2018.7，主持
+18. 半导体激光光刻加工复杂光栅的关键技术研究，中国博士后科学基金特别资助项目，2016.3-2016.12，主持
+19. 绝对式二维光栅尺关键技术的研发，深圳市技术攻关计划项目，2015.7-2017.6，参与
+20. 基于蓝光半导体激光器的一维光栅拼接加工方法研究，中国博士后科学基金面上项目，2015.3-2016.12，主持
+21. 光学构件空间位姿监测用双频复合二维光栅多自由度纳米测量系统研究，国家自然科学基金面上项目，2015.1-2019.12，参与
+ </研究领域>
+<研究成果>
+代表性论文 
+1. Yiming Li, Zhuang Li, Chaobo Zhang, Min Han, Fengxiao Lei, Xiaojun Liang*, Xiaohao Wang, Weihua Gui, Xinghui Li*. Deep learning-driven one-shot dual-view 3D reconstruction for dual-projector system[J]. IEEE Transactions on Instrumentation and measurement, 2023. 
+2. Qiaolin Li, Yuki Shimizu, Xiaohao Wang, Xinghui Li*, Wei Gao. High-accuracy roundness measurement of small cylindrical workpieces by a high-frequency filtering method[J]. Precision Engineering, 2024, 85: 241-246.
+3. Kaiheng Huang, Qiaolin Li*, Kaixiong Zhu, Baihan Chen, Xiang Qian, Xiaohao Wang, Xinghui Li. A through-transmission ultrasonic method for the detection of ferrite tile defects[J]. Applied Sciences, 2023, 13: 11172. 
+4. Min Han, Weijian Shi, Shihao Lu, Fengxiao Lei, Yiming Li, Xiaohao Wang, Xinghui Li*. Internal–External Layered Phase Shifting for Phase Retrieval[J]. IEEE Transactions on Instrumentation and measurement, 2023, 73: 4501013.
+5. Shuonan Shan#, Jingwen Li#, Peiyuan Liu, Qiaolin Li*, Xiaohao Wang, Xinghui Li*. A microlens array grating for miniature multi-channel spectrometers[J]. Sensors, 2023,23:8381. 
+6. Qiaolin Li, Yifeng Wang, Jingwen Li, Xiaohao Wang, Xinghui Li*. Non-contact ultra-precision metrology of superfine cylinders with a developed two-dimensional coordinate measuring device[J]. Measurement, 2023, 223: 113727.
+7. Guangyao Huang#, Jiao Bai#, Feng Feng, Long Zeng, Pingfa Feng, Xinghui Li*. A hybrid strategy for profile measurement of micro gear teeth[J]. Micromachines, 2023, 14:1729. 
+8. Min Han, Jiangming Kan, Gongping Yang, Xinghui Li*. Robust ellipsoid fitting using combination of axial and sampson distances[J]. IEEE Transactions on Instrumentation and measurement,2023, 72: 2526714. 
+9. 白蛟, 李婧雯, 王晓浩, 李星辉*. 高精度光谱共焦位移测量技术研究进展[J].激光与光电子学进展, 2023, 60(3): 221-236.
+Jiao Bai, Jingwen Li, Xiaohao Wang, Xinghui Li*. Research Progress of high precision chromatic confocal displacement measurement technology[J]. Laser & Optoelectronics Progress, 2023, 60(3): 221-236.
+10. Gaopeng Xue, Liyu Lin, Qihang Zhai, Chuang Zeng, Xiaohao Wang, Xinghui Li*. Development of dielectric-film-based polarization modulation scheme for patterning highly uniform 2D array structures with periodic tunability[J]. Optics and Lasers in Engineering, 2023, 167: 107627.
+11. Shengtong Wang, Baiqi Liao, Ningning Shi, Xinghui Li*. A compact and high-precision three-degree-of-freedom grating encoder based on a quadrangular frustum pyramid prism[J]. Sensors, 2023, 23(8): 4022.
+12. Chen Li, Haoxin Yan, Xiang Qian, Shidong Zhu, Peiyuang Zhu, Chengwei Liao, Haoyang Tian, Xiu Li, Xiaohao Wang, Xinghui Li*. A domain adaptation YOLOv5 model for industrial defect inspection[J]. Measurement, 2023, 213: 112725.
+13. Min Han, Fengxiao Lei, Weijian Shi, Shihao Lu, Xinghui Li*. Uniaxial MEMS-based 3D reconstruction using pixel refinement[J]. Optics Express, 2023, 31(1): 536-554.
+14. Shengtong Wang, Linbin Luo, Junhao Zhu, Ningning Shi, Xinghui Li*. An ultra-precision absolute-type multi-degree-of-freedom grating encoder[J]. Sensors, 2022, 22(23): 9047.
+15. Feng Feng, Kexin Zhang, Xinghui Li*, Yousheng Xia,, Meng Yuan, Pingfa Feng*. Scaling region of weierstrass-mandelbrot function: improvement strategies for fractal ideality and signal simulation[J]. Fractal and Fractional, 2022, 6(10): 100542.
+16. Gaopeng Xue, Masaya Toda, Bing Li, Xinghui Li*, Takahito Ono. Demonstration of heterogeneous structure for fabricating a comb-drive actuator for cryogenic applications[J]. Micromachines, 2022, 13(8): 1287.
+17. Shounan Shan, Peiyuan Liu, Jingwen Li, Jiao Bai, Xiaohao Wang, Xinghui Li*. Fabrication of a micro lens array-grating for a miniature spectrometer[C]//Optical Design and Testing XII, SPIE, 2022, 12315: 325-334.
+18. Yifeng Wang, Ningning Shi, Liyong Li, Kai Ni, Xinghui Li*. Instantaneous grating signal subdivision system with non-linear kalman filters[C]//Optical Design and Testing XII, SPIE, 2022, 12315: 90-96.
+19. Qiuying Ma, Haoyang Yu, Qian Zhou, Xinghui Li*, Guanhao Wu, Kai Ni. A 209 MHz compact all-fiber er-doped mode-locked laser[C]//Advanced Lasers, High-power Lasers, and Applications XIII, SPIE, 2022, 12310: 70-75.
+20. Fuyuan Deng, Tianshi Lu, Qihang Zhai, Linbin Luo, Gaopeng Xue, Qian Zhou, Xiaohao Wang, Xinghui Li*. A four-step laser interference lithography for patterning pixelated micro-polarizer array[C]//Holography, Diffractive Optics, and Applications XII, SPIE, 2022, 12318: 349-355.
+21. Linbin Luo, Lyuye Gao, Shengtong Wang, Fuyuan Deng, Yonggui Wu, Xinghui Li*. An ultra-precision error estimation for a multi-axes grating encoder using quadrant photodetectors[C]//Optical Metrology and Inspection for Industrial Applications IX, SPIE, 2022, 12319: 57-65
+22.Weijian Shi, Shihao Lu, Yihao Tao, Gaopeng Xue, Fengxiao Lei, Xinghui Li*. FPGA enabled accurate angle-power matching method in MEMS mirrors-based structure light projection system[C]//Optical Metrology and Inspection for Industrial Applications IX, SPIE, 2022, 12319: 30-35.
+23.Shengtong Wang, Junhao Zhu, Ningning Shi, Linbin Luo, Yanxiang Wen, Xinghui Li*. Modeling and test of an absolute Four-degree-of-freedom (DOF) Grating Encoder[C]//Optical Metrology and Inspection for Industrial Applications IX, SPIE, 2022, 12319: 72-78.
+24.Qiuying Ma, Haoyang Yu, Qian Zhou, Xinghui Li*, Guanhao Wu, Kai Ni. A mode-locked fiber laser simulation platform for self-tuning algorithm optimization[C]//Optoelectronic Devices and Integration XI, SPIE, 2022, 12314, 130-134.
+25. Min Han, Fengxiao Lei, Yihao Tao, Weijian Shi, Shihao Lu, Haoyang Tian, Chengwei Liao, Peiyuan Zhu, Shidong Zhu, Xiaohao Wang, Xinghui Li*. A novel calibration method for a uniaxial MEMS-based 3D reconstruction system[C]//Optoelectronic Imaging and Multimedia Technology IX, SPIE, 2022, 12317, 40-46.
+26. Junhao Zhu, Guochao Wang, Shengtong Wang, Xinghui Li*. A Reflective-Type Heterodyne Grating Interferometer for Three-Degree-of-Freedom Subnanometer Measurement[J]. IEEE Transactions on Instrumentation and Measurement, 2022, 71: 7007509.
+27. 朱俊豪, 汪盛通, 李星辉*. 面向光刻机晶圆台的超精密光栅定位技术[J]. 激光与光电子学进展, 2022, 59(9): 320-336. 特邀综述
+Junhao Zhu, Shengtong Wang, Xinghui Li*. Ultraprecision grating positioning technology for wafer stage of lithography machine[J]. Laser & Optoelectronics Progress, 2022, 59(9): 320-336. (Invited Review)
+28. 李一鸣, 杨霖, 王晓浩, 单硕楠, 邓富元, 贺志学, 刘政通, 李星辉*. 光刻套刻误差测量技术[J]. 激光与光电子学进展, 2022, 59(9): 391-402. 特邀综述
+Yiming Li, Lin Yang, Xiaohao Wang, Shuonan Shan, Fuyuan Deng, Zhixue He, Zhengtong Liu, Xinghui Li*. Overlay metrology for lithography machine[J]. Laser & Optoelectronics Progress, 2022, 59(9): 391-402. (Invited Review)
+29. Ruiming Chen, Yiming Li, Gaopeng Xue*, Yihao Tao, Xinghui Li*. Laser triangulation measurement system with Scheimpflug calibration based on the Monte Carlo optimization strategy[J]. Optics Express, 2022, 30(14): 25290-25307.
+30. Jiao Bai, Jingwen Li, Xiaohao Wang, Qian Zhou, Kai Ni and Xinghui Li*. A new method to measure spectral reflectance and film thickness using a modified chromatic confocal sensor[J]. Optics and Lasers in Engineering, 2022, 154: 107019.
+31. Feng Feng, Meng Yuan, Yousheng Xia, Haoming Xu, Pingfa Feng, Xinghui Li*. Roughness scaling extraction accelerated by dichotomy-binary strategy and its application to milling vibration signal[J]. Mathematics, 2022, 10(7): 1105.
+32. Jiao Bai, Yingzuo Wang, Xiaohao Wang, Qian Zhou, Kai Ni, Xinghui Li*. Three-probe error separation with chromatic confocal sensors for roundness measurement[J]. Nanomanufacturing and Metrology, 2021, 4: 247-255.
+33. Jie Wang, Guangyao Huang, Guochao Wang*, Yaning Wang, Mei Hu, Qixue Li, Lingxiao Zhu, Xinghui Li, Shuhua Yan, Jun Yang. One-thousandth-level laser power stabilization based on optical feedback from a well-designed high-split-ratio and nonpolarized beam splitter[J]. Applied Optics, 2021, 60(25): 7798-7803.
+34. Guochao Wang, Gaopeng Xue, Qihang Zhai, Junhao Zhu, Kangning Yu, Guangyao Huang, Min Wang, Aihua Zhong, Lingxiao Zhu, Shuhua Yan, Xinghui Li*. Planar diffractive grating for magneto-optical trap application: fabrication and testing[J]. Applied Optics, 2021, 60(30): 9358-9364.
+35. Gaopeng Xue*, Masaya Toda, Xinghui Li, Xiaohao Wang, Takahito Ono. Magnetic resonance force microscopy with vacuum-packaged magnetic cantilever towards free radical detection[J]. IEEE Sensors Journal, 2021, 21(20): 22578-22586.
+36. Haoyang Yu, Qian Zhou, Xinghui Li, Xiaohao Wang, Xilin Wang, Kai Ni*. Improving resolution of dual-comb gas detection using periodic spectrum alignment method[J]. Sensors, 2021, 21(3): 903.
+37. Haoyang Yu, Qian Zhou, Xinghui Li, Xiaohao Wang, Kai Ni*. Phase-stable repetition rate multiplication of dual-comb spectroscopy based on a cascaded Mach–Zehnder interferometer[J]. Optics Letters, 2021, 46(13): 3243-3246.
+38. Haoyang Yu, Qian Zhou, Xinghui Li, Xiaohao Wang, Kai Ni*. Mode-resolved dual-comb spectroscopy using error correction based on single optical intermedium[J]. Optics Express, 2021, 29(4): 6271-6281.
+39. Kangning Yu, Junhao Zhu, Weihan Yuan, Qian Zhou, Gaopeng Xue, Guanhao Wu, Xiaohao Wang, Xinghui Li*. Two-channel six degrees of freedom grating-encoder for precision-positioning of sub-components in synthetic-aperture optics[J]. Optics Express, 2021, 29(14): 21113-21128.
+40. Gaopeng Xue, Qihang Zhai, Haiou Lu, Qian Zhou, Kai Ni, Liyu Lin, Xiaohao Wang, Xinghui Li*. Polarized holographic lithography system for high-uniformity microscale patterning with periodic tunability[J]. Microsystems & Nanoengineering, 2021, 7(1): 1-10.
+41. Jiao Bai, Xinghui Li*, Xiaohao Wang*, Jianjian Wang, Kai Ni, Qian Zhou, Self-reference dispersion correction for chromatic confocal displacement measurement[J]. Optics and lasers in Engineering, 2021, 140: 106540. 
+42. Zehui Li, Yi Yuan, Hao Wu, Xinghui Li, Menglei Yuan, Huaizhang Wang, Xiaoxue Wu, Shuai Liu, Xianming Zheng, Mingjun Kim, Haoyun Zheng, Sadia Rehman, Guangya Jiang, Wangyang Fu, Jingkun Jiang*. Investigation of MOF-derived humidity-proof hierarchical porous carbon frameworks as highly-selective toluene absorbents and sensing materials[J]. Journal of Hazardous Materials, 2021, 411: 125034.
+43. Yuki Shimizu*, Liang-Chia Chen, Dae Wook Kim, Xiuguo Chen, Xinghui Li, Hiraku Matsukuma. An insight on optical metrology in manufacturing[J]. Measurement Science and Technology, 2021, 32(4): 042003.
+44. 王国超*，李星辉*，颜树华，谭立龙，管文良. 基于飞秒光梳的多路同步锁模的多波长干涉实时绝对测距及其非模糊度量程分析[J]. 物理学报, 2021, 70(4): 20201225.
+Guochao Wang*, Xinghui Li*, Shuhua Yan, Lilong Tan. Wenliang Guan. Real-time absolute distance measurement by multi-wavelength interferometry synchronously multi-channel phase-locked to frequency comb and analysis for the potential non-ambiguity range[J]. Acta Physica Sinica, 2021,70(4): 20201225.
+45. Yaping Shi, Qian Zhou, Xinghui Li*, Kai Ni, Xiaohao Wang. Design and testing of a linear encoder capable of measuring absolute distance[J]. Sensors and Actuators A: Physical, 2020, 308: 111935.
+46. Yaodong Han, Kai Ni, Xinghui Li*, Guanhao Wu, Kangning Yu, Qian Zhou, Xiaohao Wang. An FPGA platform for next-generation grating encoders[J]. Sensors, 2020, 20: 2266.
+47. Gaopeng Xue, Haiou Lu, Xinghui Li*, Qian Zhou, Guanhao Wu, Xiaoha Wang and Kai Ni. Patterning nanoscale crossed grating with high uniformity by using two-axis Lloyd’s mirrors based interference lithography[J]. Optics Express, 2020, 28(2): 2179-2191.
+48. Yaping Shi, Kai Ni, Xinghui Li*, Qian Zhou, Xiaohao Wang, Highly accurate, absolute optical encoder using a hybrid-positioning method[J]. Optics Letters, 2019, 44 (21): 5258-5231.
+49. Jiao Bai, Xinghui Li*, Qian Zhou, Kai Ni, Xiaohao Wang. Improved chromatic confocal displacement sensor based on a spatial-bandpass-filter and an X-shaped fiber-coupler[J]. Optics Express, 2019, 27(8): 10961-10973.
+50. Jiao Bai, Xinghui Li*, Xiaohao Wang, Qian Zhou, Kai Ni. Chromatic confocal displacement sensor with optimized dispersion probe and modified centroid peak extraction algorithm[J]. Sensors, 2019, 19(16): 3592.
+51. Jianxiong Li, Qian Zhou, Xinghui Li*, Ruiming Chen, and Kai Ni. An improved low-noise processing methodology combined with PCL for industry inspection based on laser line scanner[J]. Sensors, 2019, 19(15): 3398.
+52. Qian Zhou, Xinghui Li, Menglin Geng, Hiaifei Hu, Kai Ni*, Lunchao Zhong, Peng Yan, Xiaohao Wang*. Economic fabrication of a novel hybrid planar Grating/Fresnel lens for miniature spectrometers[J]. Optics Express, 2018, 26(5): 6079-6089.
+53. Xinghui Li, Qian Zhou, Xiangwen Zhu, Lin Yang, Donghan Ma, JIanhui Sun, Kai NI*, Xiaohao Wang*. Holographic fabrication of an arrayed one-axis scale grating for a two-probe optical linear encoder[J]. Optics Express, 2017, 25(13), 16028-16039.
+54. Xinghui Li, Kai Ni, Qian Zhou, Peng Yan, Jinchao Pang, and Xiaohao Wang. Improved master-replica separation process for fabrication of a blazed concave grating by using a combination-type convex grating[J]. Applied Optics, 2017, 56(2): 298-302.
+55. Xinghui Li, Huanhuan Wang, Kai Ni, Qian Zhou, Xinyu Mao, Lijiang Zeng, Xiaohao Wang, Xiang Xiao. Two-probe optical encoder for absolute positioning of precision stages by using an improved scale grating[J]. Optics Express, 2016, 24(19): 21378-21391.
+56. Xinghui Li, Wei Gao*, Yuki Shimizu, So Ito. A two-axis Lloyd’s mirror interferometer for fabrication of two dimensional diffraction gratings[J]. CIRP Annals-Manufacturing Technology, 2014, 63(1):461-464.
+57. Xinghui Li, Jinchao Zhang, Qian Zhou, Kai Ni, Jinchao Pang, Rui Tian, Design of a variable-line-spacing grating pattern for spectrometers based on a grating–fresnel device[J]. Optics Letters, 2016, 41(7): 1470-1473.
+58. Xinghui Li, Kai Ni, Qian Zhou, Xiaohao Wang, Rui Tian, Jinchao Pang, Fabrication of a concave grating with a large grid-constant via a novel dual-beam interference lithography method[J]. Optics Express, 2016, 24(9): 10759.
+59. Xinghui Li, Tadahiko Shinshi, Wataru Hijikata, Yoshihiro Morimoto, Development of a suspension type sliding planar motion table using magnetic fluid lubrication[J]. Review of Scientific Instruments, 2016, 87: 065003.
+60. Xinghui Li, Yuki Shimizu, So Ito, Wei Gao. Fabrication of scale gratings for surface encoders by using laser interference lithography with 405 nm laser diodes[J]. International Journal of Precision Engineering and Manufacturing, 2013, 14(11), 1979-1988 .
+61. Xinghui Li, Wei Gao, Hiroshi Muto, Yuki Shimizu, Ito So, Songyi Dian. A six-degree-of-freedom surface encoder for precision positioning of a planar motion stage[J]. Precision Engineering, 2013, 37(3): 771-781.
+62. Xinghui Li, Yuki Shimizu, Takeshi Ito, Yindi Cai, So Ito, Wei Gao. Measurement of six-degree-of-freedom planar motions by using a multi-probe surface encoder[J]. Optical Engineering, 2014, 53(12): 094002.
+63. Qian Zhou, Xiaorui Qiao, Kai Ni, Xinghui Li*, Xiaohao Wang. Depth detection in interactive projection system based on one-shot black-and-white stripe pattern[J]. Optics Express. 2017, 25(5): 5341-5351.
+64. Qian Zhou, Jinchao Pang, Xinghui Li*, Kai Ni, Rui Tian. Improving the spectral resolution of flat-field concave grating miniature spectrometers by dividing a wide spectral band into two narrow ones[J]. Applied Optics, 2015, 54(32): 9450-9455 .
+65. Qian Zhou, Jinchao Pang, Xinghui Li*, Kai Ni, Rui Tian. Concave grating miniature spectrometer with an expanded spectral band by using two entrance slits[J]. Chines Optics Letters, 2015, 13(11): 110501.
+66. Xinghui Li, Xiang Xiao, Kai Ni*, Qian Zhou, Huanhuan Wang, Xiaohao Wang. A precise reference position detection method for linear encoders by using a coherence function algorithm[C]//Optical Metrology and Inspection for Industrial Applications IV, SPIE, 2016, 10023: 278-282.
+67. 李星輝，清水裕樹，伊東聡，高偉. ２軸ロイドミラー干渉によるスケール格子の製作に関する研究，日本機械学会東北支部第49期総会講演会講演論文集, 2014.【日语】
+代表性著作 
+主要专利成果 
+1. 李星辉, 单硕楠, 陆天石, 邓富元, 王晓浩. 一种多层光栅及其自对准方法和加工方法: CN117270092A[P]. 2023-12-22.
+2. 李星辉, 汪盛通, 骆林斌. 一种绝对式六自由度位姿传感器: CN116592771A[P]. 2023-08-15.
+3. 李星辉, 黄光耀, 冯峰, 王晓浩. 一种齿轮轮廓测量系统与方法: CN116164693A[P]. 2023-05-26.
+4. 钱翔, 王浩, 李星辉, 王晓浩. 一种交互式工业冷启动缺陷检测系统和方法: CN115953385A[P]. 2023-04-11. 
+5. 李星辉, 邓富元, 陆天石. 一种微偏振片阵列制作方法、掩模版、基板以及载物台: CN115903409A[P]. 2023-04-04.
+6. 李星辉, 单硕楠, 李一鸣, 邓富元, 王晓浩. 一种高分辨率的套刻误差测量装置及方法: CN115390368A[P]. 2022-11-25.
+7. 李星辉, 邓富元, 李一鸣, 单硕楠, 王晓浩. 一种精准对焦的套刻误差测量系统及方法: CN115390369A[P]. 2022-11-25.
+8. 钱翔, 王俊钊, 李星辉, 王晓浩. 磁瓦几何尺寸检测方法及装置: CN115170640A[P]. 2022-10-11.
+9. 李星辉, 薛高鹏, 陶一豪. 一种编码结构光投影方法及其系统: ZL202210156189.8[P]. 2023-12-01.
+10. 李星辉, 汪盛通. 一种绝对式六自由度光栅编码器: ZL202210155113.3[P]. 2023-07-28.
+11. 李星辉, 李一鸣, 王晓浩. 一种多通道高精度套刻误差检测系统及方法: CN114578657A[P]. 2022-06-03.
+12. 李星辉, 韩民. 一种获取折叠相位的方法、三维重建的方法及系统: ZL202210085619.1[P]. 2023-06-02.
+13. 李星辉, 李一鸣, 王晓浩. 一种高精度套刻测量量值溯源方法及散射仪: ZL202111558740.3[P]. 2023-11-07.
+14. 薛高鹏, 李星辉, 王晓浩. 磁性悬臂梁传感器及其制作方法和测量装置、成像系统: ZL202111400243.0[P]. 2023-08-29.
+15. 李星辉, 余康宁, 王晓浩. 一种六维力传感器: ZL202111172303.8[P]. 2023-10-13.
+16. 李星辉, 刘培源, 白蛟, 王晓浩. 菲涅尔光栅微透镜阵列、光谱仪及光谱共焦面型测量系统: ZL202111078906.1[P]. 2023-10-17.
+17. 钱翔, 程致远, 朱凯雄, 李星辉, 朱拾东, 王晓浩. 一种磁瓦内部缺陷检测装置及检测方法: ZL202110461539.7[P]. 2022-08-26.
+18. 薛高鹏, 李星辉, 王晓浩. 一种带硅基压阻式传感器的MEMS器件: ZL202110380700.8[P]. 2023-07-18.
+19. 李星辉, 白蛟, 王晓浩. 光谱反射率检测方法、系统、设备及计算机可读存储介质: ZL202110286141.4[P]. 2021-07-20.
+20. 薛高鹏, 李星辉, 王晓浩. 一种静电梳齿驱动式低串扰运动的面内二维定位平台: ZL202110082495.7[P]. 2022-06-28.
+21. 朱拾东, 叶星, 王晓浩, 钱翔, 李星辉. 一种心脏模型制作方法及其制作模具: CN112092409A[P]. 2020-12-18.
+22. 李星辉, 余康宁, 周倩, 吴冠豪, 倪凯, 王晓浩. 检测系统、检测方法及光栅尺: ZL202010817814.X[P]. 2022-06-21.
+23. 倪凯, 余浩洋, 周倩, 李星辉, 王晓浩. 双光频梳系统及其偏频控制方法: ZL202010747324.7[P]. 2022-02-01.
+24. 李星辉, 陈瑞铭, 王晓浩, 周倩, 倪凯. 传感器、传感器标定方法设备、存储介质: ZL202010420953.9[P]. 2023-01-10.
+25. 倪凯, 陈汉诚, 余浩洋, 周倩, 李星辉, 王晓浩. 双飞秒激光频率梳测距装置和方法: ZL202010265852.9[P]. 2022-05-10.
+26. 周倩, 倪凯, 晁银银, 白本锋, 汪伟奇, 李星辉, 王晓浩. 一种微偏振片模板制作方法: ZL201910798261.5[P]. 2023-11-17.
+27. 周倩, 倪凯, 晁银银, 汪伟奇, 白本锋, 李星辉, 王晓浩. 一种金属偏振片及其制作方法: CN110568541A[P]. 2019-12-13.
+28. 李星辉, 施亚平, 周倩, 倪凯, 王晓浩. 一种绝对式光栅尺参考位置测量方法及系统: ZL201910654027.5[P]. 2021-10-22.
+29. 冯峰, 李星辉, 周文萌, 刘彬彬, 黄俊龙, 冯平法. 一种快速测算表面粗糙度与测量尺度关系的方法: ZL201910569990.3[P]. 2020-08-25.
+30. 倪凯, 马茹玉, 周倩, 李星辉. 一种角速度测量方法、测量系统及载体: ZL201910299404.8[P]. 2020-12-22.
+31. 倪凯, 马茹玉, 周倩, 李星辉. 角速度测量方法、装置及应用系统: ZL201910299406.7[P]. 2020-12-22.
+32. 李星辉, 吴豪, 王晓浩, 周倩, 倪凯. 一种内循环式颗粒物浓度检测装置: CN109596495A[P]. 2019-04-09.
+33. 李星辉, 李建雄, 周倩, 倪凯, 王晓浩. 对称布置的激光位移传感器的光束对准装置及对准方法: CN109668512A[P]. 2019-04-23.
+34. 李星辉, 陈瑞铭, 倪凯, 白蛟, 王晓浩, 周倩. 一种激光成像测距方法及系统: CN109405749A[P]. 2019-03-01.
+35. 李星辉, 吴豪. 一种颗粒物沉降质量测量装置及其沉降效率检测方法: CN109283105A[P]. 2019-01-29.
+36. 李星辉, 吴豪, 王晓浩, 周倩, 倪凯. 一种基于压电测量的晶体清洁装置与晶体清洁方法: ZL201811173023.7[P]. 2023-11-17.
+37. 倪凯, 马茹玉, 余浩洋, 周倩, 吴冠豪, 李星辉, 王晓浩. 一种角速度测量装置、方法及其载具: ZL201811175104.0[P]. 2020-08-04.
+38. 余浩洋, 马茹玉, 倪凯, 吴冠豪, 周倩, 李星辉, 王晓浩. 一种分级控制的温控盒、控制方法及飞秒频率流: CN109002070A[P]. 2018-12-14.
+39. 余浩洋, 马茹玉, 倪凯, 吴冠豪, 周倩, 李星辉,王晓浩. 双光频梳测厚光路结构、系统、方法、装置及存储介质: CN109238153A[P]. 2019-01-18.
+40. 李星辉, 陆海鸥, 周倩, 王晓浩, 袁伟涵, 倪凯, 吴冠豪. 检测系统、拼接系统、检测方法、拼接方法与拼接光栅尺: CN109163659A[P]. 2019-01-08.
+41. 李星辉, 肖翔, 倪凯, 周倩, 袁伟涵, 陆海鸥, 曾理江, 王晓浩. 一种大量程干涉式光栅尺及其测距方法: ZL201810764638.0[P]. 2020-07-03.
+42. 王晓浩, 朱培源, 钱翔, 李星辉, 冯峰, 赵骞. 一种单线激光的三维轮廓扫描装置及方法: CN108534710B[P]. 2020-02-14.
+43. 周倩, 倪凯, 肖翔, 李星辉, 王欢欢, 曾理江, 苏晓, 袁伟涵, 王晓浩. 一种判断光栅尺参考位置的装置及方法: ZL201810069996.X[P]. 2023-8-22.
+44. 李星辉, 周倩, 肖翔, 倪凯, 王欢欢, 冒新宇, 曾理江, 苏晓, 王晓浩. 一种判断光栅尺参考点绝对位置的装置及方法: ZL201810069463.1[P]. 2023-08-11.
+45. 朱拾东, 罗琳, 王晓浩,李星辉, 倪凯, 周倩. 一种主动脉外反搏心室衰竭辅助装置: ZL201711425070.1[P]. 2023-11-17.
+46. 李星辉, 倪凯, 王欢欢, 周倩, 王晓浩, 冒新宇, 曾理江, 肖翔. 絶対式の格子スケール. 日本发明专利, 特许第6641650号（特願2018-552216）, 2020-01-08.
+47. 倪凯, 李星辉, 肖翔, 周倩, 王欢欢, 曾理江, 袁伟涵, 苏晓, 王晓浩. 一种多码道光栅尺: ZL201611217687.X[P]. 2022-02-25.
+48. 李星辉, 倪凯, 肖翔, 周倩, 王欢欢, 曾理江, 袁伟涵, 苏晓, 王晓浩. 一种光栅衍射光偏转棱镜: ZL201611217716.2[P]. 2023-01-24.
+49. 周倩, 倪凯, 胡凯, 王立代, 王晓浩, 李星辉, 董昊, 王兰兰. 一种水下探测系统及水下探测方法: ZL201610235054.5[P]. 2017-11-17.
+50. 李星辉, 倪凯, 王欢欢, 周倩, 王晓浩, 冒新宇, 曾理江, 肖翔. 一种绝对式光栅尺: ZL201610234556.6[P]. 2018-02-09.
+51. 周倩, 张锦超, 李星辉, 倪凯, 逄锦超, 胡海飞, 董昊, 王欢欢, 朱祥文, 王兰兰. 用于制作菲涅尔光栅的优化设计方法: ZL201510225311.2[P]. 2018-07-20.
+52. 清水裕樹, 高偉, 伊聡, 李星輝. 干渉リソグラフィにおける2次元パターンの一括露光手法. 日本发明专利, 特開2014-099529.【in Japanese】
+软件著作
+1. 李星辉, 韩耀东. 基于FPGA的光栅尺位移实时结算系统设计: 2020SR0286738.
+2. 李星辉，王培荣. 基于RGBD相机的定位导航系统算法: 2020R11L304726.
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1. 2023.05，巴黎国际发明展银奖
+2. 2023.04，日内瓦国际专利展银奖,
+3. 2022.11，广东省研究生学术论坛最佳口头报告奖,
+4. 2022,09，2022年粤港澳大湾区高价值专利培育布局大赛战略性新兴产业集群百强项目
+5. 2022.09，第八届纳米制造国际会议最佳论文奖,
+6. 2022.04，2021年光学仪器和技术国际会议最佳学生论文奖
+7. 2022.01，国际期刊Nanomanufacturing and Metrology (NMME)突出贡献奖,
+8. 2021.06，2021年度清华大学优秀硕士学位论文指导老师奖
+9. 2021.04，第16届IEEE微纳工程和分子系统国际会议最佳论文奖
+10. 2020.07，2020年度清华大学疫情期间线上教学优秀教师优秀奖
+11. 2019.06，清华大学深圳国际研究生院优秀共产党员
+12. 2018.01，深圳市高层次专业人才后备级人才
+13. 2016.12，国际出版集团Elsevier高被引论文作者
+14. 2016.02，深圳市海外高层次人才孔雀计划C类人才
+15. 2015.03，东北大学校长奖 Tohoku President’s Award，单独受奖
+16. 2012.12，日本精密工学会东北支部优秀演讲奖励奖，单独受奖
+17. 2011.03，西安交通大学优秀毕业生干部，单独受奖
+18. 2008.06，武汉大学优秀毕业生，单独受奖
+19. 2008.06，武汉大学优秀共产党员，单独受奖
+20. 2007.05，武汉大学第六届“自强杯”大学生课外学术科技作品竞赛优秀成果一等奖，单独受奖
+ </奖励荣誉>

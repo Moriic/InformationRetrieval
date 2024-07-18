@@ -1,0 +1,118 @@
+{"title":"李晓岩","cnUrl":"http://www.sigs.tsinghua.edu.cn/lxy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/76/88/8adc1ac249bcbda6dea73cd83d1d/d7e986f8-1b1d-4214-b1d8-83f76fd762c2.jpg","email":"lixiaoyan@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1981.09-1986.07 清华大学土木与环境工程系，环境工程，学士
+1987.10-1990.07 清华大学环境工程系，环境工程，硕士
+1991.09-1996.07 美国亚利桑那大学化学与环境工程系，环境工程，博士
+工作经历 
+2021.01至今清华大学深圳国际研究生院，教授2018.07-2020.12清华-伯克利深圳学院，教授2021.07至今香港大学土木工程系，讲席教授2009.07- 2021.06香港大学土木工程系，教授2002.09-2009.06香港大学土木工程系，副教授1996.09-2002.08香港大学土木工程系，助理教授1992.06-1996.08亚利桑那大学环境工程实验室，研究助理1990.08-1991.08 北京市公用局热力公司，助理工程师1988.09-1990.07清华大学环境工程系，研究助理1986.07-1988.08北京市燕山石化公司，技术员
+学术兼职 
+SCI《Process Biochemistry》杂志，副主编
+美国化学学会（ACS），会员
+国际水协会（IWA），会员
+美国水行业协会（AWWA），会员
+国际环境工程与科学教授联盟（AESP），会员
+国际水利与环境工程学会（IAHR），会员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+研究生指导 
+1. 废水高级处理技术
+2. 有机固体废弃物资源化
+3. 环境功能材料开发与应用
+ </教学>
+<研究领域>
+研究领域 
+ 专注于新一代污水污泥处理技术的开发和推广应用，包括高效的污水回用、污泥减量化和废水中的资源回收以及纳米材料和技术在给水和污水处理中的应用。研究领域覆盖了絮凝动力学和颗粒相互作用机理、膜技术和膜生物反应器、电化学法用于废水处理和污泥颗粒化以及新污染物风险阻控等。提出若干独特的理论和模型，包括水中絮体颗粒Fractal孔隙结构的表征，以Fractal理论修正传统的凝聚和沉淀动力学模型；首次提出生物质聚合簇对MBR膜污染的影响；证实了好氧颗粒污泥的微生物多样性，首次建立了污泥颗粒化过程的数学模型，并提出了好氧颗粒污泥的群体感应效应及其表征；首次提出了基于真菌定向发酵的污泥高值转化技术，从污泥中回收菌丝纤维、酵母蛋白等高附加值产品；合成了多种过渡金属基高效催化剂，联用质谱技术与计算化学/分子对接技术解析了抗生素类、持久性有机污染物类等新污染物被活性氧物质进攻的高效降解路径，并开发了多项催化氧化技术与新污染物风险控制策略。 
+主要项目 
+1. 2020-2023，深圳市科技创新委员会可持续发展专项，800万，主持，在研；
+2. 2019-2022，国家自然科学基金面上项目，61万，主持，在研；
+3. 2019-2022，深圳市科技创新委员会基础研究学科布局，300 万，主持，在研；
+4. 2017-2020，深圳污泥与厨余协同处置与资源化技术工程实验室，479 万，主持，结题；
+5. 2017-2020，国家自然科学基金面上项目，62万，主持，结题；
+6. 2017-2019，深圳市科技创新委员会基础研究自由探索项目，50万，主持，结题；
+7. 2016-2018，深圳市科技创新委员会孔雀技术创新项目，100万，主持，结题；
+8. 2015-2017，深圳市科技创新委员会基础研究自由探索项目，50万，主持，结题。
+ </研究领域>
+<研究成果>
+代表性论文 
+汇总
+- 代表性著作 2
+- SCI 论文 220+
+- 他引次数 14399+
+- H 指数 59
+- 特邀报告 30+
+- 会议报告 110+
+- 专利 10
+发表论文（SCI：220+，H指数：59）
+代表性论文: （2019年至2021年）
+1.Rui Miao, Bingpeng Ma, Pu Li, Pei Wang, Lei Wang, Xiao-yan Li. 2021. Mitigation mechanism of ozonation in the casein fouling of ultrafiltration membranes: Possible application in dairy wastewater treatment. Journal of Membrane Science (IF: 8.742), 629, 119307. 
+2.Rui Miao, Youya Zhou, Pei Wang, Wei Lu, Pu Li, Xiao-yan Li, Lei Wang. 2021. A comparison of effect mechanisms of chlorination and ozonation on the interfacial forces of protein at membrane surfaces and the implications for membrane fouling control. Journal of Membrane Science (IF: 8.742), 628, 119266. 
+3.Liyuan Zhang, Mengchen Zhang, Gongping Liu, Wanqin Jin, Xiao-yan Li. 2021. Fungal Cell Wall‐Graphene Oxide Microcomposite Membrane for Organic Solvent Nanofiltration. Advanced Functional Materials (IF: 16.836), 2100110. 
+4.Rui Miao, Zihan Yang, Yaya Feng, Pei Wang, Pu Li, Lei Wang, Xiao-yan Li*. 2021. Mechanism of pre-ozonation in control of protein fouling of ultrafiltration membranes: Synergistic effect between ozone oxidation and aeration. Journal of Water Process Engineering (IF: 5.485), 41, 102038. 
+5.Yang Luo, Jianyu Wang, Yinghong Wu, Xiao-yan Li*, Paul K Chu, Tao Qi. 2021. Substitution of quartz and clay with fly ash in the production of architectural ceramics: A mechanistic study. Ceramics International (IF: 4.527), 47 (9), 12514-12525. 
+6.Xuchuan Shi, Ling Zhu, Bing Li, Jiajin Liang, Xiao-yan Li*. 2021. Surfactant-assisted thermal hydrolysis off waste activated sludge for improved dewaterability, organic release, and volatile fatty acid production. Waste Management (IF: 7.145), 124, 339-347. 
+7.Yuchun Yang, Craig W Herbold, Man-Young Jung, Wei Qin, Mingwei Cai, Huan Du, Jih-Gaw Lin, Xiao-yan Li, Meng Li, Ji-Dong Gu. 2021. Survival strategies of ammonia-oxidizing archaea (AOA) in a full-scale WWTP treating mixed landfill leachate containing copper ions and operating at low-intensity of aeration. Water Research (IF: 11.236), 191, 116798. 
+8.Jia-jin Liang, Bing Li, Lei Wen, Ruo-hong Li, Xiao-yan Li*. 2021. Thermal Hydrolysis of Wastewater Sludge Followed by Fungal Fermentation for Organic Recovery and Hyphae Fiber Production. Engineering (IF: 7.553), 7(2), 203-211. 
+9.Xiaowei Zhang, Han Meng, Yuchun Yang, Wensheng Lan, Weidong Wang, Paul K. S. Lam, Xiao-yan Li, Ji-Dong Gu. 2021. Diversity, abundance, and distribution of anammox bacteria in shipping channel sediment of Hong Kong by analysis of DNA and RNA. ECOTOXICOLOGY (IF: 2.823), 101007. 
+10.Rui Miao, Xiaoyan Nie, Bingpeng Ma, Zihan Yang, Pei Wang, Lei Wang, Xiao-yan Li. 2021. Unravelling the critical mechanism by which pre-ozonation affects ultrafiltration membrane fouling via investigation of the relative size and interfacial forces. Environmental Science: Water Research & Technology (IF: 4.251), 7, 1292-1300. 
+11.Jia-jin Liang, Bing Li, Ling Zhu, Xiao-yan Li*. 2021. Hydrothermal treatment and biorefinery of sewage sludge for waste reduction and production of fungal hyphae fibers and volatile fatty acids. Journal of Cleaner Production (IF:9.297), 289, 125715. 
+12.Chao Yang, Shanshan Shang, Xiao-yan Li*. 2021. Fabrication of sulfur-doped TiO2 nanotube array as a conductive interlayer of PbO2 anode for efficient electrochemical oxidation of organic pollutants. SEPARATION AND PURIFICATION TECHNOLOGY (IF: 7.312), 258, 118035. 
+13.Han Meng, Xiaowei Zhang, Zhichao Zhou, Ling Luo, Wensheng Lan, Jih-Gaw Lin, Xiao-yan Li, Ji-Dong Gu. 2021. Simultaneous occurrence and analysis of both anammox and n-damo bacteria in five full-scale wastewater treatment plants. International Biodeterioration & Biodegradation (IF: 4.320), 156, 105112. 
+14.Ruo-hong Li, Xuechao Guo, Bing Li, Lin Lin, Pu Li, Lei Wen, Jiajin Liang, Xiao-yan Li*. 2021. Iron-enhanced primary sedimentation and acidogenic sludge fermentation to achieve self-sufficient organic carbon supply for enhanced nutrient removal in wastewater treatment✰. Resources, Conservation and Recycling (IF: 10.204), 164, 105220. 
+15.Huanyu Tao, Jiawei Zhang, Jianghong Shi, Wei Guo, Xiaowei Liu, Mengtao Zhang, Hui Ge, Xiao-yan Li. 2021. Occurrence and emission of phthalates, bisphenol A, and oestrogenic compounds in concentrated animal feeding operations in Southern China. Ecotoxicology and Environmental Safety (IF: 6.291), 207, 111521. 
+16.Yuchun Yang, Meng Li, Zhong Hu, Hojae Shim, Jih-Gaw Lin, Xiao-yan Li, Ji-Dong Gu. 2020. Deep insights into the green nitrogen removal by anammox in four full-scale WWTPs treating landfill leachate based on 16S rRNA gene and transcripts by 16S rRNA high-throughput sequencing. Journal of Cleaner Production (IF: 9.297), 276, 124176. 
+17.Yiang Fan, Ying Zhou, Yong Feng, Pei Wang, Xiao-yan Li, Kaimin Shih. 2020. Fabrication of reactive flat-sheet ceramic membranes for oxidative degradation of ofloxacin by peroxymonosulfate. Journal of Membrane Science (IF: 8.742), 611, 118302. 
+18.Lin Lin, Jiahui Hu, Jiahua Liu, Xin He, Bing Li, Xiao-yan Li*. 2020. Selective Ammonium Removal from Synthetic Wastewater by Flow-Electrode Capacitive Deionization Using a Novel K2Ti2O5-Activated Carbon Mixture Electrode. Environmental Science & Technology (IF: 9.028), 54 (19), 12723-12731. 
+19.Yuchun Yang, Meng Li, Hui Li, Xiao-yan Li, Jih-Gaw Lin, Martin Denecke, Ji-Dong Gu. 2020. Specific and effective detection of anammox bacteria using PCR primers targeting the 16S rRNA gene and functional genes. Science of The Total Environment (IF: 7.963), 734, 139387. 
+20.Yan-xia Zhao, Xiao-yan Li, Chang Tian, Jie-xi Wang. 2020. Production of carbon-doped titanium dioxide (C–TiO2) from polytitanium-coagulated sludge as an adsorbent or photocatalyst for pollutant removals. Journal of Cleaner Production (IF: 9.297), 267, 121979. 
+21.Ruo-hong Li, Jin-li Cui, Jia-hui Hu, Wei-jun Wang, Bing Li, Xiang-dong Li, Xiao-yan Li*. Transformation of Fe–P Complexes in Bioreactors and P Recovery from Sludge: Investigation by XANES Spectroscopy. Environmental Science & Technology (IF: 9.028), 54 (7), 4641-4650. 
+22.Yan-xia Zhao, Pu Li, Ruo-hong Li, Xiao-yan Li*, Characterization and mitigation of the fouling of flat-sheet ceramic membranes for direct filtration of the coagulated domestic wastewater. Journal of hazardous materials (IF: 10.588), 385, 121557. 
+23.Guang-Jie Zhou, Lin Lin, Xiao-yan Li, Kenneth Mei Yee Leung. 2020. Removal of emerging contaminants from wastewater during chemically enhanced primary sedimentation and acidogenic sludge fermentation. Water Research (IF: 11.236), 175, 115646. 
+24.Jiayu Zhang, Renxin Zhao, Lijia Cao, Yusha Lei, Jie Liu, Jie Feng, Wenjie Fu, Xiao-yan Li, Bing Li. 2020. High-efficiency biodegradation of chloramphenicol by enriched bacterial consortia: Kinetics study and bacterial community characterization. Journal of hazardous materials (IF: 10.588), 384, 121344. 
+25.Ying-yu Li, Lin Lin, Xiao-yan Li*. 2020. Chemically enhanced primary sedimentation and acidogenesis of organics in sludge for enhanced nitrogen removal in wastewater treatment. Journal of Cleaner Production (IF: 9.297), 244, 118705. 
+26.Yuchun Yang, Jie Pan, Zhichao Zhou, Jiapeng Wu, Yang Liu, Jih-Gaw Lin, Yiguo Hong, Xiao-yan Li, Meng Li, Ji-Dong Gu. 2020. Complex microbial nitrogen-cycling networks in three distinct anammox-inoculated wastewater treatment systems. Water research (IF: 11.236), 168, 115142. 
+27.Yi-bo Hu, Miaoyue Zhang, Xiao-yan Li*. 2019. Improved longevity of nanoscale zero-valent iron with a magnesium hydroxide coating shell for the removal of Cr (VI) in sand columns. Environment international (IF: 9.621), 133, 105249. 1 
+28.Huan-yu Tao, Hui Ge, Jianghong Shi, Xiaowei Liu, Wei Guo, Mengtao Zhang, Yaobin Meng, Xiao-yan Li. 2019. The characteristics of oestrone mobility in water and soil by the addition of Ca-biochar and Fe–Mn-biochar derived from Litchi chinensis Sonn. Environmental geochemistry and health, (IF: 4.609), 42, 1601-1615. 
+29.Long Pan, Xiangru Zhang, Mengting Yang, Jiarui Han, Jingyi Jiang, Wanxin Li, Bo Yang, Xiao-yan Li. 2019. Effects of dechlorination conditions on the developmental toxicity of a chlorinated saline primary sewage effluent: Excessive dechlorination is better than not enough. Science of The Total Environment (IF: 7.963), 692, 117-126. 
+30.Cai-jie Wei, Xiao-yan Li, Yue-feng Xie, Xiao-mao Wang. 2019. Direct photo transformation of tetracycline and sulfanomide group antibiotics in surface water: Kinetics, toxicity and site modeling. Science of The Total Environment (IF: 7.963), 686, 1-9. 
+31.Jie Liu, Bing Li, Yingying Wang, Guijuan Zhang, Xiaotao Jiang, Xiao-yan Li*. 2019. Passage and community changes of filterable bacteria during microfiltration of a surface water supply. Environment international (IF: 9.621), 131, 104998. 
+32.Lijia Cao, Jiayu Zhang, Renxin Zhao, Yu Deng, Jie Liu, Wenjie Fu, Yusha Lei, Tong Zhang, Xiao-yan Li, Bing Li. Genomic characterization, kinetics, and pathways of sulfamethazine biodegradation by Paenarthrobacter sp. A01. Environment international (IF: 9.621), 131, 104961. 
+33.Xuechao Guo, Bing Li, Renxin Zhao, Jiayu Zhang, Lin Lin, Guijuan Zhang, Ruo-hong Li, Jie Liu, Pu Li, Yingyu Li, Xiao-yan Li. 2019. Performance and bacterial community of moving bed biofilm reactors with various biocarriers treating primary wastewater effluent with a low organic strength and low C/N ratio. Bioresource technology (IF: 9.642), 287, 121424. 
+34.Lin Lin, Long-hang Tam, Xue Xia, Xiao-yan Li*. 2019. Electro-fermentation of iron-enhanced primary sedimentation sludge in a two-chamber bioreactor for product separation and resource recovery. Water Research (IF: 11.236), 157, 145-154. 
+35.Guang-Jie Zhou, Xiao-yan Li, Kenneth Mei Yee Leung. 2019. Retinoids and oestrogenic endocrine disrupting chemicals in saline sewage treatment plants: Removal efficiencies and ecological risks to marine organisms. Environment international (IF: 9.621), 127, 103-113. 
+36.Xingwen Lu, Jiani Yang, Xiao-yan Li, Feiyun Sun, Fei Wang, Yuanqing Chao. 2019. Effects of phase transformation on properties of alumina ceramic membrane: A new assessment based on quantitative X-ray diffraction (QXRD). Chemical Engineering Science (IF: 4.311), 199, 349-358. 
+37.Yan-xia Zhao, Pu Li, Ruo-hong Li, Xiao-yan Li*. 2019. Direct filtration for the treatment of the coagulated domestic sewage using flat-sheet ceramic membranes. Chemosphere (IF: 7.086), 223, 383-390. 
+38.Ruo-hong Li, Wei-jun Wang, Bing Li, Jia-yu Zhang, Jie Liu, Gui-juan Zhang, Xue-chao Guo, Xi-hui Zhang, Xiao-yan Li*. 2019. Acidogenic phosphorus recovery from the wastewater sludge of the membrane bioreactor systems with different iron-dosing modes. Bioresource technology (IF: 9.642), 280, 360-370. 
+39.Wentao Shang, Rui Wang, Wenyi Dong, Xiao-yan Li, Mu Li, Lingyan Zhao, Songwen Yang, Feiyun Sun. 2019. Laser induced fluorescence (LIF) technique visualizes and characterizes concentration polarization and fouling layer in the cross-flow nanofiltration. Separation and Purification Technology (IF: 7.312), 212, 520-527. 
+40.Yan-xia Zhao, Xiao-yan Li. 2019. Polymerized titanium salts for municipal wastewater preliminary treatment followed by further purification via crossflow filtration for water reuse. Separation and Purification Technology (IF: 7.312), 211, 207-217. 
+41.Renxin Zhao, Jie Feng, Jie Liu, Wenjie Fu, Xiao-yan Li, Bing Li. 2019. Deciphering of microbial community and antibiotic resistance genes in activated sludge reactors under high selective pressure of different antibiotics. Water research (IF: 11.236), 151, 388-402. 
+42.Wenjie Fu, Jing Fu, Xiao-yan Li, Bing Li, Xiaomao Wang. 2019. Occurrence and fate of PPCPs in typical drinking water treatment plants in China. Environmental geochemistry and health (IF: 4.609), 41 (1), 5-15. 
+43.Bo-yang Meng, Xiao-yan Li*. 2019. In Situ Visualization of Concentration Polarization during Membrane Ultrafiltration Using Microscopic Laser-Induced Fluorescence. Environmental Science & Technology (IF: 9.028), 53, 2660-2669. 
+44.Liyuan Zhang, Liyuan Chai, Mengran Wang, Yuekun Lai, Yanqing Lai, Xiao-yan Li*. 2019. Controllable synthesis of carbon nanosheets derived from oxidative polymerisation of m-phenylenediamine. Journal of colloid and interface science (IF: 8.128), 533, 437-444. 
+代表性著作 
+1. Li RH, Lin L, Li XY*. (2021). Book: Sustainable resource management: technologies for recovery and reuse of energy and waste materials. Chapter: Recovery of Phosphorus from Wastewater and Sludge. Wiley-VCH Verlag GmbH & Co. KGaA,
+2. Nu X.R., Li H.B., Gu J.D. and Li X.Y. (2007) Kinetics and metabolic pathway of melatonin biodegradation by a bacterium isolated from the mangrove sediment, Environmental Biodegradation Research Trends, Frank Columbus.
+3. 冯玉杰, 李晓岩, 尤宏. (2002) 电化学技术在环境工程中的应用[M], 北京:化学工业出版社.
+主要专利成果 
+1. 一种膜生物反应器与磷回收工艺相结合的污水处理系统及处理方法，ZL2017106764，
+2. 一种污水高效脱氮的生物膜反应器，ZL201822136852.X，
+3. 一种一体化短程高效污水处理装置，ZL201822150359.3
+4. Doping of inorganic minerals to hydrophobic membrane surface，US20160129399A1（美国）
+5. 一种控制被污染底泥臭味的方法，ZL2011101542
+6. 一种控制被污染底泥臭味的方法，201110154297
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2019，环境保护科学技术奖二等奖，排名第1 
+2014，国家自然科学二等奖，排名第2 
+2012，教育部自然科学奖一等奖，排名第2 
+2011，国家自然科学基金海外及港澳学者合作研究基金 
+2008，国家自然科学基金海外杰出青年基金 
+2004，香港大学“杰出青年学者”奖 
+1997，美国环境工程与环境科学教师协会（AEESP）“最佳博士论文奖” 
+连续11年入选科学指标数据库（ESI）高被引学者（1%）
+ </奖励荣誉>

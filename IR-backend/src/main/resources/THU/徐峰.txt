@@ -1,0 +1,56 @@
+{"title":"徐峰","cnUrl":"http://www.sigs.tsinghua.edu.cn/xf/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/10/61/678158174f5a89fc6bc670b69eeb/e1f86d0c-53e9-4753-9f69-7d2d029037ba.jpg","email":"xu.feng@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2011年10月-2014年12月，加泰罗尼亚理工大学（BarcelonaTech）与巴黎中央理工-高等电力学院（CentraleSupélec）联合培养，自动化、机器人技术与视觉，欧盟博士（Doctor Internacional）
+2010年09月-2011年07月，西北工业大学，控制理论与控制工程，硕士（放弃）
+2006年09月-2010年07月，西北工业大学，测控技术与仪器，学士
+工作经历 
+2019年08月至今，清华大学深圳国际研究生院，讲师
+2018年03月-2019年08月，清华大学深圳研究生院，讲师
+2017年08月-2018年02月，清华大学深圳研究生院，研究助理
+2015年06月-2017年07月，清华大学深圳研究生院，控制科学与工程，博士后
+2014年12月-2015年01月，西班牙国家研究委员会（CSIC），机器人与工业信息研究所（IRI），博士后
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+动态系统故障诊断与容错控制（32学时）
+模型预测控制（32学时）
+线性系统理论（32学时）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事故障诊断、容错控制、模型预测控制以及机器人技术相关研究，包括基于模型的故障诊断与容错控制、基于强化学习的故障诊断与容错控制、基于模型预测控制的机器人控制与运动规划等方向研究。研究工作致力于解决系统由故障引起的安全性与可靠性问题，包括故障诊断与容错控制的前沿理论研究和面向机器人等无人系统的应用研究。主要的原创性学术贡献是系统性地提出了降低集理论鲁棒故障诊断方法保守性的解决方案，克服了该类方法的关键不足，包括：（1）从消除不确定性影响的角度，提出了集理论未知输入观测器，消除了部分不确定性的影响，并系统地发展了其在降低故障诊断保守性上的应用；（2）从优化观测器性能的角度，提出了定量刻画鲁棒故障诊断性能的排斥度、排斥趋势等概念，解决了集理论观测器的最优故障诊断增益设计问题；（3）从设计输入的角度，新提出了一种基于集分离趋势的主动故障诊断方法，解决了主动故障诊断的计算复杂性、与控制集成设计以及故障可诊断性等问题。现任IEEE Senior Member、中国自动化学会预测控制与智能决策专委会委员、深圳市科创委科技项目评审专家、深圳市科技成果转化促进会科技项目评审专家、国际会议ICSTCC编委会副编辑等。已主持国家863、国家自然科学基金、广东省自然科学基金、深圳市基础研究等项目10项。已发表SCI/EI检索论文近80篇（以第一作者或通讯作者发表的英文期刊论文超过40篇，其中JCR一区35篇）, 包括发表在控制领域两大顶级期刊IEEE Transactions on Automatic Control和Automatica上的长文（Full/Regular Paper）多篇。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Y.D. Fan and F. Xu*. Theoretical Relationship of Set-Based Robust State Estimators: An Optimality Perspective,IEEE Transactions on Automatic Control, DOI: 10.1109/TAC.2024.3359522.
+[2]  F. Xu. A New Input Design Framework for Asymptotic Active Fault Diagnosis with Application to Integrated Diagnosis and Control, Automatica, 2024,162, 111519.
+[3] F. Xu, S. Olaru and M.M. Seron. Observer Gain Optimization for Minimization of Minimal Robust Positively Invariant Sets with Application to Fault Detection, Automatica (Regular Paper),2024, 160, 111413.
+[4] C.R. Wang, H.D. Liu and F. Xu*, Performance Metric and Analytical Gain Optimality for Set-Based Robust Fault Detection, Automatica (Regular Paper), 2024, 159, 111376.
+[5] Y.D. Fan, F. Xu*, X.Q. Wang and B. Liang. Exclusion tendency-based observer design framework for active fault diagnosis, Automatica, 2023, 153, 111020. 
+[6] H.H. Qiu, F. Xu*, B. Liang andX.Q. Wang. Active Fault Diagnosis under Hybrid Bounded and Gaussian Uncertainties, Automatica, 2023,147, 110703.
+[7] F. Xu. Minimal Detectable and Isolable Faults of Active Fault Diagnosis, IEEE Transactions on Automatic Control, 2023, 68(2), 1138-1145.
+[8] J.B. Tan, S. Olaru, F. Xu* and X.Q. Wang. Towards a Convex Design Framework for Online Active Fault Diagnosis of LPV Systems, IEEE Transactions on Automatic Control, 2022, 67(8), 4154-4161. 
+[9] J.B. Tan, S. Olaru, M.M. Seron and F. Xu*. Set-Based Guaranteed Active Fault Diagnosis for LPV Systems with Bounded Uncertainties. Automatica (Regular Paper), 2021, 128, 109602. 
+[10] F. Xu. Observer-Based Asymptotic Active Fault Diagnosis: A Two-Layer Optimization Framework, Automatica (Regular Paper), 2021,128, 109558. 
+[11] F. Xu. Generalized Set-Theoretic Interval Observer Using Element-Wise Nonnegativity Transformation, Automatica (Regular Paper),2021, 125, 109452. 
+[12] F. Xu, S.L. Yang and X.Q. Wang. A Novel Set-Theoretic Interval Observer for Discrete-Time Linear Time-Invariant Systems.IEEE Transactions on Automatic Control, 2021, 66(2), 773 - 780.
+[13] F. Xu, J.B. Tan, X.Q. Wang and B. Liang. Conservatism Comparison of Set-Based Fault Detection Methods: Set-Theoretic UIO and Interval Observer Cases. Automatica, 2019, 105: 307-313. 
+[14] F. Xu, J.B. Tan, Y. Wang, X.Q. Wang, B. Liang and B. Yuan. Robust Fault Detection and Set-Theoretic UIO for LPV Systems with State and Output Equations Scheduled by Inexact Scheduling Variables.IEEE Transactions on Automatic Control (Full Paper), 2019, 64(12), 4982-4997.
+[15] F. Xu, J.B. Tan, X.Q. Wang, V. Puig, B. Liang and B. Yuan. Mixed Active/Passive Robust Fault Detection and Isolation Using Set-Theoretic Unknown Input Observers. IEEE Transactions on Automation Science and Engineering,2018, 15(2), 863-871. 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2022年12月，CCF-腾讯犀牛鸟基金优秀奖
+2019年07月，深圳市南山区领航人才
+2018年03月，深圳市海外高层次人才
+2014年12月，以最高荣誉“Excellent Cum Laude”获博士学位
+ </奖励荣誉>

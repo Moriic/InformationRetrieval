@@ -1,0 +1,61 @@
+{"title":"何永红","cnUrl":"http://www.sigs.tsinghua.edu.cn/hyh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/bf/53/28ac458c47929c3409ecfa5f1808/3a979c86-5398-45a1-aa6e-e4231f4a2dfa.jpg","email":"heyh@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+2004年至今，清华大学深圳研究生院光学检测与成像实验室，先后任讲师、副教授、教授(2009)、博导、主任
+2002年-2004年，英国克兰菲尔德大学（Cranfield）大学生命科学技术研究所博士后、研究员（Research Fellow）
+1996年-2002年，华南师范大学激光生命科学研究所（国家重点学科），攻读并获光学硕士、博士学位
+1989年-1994年，就读于安徽医科大学，获医学学士学位
+教育经历 
+1999年9月-2002年6月，华南师范大学，光学专业，博士；
+1996年9月-1999年6月，华南师范大学，光学专业，硕士；
+1989年9月-1994年6月，安徽医科大学，卫生事业管理专业，学士；
+工作经历 
+2019年3月-至今，清华大学深圳国际研究生院，生物医药与健康工程研究院党支部书记、研究员，培养处处长；
+2004年2月-2019年3月，清华大学深圳研究生院，生命与健康学部，先后任讲师、副教授、教授(2009)、博导、学部主任；
+2002年7月-2004年1月，英国克兰菲尔德大学（Cranfield）大学，生命科学技术研究所，博士后、研究员（Research Fellow）；
+学术兼职 
+深圳市生物医学工程学会，理事
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+在深圳国际研究生院开设课程：生物医学光学，医用光学仪器，生物光子学导论。
+共培养博、硕士研究生80多名（优秀毕业生、国家奖学金获得者、创业之星多名），学生创立的研制生医光学仪器高科技企业5家。
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+多年从事生物医学光学方法、技术、应用及仪器的交叉学科科研工作，主持国家自然科学基金（10项）、国家科技计划、省市科技计划、企业科技开发等几十项目，先后开展医学显微影像数字化智能化、光学相干层析（OCT）技术、光学弱测量非标记生物分子相互作用传感、高通量生物芯片分析技术等研究工作，具体如下：
+在医学病理显微影像数字化及其人工智能分析领域，攻关纳米位移传感及动控制技术，实现了高倍显微成像的高速对焦，在此基础上研制了病理切片/细胞涂片的大区域数字化扫描仪，通量高达3000片/天，技术指标国际领先，中国市场占有率30%，同时开发深度学习方法对异常组织、细胞、细胞器及微生物进行识别、分类等辅助诊断。
+在OCT影像领域，实现了时域频域联合分析系统方法，发展差分吸收OCT技术测量眼房水中糖浓度，开拓了基于互相关OCT的流体速度分布测量，获授权系列专利，国内首次实现仪器技术攻关并产业化，指标达国际领先水平，参与制定国家标准两项，眼科产品在中国市场占有率35％；其他医学科室用OCT正在研发转化过程中。
+在非标记生物分子相互作用测量领域，首次开拓光学弱测量分子传感器，研制了基于偏振干涉的频域弱测量系统，得到了基于弱值放大的稳定测量，在普通玻璃片上实现了高分辨（5x10-7RIU）的蛋白分子检测。开拓了对称波导结构的长程SPR高分辨分子相互作用传感器，将折射率分辨率提高到5x10-8RIU。
+在液相高通量生物芯片分析领域，首次实现了数字化编码，利用原子光谱、拉曼光谱、光学相位等多个物理量进行载体编码，与现有用荧光强度这一模拟量编码的技术相比，编码准确性、稳定性大幅提高，同时去除了噪声提高了检测信噪比，这一高灵敏度高能量的分析技术具有广阔的应用前景。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+发表SCI论文200多篇，被引近4000次；获授权发明专利30多项；所研发的技术被制定成国家标准2项；OCT成果转化1项，OCT眼科成像仪在中国市场占有率35％，并已走向全球；同时，研制成功多种型号的SPR分子相互作用分析仪样机、生物芯片分析仪样机、光谱成像仪样机、弱测量分析仪样机，逐步实现产业化转化。
+近5年发表论文代表作有：
+[1]Shuting Liu , Baochang Zhang , Yiqing Liu , Anjia Han , Huijuan Shi,Tian Guan* , and Yonghong He*,Unpaired Stain Transfer Using Pathology-Consistent Constrained Generative Adversarial Networks, IEEE TRANSACTIONS ON MEDICAL IMAGING, 40(8):1977-1989, 2021.
+[2]Kaijie Ma, Yunong Zhang, Le Liu*, Jingyu Xi, Xinping Qiu, Tian Guan, Yonghong He*, In situ mapping of activity distribution and oxygen evolution reaction in vanadium flow batteries, Nature Communication, 10: 5286, 2019.
+[3]Zhiyuan Shen, Yonghong He*, Gong Zhong, Qinghua He, Dongmei Li, Yanhong Ji, Dual-wavelength digital holographic phase and fluorescence microscopy for an optical thickness encoded suspension array, OPTICS LETTERS, 43(4): 739, 2018.
+[4]Yang Xu, Lixuan Shi, Tian Guan, Cuixia Guo, Dongmei Li, Yuxuan Yang, Xiangnan Wang, Luyuan Xie, Yonghong He*, Wenyue Xie*, Optimization of a quantum weak measurement system with its working areas , OPTICS EXPRESS, 26(16): 21119, 2018. 
+[5]Lixuan Shi, Yang Xu, Zhen Qiao,Xinhui Xing,Zhangyan Li,Chongqi Zhou,feaSuyi Zhong,Le Liu, Tian Guan*,and Yonghong He*,High-throughput Chiral Molecule Determination Based on Multi-channel Weak Measurement，IEEE PHOTONICS JOURNAL，13(3), 2021.
+[6]Suyi Zhong, Tian Guan, Yang Xu , Chongqi Zhou , Lixuan Shi, Cuixia Guo,Xuesi Zhou , Zhangyan Li, Yonghong He*, Xinhui Xing,Simultaneous sensing axial and radial magnetic fields based on weak measurement, Optics Communications, 486,126777,2021.
+[7]Xuejing Chen, Qinghua He, Tian Guan, Yonghong He*, Guangxia Feng, Bei Wang, Bangrong Lu, Yanhong Ji, Dual-digital encoded suspension array based on Raman spectroscopy and laser induced breakdown spectroscopy for multiplexed biodetection, Sensors and Actuators B-Chemical, 282: 457-468,2019.
+[8]Gong Zhong, Tian Guan, Zhiyuan Shen, Xiangnan Wang, Tao Hu, Delai Wang, Yonghong He*, Ni Xie, Fast phase retrieval in off-axis digital holographic microscopy through deep learning, Optics Express, 26(15), 19388 , 2018.
+[9]Zhiyuan Shen, Xiaorui Guo, Yilong Zhang, Dongmei Li, Yonghong He*, Enhancement of short coherence digital holographic microscopy by optical clearing, Biomedical Optics Express, 8(4): 2036, 2017.
+[10]Dongmei Li, Tian Guan, Fang Liu, Anping Yang, Yonghong He*, Qinghua He, Zhiyuan Shen, Meiguo Xin*, Optical rotation based chirality detection of enantiomers via weak measurement in frequency domain, Applied Physics Letters, 112, 213701 (2018).
+[11]Yang Xu, Lixuan Shi, Tian Guan*, Suyi Zhong, Xuesi Zhou, Dongmei Li, Cuixia Guo, Yuxuan Yang, Xiangnan Wang, Zhangyan Li, Yonghong He*, Luyuan Xie, Zonghan Gan, Multifunctional weak measurement system that can measure the refractive index and optical rotation of a solution, Applied Physics Letters, 114: 181901, 2019. 
+[12]Dongmei Li, Tian Guan, Yonghong He*, Fang Liu, Anping Yang, Qinghua He, Zhiyuan Shen, Meiguo Xin*, A chiral sensor based on weak measurement for the determination of Proline enantiomers in diverse measuring circumstances, Biosensors and Bioelectronics, 110: 130, (2018). 
+[13]Dongmei Li, Qinghua He, Yonghong He*, Meiguo Xin*, Yilong Zhang, Zhiyuan Shen, Molecular imprinting sensor based on quantum weak measurement, Biosensors and Bioelectronics, 94: 328 (2017).
+[14]Tian Guan*, Yuxuan Yang, Qianwen Zhang, Yonghong He*, Naihan Xu, Dongmei Li, Lixuan Shi, Yang Xu, Xiangnan Wang, Label-free and Non-destruction Determination of Single- and Double-Strand DNA based on Quantum Weak Measurement, Scientific Reports, 9: 1891, 2019.
+[15]Yang Xu, Lixuan Shi, Shaoxin Li*, Tian Guan, Suyi Zhong, Xuesi Zhou, Dongmei Li, Cuixia Guo, Yuxuan Yang, Xiangnan Wang, Zhangyan Li, Yonghong He*, Luyuan Xie, Zonghan Gan, Detection of Macromolecular Content in a Mixed Solution of Protein Macromolecules and Small Molecules Using a Weak Measurement Linear Differential System, Analytical Chemistry, 91(18): 11576-, 2019.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+获广东省科学技术一、三等奖，广东省省级南粤优秀教师奖、清华大学校级优秀工作者、教育部新世纪优秀人才获得者、2018年深圳市鹏程学者特聘教授、深圳市地方级领军人才。
+ </奖励荣誉>

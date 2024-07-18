@@ -1,0 +1,39 @@
+{"title":"余泉","cnUrl":"http://www.sigs.tsinghua.edu.cn/yq/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/2d/2c/7c8a73044a2881f0d52513fe573b/a85ca809-7a37-4e95-9e85-54cc53b473a8.jpg","email":"yu.quan@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+主要从事分析仪器研制及应用研究
+教育经历 
+2006年9月-2011年7月，厦门大学化学系，分析化学专业，理学博士
+2002年9月-2006年7月，厦门大学化学系，理学学士
+工作经历 
+2018年11月-至今，清华大学深圳国际研究生院，副研究员
+2013年10月-2018年11月，清华大学深圳研究生院，讲师
+2011年9月-2013年9月，清华大学深圳研究生院，博士后
+学术兼职 
+国际期刊《Analytical Chemistry》、《Nano Research》、《Journal of Proteome Research》、《Journal of the American Society for Mass Spectrometry》、《Rapid Communications in Mass Spectrometry》、《Rapid Communications in Mass Spectrometry》、《Journal of Mass Spectrometry》等审稿人
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《现代传感技术》（国际院），《科技写作》（国际院），《数理方法与仪器科学概论》（国际院）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+质谱仪是最精密的一种现代分析仪器，通过对物质分子量的精确测定来定性和定量分析化学成分。小型化是仪器发展的重要趋势，可以满足实时和在线的检测需求。我们的工作集中在小型质谱仪系统研究方面，包括仪器整机的设计与搭建、关键部件的研发以及开发相关的应用等。目前已经负责了包括国家重点研发计划、国家自然科学基金（面上项目及青年基金）、博士后基金、广东省自然科学基金及深圳市基础研究等在内的多个研究项目，共发表研究论文40余篇，申请国内外发明专利40余项，其中授权专利30余项。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Yanping Zhu, Ruina Zhang, Kai Wang, Jun Lu, Lin Lin, Lili Yang, Qian Zhang, Xiaohao Wang, Quan Yu*．Development and application of a miniature mass spectrometer with continuous sub-atmospheric pressure interface and integrated ionization source. Talanta, 2023, 253: 123994.
+[2]Yanping Zhu, Qian Zhang, Qian Zhang, Jun Lu, Kai Wang, Ruina Zhang, Quan Yu*．High-Throughput Screening Using a Synchronized Pulsed Self-aspiration Vacuum Electrospray Ionization Miniature Mass Spectrometer．Analytical Chemistry, 2022, 94 (20): 7417-7424.
+[3]Quan Yu*, Jing Gao, Xiaohua Yu, Jianbo Shi, Lin Lin, Xiaohao Wang．Implementing reactive secondary electrospray ionization based on gas–droplet reactions for VOC analysis．Analyst, 2022, 147 (21): 4903-4909.
+[4]Wenyan Shi, Xinming Huo, Xinyue Ding, Peiyuan Zhu, Yutong Wan, Xinqiong Lu, Rui Feng, Quan Yu*, Xiaohao Wang．Rapid screening of illegally added drugs in functional food using a miniature ion trap mass spectrometer. Food Chemistry, 2022, 386: 132808.
+[5]Wenyan Shi, Xinming Huo, Yuan Tian, Xinqiong Lu, Lili Yang, Qian Zhou, Quan Yu*, Xiaohao Wang. Development of membrane inlet photoionization ion trap mass spectrometer for trace VOCs analysis. Talanta, 2021, 230: 122352.
+[6]Qian Zhang, Yanping Zhu, Yuan Tian, Quan Yu*, Xiaohao Wang. Induced Self-aspiration Electrospray Ionization Mass Spectrometry for Flexible Sampling and Analysis. Analytical Chemistry, 2020, 92 (6): 4600-4606.
+[7]Quan Yu*, Qian Zhang, Xinqiong Lu, Xiang Qian, Kai Ni, Xiaohao Wang. Developing a Vacuum Electrospray Source to Implement Efficient Atmospheric Sampling for Miniature Ion Trap Mass Spectrometer. Analytical Chemistry, 2017, 89 (23): 12938-12944.
+[8]Quan Yu, Qian Zhang, Xiaohao Wang, Xiang Qian, Kai Ni, Vacuum Electrospray Ion Source and Mass Spectrometer, 2018-5-16, US Patent, 15/981,490
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

@@ -1,0 +1,62 @@
+{"title":"吴乾元","cnUrl":"http://www.sigs.tsinghua.edu.cn/wqy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/0c/d7/178253e7486a8971186b6fc53ec0/729a4117-d28c-46bf-9bd6-440f6f135050.jpg","email":"wu.qianyuan@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2005.9-2010.7 清华大学 环境科学与工程 博士
+2001.9-2005.6 清华大学 给排水工程专业 学士
+工作经历 
+2019.4至今 清华大学深圳国际研究生院 副教授、长聘副教授
+2016.11-2019.3 清华大学深圳研究生院 副教授
+2012.7-2016.11 清华大学深圳研究生院 讲师
+2010.7-2012.7 清华大学环境学院 博士后
+学术兼职 
+[1] 国际标准化组织城镇水回用技术分委会安全性评价工作组（ISO/TC282/SC2/WG3）专家
+[2] 国际标准化组织水回用风险与绩效评价技术分委会再生水处理技术评价工作组 （ISO/TC282/SC3/WG2）专家
+[3] 国际水协会中国青年委员会委员
+[4] 中国环境科学学会水处理与回用专业委员会 副秘书长
+[5] 期刊《工业水处理》青年编委会副主任
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《水处理过程化学》
+《污染控制实验技术》
+《水质研究方法》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事再生水水质安全评价与保障技术研究，包括生物毒性评价技术、高级氧化技术、安全消毒技术、印染废水深度处理技术等。
+主要项目 
+[1] 国家自然科学基金优秀青年基金项目
+[2] 国家自然科学基金面上项目
+[3] 国家自然科学基金青年基金项目
+[4] 深圳市科创委基础研究重点项目
+ </研究领域>
+<研究成果>
+代表性论文 
+Selected Publications/代表性论文: 
+[1] Qian-Yuan Wu, Lu-Lin Yang, Xin-Yang Zhang, Wen-Long Wang, Ye Du*, Yun Lu, Hong-Ying Hu. Ammonia mediated bromate inhibition during ozonation promotes the toxicity due to organic byproduct transformation. Environmental Science & Technology, 2020, 54, 14, 8926–8937.
+[2] Qian-Yuan Wu, Zi-Fan Liang, Wen-Long Wang, Ye Du*, Hong-Ying Hu, Lu-Lin Yang, Wen-Cheng Huang. Non-volatile disinfection byproducts are far more toxic to mammalian cells than volatile byproducts. Water Research, 2020, 116080.
+[3] Lu Peng, Hai Liu, Wen-Long Wang, Zi-Bin Xu, Xin-Ye Ni, Yin-Hu Wu, Qian-Yuan Wu*, Hong-Ying Hu. Degradation of methylisothiazolinone biocide using a carbon fiber felt-based flow-through electrode system (FES) via anodic oxidation. Chemical Engineering Journal, 2020, 384, 123239.
+[4] Qian-Yuan Wu*, Yu-Ting Zhou, Wanxin Li, Xiangru Zhang, Ye Du*, Hong-Ying Hu. Underestimated risk from ozonation of wastewater containing bromide: Both organic byproducts and bromate contributed to the toxicity increase. Water Research, 2019, 162,43-52.
+[5] Qian-Yuan Wu, Tian-Hui Zhou, Ye Du, Bei Ye, Wen-Long Wang*, Hong-Ying Hu. Characterizing the molecular weight distribution of dissolved organic matter by measuring the contents of electron-donating moieties, UV absorbance, and fluorescence intensity. Environment International, 2020, 137, 105570.
+代表性著作 
+[1]胡洪营,黄晶晶,孙艳,吴乾元,等著.水质研究方法,科学出版社,2015.
+[2]胡洪营,吴乾元,黄晶晶,赵欣,等著.再生水水质安全评价与保障原理,科学出版社,2011.
+主要专利成果 
+[1]一种控制臭氧溴酸盐副产物的方法，中国，ZL201810651928.4，2021-04-09
+[2]一种利用紫外线处理偶氮染料废水的方法，中国，ZL201510366507.3，2018-02-09
+[3]一种利用氧化石墨烯催化臭氧的水处理方法，中国，ZL201510865815.0，2017-09-26
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2020 ISO卓越贡献奖
+2019 国家科技进步奖二等奖（排名第7）
+2018 环境保护科学技术奖一等奖（排名第6）
+2016 深圳市青年科技奖
+2016 第十届中国环境科学学会青年科技奖
+2016 广东省高层次人才特殊支持计划科技创新青年拔尖人才
+2013 JSWE-IDEA Water Environment International Exchange Award, Japan Society on Water Environment
+ </奖励荣誉>

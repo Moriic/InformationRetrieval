@@ -1,0 +1,70 @@
+{"title":"董宇涵","cnUrl":"http://www.sigs.tsinghua.edu.cn/dyh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/5f/61/491717004ed4845990c564f28194/c53486a4-ba55-49dc-bc2b-790cf1416318.jpg","email":"dongyuhan@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+主要从事无线通信、机器学习研究
+教育经历 
+2005年08月-2009年12月，博士，美国北卡罗来纳州立大学电气工程专业
+2002年09月-2005年07月，硕士，清华大学信息与通信工程专业
+1998年09月-2002年07月，学士，清华大学无线电技术与信息系统专业
+工作经历 
+2019年09月至今，副教授，清华大学深圳国际研究生院
+2013年12月-2019年08月，副教授，清华大学深圳研究生院
+2010年01月-2013年11月，讲师，清华大学深圳研究生院
+学术兼职 
+IEEE Senior Member、中国光学工程学会高级会员、ACM会员、OPTICA会员，《Photonics》期刊主题编委（MDPI主办），受邀担任ACM SenSys 2018博士生论坛主席，IEEE ICC 2018~2022、VTC 2018和2021等会议程序委员会委员，深圳市医院管理者协会政策研究与规划专委会委员，深圳市教育学会高等教育学专业委员会委员，民盟深圳市生态文明建设委员会委员。
+国家自然科学基金委员会同行评议人、教育部学位论文评阅人、深圳市发改委、科创委科技评审专家；（IEEE）COMST、JSAC、COMMAG、TWC、TCOM、TSP、TVT、PJ、CL、WCL、PTL、Sensors、JBHI、OJCS、SJ，（OPTICA）OE、OL、AO、COL等国际期刊和IEEE ICC、GLOBECOM、PIMRC、VTC、WCNC、ITSC、ICCC、ACM WUWNet、Sensys等国际会议审稿人。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《无线通信工程》：国际院
+《现代信息网络技术》：国际院
+《信息与通信技术》：国际院，全英文
+《生物医学与信息学实验（轮转1）》：国际院
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 研究方向包括无线通信与网络、机器学习与优化、智能传感器网络及应用、人工智能与医疗、智能交通车路协同。作为项目（技术）负责人承担国家自然科学基金、国家重点研发计划子课题、省部级项目、企业委托项目30余项。累计发表论文170余篇，申请专利60余项，授权专利30余项。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Zhaoming Wang, Li Zhang, Jingzhou Li, Guodan Wei, Yuhan Dong, and H.Y. Fu. Fluorescent concentrator based MISO-NOMA for visible light communications. Optics Letters, 2022, 47(4): 902-905.
+[2]Fan Yang and Yuhan Dong. Joint probabilistic shaping and beamforming scheme for MISO VLC systems. IEEE Wireless Communications Letters, 2022, 11(3): 508-512.
+[3]Yang Ming, Jiaxuan Chen, Yuhan Dong, and Zhaocheng Wang. Evolutionary game based strategy selection for hybrid V2V communications. IEEE Transactions on Vehicular Technology, 2022, 71(2): 2128-2133.
+[4]Li Zhang, Zhaoming Wang, Yuting Cai, Rongjun Xie, Jianshe Ma, H.Y. Fu, and Yuhan Dong. Large coverage white-light controller combining adaptive QoS-enhanced mQAM-NOMA for high-speed visible light communication. IEEE/OPTICA Journal of Lightwave Technology, 2022, 40(2): 415-422.
+[5]Fan Yang, Kai Zhang, Yongzhi Zhai, Jinguo Quan, and Yuhan Dong. Artificial noise design in time domain for indoor SISO DCO-OFDM VLC wiretap systems. IEEE/OPTICA Journal of Lightwave Technology. 2021, 39(20): 6450-6458.
+[6]Shi Zhang, Zixian Wei, Zhiyuan Cao, Keming Ma, Chien-Ju Chen, Meng-Chyi Wu, Yuhan Dong, and H. Y. Fu. A high-speed visible light communication system using pairs of micro-size LEDs, IEEE Photonics Technology Letters. 2021, 33(18): 1026-1029.
+[7]Zhiyuan Cao, Zixian Wei, Shi Zhang, Keming Ma, H.Y. Fu, and Yuhan Dong. Misalignment analysis of a high-speed uplink OWC system based on a 940-nm VCSEL,” IEEE Photonics Technology Letters, vol. 33, no. 18, pp. 1022-1025, Sept. 2021.
+[8]Li Zhang, Zixian Wei, Zhaoming Wang, Zuhang Geng, Guodan Wei, Julian Cheng, H.Y. Fu, and Yuhan Dong. High-speed multi-user optical wireless communication between VCSEL-integrated electronic devices. Optics Communications, 2021, 486: 126774.
+[9]Dong Zhou, Hongyi Liu, Huimin Ma, Xiang Wang, Xiaoqin Zhang, and Yuhan Dong. Driving behavior prediction considering cognitive prior and driving context. IEEE Transactions on Intelligent Transportation Systems. 2021, 22(5): 2669-2678.
+[10]Lei Wang, Zixian Wei, Chien-Ju Chen, Lai Wang, H.Y. Fu, Li Zhang, Kai-Chia Chen, Meng-Chyi Wu, Yuhan Dong, Zhibiao Hao, and Yi Luo. 1.3 GHz E-O bandwidth GaN-based micro-LED for multi-gigabit visible light communication. Photonics Research. 2021, 9(5): 792-802.
+[11]Zixian Wei, Shi Zhang, Simei Mao, Lei Wang, Li Zhang, Chien-Ju Chen, Meng-Chyi Wu, Yuhan Dong, Lai Wang, Yi Luo, and H.Y. Fu. Full-duplex high-speed indoor optical wireless communication network based on micro-LED and VCSEL array. Optics Express. 2021, 29(3): 3891-3902.
+[12]Li Zhang, Zhaoming Wang, Zixian Wei, Chen Chen, Guodan Wei, H. Y. Fu, and Yuhan Dong. Towards 20 Gbps multi-user bubble turbulent NOMA UOWC system with green and blue polarization multiplexing. Optics Express. 2020, 28(21): 31796-31807.
+[13]Ping Liu, Yuan Liu, Siwei Zhang, Jingzhou Li, Chunyun Wang, Cong Zhao, Pengbo Nie, Yuhan Dong, Xuan Zhang, Shixi Zhao, and Guodan Wei. Lead‐free Cs3Sb2Br9 single crystals for high performance narrowband photodetector.Advanced Optical Materials. 2020.
+[14]Zixian Wei, Li Zhang, Lei Wang, Chien-Ju Chen, Zhaoming Wang, Kai-Chia Chen, Meng-Chyi Wu, Yuhan Dong, Lai Wang, Yi Luo, and H. Y. Fu. Multi-user high-speed QAM-OFDMA visible light communication system using a 75-μm single layer quantum dot micro-LED. Optics Express. 2020, 28(12): 18332-18342.
+[15]Zixian Wei, Li Zhang, Lei Wang, Chien-Ju Chen, Alberto Pepe, Xin Liu, Kai-Chia Chen, Meng-Chyi Wu, Yuhan Dong, Lai Wang, Yi Luo, and H.Y. Fu. 2 Gbps/3 m air-underwater optical wireless communication based on a single layer quantum dot blue micro-LED. Optics Letters. 2020, 45(9): 2616-2619.
+[16]Renzhi Yuan, Jianshe Ma, Ping Su, Yuhan Dong, and Julian Cheng, Monte-Carlo integration model for multiple scattering based optical wireless communication. IEEE Transactions on Communications. 2020, 68(1): 334-348.
+[17]Zhengping Li, Kai Zhang, Bokui Chen, Yuhan Dong, and Lin Zhang. Driver identification in intelligent vehicle-systems using machine learning algorithms. IET Intelligent Transport Systems. 2019, 13(1): 40-47.
+[18]Zhaoquan Zeng, Shu Fu, Huihui Zhang, Yuhan Dong, and Julian Cheng. A survey of underwater optical wireless communication. IEEE Communications Surveys and Tutorials. 2017, 19(1): 204-238.
+代表性著作 
+主要专利成果 
+1. 董宇涵, 耿祖航，李志德，阳帆，权进国，金爽，一种基于ABO-OFDM 的低PAPR 通信方法，专利号：ZL202110400836.0，2022-3-1授权。
+2. 董宇涵，阳帆，李志德，耿祖航，权进国，金爽，一种基于时域人工噪声的通信方法，专利号：ZL202110030405.X，2022-2-15授权。
+3. 董宇涵，阳帆，耿祖航，李志德，权进国，金爽，一种基于概率整形的通信方法”，专利号：ZL202110055098.0，2022-2-11授权。
+4. 董宇涵，张莉，张凯，一种非正交多址接入解码方法，专利号：ZL201910934411.0，2021-10-29授权。
+5. 董宇涵，任文婷，张凯，眼底图像血管分割方法，专利号：ZL201910440134.8，2021-4-23授权。
+6. 董宇涵，康晋博，喻越，张凯，李志德，一种无袖套连续血压监测方法和装置，申请号ZL201711330577.9，2021-2-2授权。
+7 董宇涵，陈英杰，张凯，权进国，李志德，一种偏振复调制方法及水下无线光通信的通信方法，专利号ZL201911012889.4，2020-10-20授权。
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2022年获得深圳市科技进步奖二等奖（第三完成人）。
+2019年获得北京市高校第十一届青年教师教学基本功比赛工科类A组三等奖2018年获得清华大学第八届青年教师教学大赛工科组一等奖
+2017年入选深圳市后备级高层次人才
+2015年入选深圳市海外高层次人才
+2021年图像与信号处理、生物医学工程与信息学国际学术会议（CISP-BMEI）最佳论文奖
+2008年IEEE全球通信大会(GLOBECOM)最佳论文奖
+ </奖励荣誉>

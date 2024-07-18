@@ -1,0 +1,79 @@
+{"title":"张凯","cnUrl":"http://www.sigs.tsinghua.edu.cn/zk/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/5e/3d/cf58d2184c95a36960a291a51d9f/c55b8986-bfb5-49b5-9163-b78bd7f226f1.jpg","email":"zhangkai@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1999.9-2004.7 清华大学精密仪器系，工学博士
+1995.8-1999.7 清华大学精密仪器系，本科
+工作经历 
+2014年3月至今，清华大学深圳国际研究生院，副教授
+2004年10月-2014年2月，日本三菱重工，研究员，高级研究员
+2005年4月-2010年3月，清华-三菱重工联合研发中心，主任
+学术兼职 
+Transportation Research Part D编委、客座编辑
+深圳市交通委员会专家
+深圳市智能交通行业协会副秘书长
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+多传感器融合理论及其应用
+智能交通系统概论
+实验设计与数据处理
+交通系统分析及控制
+交通运输工程导论
+现代智能交通系统导论
+新能源汽车智能技术
+英语（第一外国语）
+Intelligent Transportation Systems and High-Accuracy Positioning
+Traffic Modeling and Simulation
+Advanced Intelligent Transportation Systems
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+理论方法：信息融合与统计信号处理，运筹优化，大数据
+应用领域：智能交通，智能驾驶，智能电网，智慧城市
+技术研发：高精度位姿估计，基于大数据的交通预测和管理，新能源汽车基础设施优化和健康管理
+主要项目 
+1) 广东省重大专项，2021.1-2023.12，智能电动汽车新型电子电气架构关键技术研发及应用，课题负责人
+2) 企业横向，2019.12-2021.11，自动割草机关键技术研究，项目负责人
+3) 科技部重点研发，2019.01-2022.12，城市交通“状态迁移-态势演化”的敏捷预测与可靠推演，子课题负责人
+4) 国际合作，2018.10-2019.6，电缆劣化诊断技术研发，项目负责人
+5) 深圳科创委，2017.6-2020.12，新能源汽车检测关键技术研究，子课题负责人
+6) 深圳科创委，2017.6-2020.12，物流末端配送机器人关键技术研究，子课题负责人
+7) 深圳市科创委，2015.12-2017.12，基于实时全景系统的高级辅助驾驶关键技术研究及产业化，项目负责人
+8) 清华大学交叉创新基金，2015.6-2018.6，车辆驾驶姿态与驾驶员行为大数据采集与分析，项目负责人
+9) 国际合作，2015.3-2016.3，分布式网络系统中同步日志文件的算法和协议，项目负责人
+ </研究领域>
+<研究成果>
+代表性论文 
+近5年（2015年-2020年）发表60多篇高水平论文，其中一作/通讯SCI期刊论文15篇（TOP期刊论文4篇，中科院一区论文4篇，二区4篇，三区3篇，四区4篇），总IF>58，总他引>95。已获得22项授权专利。
+代表性论文
+[1]. Feng Mao, Zhiheng Li, Kai Zhang, Carbon dioxide emissions estimation of conventional diesel buses electrification: A well-to-well analysis in Shenzhen, China, Journal of Cleaner Production, 277, 2020, DOI:10.1016/j.jclepro.2020.123048
+[2]. Jinping Guan, Kai Zhang, Qing Shen, Ying He, Dynamic Modal Accessibility Gap Measurement and Application Using Travel Routes Data, Transportation Research Part D, 81, 102272, 2020
+[3]. Fushi Lian, Bokui Chen, Kai Zhang, Lixin Miao, Jinchao Wu & Shichao Luan, Adaptive traffic signal control algorithms based on probe vehicle data, Journal of Intelligent Transportation Systems, 2020, DOI: 10.1080/15472450.2020.1750384
+[4]. Yuping Lin, Kai Zhang, Zuo-Jun Shen, Bin Ye, Lixin Miao, Multistage Large-scale Charging Station Planning for Electric Buses Considering Transportation Network and Power Grid, Transportation Research Part C, 107, 423-443, 2019
+[5]. Yuping Lin, Kai Zhang, Zuo-Jun Shen, Lixin Miao, Charging Network Planning for Electric Bus Cities: A Case Study of Shenzhen, China, Sustainability, 11(17), 4713, 2019
+[6]. Nan Cui, Bokui Chen, Kai Zhang, Yi Zhang, Xiaotong Liu, Jun Zhou, Lixin Miao, Effects of route guidance strategies on traffic emissions in intelligent transportation systems. Physica A: Statistical Mechanics and its Applications, 513, 32-44, 2019
+[7]. Zhengping Li, Kai Zhang, Bokui Chen, Yuhan Dong, Lin Zhang, Driver identification in intelligent vehicle systems using machine learning algorithms, IET Intelligent Transport Systems, 13(1), 40-47, 2019
+[8]. Xiaotong Liu, Kai Zhang, Bokui Chen, Jun Zhou, Lixin Miao, Analysis of logistics service supply chain for the One Belt and One Road initiative of China. Transportation Research Part E, 117, 23-29, 2018
+[9]. Bokui Chen, David Z. W. Wang, Yachun Gao, Kai Zhang, Lixin Miao, Binghong Wang, Effects of traffic lights for Manhattan-like urban traffic network in intelligent transportation systems, Transportmetrica B: Transport Dynamics, 6(1), 4-16, 2018
+[10]. Jinchao Wu, Bokui Chen, Kai Zhang, Jun Zhou, Lixin Miao, Ant pheromone route guidance strategy in intelligent transportation systems. Physica A: Statistical Mechanics and its Applications. 503, 591-603, 2018
+[11]. Kai Zhang, Shaojun Liu, Yuhan Dong, Daoshun Wang, Yi Zhang, Lixin Miao, A Vehicle Positioning System with Multi-hypothesis Map Matching and Robust Feedback, IET Intelligent Transport Systems, 11(10), 649-658, 2017
+[12]. Nannan Hao，Yixiong Feng，Kai Zhang，Guangdong Tian，Hongfei Jia, Evaluation of traffic congestion degree: an integrated approach, International Journal of Distributed Sensor Networks, 13(7), 2017
+[13]. Bin Ye, Kai Zhang, JingJing Jiang, Lixin Miao, Ji Li, Towards a 90% renewable energy future: A case study of an island in the South China Sea, Energy Conversion and Management, 142, 28-41, 2017
+[14]. Weixi Gu, Kai Zhang, Zimu Zhou, Ming Jin, Yuxun Zhou, Xi Liu, Costas J. Spanos, Zuo-Jun (Max) Shen, Wei-Hua Lin, Lin Zhang, Measuring fine-grained metro interchange time via smartphones, Transportation Research Part C, 81, 153–171, 2017
+[15]. Xi Li, Huimin Ma, Xiang Wang, Kai Zhang, Saliency Detection via Alternative Optimization Adaptive Influence Matrix Model, Pattern Recognition Letters (2017), doi:10.1016/j.patrec.2017.11.006
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2020年中国智能交通协会科学技术奖二等奖
+2019年中国智能交通协会科学技术奖三等奖
+2018年华夏建设奖科学技术奖一等奖
+2017年～2020年清华大学优秀毕业生（指导教师）
+2016年～2020年清华大学优秀硕士毕业论文（指导教师）
+2010年、2011年三菱重工杰出贡献奖。
+ </奖励荣誉>

@@ -1,0 +1,88 @@
+{"title":"冯平法","cnUrl":"http://www.sigs.tsinghua.edu.cn/fpf/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/be/9a/58623ab94857818fd34b5d5f4757/3c1a2e6d-c0af-41df-afbf-8b5735c66a09.jpg","email":"feng.pingfa@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1982.09-1987.07：清华大学精密仪器与机械学系机械制造及其自动化专业，工学学士
+1987.09-1989.12：清华大学精密仪器与机械学系机械制造专业，工学硕士
+1989.12-1992.12：清华大学精密仪器与机械学系，助教
+1992.12-1998.08：清华大学精密仪器与机械学系，讲师
+1998.08-2009.12：清华大学精密仪器与机械学系，副教授
+1999.04-2003.08：德国柏林工业大学交通与机械系统系机械制造专业，访问学者，工学博士（Dr.-Ing.）
+2009.12-2012.12：清华大学精密仪器与机械学系，教授
+2012.12至今：清华大学机械工程系，教授
+2015.07至今：清华大学深圳研究生院，教授，鹏城学者
+教育经历 
+工作经历 
+学术兼职 
+中国金属切削刀具协会 切削先进技术研究分会 理事
+中国机械工程学会 特种加工分会 理事
+中国机械工业教育协会机械设计制造及其自动化学科教学委员会 委员
+中国机械工程学会 高级会员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+本科生课程：制造工程基础（国家级精品课），互换性与技术测量
+研究生课程：先进制造技术，精密与特种加工，制造装备设计与性能分析
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+1.超声加工工艺与装备
+2.高速高效切削工艺与装备
+3.数控加工精度原位检测
+4.制造装备性能分析与优化
+5.智能制造
+完成或正在主持国家973计划、863计划、重大专项、自然科学基金、国际合作及企业合作课题20余项，出版专著1部，发表论文200多篇，发明专利20余项。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1. Wang J, Feng P, Zhang J. Reducing edge chipping defect in rotary ultrasonic machining of optical glass by compound step-taper tool. Journal of Manufacturing Processes, 2018, 32: 213-221.
+2. Wang J, Feng P, Zhang J. Experimental study on vibration stability in rotary ultrasonic machining of ceramic matrix composites: cutting force variation at hole entrance. Ceramics International, 2018, 44(12), 14386-14392.
+3. Zhihang Lin, Jianfu Zhang, Pingfa Feng, Dingwen Yu, Zhijun Wu. Modeling and optimization of thermal characteristics for roll grinders. International Journal of Advanced Manufacturing Technology, 2018(9):1-12.
+4. Wang J, Zhang J, Feng P. Experimental and theoretical investigation on critical cutting force in rotary ultrasonic drilling of brittle materials and composites. International Journal of Mechanical Sciences 2018, 135: 555-564.
+5. Wang J, Zheng J, Feng P. Damage formation and suppression in rotary ultrasonic machining of hard and brittle materials: a critical review. Ceramics International, 2018, 44(12), 14386-14392.
+6. Zha H T, Feng P F, Zhang J F, et al. Material removal mechanism in rotary ultrasonic machining of high volume fraction SiCp/Al composites. International Journal of Advanced Manufacturing Technology 2018, 97(5-8): 2099–2109.
+7. Wang, JJ; Zhang, JF; Feng, PF. Effects of tool vibration on fiber fracture in rotary ultrasonic machining of C/SiC ceramic matrix composites. COMPOSITES PART B-ENGINEERING 2017 (129): 233-242.
+8. Zhou, K; Feng, PF; Xu, C; Zhang, JF; Wu, ZJ. High-order full-discretization methods for milling stability prediction by interpolating the delay term of time-delayed differential equations. INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY 2017 (93), 5-8: 2201-2214.
+9. Xu, C; Feng, PF; Zhang, JF; Yu, DW; Wu, ZJ. Milling stability prediction for flexible workpiece using dynamics of coupled machining system. INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY 2017 (90), 9-12: 3217-3227.
+10. Wang, JJ; Feng, PF; Zha, TJ. Process monitoring in precision cylindrical traverse grinding of slender bar using acoustic emission technology. JOURNAL OF MECHANICAL SCIENCE AND TECHNOLOGY 2017(31),2: 859-864.
+11. Wang, JJ; Feng, PF; Zhang, JF; Cai, WC; Shen, H. Investigations on the critical feed rate guaranteeing the effectiveness of rotary ultrasonic machining. ULTRASONICS 2017 (74): 81-88.
+12. Wang, JJ; Feng, PF; Zhang, JF; Shen, H. Experimental investigation on the effects of thermomechanical loading on the vibrational stability during rotary ultrasonic machining. MACHINING SCIENCE AND TECHNOLOGY 2017 (21),2: 239-256.
+13. Feng, PF; Wang, JJ; Zhang, JF; Zheng, JZ. Drilling induced tearing defects in rotary ultrasonic machining of C/SiC composites. CERAMICS INTERNATIONAL 2017 (43),1: 791-799.
+14. Wang J J, Feng P F, Zhang J F, et al. Modeling the dependency of edge chipping size on the material properties and cutting force for rotary ultrasonic drilling of brittle materials. International Journal of Machine Tools and Manufacture, 2016, 101: 18-27.
+15. Wang J J, Feng P F, Zheng J F, et al. Improving hole exit quality in rotary ultrasonic machining of ceramic matrix composites using a compound step-taper drill. Ceramics International, 2016, 42(12): 13387–13394.
+16. Wang J J, Zha H T, Feng P F, et al. On the mechanism of edge chipping reduction in rotary ultrasonic drilling: a novel experimental method. Precision Engineering, 2016, 44: 231–235.
+17. Ma Yuan, Feng Pingfa, Zhang Jianfu, Wu Zhijun, Yu Dingwen. Prediction of Surface Residual Stress after End Milling based on Cutting Force and Temperature. Journal of Materials Processing Technology，2016, 235: 41-48.
+18. Wang J J, Feng P F, Zhang J F. Reduction of edge chipping in rotary ultrasonic machining by using step drill: a feasibility study. The International Journal of Advanced Manufacturing Technology, 2016, 87:2809–2819. 
+19. Sui, SC, Feng, PF. The influences of tool wear on Ti6Al4V cutting temperature and burn defect. INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY. 2016, 85(9-12): 2831-2838.
+20. Li, DX, Feng, PF, Zhang, JF, Wu, ZJ, Yu, DW. Method for modifying convective heat transfer coefficients used in the thermal simulation of a feed drive system based on the response surface methodology. NUMERICAL HEAT TRANSFER PART A-APPLICATIONS, 2016, 69(1): 51-66
+21. Abbasi, Sarwar Ali; Feng, Pingfa; Ma, Yuan; Zhang, Jianfu; Yu, Dingwen; Wu, Zhijun. Influence of microstructure and hardness on machinability of heat-treated titanium alloy Ti-6Al-4V in end milling with polycrystalline diamond tools. International Journal of Advanced Manufacturing Technology,2016, 86 (5-8): 1393-1405.
+22. Ma Yuan, Feng Pingfa, Zhang Jianfu, et al. Energy criteria for machining-induced residual stresses in face milling and their relation with cutting power. INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY, 2015, 81(5-8): 1023-1032.
+23. Zhang Jianfu, Wang Dong, Feng Pingfa, et al. Effect of processing parameters of rotary ultrasonic machining on surface integrity of potassium dihydrogen phosphate crystals. ADVANCES IN MECHANICAL ENGINEERING, 2015, 7(9)
+24. Xu Daochun, Feng Pingfa, Li Wenbin, et al. An improved material constitutive model for simulation of high-speed cutting of 6061-T6 aluminum alloy with high accuracy. INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY, 2015, 79(5-8): 1043-1053
+25. Wang Jianjian, Zhang Jianfu, Feng Pingfa. Modeling and simulation for the critical bending force of power chucks to guarantee high machining precision. NTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY, 2015, 79(5-8): 1081-1094
+26. Ma Yuan, Yu Dingwen, Feng Pingfa, et al. Finite element method study on the influence of initial stress on machining process. ADVANCES IN MECHANICAL ENGINEERING, 2015, 7(3)
+27. Wang J, Zhang C, Feng P, et al. A model for prediction of subsurface damage in rotary ultrasonic face milling of optical K9 glass. The International Journal of Advanced Manufacturing Technology, 2015: 1-9.
+28. Pingfa Feng, Guiqiang Liang, Jianfu Zhang. Ultrasonic vibration-assisted scratch characteristics of silicon carbide-reinforced aluminum matrix composites. Ceramics International. 2014, 40(7, Part B): 10817-10823.
+29. LI Dianxin, FENG Pingfa, ZHANG Jianfu. Calculation method of convective heat transfer coefficients for thermal simulation of a spindle system based on RBF neural network. International Journal of Advanced Manufacturing Technology. 2014, 70(5-8): 1445-1454
+30. Li D. X., Feng P. F., Zhang J. F., Yu D. W., Wu Z. J. An identification method for key geometric errors of machine tool based on matrix differential and experimental test. Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science. 2014, 228 (17): 3141-3155.
+31. Xu, Daochun; Feng, Pingfa; Li, Wenbin. Research on chip formation parameters of aluminum alloy 6061-T6 based on high-speed orthogonal cutting model. International journal of advanced manufacturing technology. 2014, 72 (5-8): 955-962.
+32. J.F. Zhang, P.F. Feng, C. Chen, D.W. Yu, Z.J. Wu. A method for thermal performance modeling and simulation of machine tools. The International Journal of Advanced Manufacturing Technology. 2013, 68(5-8):1517-1527.
+33. J.F. Zhang, P.F. Feng, Z.J. Wu, D.W. Yu, C. Chen. Thermal structure design and analysis of a machine tool headstock. MECHANIKA. 2013, 19(4): 478-485.
+34. C. L. Zhang, P. F. Feng, J. F. Zhang. Ultrasonic vibration-assisted scratch-induced characteristics of C-plane sapphire with a spherical indenter. International Journal of Machine Tools and Manufacture. 2013, 64(1): 38-48.
+35. Feng P F, Zhang C L, Wu Z J, Zhang J F. Effect of scratch velocity on deformation features of C-plane sapphire during nanoscratching. Strojni？ki vestnik-Journal of Mechanical Engineering, 2013, 59(6): 367-374.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1.深圳市鹏城学者
+2.北京市优秀教师（2017）
+3.清华大学先进工作者（2008，2014，2016）
+4.清华大学优秀博士论文指导教师（2013，2018）
+5.清华大学“良师益友”（2012）
+6.国家级精品课、国家级精品资源课程“制造工程基础”（课程负责人）
+7.清华大学优秀教学成果特等奖1项、二等奖3项
+ </奖励荣誉>

@@ -1,0 +1,133 @@
+{"title":"宋健","cnUrl":"http://www.sigs.tsinghua.edu.cn/sj_6973/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/ea/6b/49bcd6b4476bb470d6fd57d404a6/27e81fb8-e629-4498-886e-91bb9ea3e54d.png","email":"jsong@tsinghua.edu.cn"}
+<个人简历>
+概况 
+ 1990年7月清华大学电子工程系信息与通信工程专业本科毕业，曾于1990年获得第一届清华大学特等奖学金。1995年3月获得清华大学电子工程系信息与通信工程专业博士学位，论文研究方向为光纤通信系统建模和特性仿真。1995年3月留校任教，先后在香港中文大学讯息工程学系从事光纤通信系统系统特性的博士后研究、在加拿大滑铁卢大学电机和计算机工程系从事光纤通信系统仿真软件设计的博士后研究。1997年6月被聘为副教授。1998年进入美国休斯网络系统公司，在ADG (Advanced Development Group)从事研究工作。研究领域涉及无线IEEE 802.11n物理层建议、卫星W-CDMA系统、HAP系统、卫星通信系统特性仿真、电子扫描天线等。2005年1月回到清华大学，现任数字电视技术研究中心主任，数字电视国家工程实验室（北京）主任、和深圳市数字电视系统重点实验室主任。
+教育经历 
+1990年7月-1995年3月，清华大学，电子工程系信息与通信工程专业，博士
+1986年9月-1990年7月，清华大学，电子工程系信息于通信工程专业，学士
+工作经历 
+1997年6月-1998年4月，清华大学，副教授
+1998年4月-2005年1月，美国休斯网络系统公司，资深工程师
+2005年1月-至今，清华大学，教授，
+学术兼职 
+Ø 美国电气电子工程协会会士
+Ø 英国工程技术学会会士
+Ø 中国电子学会会士
+Ø 中国通信学会会士
+Ø 国际电联《信息通信技术发现杂志》、《智能融合网络》创始主编
+Ø IEEE广播事务副主编
+Ø IEEE Access BTS分会主编
+Ø 法国电子通讯材料研究所(ISEP)客座教授
+Ø 阿联酋迪拜阿米提大学名誉教授
+Ø ISPLC管理委员会成员
+Ø ITU-R第六工作组副主席、声音与多媒体广播子工作组主席
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+Ø 《信号与系统》，二年级春节学期，英文授课，清华本部
+Ø 《通信网络设计实例研究》，高年级研讨课，三年级春节学期，英文授课，清华本部
+Ø 《通信系统》，三年级春节学期，中文授课，清华本部
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+01/2005-至今
+ •  无线通信、数字电视地面传输技术与网络融合
+ • 可见光通信及与电力线通信的深度融合系统
+ •  光健康
+10/1998-01/2005
+ •  应用点波束的卫星通信系统
+ • 电子扫描天线技术
+07/1997-10/1998
+ • 光纤通信器件和系统仿真软件包
+04/1996-06/1997
+ • 光纤通信器件和系统建模，系统特性仿真研究
+主要项目 
+Ø 国家重点研发计划《新形态多功能室内智慧照明关键技术及系统集成》（2017.6-2021.6）
+Ø 清华大学－安捷伦信息与通信测量联合研究中心主任（2007—）.
+Ø 清华大学－香港应用科技研究院多媒体广播与通信联合实验室主任（2007- 2010）.
+Ø 欧盟FP6项目“Multistandard integrated network convergence for global mobile and broadcast technologies”中方负责人
+Ø 国家中长期重大专项核高基“数字电视高端SoC芯片”
+ </研究领域>
+<研究成果>
+代表性论文 
+• Cell Zooming for Hybrid VLC-RF Cellular Networks with High Energy Efficiency，Wang , F； Yang , F； Song, J； and Han, Z ，IEEE Wireless Communications Letters ,vol. 12, no. 5, pp. 789-793, 2023.
+• A Power-Domain MST Scheme with BPPM in NLOS Ultraviolet Communications，Cao, T； Wu, T；Pan, C；and Song, J，IEEE Photonics Journal, vol. 15, no. 1, 2023.
+• Internet of Lamps for Future Ubiquitous Communications: Integrated Sensing, Hybrid Interconnection, and Intelligent Illumination， Wang, F； Huang, X ； Yang, F； Yang, H； Wang, J ；Song, J，China Communications Magazine, vol. 19, no. 3, pp. 132-144, 2022.
+• Single-collision-induced path loss model of reflection-assisted non-line-of-sight ultraviolet communications，Cao, T； Wu, T ; Pan, C；and Song, J，optics express，vol. 30, No. 9 , pp. 15227-15237， 2022 .
+• Simplified Closed-Form Single-Scatter Path Loss Model of Non-Line-of-Sight Ultraviolet Communications in Noncoplanar Geometry， Cao, T ；Song, J；and Pan, C，IEEE Journal of Quantum Electronics，vol.57，no.2，April 2021
+• Performance analysis of a low-complexity nonorthogonal multiple access scheme in visible light communication downlinks using pulse modulations, Song, J； Cao, T; Zhang, H，Intelligent and Converged Networks,vol.2，no.1，pp.50-65，2021.
+• The Converged Internet of Lights Network for Telecommunication, Positioning, Illumination, and Medical Therapy，Song, J； Wang,X；Wang, J； Zhang, H； Pan, C；Zhang, Y; John Cosmas，IEEE Communications Standards Magazine, vol. 4，no. 3，pp.70-75，2020.
+• Block-Level Utility Maximization for NOMA-Based Layered Broadcasting, Duan, H; Zhang, Y; and Song, J， IEEE Transactions on Broadcasting, vol. 66, no. 1, pp.21-33, 2020.
+• Key Technologies and Measurements for DTMB-A System, Song, J; Zhang, C; Peng, K; Wang, J; Pan, C; Yang, F; Wang, J; Yang, H; Xue, Y; Zhang, Y; and Yang, Z; IEEE Transactions on Broadcasting, Vol. 65, No. 1, pp. 53-64, 2019.
+• VLC and D2D Heterogeneous Network Optimization: A Reinforcement Learning Approach Based on Equilibrium Problems with Equilibrium Constraints, Raveendran, N; Zhang, H; Niyato, D; Yang, F; Song, J; and Han, Z; IEEE Transactions on Wireless Communications, Vol. 18, No. 2, pp. 1115-1127, 2019.
+• Progressive Matrix Growth Algorithm for Constructing Rate-Compatible Length-Scalable Raptor-Like Quasi-Cyclic LDPC Codes, Zhang, Y; Peng, K; Chen, Z; and Song, J; IEEE Transactions on Broadcasting, Vol. 64, No. 4, pp. 816-829, 2018.
+• Uplink pectral Efficiency Analysis and Optimization for Massive SC-SM MIMO With Frequency Domain Detection, Sun, Y; Wang, J; He, L; and Song, J; IEEE Transactions on Vehicular Technology, Vol. 67, No. 5, pp. 3937-3949, 2018.
+• Design and Optimization on Training Sequence for mmWave Communications: A New Approach for Sparse Channel Estimation in Massive MIMO, Ma, X; Yang, F; Liu, S; Song, J; and Han, Zhu，IEEE Journal on Selected Areas in Communications, Vol. 35, No. 7, pp. 1486-1497, 2017.
+• On the Multi-User Multi-Cell Massive Spatial Modulation Uplink: How Many Antennas for Each User?, He, L; Wang, J; Song, J; Hanzo, L, IEEE Transactions on Wireless Communications, Vol. 16, No. 3, pp. 1437-1451, 2017.
+• Double Kill: Compressive-Sensing-Based Narrow-Band Interference and Impulsive Noise Mitigation for Vehicular Communications,，Liu, S; Yang, F; Ding, W; and Song, J, IEEE Transactions on Vehicular Technology, Vol. 65, No. 7, pp. 5099-5109, 2016.
+• Spectrally Efficient CSI Acquisition for Power Line Communications: A Bayesian Compressive Sensing Perspective, Ding W; Lu, Y; Yang, F; Dai, W; Li, P; Liu, S; and Song, J, IEEE Journal on Selected Areas in Communications, Vol. 34, No. 7, pp. 2022-2032, 2016.
+• Iterative MMSE-DFE and Error Transfer for OFDM in Doubly Selective Channels, Huang, S; Wang, J; An, Z; Wang, J; and Song, J, IEEE Transactions on Broadcasting, Vol. 61, No. 3, pp. 541-547, 2015.
+• Approaching Capacity Region for Two-user GBC with Bit Division Multiplexing,Song, J; Jin, H; and Peng, K, IEEE Transactions on Vehicular Technology, Vol. 64, No. 7, pp. 3311-3316, 2015.
+• An Indoor Broadband Broadcasting System Based on PLC and VLC,Song, J; Ding, W; Yang, F; Yang, H; Yu, B; and Zhang, H, IEEE Transactions on Broadcasting, Vol. 61, No. 2, pp.299-308, 2015.
+• Energy Saving Multicast Mechanism for Scalable Video Service Using Opportunistic Scheduling, Liu, J; Zhang, Y; and Song, J, IEEE Transactions on Broadcasting, Vol. 60, No. 3, pp.464-473, 2014.
+• Compressive Sensing Based Channel Estimation for OFDM Systems under Long Delay Channels, Ding, W; Yang, F; Pan, C; Dai, L; and Song, J, IEEE Transactions on Broadcasting, Vol. 60, No. 2, pp. 313-321, 2014. (Scott Helt Award – the Best Paper Award from IEEE Transactions on Broadcasting)
+• Bit Division Multiplexing for Broadcasting, Jin, H; Peng, K; and Song, J, IEEE Transactions on Broadcasting, Vol. 59, NO. 3, pp. 539-547, 2013.
+• The Noise Transfer Analysis in Frequency Domain Zero-Forcing Equalization, Song, J; Huang, S; Wang, J; Zhang, C; and Wang, J, IEEE Transactions on Communications, Vol.61, No. 6, pp. 2306-2317, 2013.
+• EXIT-Chart-Matching-Aided Near-Capacity Coded Modulation Design and a BICM-ID Design Example for Both Gaussian and Rayleigh Channels, Xie, Q; Yang, Z; Song, J; and Hanzo, L, IEEE Transactions on Vehicular Technology, Vol.62, No. 3, pp.1216-1227, 2013.
+• Signal Vector Based Detection Scheme for Spatial Modulation, Wang, J; Jia, S; and Song, J, IEEE Communication Letters, Vol.16, No.1, pp.19-21, 2012.
+• Generalised Spatial Modulation System with Multiple Active Transmit Antennas and Low Complexity Detection Scheme, Wang, J; Jia, S; and Song, J, IEEE Transactions on Wireless Communications, Vol.11, No.4, pp.1605-1615, 2012.
+• A measurement method of the DTMB modulator, Han, B; Song, J; Yang, H; and Yang, F, IEE IEEE Transactions on Broadcasting, Vol.57, No. 3: 745-751, 2011.
+• Coded Modulation with Signal Space Diversity, Xie, Q; Song, J; Peng, K; Yang, F; and Wang, Z, IEEE Transactions on Wireless Communications, Vol. 10, No. 2, 660-669, 2011.
+• Technology and standards of digital television terrestrial multimedia broadcasting, Yen, O; Song J; Pan, C; and Li, Y, Communications Magazine, IEEE Vol 48, No. 5, 119-127, 2010.
+• Quantization error reduction for the phased array with 2-bit phase shifter, Song, J; Wang, J; Peng, K; Pan, C; and Yang, Z, Wireless Personal Communications, Vol. 52, No.1, 29-41, 2010.
+• A New Paradigm for Mobile Multimedia Broadcasting Based on Integrated Communication and Broadcast Networks, Niu, Z; Long, L; Song, J; and Pan, C, Communications Magazine, IEEE Vol. 46, No. 7, pp. 126-132, 2008.
+• Technical Review on Chinese Digital Terrestrial Television Broadcasting Standard and Measurements on Some Working Modes，Song, J; Yang, Z; Yang, L; Gong, K; Pan, C; Wang, J; and Wu, Y, IEEE Transactions on Broadcasting, Vol.53, No. 1, pp. 1-7, 2007.
+代表性著作 
+1. 《可见光通信：组网与应用》，人民邮电出版社，2020年
+2. 《Digital Terrestrial Television Broadcasting - Technology and System》，John Wiley & Sons, Inc., 2015年出版。
+3. 《数字电视传输技术》，电子工业出版社，2011年出版
+主要专利成果 
+US Patent: 
+1. US Patent No. 7,492,749, “Method and system for providing multi-input-multi-output (MIMO) downlink transmission”, by Song, J and Karimullah, K, issued in 2009. (I filed it before I left USA)
+2. US Patent No. 6,351,240, “Circularly Polarized Reflectarray Using 2-bit Phase Shifter Having Initial Phase Perturbation” by Karimullah; K, Song, J; Lee, L; and Kay, S, issued in 2002
+中国专利：
+1. 中国发明专利号ZL 202110553061.0，一种无线光非视距通信链路中存在反射面的信道特性分析方法，曹天、张洪明、宋健，授权公告日2022年10月25日
+2. 中国发明专利号ZL 202110032026.4，基于渐进扩展和环分类排序评估准则的LDPC码构造方法，彭克武、贺智桐、宋健、张超，授权公告日2022年10月18日
+3. 中国发明专利号ZL 202010396364.1 ，超高速铁路无线光通信方法及装置，杨昉、黄璇、宋健、潘长勇，授权公告日2021年5月4日
+4. 中国发明专利号ZL 201810847191.3，广义混合可见光调制方法及装置，宋健、黄璇、杨昉、郭文秀、伍守豪，授权公告日2021年11月5日
+5. 中国发明专利号ZL 201811063148.4，基于混合调制的可见光组网方法及装置，杨昉、黄璇、宋健、郭文秀、伍守豪，授权公告日2020年6月19日
+6. 中国发明专利号ZL 201710380468.1，一种上行多用户非正交多址接入传输系统的发送和接收方法，彭克武、张妤姝、宋健，授权公告日2020年1月7日
+7. 中国发明专利号ZL 201610042101.4 一种上行随机接入方法，彭克武、陈霜、宋健、金黄平，授权公告日2019年5月28日
+8. 中国发明专利号ZL 201510294279.3，基于压缩感知信道估计的时域训练序列的填充方法及系统，宋健、马旭、杨昉、丁文伯、潘长勇，授权公告日2019年2月5日
+9. 中国发明专利号ZL 201610279766.7，面向调光控制的可见光通信方法与装置　，杨昉，高俊男，宋健，授权公告日2018年5月29日
+10. 中国发明专利号ZL 201610238163.2，基于深度学习的视神经仿真方法及系统，王小斐、宋健，授权公告日2018年4月10日
+11. 中国发明专利号ZL 201410289338.3，LDPC码译码器及实现方法，彭克武、刘玥、宋健、杨昉、陈霜，授权公告日2017年7月7日
+12. 中国发明专利号ZL 201410555565.6，电力线和可见光融合的通信方法与系统，杨昉、马旭、宋健、阳辉，授权公告日2017年1月4日
+13. 中国发明专利号ZL 201310286973.1，光电混合广播传输方法及装置，宋健、阳辉、丁文伯、杨昉、潘长勇，授权公告日2016年8月10日
+14. 中国发明专利号ZL 201310008025.1，基于星座图扩展的数据增强传输及接收方法，宋健、金黄平、彭克武、程涛、杨知行，授权公告日2016年2月24日
+15. 中国发明专利号ZL 201310003758.6，基于电力线的DTMB广播传输方法及装置，宋健、丁文伯、杨昉、阳辉，授权公告日2015年5月20 日
+16. 中国发明专利号ZL 201010223921.6，星座点映射方式的搜索方法，彭克武、谢求亮、宋健、杨知行、潘长勇，授权公告日2014年6月4日
+17. 中国发明专利号ZL 201010222435.2，编码调制方法及解调解码方法，杨知行、程涛、宋健、谢求亮、彭克武，授权公告日2013年10月2日
+18. 中国发明专利号ZL 200910086479.4，基于DTMB标准的嵌入多业务的发送方法及其装置，王军、王晓晴、宋健、王劲涛、李彦刚、唐世刚，授权公告日2012年2月8日
+19. 中国发明专利号ZL 200910087594.3，一种基于物理层子信道划分的分级多业务传输方法与装置，宋健、杨昉、彭克武、王晓晴、李彦刚等，授权公告日2011年1月5日
+20. 中国发明专利号ZL 200710065404.9，基于二值全通序列保护间隔填充的频域信道估计方法，杨知行、彭克武、宋健、王军、王劲涛等，授权公告日2009年7月29日
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2022 日内瓦国际发明展金奖
+2021 国际电联信息社会世界峰会(WSIS)冠军奖
+2019 日内瓦国际发明展金奖
+2017 入选第三批“万人计划”科技创新领军人才
+2017 IEEE ComSoc ISPLC杰出服务奖
+2017 科技部重点领域创新团队负责人
+2016 国家科技进步一等奖
+2016 教育部科学技术二等奖
+2015 中国光学工程学会创新技术二等奖
+2014 IEEE Transactions on Broadcasting最佳论文奖—Scott Helt奖
+2013 北京市科学技术一等奖
+2013 浙江省科学技术二等奖
+2013 中国电子学会科学技术二等奖
+ </奖励荣誉>

@@ -1,0 +1,220 @@
+{"title":"夏树涛","cnUrl":"http://www.sigs.tsinghua.edu.cn/xst/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/57/06/f316796a4a2eaea139712c88c367/2b5cee4b-6fc6-4db6-9e24-0b5dd0098efc.jpg","email":"xiast@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1988年9月~1992年7月，南开大学数学系数学专业毕业，获学士学位
+1992年9月~1997年1月，南开大学数学系信息论编码专业毕业，获博士学位
+工作经历 
+1997年9月~1998年9月，香港中文大学信息工程系访问学者
+2004年1月~至今，清华大学深圳研究生院先后任副研究员、教授(2007)/博士生导师(2009)
+学术兼职 
+中国电子学会高级会员
+中国电子学会信息论分会委员
+国际期刊 Pattern Recognition AE (2024 - )
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+研究生课程：《应用信息论基础》、《信道编码》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事信息论编码与人工智能等方向的教学与科研工作，主要研究兴趣为编码/量化/压缩、机器学习与计算机视觉、AI安全等，在TIT, TPAMI, TSP, TDSC, TIFS等顶级期刊和NIPS/ICML/ICLR, CVPR/ICCV/ECCV, USENIX Security, AAAI, WWW等领域顶级会议上发表论文两百多篇，细分方向包括：
+• 信息论编码
+深度压缩感知、无损/结构化数据压缩、深度有损压缩、图像重压缩
+存储纠删码、LDPC码、编码理论、AI码型搜索、深度译码
+• 机器学习
+深度模型优化：轻量化（蒸馏剪枝量化NAS）、大模型训练推理加速
+Gaussian Splatting、NeRF、联邦学习、持续学习、半监督/自监督
+多模态内容生成：扩散模型、Prompt/Adaptor/Agent/RAG/chatGPT/AIGC
+多模态推荐搜索、检索增强
+集成学习、高斯过程、金融时间序列分析预测
+• 计算机视觉
+底层图像处理：图像复原（超分辨/去噪）、图像/视频压缩、多视角处理
+高层语义理解：识别检测分割追踪、人体关键点检测、工业视觉异常检测
+视频图像检索：哈希、乘积量化
+• AI安全
+对抗/后门攻击防御、数据集/模型水印、大模型水印、越狱攻击
+大模型安全、AIGC真实性检测、图像/视频篡改检测
+近年来完成多项国家级科研项目，与华为、腾讯、平安等企业有长期合作，其中主持的项目有：
+1． 复杂动态互联网行为的基准建模与异常分析，国家重点研发计划重点专项，课题负责人，2019.7-
+2022.6, 176万.
+2． 未来互联网的高效路由与智能传输机理，国家973课题，课题负责人，2012.1-2016.12，527万.
+3． 最优局部修复码的构造及其编解码算法研究，国家自然科学基金，2022.1-2025.12，63万.
+4． 基于校验矩阵方法的局部修复码研究与应用，国家自然科学基金，2018.1-2021.12，67万.
+5． 基于LDPC码的压缩感知测量矩阵构造及性能分析，国家自然科学基金，2014.1-2017.12，82万.
+6． Non-coherent网络中的纠错码及其应用，国家自然科学基金，2010.1-2012.12，30万.
+7． LDPC码的译码性能分析及应用，国家自然基金委与广东省政府联合基金，2007.1-2009.12，30万.
+8． 二元码的检错/纠错性能估计和应用，国家自然科学基金，2005.1-2007.12，23万.
+9． 面向未来网络的内容分发技术研究，深圳市科创委技术攻关项目，2015.7-2017.12，400万.
+10． 深圳智能语义挖掘技术工程实验室，深圳市发改委，2012.11- 2014.12，500万.
+11． 大规模机器学习算法的噪声鲁棒性及在证券交易领域的应用研究，深圳市基础研究学科布局项目，2019.1-2021.12，300万.
+12． 智能终端人脸信息安全算法研究，深圳市基础研究重点项目，2023.1-2025.12，200万.
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+机器学习/计算机视觉与AI安全
+[1] Jinpeng Wang, Ziyun Zeng, Bin Chen, Yuting Wang, Dongliang Liao, Gongfu Li, Yiru Wang, Shu-Tao Xia. Hugs bring double benefits: unsupervised cross-modal hashing with multi-granularity aligned transformers, International Journal of Computer Vision (IJCV), online, DOI: 10.1007/s11263-024-02009-7, Feb. 2024.
+[2] Bowen Zhao, Chen Chen, Qian-Wei Wang, Anfeng He, Shu-Tao Xia. Delving into identify-emphasize paradigm for combating unknown bias, International Journal of Computer Vision (IJCV), online, DOI: 10.1007/s11263-023-01969-6, Jan. 2024.
+[3] Yiming Li, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Backdoor learning: a survey, IEEE Transactions on Neural Networks and Learning Systems(TNNLS), vol. 35, no. 1, pp. 5-22, Jan. 2024.
+[4] Kuofeng Gao, Jiawang Bai, Baoyuan Wu, Mengxi Ya, Shu-Tao Xia. Imperceptible and robust backdoor attack in 3D point cloud, IEEE Transactions on Information Forensics and Security (TIFS), vol. 19, pp. 1267-1282, 2024.
+[5] Jiawang Bai, Baoyuan Wu, Zhifeng Li, Shu-Tao Xia. Versatile weight attack via flipping limited bits, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 45, no. 11, pp. 13653-13665, Nov. 2023.
+[6] Tao Dai, Mengxi Ya, Jinmin Li, Xinyi Zhang, Shu-Tao Xia, Zexuan Zhu. CFGN: a lightweight context feature guided network for image super-resolution, IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), vol. 8, no. 1, pp. 855-865, Jan. 2024.
+[7] Naiqi Li, Zhikang Xia, Yiming Li, Ercan E Kuruoğlu, Yong Jiang, Shu-Tao Xia. Portfolio selection via graph-aware gaussian processes with generalized gaussian likelihood, IEEE Transactions on Artificial Intelligence (TAI), vol. 5, no. 2, pp. 505-515, Feb. 2024.
+[8] Jiawang Bai, Kuofeng Gao, Shaobo Min, Shu-Tao Xia, Zhifeng Li, Wei Liu. BadCLIP: trigger-aware prompt learning for backdoor attacks on CLIP, CVPR -24.
+[9] Sheng Yang, Jiawang Bai, Kuofeng Gao, Yong Yang, Yiming Li, Shu-Tao Xia. Not all prompts are secure: a switchable backdoor attack against pre-trained models, CVPR-24.
+[10] Kuofeng Gao, Yang Bai, Jindong Gu, Shu-Tao Xia, Philip Torr, Zhifeng Li, Wei Liu. Inducing high energy-latency of large vision-language models with verbose images, ICLR-24.
+[11] Tao Dai, Beiliang Wu, Peiyuan Liu, Naiqi Li, Jigang Bao, Yong Jiang, Shu-Tao Xia. Periodicity decoupling framework for long-term series forecasting, ICLR-24.
+[12] Mengxi Ya, Yiming Li, Tao Dai, Bin Wang, Yong Jiang, Shu-Tao Xia. Towards faithful XAI evaluation via generalization-limited backdoor watermark, ICLR-24.
+[13] Yuting Wang, Jinpeng Wang, Bin Chen, Ziyun Zeng, Shu-Tao Xia. GMMFormer: Gaussian-mixture-model based transformer for efficient partially relevant video retrieval, AAAI-24.
+[14] Yaohua Zha, Huizhen Ji, Jinmin Li, Rongsheng Li, Tao Dai, Bin Chen, Zhi Wang, Shu-Tao Xia. Towards compact 3D representations via point feature enhancement masked autoencoders, AAAI-24.
+[15] Taolin Zhang, Sunan He, Tao Dai, Zhi Wang, Bin Chen, Shu-Tao Xia. Vision-language pre-training with object contrastive learning for 3D scene understanding, AAAI-24.
+[16] Qian-Wei Wang, Bowen Zhao, Mingyan Zhu, Tianxiang Li, Zimo Liu, Shu-Tao Xia. Controller-guided partial label consistency regularization with unlabeled data, AAAI-24.
+[17] Junfeng Guo, Yiming Li, Lixu Wang, Shu-Tao Xia, Heng Huang, Cong Liu, Bo Li. Domain watermark: effective and harmless dataset copyright protection is closed at hand, NeurIPS-23.
+[18] Yinghua Gao, Dongxian Wu, Jingfeng Zhang, Guanhao Gan, Shu-Tao Xia, Gang Niu, Masashi Sugiyama. On the effectiveness of adversarial training against backdoor attacks, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), accepted, May 2023.
+[19] Yiming Li, Mingyan Zhu, Xue Yang, Yong Jiang, Tao Wei, Shu-Tao Xia. Black-box dataset ownership verification via backdoor watermarking, IEEE Transactions on Information Forensics and Security (TIFS), vol. 18, pp. 2318-2332, Apr. 2023.
+[20] Chen-Hui Song, Xi Xiao and Shu-Tao Xia. Follow the will of the market: a context-informed drift-aware method for stock prediction, CIKM-23.
+[21] Xinyi Zhang, Naiqi Li, Jiawei Li, Tao Dai, Yong Jiang, Shu-Tao Xia. Unsupervised anomaly detection with diffusion probabilistic model, ICCV-23.
+[22] Hao Fang, Bin Chen, Xuan Wang, Zhi Wang, Shu-Tao Xia. GIFD: A generative gradient inversion method with feature domain optimization, ICCV-23.
+[23] Yaohua Zha, Jinpeng Wang, Tao Dai, Bin Chen, Zhi Wang, Shu-Tao Xia. Instance-aware dynamic prompt tuning for pre-trained point cloud models, ICCV-23.
+[24] Jianshuo Dong, Han Qiu, Yiming Li, Tianwei Zhang, Yuanjie Li, Zeqi Lai, Chao Zhang, Shu-Tao Xia. One-bit flip is all you need: when bit-flip attack meets model training, ICCV-23.
+[25] Guanhao Gan, Yiming Li, Dongxian Wu, Shu-Tao Xia. Towards robust model watermark via reducing parametric vulnerability, ICCV-23.
+[26] Jinpeng Wang, Ziyun Zeng, Yunxiao Wang, Yuting Wang, Xingyu Lu, Tianxiang Li, Yuan Jun, Rui Zhang, Hai-Tao Zheng, Shu-Tao Xia. Pre-training and transferring multi-modal interest-aware sequence representation for recommendation, MM-23.
+[27] Hang Guo, Tao Dai, Mingyan Zhu, GuangHao Meng, Bin Chen, Zhi Wang, Shu-Tao Xia. One-stage low-resolution text recognition with high-resolution knowledge transfer, MM-23.
+[28] Yutao Dong, Qing Li, Kaidong Wu, Ruoyu Li, Dan Zhao, Gareth Tyson, Junkun Peng, Yong Jiang, Shutao Xia, Mingwei Xu. HorusEye: a realtime iot malicious traffic detection framework using programmable switches, Proceedings of the 32nd USENIX Security Symposium (USENIX Security-23).
+[29] Lingyu Yang, Hongjia Li, Lei Li, Chengyin Xu, Shutao Xia, Chun Yuan. LET: leveraging error type information for grammatical error correction, Proc. the Findings of the Association for Computational Linguistics (ACL-23 Findings).
+[30] Hang Guo, Tao Dai, Guanghao Meng, Shu-Tao Xia. Towards robust scene text image super-resolution via explicit location enhancement, IJCAI-23.
+[31] Yinghua Gao, Yiming Li, Linghui Zhu, Dongxian Wu, Yong Jiang, Shu-Tao Xia. Not all samples are born equal: towards effective clean-label backdoor attacks, Pattern Recognition 139(2023) 109512.
+[32] Kuofeng Gao, Yang Bai, Jindong Gu, Yong Yang, Shu-Tao Xia. Backdoor defense via adaptively splitting poisoned dataset, Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR-23), Vancouver, Canada, Jun. 2023.
+[33] Ziyun Zeng, Yuying Ge, Xihui Liu, Bin Chen, Ping Luo, Shu-Tao Xia, Yixiao Ge. Learning transferable spatiotemporal representations from natural script knowledge, Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR-23), Vancouver, Canada, Jun. 2023.
+[34] Jiajun Fan, Yuzheng Zhuang, Yuecheng Liu, Jianye Hao, Bin Wang, Jiangcheng Zhu, Hao Wang, Shu-Tao Xia. Learnable behavior control: breaking atari human world records via sample-efficient behavior selection, Proc. International Conference on Learning Representations (ICLR-23), oral paper, Kigali, Rwanda, May 2023.
+[35] Bowen Zhao, Chen Chen, Shu-Tao Xia. Delta: degradation-free fully test-time adaptation, Proc. International Conference on Learning Representations (ICLR-23), Kigali, Rwanda, May 2023.
+[36] Bin Chen, Yan Feng, Tao Dai, Jiawang Bai, Yong Jiang, Shu-Tao Xia, Xuan Wang. Adversarial examples generation for deep product quantization networks on image retrieval, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), vol. 45, no. 2, pp. 1388-1404, Feb. 2023.
+[37] Yuyuan Zeng, Bowen Zhao, Shanzhao Qiu, Tao Dai, Shu-Tao Xia. Towards effective image manipulation detection with proposal contrastive learning, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), vol. 33, no. 9, pp. 4703-4714, Sep. 2023.
+[38] Bowen Zhao, Chen Chen, Qian-Wei Wang, Anfeng He, Shu-Tao Xia. Combating unknown bias with effective bias-conflicting scoring and gradient alignment, Proc. the 37th AAAI Conference on Artificial Intelligence (AAAI-23), Washington DC, U.S.A., Feb. 2023.
+[39] Yujun Huang, Bin Chen, Shiyu Qin, Jiawei Li, Yaowei Wang, Tao Dai, Shu-Tao Xia. Learned distributed image compression with multi-scale patch matching in feature domain, Proc. the 37th AAAI Conference on Artificial Intelligence (AAAI-23), Washington DC, U.S.A., Feb. 2023.
+[40] Sunan He, Taian Guo, Tao Dai, Ruizhi Qiao, Xiujun Shu, Bo Ren, Shu-Tao Xia. Open-vocabulary multi-label classification via multi-modal knowledge transfer, Proc. the 37th AAAI Conference on Artificial Intelligence (AAAI-23), Washington DC, U.S.A., Feb. 2023.
+[41] Jinmin Li, Tao Dai, Mingyan Zhu, Bin Chen, Zhi Wang, Shu-Tao Xia. FSR: a general frequency-oriented framework to accelerate image super-resolution networks, Proc. the 37th AAAI Conference on Artificial Intelligence (AAAI-23), Washington DC, U.S.A., Feb. 2023.
+[42] Yuting Wang, Jinpeng Wang, Bin Chen, Ziyun Zeng, Shu-Tao Xia. Contrastive masked autoencoders for self-supervised video hashing, Proc. the 37th AAAI Conference on Artificial Intelligence (AAAI-23), Washington DC, U.S.A., Feb. 2023.
+[43] Yang Bai, Yisen Wang, Yuyuan Zeng, Yong Jiang, Shu-Tao Xia. Query efficient black-box adversarial attack on deep neural networks, Pattern Recognition 133 (2023) 109037.
+[44] Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, Bo Li. Untargeted backdoor watermark: towards harmless and stealthy dataset copyright protection, Proc. Neural Information Processing Systems (NeurIPS-22), oral paper, Virtual Conference, Dec. 2022.
+[45] Xi Xiao, Wentao Xiao, Rui Li, Xiapu Luo, Haitao Zheng, and Shutao Xia. EBSNN: extended byte segment neural network for network traffic classification, IEEE Transactions on Dependable and Secure Computing (TDSC), vol.19, no.5, pp. 3521-3538, Sep./Oct. 2022.
+[46] Bowen Zhao, Chen Chen, Xi Xiao, Shu-Tao Xia. Towards a category-extended object detector with limited data, Pattern Recognition 132(2022) 108943.
+[47] Jiawang Bai, Bin Chen, Kuofeng Gao, Xuan Wang, Shu-Tao Xia. Practical protection against video data leakage via universal adversarial head, Pattern Recognition 131 (2022) 108834.
+[48] Jiawang Bai, Li Yuan, Shu-Tao Xia, Shuicheng Yan, Zhifeng Li, Wei Liu. Improving vision transformers by revisiting high-frequency components, Proc. European Conference on Computer Vision (ECCV-22), Tel-Aviv, Israel, Oct. 2022.
+[49] Jiawang Bai, Kuofeng Gao, Dihong Gong, Shu-Tao Xia, Zhifeng Li, Wei Liu. Hardly perceptible Trojan attack against neural networks with bit flips, Proc. European Conference on Computer Vision (ECCV-22), Tel-Aviv, Israel, Oct. 2022.
+[50] Yunxiao Wang, Yanjie Li, Peidong Liu, Tao Dai, Shu-Tao Xia. NeXT: towards high quality neural radiance fields via multi-skip transformer, Proc. European Conference on Computer Vision (ECCV-22), Tel-Aviv, Israel, Oct. 2022.
+[51] Yanjie Li, Sen Yang, Peidong Liu, Shoukai zhang, Yunxiao Wang, Zhicheng Wang, Wankou Yang, Shu-Tao Xia. SimCC: a simple coordinate classification perspective for human pose estimation, Proc. European Conference on Computer Vision (ECCV-22), oral paper, Tel-Aviv, Israel, Oct. 2022.
+[52] Naiqi Li, Wenjie Li, Yong Jiang, Shu-Tao Xia. Deep Dirichlet process mixture models, Proc. Conference on Uncertainty in Artificial Intelligence (UAI-22), Eindhoven, The Netherlands, Aug. 2022.
+[53] Linghui Zhu, Xinyi Liu, Yiming Li, Xue Yang, Shu-Tao Xia, Rongxing Lu. A fine-grained differentially private federated learning against leakage from gradients, IEEE Internet of Things Journal (IoT), vol. 9, no. 13, pp. 11500-11512, Jul. 2022.
+[54] Yan Feng, Baoyuan Wu, Yanbo Fan, Li Liu, Zhifeng Li, Shu-Tao Xia. Boosting black-box attack with partially transferred conditional adversarial distribution, Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR-22), New Orleans, Louisiana, U.S.A., Jun. 2022.
+[55] Ning Kang, Shanzhao Qiu, Shifeng Zhang, Zhenguo Li, Shu-Tao Xia. PILC: practical image lossless compression with an end-to-end GPU oriented neural framework, Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR-22), New Orleans, Louisiana, U.S.A., Jun. 2022.
+[56] Yujun Huang, Bin Chen, Jianghui Zhang, Han Qiu, Shu-Tao Xia, Compressive sensing based asymmetric semantic image compression for resource-constrained IoT system, Proc. the 59th Design Automation Conference (DAC 2022), San Francisco, CA, U.S.A., Jul. 2022.
+[57] Xue Yang, Yan Feng, Weijun Fang, Jun Shao, Xiaohu Tang, Shu-Tao Xia, Rongxing Lu. An accuracy-lossless perturbation method for defending privacy attacks in federated learning, Proc. ACM Web Conference (WWW-22), Virtual Conference, Apr. 2022.
+[58] Jinpeng Wang, Bin Chen, Dongliang Liao, Ziyun Zeng, Gongfu Li, Shu-Tao Xia, Jin Xu. Hybrid contrastive quantization for efficient cross-view video retrieval, Proc. ACM Web Conference (WWW-22), Virtual Conference, Apr. 2022.
+[59] Peidong Liu, Dongliang Liao, Jinpeng Wang, Yangxin Wu, Gongfu Li, Shu-Tao Xia, Jin Xu. Multi-task ranking with user behaviors for text-video search, Proc. ACM Web Conference (WWW-22 Industry track), Virtual Conference, Apr. 2022.
+[60] Yiming Li, Yan Feng, Yanbo Fan, Yong Jiang, Zhifeng Li, Shu-Tao Xia. Semi-supervised robust training with generalized perturbed neighborhood, Pattern Recognition, vol. 124, Apr. 2022, 108472.
+[61] Yiming Li, Haoxiang Zhong, Xingjun Ma, Yong Jiang, Shu-Tao Xia. Few-shot backdoor attacks on visual object tracking, Proc. International Conference on Learning Representations (ICLR-22), Virtual Conference, Apr. 2022.
+[62] Yiming Li, Linghui Zhu, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao. Defending against model stealing via verifying embedded external features, Proc. the 36th AAAI Conference on Artificial Intelligence (AAAI-22), Virtual Conference, Feb. 2022.
+[63] Jinpeng Wang, Ziyun Zeng, Bin Chen, Tao Dai, Shu-Tao Xia. Contrastive quantization with code memory for unsupervised image retrieval, Proc. the 36th AAAI Conference on Artificial Intelligence (AAAI-22), Virtual Conference, Feb. 2022.
+[64] Yang Bai, Xin Yan, Yong Jiang, Shu-Tao Xia, Yisen Wang. Clustering effect of adversarial robust models, Proc. Neural Information Processing Systems (NeurIPS-21), spotlight paper, Virtual Conference, Dec. 2021.
+[65] Zhaoliang He, Hongshan Li, Zhi Wang, Shutao Xia and Wenwu Zhu. Adaptive compression for online computer vision: an edge reinforcement learning approach, ACM Transactions on Multimedia Computing, Communications and Applications (TOMCCAP), vol. 17, no. 4, article 118, Nov. 2021.
+[66] Tao Dai, Yan Feng, Bin Chen, Jian Lu, Shu-Tao Xia. Deep image prior based defense against adversarial examples, Pattern Recognition 122 (2022) 108249.
+[67] Jiawang Bai, Yiming Li, Jiawei Li, Xue Yang, Yong Jiang, Shu-Tao Xia. Multinomial random forest, Pattern Recognition 122 (2022) 108331.
+[68] Yanjie Li, Shoukui Zhang, Zhicheng Wang, Sen Yang, Wankou Yang, Shu-Tao Xia, Erjin Zhou. TokenPose: learning keypoint tokens for human pose estimation, Proc. International Conference on Computer Vision (ICCV-21), Virtual Conference, Oct. 2021.
+[69] Tao Dai, Yalei Lv, Bin Chen, Zhi Wang, Zexuan Zhu, Shu-Tao Xia. Mix-order attention networks for image restoration, Proc. the 29th ACM International Conference on Multimedia (MM-21), Chengdu, China, Oct. 2021.
+[70] Peidong Liu, Zibin He, Xiyu Yan, Yong Jiang, Shu-Tao Xia, Feng Zheng, Maowei Hu. WeClick: weakly-supervised video semantic segmentation with click annotations, Proc. the 29th ACM International Conference on Multimedia (MM-21), Chengdu, China, Oct. 2021.
+[71] Jingyan Jiang, Ziyue Luo, Chenghao Hu, Zhaoliang He, Zhi Wang, Shutao Xia, Chuan Wu. Joint model and data adaptation for cloud inference serving, Proc. the 42nd IEEE Real-Time System Symposium (RTSS-21), Dortmund, Germany, Dec. 2021.
+[72] Linghui Zhu, Yiming Li, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, Xiaochun Cao. Defending against model stealing via verifying embedded external features, Proc. ICML 2021 workshop on A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning, Adversarial for Good Award, Jul. 2021.
+[73] Kelong Mao, Xi Xiao, Guangwu Hu, Xiapu Luo, Bin Zhang, Shutao Xia. Byte-label joint attention learning for packet-grained network traffic classification, Proc. IEEE/ACM International Symposium on Quality of Service (IWQoS-21), Virtual Conference, Jun. 2021.
+[74] Yang Bai, Yuyuan Zeng, Yong Jiang, Shu-Tao Xia, Xingjun Ma, Yisen Wang. Improving adversarial robustness via channel-wise activation suppressing, Proc. International Conference on Learning Representations (ICLR-21), spotlight paper, Virtual Conference, Apr. 2021.
+[75] Jiawang Bai, Baoyuan Wu, Yong Zhang, Yiming Li, Zhifeng Li, Shu-Tao Xia. Targeted attack against deep neural networks via flipping limited weight bits, Proc. International Conference on Learning Representations (ICLR-21), Virtual Conference, Apr. 2021.
+[76] Qianggang Ding, Sifan Wu, Tao Dai, Hao Sun, Jiadong Guo, Zhang-Hua Fu, Shutao Xia. Knowledge refinery: learning from decoupled label, Proc. the 35th AAAI Conference on Artificial Intelligence (AAAI-21), Virtual Conference, Feb. 2021. 
+[77] Jinpeng Wang, Bin Chen, Qiang Zhang, Zaiqiao Meng, Shangsong Liang, Shutao Xia. Weakly supervised deep hyperspherical quantization for image retrieval, Proc. the 35th AAAI Conference on Artificial Intelligence (AAAI-21), Virtual Conference, Feb. 2021. 
+[78] Yuyuan Zeng, Tao Dai, Bin Chen, Shu-Tao Xia, Jian Lu. Correlation-based structural dropout for convolutional neural networks, Pattern Recognition 120 (2021) 108117.
+[79] Xi Xiao, Wentao Xiao, Dianyan Zhang, Bin Zhang, Guangwu Hu, Qing Li, Shutao Xia. Phishing websites detection via CNN and multi-head self-attention on imbalanced datasets, Computer & Security 108 (2021) 102372.
+[80] Dongxian Wu, Yisen Wang, Shu-Tao Xia. Adversarial Weight Perturbation Improves Adversarial Training, Proc. Neural Information Processing Systems (NIPS-20), Virtual Conference, Dec. 2020.
+[81] Naiqi Li, Wenjie Li, Jifeng Sun, Yinghua Gao, Yong Jiang, Shu-Tao Xia. Stochastic Deep Gaussian Processes over Graphs, Proc. Neural Information Processing Systems (NIPS-20), Virtual Conference, Dec. 2020.
+[82] Tao Dai, Yan Feng, Dongxian Wu, Bin Chen, Jian Lu, Yong Jiang, Shutao Xia. DIPDefend: deep image prior driven defense against adversarial examples, Proc. the 28th ACM International Conference on Multimedia (MM-20), Virtual Conference, Seattle, U.S.A., Oct. 2020.
+[83] Jiawang Bai, Bin Chen, Yiming Li, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, En-Hui Yang. Targeted attack for deep hashing based retrieval, Proc. the 16th European Conference on Computer Vision (ECCV-20), oral paper, Virtual Conference, Aug. 2020.
+[84] Yang Bai, Yuyuan Zeng, Yong Jiang, Yisen Wang, Shu-Tao Xia, Weiwei Guo. Improving query efficiency of black-box adversarial attack, Proc. the 16th European Conference on Computer Vision (ECCV-20), Virtual Conference, Aug. 2020.
+[85] Haoyu Liang, Zhihao Ouyang, Yuyuan Zeng, Hang Su, Zihao He, Shu-Tao Xia, Jun Zhu, Bo Zhang. Training interpretable convolutional neural networks by differentiating class-specific filters, Proc. the 16th European Conference on Computer Vision (ECCV-20), oral paper, Virtual Conference, Aug. 2020.
+[86] Dongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey, Xingjun Ma, Skip connections matter: on the transferability of adversarial examples generated with RESNETs, Proc. International Conference on Learning Representations (ICLR-20), spotlight paper, Virtual Conference, Addis Ababa, Ethiopia, Apr. 2020.
+[87] Bowen Zhao, Xi Xiao, Guojun Gan, Bin Zhang, Shutao Xia, Maintaining discrimination and fairness in class incremental learning, Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR-20), Seattle, Washington, U.S.A., Jun. 2020.
+[88] Xuesong Chen, Xiyu Yan, Feng Zheng, Yong Jiang, Shu-Tao Xia, Yong Zhao, Rongrong Ji, One-shot adversarial attacks on visual tracking with dual attention, Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR-20), Seattle, Washington, U.S.A., Jun. 2020.
+[89] Yan Feng, Bin Chen, Tao Dai, Shu-Tao Xia, Adversarial attack on deep product quantization network for image retrieval, Proc. the 34th AAAI Conference on Artificial Intelligence (AAAI-20), New York, USA, Feb. 2020. 
+[90] Xi Xiao, Dianyan Zhang, Guangwu Hu, Yong Jiang, Shutao Xia, CNN–MHSA: a convolutional neural network and multi-head self-attention combined approach for detecting phishing websites, Neural Networks (NN),vol. 125, pp. 303–312, 2020.
+[91] Zhendong Peng, Xi Xiao, Guangwu Hu, Arun Kumar Sangaiah, Mohammed Atiquzzaman, Shutao Xia. ABFL: an autoencoder based practical approach for software fault localization, Information Sciences (IS), vol. 510, pp. 108-121, Feb. 2020.
+[92] Tao Dai, Jianrui Cai, Yongbing Zhang, Shu-Tao Xia, Lei Zhang. Second-order attention network for single image super-resolution, Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR-19), oral paper, Long Beach, CA, U.S.A., Jun. 2019.
+[93] Yang Bai, Yan Feng, Yisen Wang, Tao Dai, Shu-Tao Xia, Yong Jiang. Hilbert-based generative defense for adversarial examples, Proc. International Conference on Computer Vision (ICCV-19), pp. 4784-4793, Seoul, Korea, Oct.-Nov. 2019.
+[94] Hongshan Li, Yu Guo, Zhi Wang, Shutao Xia, Wenwu Zhu. AdaCompress: adaptive compression for online computer vision services, Proc. the 27th ACM International Conference on Multimedia (MM-19), pp. 2440-2448, Nice, France, Oct. 2019.
+[95] Xiyu Yan, Shuai Chen, Zihao He, Chunmei Li, Feng Zheng, Tao Dai, Shuo Dong, Yong Jiang, Shu-Tao Xia. Automatic grassland degradation estimation using deep learning, Proc. the 28th International Joint Conference on Artificial Intelligence (IJCAI-19), Macao, China, Aug. 2019.
+[96] Xi Xiao, Rui Li, Hai-Tao Zheng, Runguo Ye, Arun KumarSangaiah, Shutao Xia, Novel dynamic multiple classification system for network traffic, Information Sciences (IS), vol. 479, pp. 526-541, 2019.
+[97] Jin-Yuan Chen, Hai-Tao Zheng, Yong Jiang, Shu-Tao Xia, Cong-Zhi Zhao. A probabilistic model for semantic advertising, Knowledge and Information Systems (KIS), vol. 59, pp. 387-412, May 2019.
+[98] Songtao Wang, Dan Li, Yang Cheng, Jinkun Geng, Yanshu Wang, Shu-Tao Xia and Jianping Wu. BML: a high-performance, low-cost gradient synchronization algorithm for DML training, Proc. Neural Information Processing Systems (NIPS-18), Montreal, Canada, Dec. 2018.
+[99] Xingjun Ma, Yisen Wang, Michael E. Houle, Shu-Tao Xia, James Bailey. Dimensionality-driven learning with noisy labels, Proc. the Thirty-fifth International Conference on Machine Learning (ICML-18), long talk, Stockholm, Sweden, Jul. 2018.
+[100]Yisen Wang, Weiyang Liu, Xingjun Ma, James Bailey, Hongyuan Zha, Le Song, and Shu-Tao Xia. Iterative learning with open-set noisy labels, Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR-18), spotlight paper, Salt Lake City, U.S.A., Jun. 2018.
+[101]Yisen Wang, Shu-Tao Xia, Qingtao Tang, Jia Wu, Xingquan Zhu. A novel consistent random forests framework: Bernoulli random forests. IEEE Transactions on Neural Networks and Learning Systems(TNNLS), vol. 29, no. 8, pp. 3510-3523, Aug. 2018.
+[102]Rui Li, Xi Xiao, Shiguang Ni, Haitao Zheng, Shutao Xia, Byte segment neural network for network traffic classification, Proc. IEEE/ACM International Symposium on Quality of Service (IWQoS-18), Banff, Alberta, Canada, Jun. 2018.
+[103]Chaobing Song, Shaobo Cui, Yong Jiang, Shu-Tao Xia. Accelerated stochastic greedy coordinate descent by soft thresholding projection onto simplex. Proc. Neural Information Processing Systems (NIPS-17), spotlight paper, Long Beach, U.S.A., Dec. 2017.
+[104]Qingtao Tang, Tao Dai, Li Niu, Yisen Wang, Shu-Tao Xia, and Jianfei Cai. Robust Survey Aggregation with Student-t Distribution and Sparse Representation. Proc. the 26th International Joint Conference on Artificial Intelligence (IJCAI-17), pp. 2829-2835, Melbourne, Australia, Aug. 2017.
+[105]Qingtao Tang, Li Niu, Yisen Wang, Tao Dai, Wangpeng An, Jianfei Cai, Shu-Tao Xia. Student-t Process Regression with Student-t Likelihood. Proc. the 26th International Joint Conference on Artificial Intelligence (IJCAI-17), pp. 2822-2828, Melbourne, Australia, Aug. 2017.
+[106]Y. Wang, S. Romano, N.X. Vinh, J. Bailey, X. Ma, S.-T. Xia. Unbiased multivariate correlation analysis, Proc. the 31st AAAI Conference on Artificial Intelligence (AAAI-17), San Francisco, California, U.S.A., Feb. 2017.
+[107]Yisen Wang, Fangbing Liu, Shu-Tao Xia, Jia Wu. Link sign prediction by variational Bayesian probabilistic matrix factorization with student-t prior, Information Sciences (IS), vol. 405, pp. 175-189, 2017.
+[108]Yisen Wang, Shu-Tao Xia, and Jia Wu, A less-greedy two-term Tsallis Entropy Information Metric approach for decision tree classification, Knowledge-Based Systems (KBS), vol. 120, pp. 34-42, Mar. 2017.
+[109]Tao Dai, Weizhi Lu, Wei Wang, Jilei Wang, and Shu-Tao Xia, Entropy-based bilateral filtering with a new range kernel, Signal Processing, vol. 137, pp. 223-234, Aug. 2017.
+[110]Yisen Wang, Qingtao Tang, Shu-Tao Xia, Jia Wu, Xingquan Zhu, Bernoulli random forests: closing the gap between theoretical consistency and empirical soundness, Proc. the 25th International Joint Conference on Artificial Intelligence (IJCAI-16), pp. 2167-2173, New York, U.S.A., Jul. 2016.
+信息论编码及网络
+[1] Weijun Fang, Jingjie Lv, Bin Chen, Shu-Tao Xia, Xiangyu Chen. New constructions of MDS array codes and optimal locally repairable array codes, IEEE Transactions on Information Theory (TIT), vol. 70, no. 3, pp. 1806-1822, Mar. 2024.
+[2] Jingjie Lv, Weijun Fang, Xiangyu Chen, Jing Yang, Shu-Tao Xia. New constructions of q-ary MDS array codes with multiple parities and their effective decoding, IEEE Transactions on Information Theory (TIT), vol. 69, no. 11, pp. 7082-7098, Nov. 2023.
+[3] Weijun Fang, Bin Chen, Shu-Tao Xia, Fang-Wei Fu, Xiangyu Chen. Perfect LRCs and k-optimal LRCs. Designs, Codes and Cryptography (DCC), vol. 91, no. 4, pp. 1209-1232, 2023.
+[4] Fang-Wei Fu; Bin Chen; Shu-Tao Xia. Singleton-optimal LRCs and perfect LRCs via cyclic and constacyclic codes, Finite Fields and Their Applications (FFA), accepted, Jul. 2023.
+[5] Jie Hao, Jun Zhang, Shu-Tao Xia, Fang-Wei Fu, Yixian Yang. Constructions and weight distributions of optimal locally repairable codes, IEEE Transactions on Communications (TCOM), vol. 70, no. 5, pp. 2895-2908, May 2022.
+[6] Weijun Fang, Shu-Tao Xia, Jie Hao, Fang-Wei Fu. Construction of MDS Euclidean self-dual codes via two subsets, IEEE Transactions on Information Theory (TIT), vol. 67, no. 8, pp. 5005-5015, Aug. 2021.
+[7] Bin Chen, Weijun Fang, Shu-Tao Xia, Jie Hao, Fang-Wei Fu. Improved bounds and preDataALL-optimal constructions of locally repairable codes with minimum distance 5 and 6, IEEE Transactions on Information Theory (TIT), vol. 67, no. 1, pp. 217-231, Jan. 2021.
+[8] Jie Hao, Shu-Tao Xia, Kenneth W. Shum, Bin Chen, Fang-Wei Fu, Yixian Yang. Bounds and constructions of locally repairable codes: parity-check matrix approach, IEEE Transactions on Information Theory (TIT), vol. 66, no. 12, pp. 7465-7474, Dec. 2020.
+[9] Songtao Wang, Dan Li, Yang Cheng, Jinkun Geng, Yanshu Wang, Shuai Wang, Shutao Xia, and Jianping Wu. A scalable, high-performance, and fault-tolerant network architecture for distributed machine learning, IEEE Transactions on Networking (ToN), vol. 28, no. 4, pp. 1752-1764, Aug. 2020.
+[10] Weizhi Lu, Weiyu Li, Wei Zhang, and Shu-Tao Xia. Expander recovery performance of bipartite graphs with girth greater than 4, IEEE Transactions on Signal and Information Processing over Networks, pp. 418-427, vol. 5, no. 3, Sep. 2019.
+[11] Bin Chen, Weijun Fang, Shu-Tao Xia, and Fang-Wei Fu. Constructions of optimal (r,δ) locally repairable codes via constacyclic Codes, IEEE Transactions on Communications (TCOM) , pp. 5253-5263, vol. 67, no. 8, Aug. 2019.
+[12] Bin Chen, Shu-Tao Xia, Jie Hao, and Fang-Wei Fu. Constructions of optimal cyclic (r,δ) locally repairable codes, IEEE Transactions on Information Theory (TIT), vol. 64, no. 4, pp. 2499-2511, Apr. 2018.
+[13] Weizhi Lu, Tao Dai, Shu-Tao Xia. Binary matrices for Compressed Sensing, IEEE Transactions on Signal Processing (TSP), vol. 66, no. 1, pp. 77-85, Jan. 2018.
+[14] Xin-Ji Liu, Shu-Tao Xia, and Fang-Wei Fu, Reconstruction guarantee analysis of basis pursuit for binary measurement matrices in compressed sensing, IEEE Transactions on Information Theory (TIT), vol. 63, no. 5, pp. 2922-2932, May 2017.
+[15] Xi Xiao, Peng Fu, Changsheng Dou, Qing Li, Guangwu Hu, and Shutao Xia. Design and analysis of SEIQR worm propagation model in mobile internet, Communications in Nonlinear Science and Numerical Simulation, vol. 43, pp. 341-350, Feb. 2017.
+[16] Qing Li, Mingwei Xu, Qi Li, Dan Wang, Yong Jiang, Shu-Tao Xia, Qingmin Liao. Scale the Internet routing table by generalized next hops of strict partial order, Information Sciences (IS), vol. 412, pp. 101-115, Oct. 2017.
+[17] Yong Cui, Lian Wang, Xin Wang, Yisen Wang, Fengyuan Ren, Shutao Xia. End-to-end coding for TCP, IEEE Network, vol. 30, no. 2, pp. 68-73, Mar. 2016.
+[18] S.-T. Xia, X.-J. Liu, Y. Jiang, and H.-T. Zheng, Deterministic constructions of binary measurement matrices from finite geometry, IEEE Transactions on Signal Processing (TSP), vol. 63, no. 4, pp. 1017-1029, Feb. 2015.
+[19] Y. Jiang, S.-T. Xia, and F.-W. Fu. Stopping set distributions of some kinds of Reed-Muller codes, IEEE Transactions on Information Theory (TIT), vol. 57, no. 9, pp. 6078-6088, Sep. 2011.
+[20] S.-T. Xia and F.-W. Fu, Minimum pseudo-weight and minimum pseudo-codewords of LDPC Codes, IEEE Transactions on Information Theory (TIT), vol. 54, no. 1, pp. 480-485, Jan. 2008.
+[21] S.-T. Xia, F.-W. Fu, and S. Ling, A lower bound on the probability of undetected error for binary constant weight codes. IEEE Transactions on Information Theory (TIT), vol. 52, no. 9, pp. 4235-4243, Sep. 2006.
+[22] S.-T. Xia, F.-W. Fu, Y. Jiang, and S. Ling, The probability of undetected error for binary constant weight codes. IEEE Transactions on Information Theory (TIT), vol. 51, no. 9, pp. 3364-3373, Sep. 2005.
+[23] F.-W. Fu, T. Klove, and S.-T. Xia, The undetected error probability threshold of m-out-of-n codes, IEEE Transactions on Information Theory (TIT), vol.46, no.4, pp.1597-1599, Jul. 2000.
+[24] F.-W. Fu and S.-T. Xia, Binary constant weight codes for error detection, IEEE Transactions on Information Theory (TIT), vol. 44, no. 3, pp. 1294-1299, May 1998.
+[25] S.-T. Xia and F.-W. Fu, Johnson type bounds on constant dimension codes. Designs, Codes and Cryptography,vol.50, no.2, pp. 163-172, 2009.
+[26] S.-T. Xia and F.-W. Fu, Undetected error probability of q-ary constant weight codes. Designs, Codes and Cryptography,vol. 48, pp. 125-140, 2008.
+[27] F.-W. Fu and S.-T. Xia, The characterization of binary constant weight codes meeting the bound of Fu and Shen, Designs, Codes and Cryptography, vol.43, pp. 9-20, 2007.
+[28] S.-T. Xia, F.-W. Fu, and Y. Jiang, On the minimum average distance of binary constant weight codes, Discrete Mathematics, vol. 308, pp. 3847-3859, 2008.
+[29] S.-T. Xia and F.-W. Fu, On the average Hamming distance for binary codes. Discrete Applied Mathematics, vol. 89, pp. 269-276, 1998.
+[30] Jingjie Lv, Weijun Fang, Bin Chen, Shu-Tao Xia, Xiangyu Chen, Binary MDS array codes with flexible array dimensions and their fast encoding,Proc. IEEE International Symposium on Information Theory(ISIT-23), Jun. 2023.
+[31] Jingjie Lv, Weijun Fang, Bin Chen, Shu-Tao Xia, Xiangyu Chen, New constructions of binary MDS array codes and locally repairable array codes, Proc. IEEE International Symposium on Information Theory(ISIT-22), Espoo, Finland, Jun. 2022.
+[32] Yutao Dong, Qing Li, Richard O. Sinnott, Yong Jiang, Shutao Xia. ISP self-operated BGP anomaly detection based on weakly supervised learning, Proc. IEEE 29th International Conference on Network Protocols (ICNP-21), Virtual Event, Nov. 2021.
+[33] Weijun Fang, Bin Chen, Shu-Tao Xia, Fang-Wei Fu, Singleton-optimal LRCs and perfect LRCs via cyclic codes, Proc. IEEE International Symposium on Information Theory(ISIT-21), Melbourne, Australia, Jul. 2021.
+[34] Jie Hao, Kenneth W. Shum, Shu-Tao Xia, Fang-Wei Fu, Yi-Xian Yang, On optimal quaternary locally repairable codes, Proc. IEEE International Symposium on Information Theory(ISIT-21), Melbourne, Australia, Jul. 2021.
+[35] Weijun Fang, Bin Chen, Shu-Tao Xia, Fang-Wei Fu, Complete characterization of optimal LRCs with minimum distance 6 and locality 2: improved bounds and constructions, Proc. IEEE International Symposium on Information Theory(ISIT-20), pp. 595-599, Los Angeles, USA, Jun. 2020.
+[36] Jie Hao, Jun Zhang, Shu-Tao Xia, Fang-Wei Fu, Yi-Xian Yang, Weight distributions of q-ary optimal locally repairable codes with locality 2, distance 5 and even dimension, Proc. IEEE International Symposium on Information Theory(ISIT-20), pp. 611-615, Los Angeles, USA, Jun. 2020.
+[37] Weijun Fang, Bin Chen, Shu-Tao Xia, Fang-Wei Fu, Perfect LRCs and k-optimal LRCs, Proc. IEEE International Symposium on Information Theory(ISIT-20), pp. 600-604, Los Angeles, USA, Jun. 2020.
+[38] Xiaoteng Ma, Qing Li, Jimeng Chai, Xi Xiao, Shu-tao Xia, Yong Jiang. Steward: smart edge based joint QoE optimization for adaptive video streaming. Proc. the 29th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV-19), pp. 31-36, Amherst, MA, USA, Jun. 2019.
+[39] Jie Hao, Kenneth W. Shum, Shu-Tao Xia, Yi-Xian Yang. Classification of optimal ternary (r,\delta)-locally repairable codes attaining the Singleton-like bound, Proc. IEEE International Symposium on Information Theory (ISIT-19), pp. 2828-2832, Vail, Paris, France, Jul. 2019.
+[40] Bin Chen, Shu-Tao Xia, Jie Hao. Improved bounds and optimal constructions of locally repairable codes with distance 5 and 6, Proc. IEEE International Symposium on Information Theory (ISIT-19), pp. 2823-2827, Vail, Paris, France, Jul. 2019.
+[41] Bin Chen, Shu-Tao Xia, Jie Hao, and Fang-Wei Fu, On optimal pseudo-cyclic (r,δ)  locally repairable codes, Proc. IEEE International Symposium on Information Theory (ISIT-18), pp. 1191-1195, Vail, Colorado, USA, Jun. 2018.
+[42] Jie Hao, Kenneth W. Shum, Shu-Tao Xia, and Yixian Yang, On the maximal code length of optimal linear locally repairable codes, Proc. IEEE International Symposium on Information Theory (ISIT-18), pp. 1326-1330, Vail, Colorado, USA, Jun. 2018.
+[43] Jie Hao, Shu-Tao Xia, and Bin Chen, On optimal ternary locally repairable codes, Proc. IEEE International Symposium on Information Theory (ISIT-17), pp. 171-175, Aachen, Germany, Jun. 2017.
+[44] Bin Chen, Shu-Tao Xia, and Jie Hao, Locally repairable codes with multiple (ri, δi)-localities, Proc. IEEE International Symposium on Information Theory (ISIT-17), pp. 2038-2042, Aachen, Germany, Jun. 2017.
+[45] Weizhi Lu, Tao Dai, and Shu-Tao Xia, Compressed Sensing Performance of Binary Matrices with Binary Column Correlations, Proc. 2017 Data Compression Conference (DCC-17), pp. 151-160, Snowbird, Utah, U.S.A., Apr. 2017.
+[46] J. Hao, S.-T. Xia, and B. Chen, Some results on optimal locally repairable codes, Proc. IEEE International Symposium on Information Theory (ISIT-16), pp. 440-444, Barcelona, Spain, Jul. 2016.
+[47] J. Hao, S.-T. Xia, and B. Chen, Recursive bounds for locally repairable codes with multiple repair groups, Proc. IEEE International Symposium on Information Theory (ISIT-16), pp. 645-649, Barcelona, Spain, Jul. 2016.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

@@ -1,0 +1,99 @@
+{"title":"杨朋","cnUrl":"http://www.sigs.tsinghua.edu.cn/yp/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/02/ed/f9bd1afe43fea41645ce477a825a/35247de8-5a32-4e32-8143-f7dbf4d97711.png","email":"yang.peng@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+主要从事机器人仓储系统、动态订单拣选技术、人工智能+仓储物流、物流仓储设施能耗优化及减碳运作研究。
+教育经历 
+2000年9月-2004年6月 重庆大学机械工程学院 工学学士学位
+2004年9月-2007年6月 重庆大学机械工程学院 工学硕士学位
+2007年9月-2011年6月 清华大学工业工程系  工学博士学位
+工作经历 
+2011年7月-2013年6月，清华大学深圳研究生院物流与交通学部 博士后
+2015年10月，美国亚利桑那大学系统与工业工程系访问交流
+2017年1月，美国劳伦斯伯克利国家实验室访问交流
+2013年8月-至今，清华大学深圳国际研究生院，物流与交通学部/数据与信息研究院，讲师、副教授、博士生导师
+学术兼职 
+• Invite speaker: 2020 IEEE International Conference on Industrial Engineering and Applications
+• Track chair: 2022 INFORMS Conference on Service Science
+• Session chair: 2024 6th International Conference on Management Science and Industrial Engineering; 2022 IEEE International Conference on Industrial Engineering and Applications; 2021 IEEE International Conference on Industrial Engineering and Applications; 2020 IEEE International Conference on Industrial Engineering and Applications
+• 国家自然科学基金委，同行评审专家
+• 广东省/陕西省自然科学基金，同行评审专家
+• 深圳市科创委、发改委、工信局等部门项目评审专家
+• IISE Transactions，审稿人
+• International Journal of Production Research，审稿人 
+• International Journal of Production Economics，审稿人 
+• Computers & Operations Research，审稿人
+• Computers & Industrial Engineering，审稿人
+• Transportation Research Part E，审稿人
+• International Transactions in Operational Research，审稿人
+• International Journal of Sustainable Transportation，审稿人
+• Simulation Modelling Practice and Theory，审稿人
+• Energy Policy，审稿人
+• 工业工程，审稿人
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《应用统计学》
+《仓储系统建模与分析》
+《仓储系统建模与分析》（MOOC）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要研究方向为：机器人仓储系统、动态订单拣选技术、人工智能+仓储物流、智能仓储物流设施规划运作、物流设施能耗优化及减碳运作技术、电动车充电设施规划、物流产业发展规划等。主要研究方法涉及整数规划、排队网络、系统仿真、精确及启发式算法、机器学习等。先后主持包括国家重点研发计划子课题1项、国家自然科学基金项目2项、广东省自然科学基金1项，深圳市研究项目3项，与多家企业和政府部门开展了密切的产学研合作，与国际领先的仓储物流研究团队合作紧密。在IISE Transactions，Transportation Research Part E等重点期刊上发表论文多篇，指导的多名研究生获得清华大学优秀硕士论文/优秀毕业生。受邀担任INFORMS Conference on Service Science等多个国际会议的分会主席。承担的《应用统计学》和《仓储系统建模与分析》等课程多次获评校课评和教评前5%，《仓储系统建模与分析》课程被评为清华大学校级精品课程。开发的《仓储系统建模与分析》慕课为国内外首门聚焦仓储系统的在线课程，选课学员27000余人，已被国内外17余所高校使用，获评首批全国工程类研究生在线示范课程。获得2021年度清华大学青年教师教学优秀奖（全校共10人获奖）。
+主要项目 
+[1] 国家自然科学基金-面上项目:数据驱动的人机协同订单拣选系统建模与优化,2024-2027年,项目主持人。
+[2] 深圳市国际合作研究项目:基于人工智能和排队网络的高密度Overhead机器人仓储系统建模与优化研究,2023-2025,项目主持人。
+[3] 国家重点研发计划重点专项：基于电动汽车规模化应用下充电基础设施优化研究，2019-2021，主持（子课题）。
+[4] 国家自然科学基金面上项目：考虑货位共享和不确定性的多载具自动化存取系统作业优化研究，2016-2019，主持，结题评估为“优”。
+[5] 国家自然科学基金青年项目：多载具自动化存取系统关键作业策略的优化与仿真研究，2013-2015，主持，结题评估为“优”。
+[6] 深圳市基础研究项目：基于Flow picking的电商动态拣选技术研究)，2020-2023，主持。
+[7] 深圳市基础研究项目：智能仓储装备能耗管理和优化关键技术研究，2019-2021，主持。
+[8] 深圳市基础研究项目：低碳紧致型立体仓储系统应用技术研究，2015-2017，主持。
+[9] 企业委托项目：聚水潭电商仓储优化建模研究，2020年，主持。
+[10] 企业委托项目：国网连云港供电公司物资部业扩及通用类物资库存管控技术咨询及应用，2019年，主持。
+[11] 企业委托项目：华为海思芯片仓库规划及仿真优化项目，2011年，担任现场项目经理，负责仓库布局方案、存储方案和出入库方案的规划设计实施，方案与IT系统的集成工作。
+[12] 政府委托项目：泸州临港产业物流园区产业规划项目，2012年，项目主要骨干，负责园区产业和物流发展规划研究。
+[13] 政府委托项目：遂宁中国西部现代物流港规划项目，2009年，项目主要骨干，负责商贸园规划子项目和产业发展规划研究。
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]. Teh Khai Jen&, Rong Wang, Peng Yang*.How to determine the I/O point policy in a robotic live-cube compact storage system. International Journal of Production Research,2024,DOI: 10.1080/00207543.2024.2318021
+[2]. Jie Wang, Qiusen Wang, Peng Yang*, et al. Energy consumption analysis and optimization of cold stores considering differential electricity price. Energy and Buildings,2024, DOI: 10.1016/j.enbuild.2024.114094.
+[3]. Rong Wang, Peng Yang*, Yeming Gong, Cheng Chen.Operational Policies and Performance Analysis for Overhead Robotic Compact Warehousing Systems with Bin Reshuffling. International Journal of Production Research,2023,DOI: 10.1080/00207543.2023.2289643
+[4]. Peng Yang*, Peiran Tao, Ping Xu, Yeming Gong. Bi-objective operation optimization in multi-shuttle automated storage and retrieval systems to reduce travel time and energy consumption. 2022, Engineering Optimization, 2022,DOI: 10.1080/0305215X.2022.2096881.
+[5]. Peng Yang*, Guang Jin and Guofang Duan, Modelling and analysis for multi-deep compact robotic mobile fulfilment system. International Journal of Production Research, 2022. 60(15): 4727-4742.
+[6]. Xingwei Chen, Peng Yang* and Zixin Shao. Simulation-based time-efficient and energy-efficient performance analysis of an overhead robotic compact storage and retrieval system. Simulation Modelling Practice and Theory,2022.DOI:10.1016/j.simpat.2022.102560.
+[7]. Peng Yang, Zhijie Zhao and Zuo-Jun Max Shen. A flow picking system for order fulfillment in e-commerce warehouses. IISE Transactions, 2021. 53(5): 541-551. 
+[8]. Wenpeng Li, Lixin Miao and Peng Yang*, SIMULATION ANALYSIS OF ROBOTIC MOBILE FULFILMENT SYSTEM BASED ON CELLULAR AUTOMATA. International Journal of Simulation Modelling, 2021. 20(2): 583-594. 
+[9]. Peng Yang*, Zhijie Zhao and Huijie Guo (2020) Order batch picking optimization under different storage scenarios for e-commerce warehouses. Transportation Research Part E: Logistics and Transportation Review, DOI:10.1016/j.tre.2020.101897
+[10]. Peng Yang, Lixin Miao, Zhaojie Xue, Lei Qin. An integrated optimization of location assignment and storage/retrieval scheduling in multi-shuttle automated storage/retrieval systems. Journal of Intelligent Manufacturing,2015,26(6):1145-1159. 
+[11]. Peng Yang, Lixin Miao, Zhaojie Xue, Lei Qin. Optimal storage rack design for a multi-deep compact AS/RS considering the acceleration/deceleration of the storage and retrieval machine. International Journal of Production Research, 2014. 53(3): p. 929-943. 
+[12]. Peng Yang, Lixin Miao, Zhaojie Xue, Bin Ye. Variable neighborhood search heuristic for storage location assignment and storage/retrieval scheduling under shared storage in multi-shuttle automated storage/retrieval systems. Transportation Research Part E: Logistics and Transportation Review, 2015. 79: 164-177. 
+[13]. Peng Yang, Kaidong Yang, Mingyao Qi, Lixin Miao, Bin Ye. Designing the optimal multi-deep AS/RS storage rack under full turnover-based storage policy based on non-approximate speed model of S/R machine. Transportation Research Part E: Logistics and Transportation Review, 2017.104: 113-130.
+[14]. Peng Yang, Yongfei Peng, Bin Ye, Lixin Miao. Integrated optimization of location assignment and sequencing in multi-shuttle automated storage and retrieval systems under modified 2n-command cycle pattern. Engineering Optimization2017,49 (9): 1604-1620.
+[15]. Chun Cheng,Peng Yang, Mingyao Qi,Louis-Martin, Rousseau.Modeling a green inventory routing problem with a heterogeneous fleet. Transportation Research Part E: Logistics and Transportation Review, 2017.97: 97-112.
+[16].  Rui Chen, Xinglu Liu, Lixin Miao and Peng Yang (2020). Electric Vehicle Tour Planning Considering Range Anxiety. Sustainability. 2020, DOI:10.3390/su12093685.
+[17]. Bin Ye, Peng Yang, Jingjing Jiang, Lixin Miao, Bo Shen, Ji Li. Feasibility and economic analysis of a renewable energy powered special town in China. Resources, Conservation and Recycling,2017,121: 40-50. 
+[18]. Faping Wang, Jiali Yu, Peng Yang, Lixin Miao, Bin Ye. Analysis of Barriers to Wide Spread Adoption of Electric Vehicles in Shenzhen China. Sustainability.2017. DOI: 10.3390/su9040522.
+[19]. Zhaojie Xue, Canrong Zhang, Wei-Hua Lin, Lixin Miao, Peng Yang. A tabu search heuristic for the local container drayage problem under a new operation mode. Transportation Research Part E: Logistics and Transportation Review, 2014. 62:136-150.
+[20]. 杨朋,缪立新,秦磊.多载具自动化存取系统作业调度优化.计算机集成制造系统,2013,19(7):1626-1632.
+[21]. 杨朋,缪立新.多载具自动化存取系统绩效评价研究.工业工程,2012,15(4):21-27. 
+[22]. 杨朋,缪立新,戚铭尧.多载具自动化存取系统货位分配和拣选路径集成优化. 清华大学学报(自然科学版),2011,51(2):261-266.
+代表性著作 
+主要专利成果 
+自动化存取系统作业调度优化方法及装置，专利号：ZL 2018 1 0034541.4；
+多料箱机器人存取货作业的最优路径方法，专利号：ZL 2021 1 1476392.5
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+• 2023年中国物流与采购联合会科技进步二等奖（省部级）
+• 2021年度清华大学青年教师教学优秀奖（全校共10人获奖）
+• 2021年清华大学精品课程：《仓储系统建模与分析》
+• 2021年清华大学深圳国际研究生院精品课程：《仓储系统建模与分析》
+• 2020年清华大学深圳国际研究生院考核优秀个人
+• 2021年清华大学优秀硕士论文指导教师
+• 2020年清华大学优秀硕士论文指导教师
+• 2011年中国物流与采购联合会科技进步二等奖（省部级）
+ </奖励荣誉>

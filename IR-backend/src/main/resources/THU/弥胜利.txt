@@ -1,0 +1,81 @@
+{"title":"弥胜利","cnUrl":"http://www.sigs.tsinghua.edu.cn/msl/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/44/96/f565aca74d6e8d22fce858acbcb8/1beaf2af-c4df-48d9-8664-528c4112de57.jpg","email":"mi.shengli@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1999.09 - 2003.07，西北农林科技大学，本科
+2003.09 - 2008.07，国家干细胞工程技术研究中心陕西分中心，博士
+2007.11 - 2008.09，英国Cardiff大学眼视光学学院，联合培养博士
+工作经历 
+2008.10-2011.09，英国雷丁大学药学院，干细胞与纳米材料实验室，博士后；
+2012.01-2012.11，清华大学深圳研究生院，先进制造学部，讲师；
+2012.12-2021.12，清华大学深圳国际研究生院，先进制造学部，副研究员；
+2022.01-至今 清华大学深圳国际研究生院，先进制造学部，教授。 
+学术兼职 
+中国生物材料学会生物材料先进制造分会第一届委员会——常务委员
+中国机械工程学会生物制造工程分会——委员
+深圳市微米纳米技术学会——理事
+International Journal of Ophthalmic Research—— 编委
+Biomaterials Translational ——编委
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+研究生课程：数理方法与仪器科学概论；
+研究生课程：生物制造工程原理与方法；
+研究生课程：工程生物医学前沿；
+研究生课程：计算机辅助组织工程。
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+弥胜利，清华大学深圳国际研究生院，教授，博士生导师，深圳市海外高层次引进人才，深圳市地方级领军人才。主要从事生物制造领域的研究工作。近年来在Nature Communication、Biofabrication、Acta Biomaterialia、Plos Biology及Chemical Engineering Journal等期刊上共发表SCI论文63篇，其中以第一/通讯作者发表论文46篇，授权发明专利47项，获省部级科技进步奖1项。主要研究方向及代表性工作如下：
+（1）智能医疗装备：致力于高端医疗设备的国产替代，尤其是眼科高端医疗仪器的开发研究。依托实验室研发基础，先后开发了数字化智能角膜交联仪、眼前节综合OCT、病理切片滴染设备及高通量微流控核酸检测设备。在机械结构设计、光路设计、光机电软硬件控制、人工智能、机器学习等方面具有较好的工作基础。
+（2）组织工程角膜及智能眼环：进行仿生或功能设计，开发智能响应性生物水凝胶材料，对仿生材料进行改性或预处理，基于超材料结构设计/微流控/MES等工科手段精密加工成型得到仿生系统或精密器件，进一步研究相关系统或器件在临床或生物学领域的应用。代表性工作：基于静电直写技术生物材料原位诱导角膜组织再生机理研究；中央镜柱高分子透明材料联合外围裙边脱细胞基质材料构建“芯-裙复合结构人工角膜”；多区域泪液蛋白检测智能角膜接触镜和眨眼触发药物缓释智能角膜接触镜研究。
+（3）生物3D打印：课题组自主研发了桌面化多喷头生物3D打印机，可实现多种活细胞、活性因子和水凝胶生物材料的精准受控组装。率先提出3D生物打印技术构建肿瘤空间异质性的乳腺癌模型，重点研究肿瘤空间异质性对于肿瘤侵袭转移，血管生成，基质重塑等机制的影响。完成个性化肺癌模型的构建与药物筛选研究，有望作为全新的个性化药敏检测模型，指导临床用药。
+（4）微流控器官芯片：实现在微流控芯片上集成核酸分离、提取、扩增与实时荧光检测；开发了拉伸被动驱动式微流控核酸检测芯片，实现可视化、便携式、用户友好的等温核酸扩增检测；在微流控芯片上构建了微泵、微阀等流体驱动单元模块，利用微流控芯片层流特性，联合内皮细胞自组装原理，构建了芯片仿生微肝功能单元模型，证明该模型可靠并可用于抗癌药物筛选。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Zhongwei Guo , Yuanyuan Xu, Lina Dong, Malav S. Desai, Jingjing Xia, Mujiao Liang, Seung-Wuk Lee,* Shengli Mi* , Wei Sun. Design of functional hydrogels using smart polymer based on elastin-like polypeptides.Chemical Engineering Journal 2022,435: 135155.
+[2] Wenhan Xu , Bin Kong , Huatao Xie , Jiaqi Zhang, Weijian Liu , Sheng Liu , Yanbin Zhang, Fan Yang, Jiheng Xiao, Shengli Mi*, Liming Xiong* , Mingchang Zhang*, Fagang Jiang*. PCL scaffold combined with rat tail collagen type I to reduce keratocyte differentiation and prevent corneal stroma fibrosis after injury.Experiment Eye Research.Experimental Eye Research,2022(217:108936.
+[3]Jiajun Huang*,Xiaoyu Zhao,Xiang Li,Jiwei Peng,Weihao Yang, Shengli Mi*. HMGCR inhibition stabilizes the glycolytic enzyme PKM2 to support the growth of renal cell carcinoma. Plos Biology. Published online: April 27, 2021.doi.org/10.1371/journal.pbio.3001197
+[4] Xiang Li, Xiaoyu Zhao,Weihao Yang, Fei Xu, Shengli Mi*.Stretch driven microfluidic chip for nucleic acid detection.Biotechnology and Bioengineering. 2021 DOI:10.22541/au.162088685. 8967 078/v1
+[5] Xiaoyu Zhao,Xiang Li, Weihao Yang, Jiwei Peng, jiajun Huang*, Shengli Mi*. An integrated microfluidic detection system for the automated and rapid diagnosis of high-risk human papillomavirus. Analyst，2021,146, 5102-5114.
+[6 ] Yingbing Hu, Yu Huang, Yun Chena, Cheng Yea, Wei Wei, Yun Fenge*, Shengli Mi* Study on patterned photodynamic cross-linking for keratoconus. Experiment Eye Research 2021 Mar;204:108450.doi: 10.1016/j.exer.2021.108450.
+[7] Jieqiong Wang, YunChen, Ying Bai,Daping Quan,Zhichong Wang,Liming Xiong, Zengwu Shao, Wei Sun, Shengli Mi*. A core-skirt designed artificial cornea with orthogonal microfiber grid scaffold. Experiment Eye Research 2020:195:108037 doi.org/10.1016/j.exer.2020.108037
+[8] Bin Kong, Yun Chen , Rui Liu, Xi Liu, Changyong Liu, Zengwu Shao, Liming Xiong , Xianning Liu , Wei Sun*, Shengli Mi*. Fiber Reinforced GelMA Hydrogel to Induce the Regeneration of Corneal Stroma. Nat Communication. 2020 Mar 18;11(1):1435. doi: 10.1038/s41467-020- 14 887-9. 
+[9] Rui Liu, Bin Kong, Yun Chen, Xueping Liu*, and Shengli Mi* Formation of helical alginate microﬁbers using diﬀerent G/M ratios of sodium alginate based on microﬂuidics. SENSORS AND ACTUATORS B-CHEMICAL,2020,11(1):10. 1016/j.snb.2019.127069
+[10] Zhongwei Guo, Jingjing Xia, Shengli Mi* and Wei Sun* Mussel-inspired naturally derived double-network hydrogels and its application in 3D printing: from soft, injectable bioadhesives to mechanically strong hydrogels. ACS Biomaterials Science & Engineering 2020, 6, 3, 1798-1808.
+[11] Xing Yang, Hongyi Yao, Gangnan Zhao, Shengli Mi* Flexible, Wearable Microfluidic Contact Lens with Capillary Networks for Tear Diagnostics. Journal of Materials Science. 2020, 55(22):9551-9561.
+[12] Guo Z, Mi S*, Sun W*. A facile strategy for preparing tough, self-healing double network hyaluronic acid hydrogels inspired by mussel cuticle. Macromolecular Materials and Engineering. 2019, 304(4):1800715. doi: 10.1002/mame.201800715
+[13] Shengli Mi, Haitao Pu, Shengyue Xia and Wei Sun. A Minimized Valveless Electromagnetic Micropump for Microﬂuidic Actuation on Organ Chips. Sensors and Actuators A: Physical 2019,doi.org/10.1016/j.sna.2019.111704.
+[14] Mi SL,Xia JJ, Xu YY,Du ZC and Sun W. An integrated microchannel biosensor platform to analyze low density lactate metabolism in HepG2 cells in vitro. RSC ADVANCES 2019(9)16: 9006-9013.
+[15] Shengli Mi, Shuaitao Yang, Tiankun Liu, Zhichang Du, Yuanyuan Xu, Bohan Li, Wei Sun.
+A Novel Controllable Cell Array Printing Technique on Microfluidic Chips. Transactions on Biomedical Engineering,2019, DOI: 10.1109/TBME.2019.2891016.
+[16] Shengli Mi, Zhaoyu Liu, Zhichang Du, Xiaoman Yi, Wei Sun. Three-dimensional microfluidic tumor-macrophage system for breast cancer cell invasion. Biotechnology and Bioengineering, 2019, DOI: 10.1002/bit.26961.
+[17] Zhichang Du , Shengli Mi, Xiaoman Yi, Yuanyuan Xu and Wei Sun. Microfluidic system for modelling 3D tumour invasion into surrounding stroma and drug screening. Biofabrication 10 (2018) 034102. (co-first author)
+[18] Shengli Mi, Zhichang Du Yuanyuan Xu and Wei Sun* The crossing and integration between microfluidic technology and 3D printing for organ-on-chips. Journal of Materials Chemistry B, 2018, 6, 6191-6206. 
+[19] Zhongwei Guo, Shengli Mi * and Wei Sun* The multifaceted nature of catechol chemistry: bioinspired pH-initiated hyaluronic acid hydrogels with tunable cohesive and adhesive properties. J. Mater. Chem. B, 2018, 6, 6234—6244. 
+[20] Shengli Mi, Baihan L Xiaoman Yi, Yuanyuan Xu, Zhichang Du, Shuaitao Yang, Wei Li and Wei Sun*. An AC electrothermal self-circulating system with a minimalist process to construct a biomimetic liver lobule model for drug testing. RSC Adv., 2018, 8, 36987–36998.
+[21] Yuanyuan Xu, Yingying Hu, Changyong Liu, Hongyi Yao, Boxun Liu and Shengli Mi *. A Novel Strategy for Creating Tissue-Engineered Biomimetic Blood Vessels Using 3D Bioprinting Technology. Materials 2018, 11, 1581. 
+[22] Shengli Mi, Xiaoman Yi, Zhichang Du, Yuanyuan Xu and Wei Sun. Construction of a liver sinusoid based on the laminar flow on chip and self-assembly of endothelia cells. Biofabrication 2018,10025010.
+[23] Zhengjie Wu, Bin Kong, Rui Liu, Wei Sun and Shengli Mi*. Engineering of Corneal Tissue through an Aligned PVA/Collagen Composite Nanoﬁbrous Electrospun Scaffold. Nanomaterials 2018, 8, 124; doi:10.3390/nano8020124.
+[24] Yuanyuan Xu, Xiao Guo, Shuaitao Yang, Long Li, Peng Zhang, Wei Sun, Changyong Liu and Shengli Mi*. Construction of bionic tissue engineering cartilage scaffold based on three-dimensional printing and oriented frozen technology. J Biomed Mater Res Part A： 106A: 1664–1676, 2018. 
+[25] Xujie Liu, Yong Xie, Rui Liu, Ranran Zhang, Hao Yan, Xing Yang, Qianli Huang, Wei He, Bo Yu, Qingling Feng* , Shengli Mi*, Qiang Cai*. A cyclo-trimer of acetonitrile combining fluorescent property with ability to induce osteogenesis and its potential as multifunctional Biomaterial. Acta Biomaterialia 2018,65:163-173
+[26] Hongyi Yao, Jieqiong Wang and Shengli Mi* Photo Processing for Biomedical Hydrogels Design and Functionality. Polymers 2018, 10, 11:1-27. 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1.深圳市海外高层次人才（“孔雀计划”）；
+2.深圳市地方级领军人才；
+3.南山区领航人才；
+4.深圳市优秀教师，2019；
+5.清华大学深圳国际研究生院年度考核优秀（2020、2018、2016）；
+6.清华大学深圳国际研究生院党建与思政工作优秀个人，2020；
+7.清华大学深圳国际研究生院学生工作优秀个人，（2017、2020)；
+8.陕西省科技进步三等奖，2013。
+ </奖励荣誉>

@@ -1,0 +1,75 @@
+{"title":"左剑恶","cnUrl":"http://www.sigs.tsinghua.edu.cn/zje1/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/5b/fd/ff6fd2ff40fda5e5c2007a8a9026/4f79e0ca-6284-49d9-9a03-f132668170d2.jpg","email":"jiane.zuo@tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+Ph.D. in Environmental Engineering, March, 1995, Tsinghua University, Beijing, China
+M.Sc. in Environmental Engineering, March, 1995, Tsinghua University, Beijing, China
+B.Sc. in Environmental Engineering,July, 1991, Tsinghua University, Beijing, China
+工作经历 
+2020/05-present, Deputy Dean, Institute of Environment and Ecology, Tsinghua Shenzhen 
+International Graduate School, Tsinghua University
+2019/11-present, Associate Dean, Tsinghua Shenzhen International Graduate School, Tsinghua 
+University
+2004-present, Professor, Department of Environmental Science and Engineering, Tsinghua 
+University
+2010/07-2016/07, Professor, Vice Dean , School of Environment, Tsinghua University 
+1997/09-2004/12, Associate Professor, Department of Environmental Science and Engineering, 
+Tsinghua University 
+1998/01-1999/01, Visiting Scholar, Department of Civil Engineering, Newcastle University, UK
+1995/08-1997/09, Assistant Professor, Department of Environmental Science and Engineering, 
+Tsinghua University
+学术兼职 
+Member, International Water Association (IWA), 2006-present
+Board member, China Biogas Society, 2000-present 
+Member, China Environmental Association, 1999-present
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+1. Water and Wastewater Treatment Engineering (including experiments) - for undergraduate students.
+2. Water and Wastewater Treatment Engineering Designing - for undergraduate students.
+3. Site Practice for Water and Wastewater Treatment Engineering - for undergraduate students.
+4. Case Research and Engineering Practice for Environmental and Sanitation Engineering (cooperated with professors of Aachen University of Technology, Germany) – for graduate students.
+5. MOOC course----Principal and technology for Wastewater Biological Treatment.
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+1. Anaerobic biotechnology for organic wastewater and solid waste treatment and biogas recovery;
+2. Rain water collection and pollution control & Sewer system evaluation and maintenance; 
+3. Occurrence and control strategy for some emerging pollutants including PPCPs, ARGs, Microplastic, etc.
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Hu J, Zuo J, Li J, et al. Effects of secondary polyethylene microplastic exposure on crucian (Carassius carassius) growth, liver damage, and gut microbiome composition[J]. Science of The Total Environment, 2022, 802: 149736.
+[2] Zhang F, Zuo J, Jin W, et al. Size effect of γ-MnO2 precoated anode on lead-containing pollutant reduction and its controllable fabrication in industrial-scale for zinc electrowinning[J]. Chemosphere, 2022, 287: 132457.
+[3] Shi X, Zuo J, Li B, et al. Two-stage anaerobic digestion of food waste coupled with in situ ammonia recovery using gas membrane absorption: Performance and microbial community[J]. Bioresource technology, 2020, 297: 122458.
+[4] Yu H, Tian Z, Zuo J, et al. Enhanced nitrite accumulation under mainstream conditions by a combination of free ammonia-based sludge treatment and low dissolved oxygen: reactor performance and microbiome analysis[J]. RSC Advances, 2020, 10(4): 2049-2059.
+[5] Zhang Y, Zuo J, Salimova A, et al. Phytoplankton distribution characteristics and its relationship with bacterioplankton in Dianchi Lake[J]. Environmental Science and Pollution Research, 2020, 27(32): 40592-40603.
+[6] Zhao J, Zhang B, Zuo J. Response of anammox granules to ZnO nanoparticles at ambient temperature[J]. Environmental Technology & Innovation, 2019, 13: 146-152.
+[7] Zhang B, Zhao J, Zuo J, et al. Realizing stable operation of anaerobic ammonia oxidation at low temperatures treating low strength synthetic wastewater[J]. Journal of Environmental Sciences, 2019, 75: 193-200.
+[8] Shi X, Zuo J, Zhang M, et al. Enhanced biogas production and in situ ammonia recovery from food waste using a gas-membrane absorption anaerobic reactor[J]. Bioresource technology, 2019, 292: 121864.
+[9] Shi X, Guo X, Zuo J, et al. A comparative study of thermophilic and mesophilic anaerobic co-digestion of food waste and wheat straw: Process stability and microbial community structure shifts[J]. Waste Management, 2018, 75: 261-269.
+[10] Zhang M, Zuo J, Yu X, et al. Quantification of multi-antibiotic resistant opportunistic pathogenic bacteria in bioaerosols in and around a pharmaceutical wastewater treatment plant[J]. Journal of environmental sciences, 2018, 72: 53-63.
+[11] Wang Y, Li P, Zuo J, et al. Inhibition by free nitrous acid (FNA) and the electron competition of nitrite in nitrous oxide (N2O) reduction during hydrogenotrophic denitrification[J]. Chemosphere, 2018, 213: 1-10.
+[12] Yu X, Zhang M, Zuo J, et al. Evaluation of antibiotic resistant lactose fermentative opportunistic pathogenic Enterobacteriaceae bacteria and blaTEM-2 gene in cephalosporin wastewater and its discharge receiving river[J]. Journal of environmental management, 2018, 228: 458-465.
+[13] Chi T, Zuo J, Liu F. Performance and mechanism for cadmium and lead adsorption from water and soil by corn straw biochar[J]. Frontiers of Environmental Science & Engineering, 2017, 11(2): 15.
+[14] Li P, Wang Y, Zuo J, et al. Nitrogen removal and N2O accumulation during hydrogenotrophic denitrification: influence of environmental factors and microbial community characteristics[J]. Environmental science & technology, 2017, 51(2): 870-879.
+[15] Shi X, Lin J, Zuo J, et al. Effects of free ammonia on volatile fatty acid accumulation and process performance in the anaerobic digestion of two typical bio-wastes[J]. Journal of Environmental Sciences, 2017, 55: 49-57.
+[16] Xing X, Xi H, Zuo J, et al. Determination of the organics in trimethylolpropane wastewater[J]. Analytical Letters, 2017, 50(16): 2505-2518.
+[17] Li P, Zuo J, Wang Y, et al. Tertiary nitrogen removal for municipal wastewater using a solid-phase denitrifying biofilter with polycaprolactone as the carbon source and filtration medium[J]. Water research, 2016, 93: 74-83.
+[18] Yu X, Tang X, Zuo J, et al. Distribution and persistence of cephalosporins in cephalosporin producing wastewater using SPE and UPLC–MS/MS method[J]. Science of the total environment, 2016, 569: 23-30.
+[19] Yang B, Zuo J, Li P, et al. Effective ultrasound electrochemical degradation of biological toxicity and refractory cephalosporin pharmaceutical wastewater[J]. Chemical Engineering Journal, 2016, 287: 30-37.
+[20] Liu F, Zuo J, Chi T, et al. Removing phosphorus from aqueous solutions by using iron-modified corn straw biochar[J]. Frontiers of Environmental Science & Engineering, 2015, 9(6): 1066-1075.
+[21] Xing L, Chow C W K, Zuo J, et al. Impact of extracted algogenic organic matter on coagulation performance[J]. Water Science and Technology: Water Supply, 2015, 15(3): 617-624.
+[22] Zhao J, Zuo J, Lin J, et al. The performance of a combined nitritation–anammox reactor treating anaerobic digestion supernatant under various C/N ratios[J]. Journal of Environmental Sciences, 2015, 30: 207-214.
+代表性著作 
+1. Kaijun Wang, Jiane Zuo, Limin Jia, Hainan Gan, Principal and Engineering Practice of UASB reactor, China Environmental Science Press, Beijing, 2000,
+2. Jicui Hu, Mengjin Zhou, Jiane Zuo, Jianrong Zhu, Miao He, Principal and Technology for Wastewater Anaerobic Treatment, China Architecture Industrial Press, Beijing, 2003.
+3. Jose Esteban, Leo Heller, (eds) Water and Sanitation Services—Public Policy and Management, Earthscan, London, 2009.
+主要专利成果 
+其他成果 
+Software copyright
+1. Jiane Zuo, Xin Yu, Zaixing Li. A software for evaluating the technologies of prevention and treatment of pharmaceutical industry wastewater pollution. Registration number: 2012SR117037.
+ </研究成果>

@@ -1,0 +1,67 @@
+{"title":"梅红伟","cnUrl":"http://www.sigs.tsinghua.edu.cn/mhw/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/ff/90/e3617a054a119be8f46745096760/1e6ab49b-a59e-4f61-b60d-6ba328451d5a.jpg","email":"mei.hongwei@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2007年09月-2011年12月，清华大学，电气工程，博士
+2002年09月-2004年07月，哈尔滨工业大学，电气工程，硕士
+1998年09月-2002年07月，哈尔滨工业大学，电气工程，学士 
+工作经历 
+2019年12月至今，清华大学深圳国际研究生院，副教授
+2019年08月-2019年12月，清华大学深圳国际研究生院，讲师
+2014年01月-2019年08月，清华大学深圳研究生院，讲师
+2012年01月-2013年12月，清华大学，环境科学与工程，博士后
+2004年07月-2007年08月，河海大学，计算机及信息工程学院，助教
+学术兼职 
+2019年1月-2022年12月，《高压电器》杂志，青年编辑委员会委员
+2019年7月-2023年7月，高海拔高电压实验室，青年委员
+IEEE Transactions on Dielectrics and Electrical Insulation、IEEE Transactions on Power Delivery、IEEE Transactions on Instrumentation and Measurement、High Voltage等期刊审稿人
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+主讲《高压输电技术》，秋季学期，32学时
+主讲《储能技术及其在新能源系统中的应用》，秋季学期，32学时
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事输变电设备绝缘技术以及状态检测与评估技术方面的研究。完善了硅橡胶绝缘护套的物理模型和结构，并在输电线路防污闪、防风偏和防鸟粪闪络中得到了应用；完善了绝缘子污秽状态评估方法和模型，开发的绝缘子污秽状态在线监测系统已应用于国内多个省级电网；提出了基于近场微波、远场太赫兹波和红外热波技术的输变电设备状态无损检测方法，研制了相应的装置。主持国家省市级项目10余项（国家重点研发计划子课题、国家自然科学基金面上和青年基金、深圳市基础研究项目等），横向课题10余项（国家电网和南方电网公司项目）。在研纵向项目如下：
+（1）特高压设备气固界面放电特性及闪络概率，国家重点研发计划子课题（2017YFB0902702），176.7万，2017.07-2020.12；
+（2）基于多维度热波特征量的支柱瓷绝缘子及瓷套缺陷检测与评价方法研究，国家自然科学基金面上项目（51977117），62万，2020.01-2023.12；
+（3）基于红外热波的电力设备缺陷无损检测技术及试验平台研究，深圳市基础研究项目（JCYJ20170817160926795），50万，2018.03-2020.06；
+（4）基于太赫兹波的电网装置内部缺陷无损检测技术及试验平台研究，深圳市基础研究项目（JCYJ20180306174040354），50万，2019.03-2021.03；
+（5）复合绝缘子内部缺陷的无损检测方法研究，电力系统国家重点实验室开放基金（SKLD19KM02），5万，2019.07-2020.10。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+以第一、第二、通讯作者发表SCI检索论文20余篇、EI检索论文50余篇，以第一、第二发明人申请发明专利20余项、授权4项，参与撰写专著3本、电力行业标准2项。
+代表性论文
+[1] Hongwei Mei, Huaiyuan Jiang, Fanghui Yin, et al. Detection of Small Defects in Composite Insulators Using Terahertz Technique and Deconvolution Method. IEEE Transactions on Instrumentation and Measurement, 2020, Early Access Article.
+[2] Lishuai Liu, Hongwei Mei, Chenjun Guo, et al. Pixel-level Classification of Pollution Severity on Insulators Using Photothermal Radiometry and Multi-class Semi-supervised Support Vector Machine. IEEE Transactions on Industrial Informatics, 2020, Early Access Article.
+[3] Lishuai Liu, Hongwei Mei, Chenjun Guo, et al. Remote Optical Thermography Detection Method and System for Silicone Polymer Insulating Materials Used in Power Industry. IEEE Transactions on Instrumentation and Measurement, 2019, Early Access Article.
+[4] Hongwei Mei，Lanxin Li，Fanghui Yin，et al. Study on Detecting Dielectric Properties of Typical Electrical Insulation Materials by Terahertz Wave Spectroscopy. IEEE Access, 2019, Early Access Article.
+[5] Zong Li, Hongwei Mei, Liming Wang. A Power Supply Technology for a Low-Power Online Monitoring Sensor Based on Electric Field Induction. Sensors, 2019, 19(09):2169.
+[6] Daiming Yang, Hongwei Mei, Liming Wang. Corrosion Measurement of the Atmospheric Environment Using Galvanic Cell Sensors. Sensors, 2019, 19(2):331.
+[7] Lishuai Liu, Liming Wang, Chenjun Guo, Hongwei Mei*, Chenlong Zhao. Detecting Defects in Porcelain Postinsulator Coated With Room Temperature Vulcanized Silicone Rubber by Pulsed Thermography. IEEE Transactions on Instrumentation and Measurement, 2019, 68(1): 225-233.
+[8] Hongwei Mei*, Xiyuan Guan, Xiangyun Fu, et al. Influence of tower anticorrosion coating as contaminant on operation characteristics of composite insulator. High Voltage, 2018, 3(3):193-198.
+[9] Chunjie Wang, Hongwei Mei*, Wenxi Tang, et al. Characteristics of Positive Streamer in Air:Effects of Low Temperature. IEEE Transactions on Dielectrics and Electrical Insulation, 2018, 25(6):2086-2092.
+[10] Hongwei Mei*, Shi Yan, Chenlong Zhao, et al. Research on Lightning Current Sensor Coil Based on Lightning Space Magnetic Field. IEEE Transactions on Instrumentation and Measurement, 2018, 67(8):1922-1928.
+[11] Xiaobo Meng, Hongwei Mei, Liming Wang, et al. Characteristics of Streamer Propagation along the Insulation Surface:Influence of Air Pressure and Humidity. IEEE Transactions on Dielectrics and Electrical Insulation, 2017, 24(1):391-400.
+[12] Xiaobo Meng, Hongwei Mei, Liming Wang, et al. Characteristics of Streamer Propagation along the Insulation surface: Influence of Shed Configuration. IEEE Transactions on Dielectrics and Electrical Insulation, 2016, 23(4):2145-2155.
+[13] Li Cheng, Hongwei Mei, Liming Wang, et al. Research on Aging Evaluation and Remaining Lifespan Prediction of Composite Insulators in High Temperature and Humidity Regions. IEEE Transactions on Dielectrics and Electrical Insulation, 2016, 23(5):2850-2857.
+[14] Hongwei Mei*, Liming Wang, Zhicheng Guan, et al. Influences of Sugar as Contaminant on Outdoor Insulation Characteristics of Insulators in a Substation. IEEE Transactions on Dielectrics and Electrical Insulation, 2012, 19(4):1318-1324.
+[15] Hongwei Mei*, Gongmao Peng, Hanqi Dai, et al. Installing insulation jacket to improve outdoor insulation performance of composite insulator. IEEE Transactions on Dielectrics and Electrical Insulation, 2011, 18(6):2004-2012.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2019年中国机械工业科学技术奖科技进步奖一等奖
+2019年广东省专利银奖，2018年度深圳市科学技术奖标准奖
+2017年卫星导航定位科技进步奖一等奖
+2017年中国南方电网公司科技进步奖二等奖
+2017年中国南方电网公司专利奖二、三等奖
+2014年清华大学教学成果奖二等奖
+ </奖励荣誉>

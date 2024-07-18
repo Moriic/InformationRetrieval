@@ -1,0 +1,47 @@
+{"title":"高丹","cnUrl":"http://www.sigs.tsinghua.edu.cn/gd/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/99/8c/52263f054771b3b68986b465dc31/791ceed7-6770-4418-869f-34bda27152c8.jpg","email":"gao.dan@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2006年09月-2011年06月，北京化工大学与清华大学联合培养，化学工程与技术，博士
+2002年09月-2006年06月，北京服装学院，应用化学专业，本科
+工作经历 
+2019年12月-至今，清华大学深圳国际研究生院，副研究员
+2019年3月-2019年12月，清华大学深圳国际研究生院，讲师
+2018年1月-2019年1月，斯坦福大学，访问学者
+2013年8月-2019年3月，清华大学深圳研究生院，讲师
+2011年7月-2013年6月，清华大学深圳研究生院，博士后
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+文献检索与论文写作
+药物化学专题实验
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+研究方向：生命分析化学，主要以微流控芯片结合质谱、光谱联用分析技术为基础，开展药物分析、新型有机合成以及生物传感等工作，致力于服务国家药品质量与安全、新药创制以及疾病诊断的研究与开发。作为项目负责人国家自然科学基金面上项目、青年基金，中国博士后基金、广东省自然科学基金项目、深圳市基础研究学科布局、基础研究自由探索等多个项目；参与“十二五”重大新药创制、973项目、国家863项目等多项。在Trends in Analytical Chemistry, Chemical Science, ACS Applied Materials & Interfaces, Analytical Chemistry, Lab on a Chip等学术期刊发表学术论文60余篇，申请专利7项。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Hu, W.; Gao, D.*; Su, Z.; Qian, R.; Wang, Y.; Liang, Q.*, A cellular chip-MS system for investigation of Lactobacillus rhamnosus GG and irinotecan synergistic effects on colorectal cancer. Chinese Chem. Lett. 2021.
+[2] Li, J.; An, Z.; Sun, J.; Tan, C.*; Gao, D.*; Tan, Y.; Jiang, Y., Highly Selective Oxidation of Organic Sulfides by a Conjugated Polymer as the Photosensitizer for Singlet Oxygen Generation. ACS Appl. Mater. Interfaces 2020,12 (31), 35475-35481.
+[3] Gao, D.; Jin, F.; Lee, J. K.; Zare, R. N.*, Aqueous microdroplets containing only ketones or aldehydes undergo Dakin and Baeyer–Villiger reactions. Chem. Sci. 2019,10 (48), 10974-10978.
+[4] Li, S.; Gao, D.*; Song, C.; Tan, C.*; Jiang, Y., Isotope Labeling Strategies for Acylcarnitines Profile in Biological Samples by Liquid Chromatography-Mass Spectrometry. Anal. Chem. 2019,91 (3), 1701-1705.
+[5] Gao, D.; Jin, F.; Yan, X.; Zare, R. N.*, Selective Synthesis in Microdroplets of 2-Phenyl-2,3-dihydrophthalazine-1,4-dione from Phenyl Hydrazine with Phthalic Anhydride or Phthalic Acid. Chem. Eur. J. 2019,25 (6), 1466-1471.
+[6] Song, C.; Gao, D.*; Li, S.; Liu, L.; Chen, X.; Jiang, Y.*, Determination and quantification of fatty acid C=C isomers by epoxidation reaction and liquid chromatography-mass spectrometry. Anal. Chim. Acta 2019,1086, 82-89.
+[7] Li, A.; Tan, C.*; Yuan, T.; Liang, J.; Gao, D.*; Tan, Y.; Jiang, Y., Efficient photocatalytic oxidation sensitized by conjugated polymers in a batch reaction and microreactors under visible light. J. Mater. Chem. A 2018,6 (33), 15927-15932.
+[8] Chen, Y.; Gao, D.*; Wang, Y.; Lin, S.; Jiang, Y., A novel 3D breast-cancer-on-chip platform for therapeutic evaluation of drug delivery systems. Anal. Chim. Acta 2018,1036, 97-106.
+[9] Shao, X.; Gao, D.*; Chen, Y.; Jin, F.; Hu, G.; Jiang, Y.; Liu, H., Development of a blood-brain barrier model in a membrane-based microchip for characterization of drug permeability and cytotoxicity for drug screening. Anal. Chim. Acta 2016,934, 186-93.
+[10] Xie, W.; Gao, D.*; Jin, F.; Jiang, Y.; Liu, H.*, Study of Phospholipids in Single Cells Using an Integrated Microfluidic Device Combined with Matrix-Assisted Laser Desorption/Ionization Mass Spectrometry. Anal. Chem. 2015,87 (14), 7052-9.
+[11] Chen, Y.; Gao, D.*; Liu, H.; Lin, S.; Jiang, Y., Drug cytotoxicity and signaling pathway analysis with three-dimensional tumor spheroids in a microwell-based microfluidic chip for drug screening. Anal. Chim. Acta 2015,898, 85-92.
+[12] Wu, Q.; Gao, D.; Wei, J.; Jin, F.; Xie, W.; Jiang, Y.*; Liu, H.*, Development of a novel multi-layer microfluidic device towards characterization of drug metabolism and cytotoxicity for drug screening. Chem. Commun. 2014,50 (21), 2762-4.
+[13] Gao, D.; Liu, H.; Jiang, Y.; Lin, J. M.*, Recent advances in microfluidics combined with mass spectrometry: technologies and applications. Lab Chip 2013,13 (17), 3309-22.
+[14] Gao, D.; Liu, H.; Lin, J. M.*; Wang, Y.; Jiang, Y.*, Characterization of drug permeability in Caco-2 monolayers by mass spectrometry on a membrane-based microfluidic device. Lab Chip 2013,13 (5), 978-85.
+[15] Gao, D.; Liu, H.; Jiang, Y.; Lin, J.-M.*; Gao, D.; Liu, H.; Jiang, Y., Recent developments in microfluidic devices for in vitro cell culture for cell-biology research. Trends Anal. Chem. 2012,35, 150-164.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

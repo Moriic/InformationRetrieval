@@ -1,0 +1,50 @@
+{"title":"方可","cnUrl":"http://www.sigs.tsinghua.edu.cn/fk_4679/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/e2/47/67692f264391881455b2e459de7c/86cf4b0a-1157-4c83-9350-5c2db4e842cb.jpg","email":""}
+<个人简历>
+概况 
+ 主要从事互动媒体设计与技术，设计思维及交叉学科创新教育的研究。
+ 方可是横跨科学、工程、设计和社会科学的交叉型学者和创新教育的实践者。他关心人们如何可以跨越各种学科、知识和经历的壁垒进行平等而富有创造力的合作与学习。
+ 方可的研究领域涉及两个领域：一、互动媒体与跨界游戏设计，目前在研项目有：人工智能+游戏，复杂系统+游戏，合成生物学+游戏，新型动捕交互游戏；二、设计思维与教育创新，目前是SIGS新型交叉创新实践系列课程及交叉创新工坊空间负责人。
+教育经历 
+2015年10月-2020年9月，巴黎大学，社会学与教育科学专业，博士
+2012年9月-2015年7月，清华大学，信息艺术设计交叉学科专业，硕士
+2006年9月-2011年7月，北京大学，物理学专业，学士
+工作经历 
+2021年5月-至今，清华大学深圳国际研究生院，讲师
+2020年9月-2021年5月，零一学院，教学主管
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《互动媒体导论》
+《互动媒体研究工作坊》
+《游戏制作工作坊》
+《游戏引擎原理与实践》
+《交叉创新实践课：数字医疗》
+《交叉创新实践课：生命的数字逻辑》
+《交叉创新实践课：X-Robot》
+《设计思维与实践》
+《美术表达》
+《交叉创新实践课：人机交互设计》
+《交叉创新实践课：科学教育互动媒体实践》
+《实体互动媒体设计与实践》
+研究生指导 
+ </教学>
+<研究成果>
+代表性论文 
+1. Fang, Ke, Danqing Shi, Yunzi Qian, Yin Li, and Junjie Yu.The Collider. Leonardo 52.2 (2019): 177-178.
+2. Zhu, Fengyuan, Ke Fang, and Xiaojuan Ma. Exploring the effects of strategy and arousal of cueing in computer-human persuasion. Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems. 2017
+3. Ma, Xiaojuan, Ke Fang, and Fengyuan Zhu. From Breakage to Icebreaker: Inspiration for Designing Technological Support for Human-Human Interaction. Proceedings of the 2016 ACM Conference on Designing Interactive Systems. 2016.
+4. Yu, Junjie, Ke Fang, and Zhiyong Fu. Co-pulse: Light Based Emotional Design in Musical Performances. International Conference on Social Computing and Social Media. Springer, Cham, 2014.
+5. 师丹青, 方可, 陆志聪, 敖梦星, 刘畅, & 徐迎庆. Smart Flash: 主动风格相机原型设计. 装饰 10 (2014): 90-92.
+6. Li, Jiahao, Ke Fang, Yuan Zeng, and Ye Yan. Expanding Intersubjectivity: A Metaverse VR Practice. In 2022 8th International Conference on Virtual Reality (ICVR), pp. 202-209. IEEE, 2022.
+7. Li, Jiahao, Ke Fang, and Wai Kin Victor Chan. Parallel Dance: A Social Game on Campus Public Screens. In 2022 IEEE Conference on Games (CoG), pp. 586-587. IEEE, 2022.
+8. Li, Jiahao, Ke Fang, Xing Sun, Zhouyi Li, Xinyang Wen, and Wai Kin Victor Chan. Gulliver’s Game: Multiviewer and Vtuber Extreme Asymmetric Game. In 2022 IEEE Conference on Games (CoG), pp. 598-599. IEEE, 2022.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2022年度清华大学教学优秀奖
+ </奖励荣誉>

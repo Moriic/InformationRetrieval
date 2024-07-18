@@ -1,0 +1,64 @@
+{"title":"董恺琛","cnUrl":"http://www.sigs.tsinghua.edu.cn/dkc/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/37/19/af4ae4d44f3ca7e0e4d9e537c0f7/ffe1f294-24db-4064-8d94-4bc224ce62d3.jpg","email":"dkc22@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+董恺琛简历 20240331.pdf
+Kaichen Dong_updated 20240331.pdf
+教育经历 
+2012年9月-2017年10月，清华大学，精密仪器系，博士
+2014年12月-2016年12月，加州大学伯克利分校，材料科学与工程系，访问博士生
+2008年8月-2012年7月，清华大学，精密仪器系，学士
+工作经历 
+2022年11月-至今，清华大学深圳国际研究生院，清华-伯克利深圳研究院，助理教授，特别研究员
+2019年3月-2022年9月，劳伦斯伯克利国家实验室，材料科学部，研究工作人员
+2019年2月-2022年9月，加州大学伯克利分校，材料科学与工程系，博士后
+2017年10月-2019年2月，清华大学，精密仪器系，科研助理
+学术兼职 
+Nature Photonics, Joule, Advanced Materials, Nature Communications等国际学术期刊的独立审稿人
+2023年9月-至今，清华大学深圳国际研究生院，双螺旋中心，副主任
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+国际院《英文科技论文写作与学术报告 60250101》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+1. 纳米光子技术（莫尔光子晶体、超材料/超表面、基于人工智能的优化设计）
+2. 温度自适应辐射散热技术
+3. 近零功耗MEMS器件
+4. 相变材料的制备与调控技术
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+在Science、Joule、Physical Review Letters、Nature Communications、Science Advances、Advanced Materials等期刊发表论文，主持国家重点研发计划青年科学家项目、国家自然基金面上项目等。
+[1] J. Li*, K. Dong*, T. Zhang, D. Tseng, C. Fang, R. Guo, J. Li, Y. Xu, C. Dun, J. J. Urban, T. Hong, C. P. Grigoropoulos, A. Javey, J. Yao, and J. Wu. Printable, emissivity-adaptive and albedo-optimized covering for year-round energy saving. Joule, 7, 1-16 (2023).
+[2] T. Zhang*, K. Dong*,#, J. Li, F. Meng, J. Li, S. Munagavalasa, C. P. Grigoropoulos, J. Wu, and J. Yao#. Twisted Moiré Photonic Crystal Enabled Optical Vortex Generation through Bound States in the Continuum. Nature Communications, 14, 6014 (2023).
+[3] J. Li, K. Dong#. Scalable and Durable Temperature-Stabilizing Janus Thermal Cloak. Joule, 7, 1399-1414 (2023).
+[4] K. Dong, J. Wu. Radiative cooling, what’s next? Next Energy, 1, 100003 (2023).
+[5] K. Dong*,#, J. Li*, T. Zhang, F. Gu, Y. Cai, N. Gupta, K. Tang, A. Javey, J. Yao, J. Wu#. Single-Pixel Reconstructive Mid-Infrared Micro-Spectrometer. Optics Express, 9, 14367-14376 (2023).
+[6] K. Dong, D. Tseng, J. Li, S. Warkander, J. Yao, and J. Wu. Reducing Temperature Swing of Space Objects with Temperature-Adaptive Solar or Radiative Coating. Cell Reports Physical Science, 3, 101066 (2022).
+[7] K. Tang*, K. Dong*, J. Li*, M. P. Gordon, F. G. Reichertz, H. Kim, Y. Rho, Q. Wang, C.-Y. Lin, C. P. Grigoropoulos, A. Javey, J. J. Urban, J. Yao, R. Levinson, and J. Wu. Temperature Adaptive Radiative Coating for All-Season Household Thermal Regulation, Science, 374, 1504-1509 (2021).
+[8] K. Dong*, T. Zhang*, J. Li, Q. Wang, F. Yang, Y. Rho, D. Wang, C. P. Grigoropoulos, J. Wu, and J. Yao. Flat Bands in Magic-Angle Bilayer Photonic Crystals at Small Twists, Physical Review Letters, 126, 223601 (2021). 
+[9] K. Tang*, K. Dong*, C. J. Nicolai, Y. Li, J. Li, S. Lou, C.-W. Qiu, D. H. Raulet, J. Yao, and J. Wu. Millikelvin-resolved Ambient Thermography, Science Advances, 6, eabd8688 (2020). 
+[10] K. Dong*, S. Hong*, Y. Deng*, H. Ma, J. Li, X. Wang, J. Yeo, L. Wang, S. Lou, K. B. Tom, K. Liu, Z. You, Y. Wei, C. P. Grigoropoulos, J. Yao, and J. Wu. A Lithography-Free and Field-Programmable Photonic Metacanvas, Advanced Materials, 30, 1703878 (2018).
+[11] K. Dong, H. S. Choe, X. Wang, H. Liu, B. Saha, C. Ko, Y. Deng, K. B. Tom, S. Lou, L. Wang, C. P. Grigoropoulos, Z. You, J. Yao, and J. Wu. A 0.2 V Micro-Electromechanical Switch Enabled by a Phase Transition, Small, 14, 1703621 (2018). 
+[12] K. Dong*, Y. Deng*, X. Wang, Kyle B. Tom, Z. You, and J. Yao. Subwavelength Light Confinement and Enhancement Enabled by Dissipative Dielectric Nanostructures, Optics Letters, 43, 1826-1829 (2018).
+[13] X. Wang*, K. Dong*, H. S. Choe, H. Liu, S. Lou, K. B. Tom, H. A. Bechtel, Z. You, J. Wu, and J. Yao. Multifunctional Microelectro-Opto-Mechanical Platform Based on Phase-Transition Materials, Nano Letters, 18, 1637-1643 (2018).
+[14] 董恺琛, 娄帅, 姚杰, 吴军桥, 尤政. 脉冲激光沉积薄膜的残余应力测量, 光学精密工程, 26, 70-76 (2018).
+[15] K. Dong#, S. Lou, H. S. Choe, K. Liu, Z. You, J. Yao, and J. Wu#. Stress Compensation for Arbitrary Curvature Control in Vanadium Dioxide Phase Transition Actuators, Applied Physics Letters, 109, 023504 (2016).
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2024年，光子与电磁学研究国际研讨会（PIERS）青年科学家奖
+2023年，国家重点研发计划（青年科学家）项目首席科学家
+2022年，《麻省理工科技评论》全球“35岁以下35人”
+2022年，国家级重点人才计划获得者，青年项目
+2022年，深圳鹏城孔雀计划（B类）
+2018年，中国仪器仪表学会“测量控制与仪器仪表领域全国优秀博士论文”
+2018年，清华大学优秀博士学位论文
+ </奖励荣誉>

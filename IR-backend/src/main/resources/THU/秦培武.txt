@@ -1,0 +1,45 @@
+{"title":"秦培武","cnUrl":"http://www.sigs.tsinghua.edu.cn/qpw/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/7d/e6/328212ad4f4cbd0f90ae99005cc2/e47b64e3-eb18-4ba4-b656-3e6c78544272.png","email":"pwqin@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2008/6–2013/8，密苏里大学哥伦比亚，生物化学，博士
+2010/9–2013/8，密苏里大学哥伦比亚，统计，硕士
+2006/8–2008/5，东北大学，物理化学，硕士
+2002/9–2005/7，中国科学院遗传与发育生物学研究所，分子发育，硕士
+1998/9–2002/7， 东北农业大学，生物技术，学士
+工作经历 
+2018/9-至今，清华伯克利深圳学院，助理教授
+2013/9-2018/8，加州大学伯克利分校，博士后
+2005/8-2006/8 中科院动物研究所，研究助理
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+2006-2008 本科生课程：基础化学实验
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+1. 染色体结构与基因转录和细胞功能的关系
+2. 长非编码RNA相变及其与细胞应急反应和异染色质修饰的关系
+3. 荧光成像方法开发
+4. 微流控病毒RNA痕量检测
+5. 随机课题
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1. Peiwu Qin*, Mahmut Parlak*, Mazhar Adli, Ahmet Yildiz. Multiplex labeling of chromosome with CRISPR/dCas9.Nature Communications, 14725:1-8 (2017).
+2. Jigar N. Bandaria,Peiwu Qin, Veysel Berk, Steven Chu, Ahmet Yildiz. Shelterin protects chromosome termini by compacting telomeric DNA.Cell, 164(3):735-746 (2016).
+3. Dongmei Yu,Peiwu Qin, Peter Cornish. Single molecule RNA-RNA interaction.Methods in Molecule Biology, Book Chapter, 2014, Spinger.
+4. Peiwu Qin, Dongmei Yu, Xiaobing Zuo, Peter V. Cornish. Structured mRNA induces the ribosome into a novel supe rotated state.EMBO Report,12(2):185-190 (2014).
+5. Jianhua Lv, Tie Yang, Haixia Yang, Zhiwei Li,Peiwu Qin, Xiling Zhang, Xiaoliang Liang, Jiayin Li, Quan Chen. Identification of myb genes in Euplotes adediculatus may indicate an early evolutionary process.Gene, 530(2): 266-72 (2013).
+6. Dongmei Yu, Chao Zhang, Han Wang,Peiwu Qin？. Characterization of the weak calcium binding of trimeric globular adiponectin.Cell Biochemistry and Function,31(4):338-343 (2013).
+7. Peiwu Qin, Chao Zhang, Han Wang, Dongmei YU, Peter V. Cornish, and Dong Xu. RNA-protein distance pattern reveal the mechanism of translational attenuation.Chinese life Sciences,57(11):1131-1139 (2014).
+8. Sarma V.S. Akella, Asokan Anbanandam, Allek Kelm, Ritcha Mehra-Chaudhary, Yirui Wei,Peiwu Qin, Yingying Lee, Mark V. Berjanskii, Jacob A. Mick, Lesa Jean Beamer, and Steven R. Van Doren. Solution NMR of 1 463-residue phosphohexomutase: domain 4 motility, substrates, and Phosphoryl transfer defect.Biochemistry, 51(3):807-819 (2012).
+*co-first author,Corresponding author
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

@@ -1,0 +1,52 @@
+{"title":"张一","cnUrl":"http://www.sigs.tsinghua.edu.cn/zy2/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/53/9d/82f5c6f84642855735a38ab2c1d7/7f861845-3512-4810-b300-96c926b058b8.jpg","email":"zy1214@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+主要从事光储直柔建筑，大数据分析与用能行为预测，低碳城市智慧运行管理，室内环境与舒适度机器人感知系统，虚拟交互系统等研究
+教育经历 
+2011年10月-2016年4月，英国剑桥大学，能源工程与建筑节能，博士
+2009年10月-2010年10月，英国帝国理工学院，土木工程与商业管理，硕士
+2005年8月-2009年7月，清华大学，能源动力与自动化专业，学士
+工作经历 
+2023年6月-至今，清华大学，深圳国际研究生院，未来人居研究院，副教授
+2020年10月-2023年6月，清华大学，深圳国际研究生院，未来人居研究院，助理教授
+2017年3月-2020年9月，清华大学，清华-伯克利深圳学院，博士后/研究科学家
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《Green Building and Urban Ecology》英文课，国际院
+《机器学习及在城市大数据分析中的应用》，国际院
+《建筑柔性用能技术概论》，国际院
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 研究方向包括光储直柔建筑系统，大数据分析与用能行为预测，低碳城市智慧运行管理，室内环境机器人感知系统，虚拟交互系统等。申请人长期从事建筑节能与低碳城市的研究，主持或参与深圳市自然科学基金面上项目，深圳市基础研究自由探索，广东省国际科技合作项目，国家自然科学基金重点项目、住建部科技项目、深圳市海外高层次人才团队项目等课题，并参与国际能源署建筑与社区节能“面向弹性低碳能源系统的能源柔性建筑”的国际合作交流。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+在国际重要学术期刊和国际会议上发表研究论文46篇，其中以第一作者/通讯作者发表的SCI收录论文24篇。
+近期发表的代表论文有：
+[1] Yuhang Zhang, Xu Han, Tianxi Wei, Xiaoyong Zhao, Yi Zhang*. (2023) Techno-environmental-economical performance of allocating multiple energy storage resources for multi-scale and multi-type urban forms towards low carbon district. Sustainable Cities and Society, 2023, 104974. JCR:Q1/IF:11.7.
+[2] Chenxi Cheng, Xiangtian Deng, Xiaoyong Zhao, Yuhan Xiong, Yi Zhang*. (2023) Multi-occupant dynamic thermal comfort monitoring robot system. Building and Environment, 2023, 110341. JCR:Q1/IF:6.456.
+[3] Pengshun Li, Mengyan Jiang, Yi Zhang, Yi Zhang*. (2023) Cooperative Optimization of Bus Service and Charging Schedules for a Fast-charging Battery Electric Bus Network. IEEE Transactions on Intelligent Transportation Systems, Early Access. JCR:Q1/IF: 9.551.
+[4] Xiangtian Deng, Yi Zhang, Yi Zhang*, He Qi. (2022) Toward Smart Multizone HVAC Control by Combining Context-Aware System and Deep Reinforcement Learning. IEEE Internet of Things Journal, vol. 9, no. 21, pp. 21010-21024, 1 Nov.1, 2022, doi: 10.1109/JIOT.2022.3175728. JCR:Q1/IF: 10.238.
+[5] Mengyan Jiang, Yi Zhang, Yi Zhang*(2022) A Branch-and-Price Algorithm for Large-Scale Multidepot Electric Bus Scheduling. IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2022.3165876. JCR:Q1/IF: 9.551.
+[6] Yuhang Zhang, Yi Zhang* , Yi Zhang, Chengxu Zhang. (2022) Effect of physical, environmental, and social factors on prediction of building energy consumption for public buildings based on real-world big data. Energy. 2022, 261(2022)125286. JCR:Q1/IF: 8.857.
+[7] Xiangtian Deng, Yi Zhang, Yi Zhang*, He Qi. (2022) Towards optimal HVAC control in non-stationary building environments combining active change detection and deep reinforcement learning. Building and Environment, 2022, 211 (2022) 108680. JCR:Q1/IF:6.456.
+[8] Yuhang Zhang, Xiangtian Deng, Yi Zhang, Yi Zhang*. (2022) Generation of Sub-item Load Profiles for Public Buildings Based on the Conditional Generative Adversarial Network and Moving Average Method. Energy and Buildings, 2022, 268(2022)112185. JCR:Q1/IF:7.201.
+[9] Pengshun Li, Yuhang Zhang, Yi Zhang, Yi Zhang*, Kai Zhang. Prediction of electric bus energy consumption with stochastic speed profile generation modelling and data driven method based on real-world big data. Applied Energy,2021, 298 (2021) 117204. JCR: Q1/IF:11.446.
+[10] Rui Shang,Yi Zhang, Max Shen, Yi Zhang*. Analyzing the Effects of Road Type and Rainy Weather on Fuel Consumption and Emissions: A Mesoscopic Model Based on Big Traffic Data. IEEE Access, 2021, 3074303. JCR: Q1/IF:3.745.
+[11] Pengshun Li, Yi Zhang, Yi Zhang*, Kai Zhang, Mengyan Jiang. The effects of dynamic traffic conditions, route characteristics and environmental conditions on trip-based electricity consumption prediction of electric bus. Energy, 2021,119437. JCR: Q1/IF:7.147.
+[12] Yi Zhang, Ruchi Choudhary*, Kenichi Soga. Influence of GSHP System Design Parameters on the Geothermal Application and Electricity Consumption at City-Scale for Westminster, London. Energy and Buildings, 2015, 106:3-12. 
+[13] Yi Zhang, Kenichi Soga*, Ruchi Choudhary. Shallow Geothermal Energy Application with GSHPs at City Scale: Study on the City of Westminster. Geotechnical Letters (ICE), 2014, 4:125-131. 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+入选广东省“珠江人才”和深圳市海外高层次“孔雀人才”人才计划，深圳市海外高层次人才创新创业专项资金团队资助（孔雀团队）核心成员。曾获得2020年工程建设科学技术进步奖一等奖、2018年住建部“华夏建设科技奖”三等奖。
+ </奖励荣誉>

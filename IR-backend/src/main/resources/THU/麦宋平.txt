@@ -1,0 +1,58 @@
+{"title":"麦宋平","cnUrl":"http://www.sigs.tsinghua.edu.cn/msp/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/6f/2e/6d0afc5a4aab810b9f5394ecb6bc/89a0a155-06bf-4bb9-8891-8ac4c297b608.jpg","email":"mai.songping@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1999年09月-2003年07月，武汉大学电子信息科学与技术专业，学士
+2003年09月-2008年12月，清华大学电子工程系电路与系统专业，博士
+工作经历 
+2008年12月-2012年12月，清华大学深圳研究生院集成电路设计专业，讲师
+2012年12月-2019年08月，清华大学深圳研究生院集成电路设计专业，副教授、博士生导师
+2019年08月至今，清华大学深圳国际研究生院集成电路设计专业，副教授、博士生导师
+2011年06月-2011年08月，比利时鲁汶大学/欧洲微电子中心（IMEC），访问学者
+2015年04月-2015年08月，英国林肯大学，访问学者
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+主讲研究生课程：《数字大规模集成电路》、《低功耗集成电路设计》、《数字集成系统设计》、《文献检索与论文写作》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事边缘智能系统及专用集成电路设计研究，包括光学三维测量与成像、医用机器人、脑机接口等领域的算法理论、系统架构及集成电路设计。近几年主持了多项科研项目，针对医疗健康、物联网等应用提出了多种系统及单芯片解决方案，完成了相应的芯片流片及系统集成，并有“动态令牌专用芯片”和“植入式神经电刺激器”两项科研成果成功实现产业化。已发表学术论文40余篇，译作1本，获得国家授权专利20余项。目前在研项目有：
+1、基于双目结构光的快速高精度三维测量与成像系统及芯片设计研究
+2、面向VR/AR的人机交互关键技术研究
+3、高清立体视觉数据压缩算法及芯片设计研究
+4、辅助胸腔内肿瘤诊疗的高精度呼吸跟踪方法研究
+5、基于时间拉伸脉冲的高速激光雷达光电集成芯片与系统的研究
+6、植入式神经刺激器专用芯片研发
+7、面向植入式医疗应用的高效无线信能同传系统研究
+8、小功率无线充电系统及专用芯片设计研究
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+代表性论文：
+[1] Xiaojun Ma, Songping Mai, “Narrowband FSK Transceiver Circuit for Wireless Power and Data Transmission in Biomedical Implants”, 2022 IEEE International Symposium on Circuits and Systems (ISCAS).
+[2] Weicheng Zhao, Songping Mai, “Design of High Efficiency Planar Spiral Coil for Implantable Wireless Power Transfer Systems”, 2022 IEEE International Symposium on Circuits and Systems (ISCAS).
+[3] Chenxi Zhang, Sonping Mai, “A Deep Brain Stimulation System with Low Power Consumption and Wide Output Range”, 2021 International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC).
+[4] Jinjie Zhang, Songping Mai, “An ASK Data Demodulator Circuit for Implantable Medical Devices Supporting a Minimum Modulation Depth of 0.034%”, 2021 International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC).
+[5] Xiangyu Zhao, Songping Mai, “A Robust and Accurate Structured Light Pattern for Dynamic 3D Reconstruction”, 2021 International Conference on Digital Image Processing (ICDIP).
+[6] Jian Tao, Songping Mai, “A Method to Identify Respiratory Phase in Needle Biopsy on Thorax Using Point Clouds”, 2021 International Conference on Biometric Engineering and Applications (ICBEA).
+[7] Kan Peng, Xian Tang, Songping Mai, Zhihua Wang,“A Simultaneous Power and Downlink Data Transfer System With Pulse Phase Modulation”, IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 66, no. 5, pp. 808-812, 2019.
+[8] Duo Guo, Songping Mai, Chenxi Zhang, Xingyu Fu and Yilin Zhao, “A Low-cost Electrical System with High Compliance of Supply Voltage for Deep Brain Stimulation on Rats”, 2019 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS).
+[9] Xingyu Fu, Songping Mai and Zhihua Wang, “An Energy-Efficient Implantable-Neural-Stimulator System with Wireless Charging and Dynamic Voltage Output”, 2019 International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC).
+[10] Xian Tang, Jianxu Zeng, Kong Pang Pun, Songping Mai, Chun Zhang, Zhihua Wang, “Low-cost Maximum Efficiency Tracking Method for Wireless Power Transfer Systems”, IEEE Trans. on Power Electronics, vol. 33, no. 6, pp. 5317-5329, 2018.
+[11] Xingyu Fu, Songping Mai, Zhihua Wang. “A Wireless Power-Efficient Charger Chip with Closed-Loop Controlling Mechanism for Implantable Biomedical System”, 2018 IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC). 
+[12] Guijie Zhu, Songping Mai, Xian Tang, Zhihua Wang. “Simplified reconfigurable rectifier with consistent input capacitance for wireless power transfer”, 2018 IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC).
+[13] Guijie Zhu, Songping Mai, Xian Tang, Chun Zhang , Zhihua Wang, Hong Chen, An Energy-Efficient High-Frequency Neuro-Stimulator with Parallel Pulse Generators, Staggered Output and Extended Average Current Range, 2018 IEEE International Symposium on Circuits and Systems (ISCAS).
+[14] Guijie Zhu, Songping Mai, Xian Tang, and ZhihuaWang, “Enhancement Method of Efficiency and Working Range in Bio-Implant Wireless Power Transfer”, 2018 IEEE Wireless Power Transfer Conference (WPTC).
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+深圳市高层次人才地方级领军人才、深圳市南山区领航人才
+ </奖励荣誉>

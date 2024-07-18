@@ -1,0 +1,63 @@
+{"title":"丘陵","cnUrl":"http://www.sigs.tsinghua.edu.cn/ql/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/58/5e/007de9194a4e96df65a9cf1deb50/e4327b00-e52f-4646-b613-2fd4418a3f4d.png","email":"ling.qiu@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+主要从事石墨烯等二维材料制备与组装研究
+教育经历 
+2011.08至2015.07, 莫纳什大学, 材料科学与工程, 博士
+2009.03至2010.11, 莫纳什大学, 材料科学与工程, 硕士
+2006.06至2008.08, 莫纳什大学, 材料工程, 学士
+2003.09至2008.08, 武汉理工大学, 材料科学与工程, 学士
+工作经历 
+2021.07至今, 清华大学, 清华大学深圳国际研究生院, 副教授
+2021.01至2021.07, 清华大学, 清华大学深圳国际研究生院, 助理教授
+2017.07至2020.12, 清华大学, 清华-伯克利深圳学院, 助理教授
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+TBSI英语课程：
+Materials Science and Engineering (1st Semester)
+Nanomaterials and Nanotechnology (2st Semester)
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 丘陵副教授致力于石墨烯、氮化硼、二硫化钼、MXene等二维材料组装体的设计、制备与应用探索。在石墨烯研究方面，率先制备出具有重要价值的超轻石墨烯高弹体，系统探索了此类材料在柔性电子、储能等领域的应用，促进了该领域的发展。在氮化硼方面，申请人发展了高导热二维氮化硼散热膜规模制备技术，成立新材料企业实现了散热膜量产，并成功应用于华为、oppo、vivo、小米等多家通讯设备头部企业。
+ 丘陵副教授迄今共发表论文60余篇，其中多篇以通讯或第一作者在国际一流期刊发表，包括Nature Nanotechnology 1篇，Nature Communications 2篇、Chemical Review 1篇、Advanced Materials 5篇、Nano Letters 1 篇、National Science Review 1篇、ACS Nano 2篇、Advanced Functional Materials 2篇，Energy Storage Materials 1篇。论文SCI总引用10000余次，7篇为ESI高被引论文，H因子32。申请专利10余项，其中4项以300万元转移到企业，并成立了一家新材料企业。
+主要项目 
+1.广东省科技厅, 广东省基础与应用基础研究, 5G通讯设备用高导热二维材料柔性膜的制造与应用基础研究, 2020-09 至 2025-09 
+2.科技部, 国家重点研发计划课题, 水伏效应功能器件与集成应用, 2019-11 至 2024-12 
+3.广东省科技厅, 广东省创新创业团队,低维材料创新团队, 2018-09 至 2023-09 
+4.深圳科创委, 诺贝尔奖科学家实验室,深圳盖姆石墨烯中心, 2018-08 至 2023-08
+5.深圳科创委, 稳定支持重点项目，二维氮化硼的规模化制备与应用研究，2021-08 至2024-08
+6.国家自然科学基金委员会, 青年科学基金项目, 51902176, 共价交链石墨烯气凝胶可控制备与多尺度载荷传递机理, 2020-01-01 至 2022-12-31
+ </研究领域>
+<研究成果>
+代表性论文 
+Google scholar link: https://scholar.google.com/citations?user=TmjdI2IAAAAJ&hl=en&oi=ao
+1.Ling Qiu; Jeffery Z Liu; Shery L Y Chang; Yanzhe Wu; Dan Li*; Biomimetic superelastic graphene-based cellular monoliths, Nature Communications, 2012, 3: 1241
+2.Shaohua Chen; Ling Qiu*; Hui-Ming Cheng ; Carbon-Based Fibers for Advanced Electrochemical Energy Storage Devices, Chemical Reviews, 2020, 120(5): 2811-2878 
+3.Ling Qiu; Bing Huang; Zijun He; Yuanyuan Wang; Zhiming Tian; Jefferson Zhe Liu; Kun Wang; Jingchao Song; Thomas R Gengenbach; Dan Li ; Extremely Low Density and Super-Compressible Graphene Cellular Materials, Advanced Materials, 2017, 29(36): 0-1701553 
+4.Chuang Yang; Xin Wu; Heyi Xia; Jingzhuo Zhou; Yifan Wu; Rui Yang; Guangmin Zhou*; Ling Qiu*; 3D Printed Template-Assisted Assembly of Additive-Free Ti3C2Tx MXene Microlattices with Customized Structures toward High Areal Capacitance, ACS Nano, 2022, 16(2): 2699-2710 
+5.Jingzhuo Zhou; Xin Wu; Yan Chen; Chuang Yang; Rui Yang; Junyang Tan; Yilun Liu; Ling Qiu*; Hui‐Ming Cheng*; 3D Printed Template‐Directed Assembly of Multiscale Graphene Structures, Advanced Functional Materials, 2022, 2105879
+6.Ling Qiu; Zijun He; Dan Li*; Multifunctional Cellular Materials Based on 2D Nanomaterials: Prospects and Challenges, Advanced Materials, 2018, 30(4): 0-1704850 
+7.Ling Qiu; Dan Li; Hui-Ming Cheng*; Structural Control of Graphene-Based Materials for Unprecedented Performance, ACS Nano, 2018, 12(6): 5085-5092 
+8.Ling Qiu; Diyan Liu; Yufei Wang; Chi Cheng; Kun Zhou; Jie Ding; Van Tan Truong; Dan Li*; Mechanically Robust, Electrically Conductive and Stimuli-Responsive Binary Network Hydrogels Enabled by Superelastic Graphene Aerogels, Advanced Materials, 2014, 26(20): 3333-3337
+9.Ling Qiu; Xuehua Zhang; Wenrong Yang; Yufei Wang; George P Simon; Dan Li*; Controllable corrugation of chemically converted graphene sheets in water and potential application for nanofiltration, Chemical Communications, 2011, 47(20): 5810-5812
+10.Ling Qiu; M Bulut Coskun; Yue Tang; Jefferson Z Liu; Tuncay Alan; Jie Ding; Van Tan Truong; Dan Li*; Ultrafast Dynamic Piezoresistive Response of Graphene-Based Cellular Elastomers, Advanced Materials, 2016, 28(1): 194-200 
+11.Jinzhi Sheng; Qi Zhang; Minsu Liu; Zhiyuan Han; Chuang Li; Chongbo Sun; Biao Chen; Xiongwei Zhong; Ling Qiu*; Guangmin Zhou*; Stabilized Solid Electrolyte Interphase Induced by Ultrathin Boron Nitride Membranes for Safe Lithium Metal Batteries, Nano Letters, 2021, 21(19): 8447-8454
+12.Linchao Zeng; Ling Qiu*; Hui-Ming Cheng*; Towards the practical use of flexible lithium ion batteries, ENERGY STORAGE MATERIALS, 2019, 23: 434-438 
+13.Zijun He; Zheng Qi; Huichao Liu; Kangyan Wang; Leslie Roberts; Jefferson Z Liu; Yilun Liu; Stephen J Wang; Mark J Cook; George P Simon; Ling Qiu*; Dan Li*; Detecting subtle yet fast skeletal muscle contractions with ultrasoft and durable graphene-based cellular materials, National Science Review, 2021, nwab184
+14.Linchao Zeng; Minsu Liu; Peipei Li; Guangmin Zhou; Peixin Zhang*; Ling Qiu*; A high-volumetric-capacity bismuth nanosheet/graphene electrode for potassium ion batteries, Science China-Materials, 2020, 63(10): 1920-1928 
+15.Shuyan Ni; Jinzhi Sheng; Chang Zhang; Xin Wu; Chuang Yang; Songfeng Pei; Runhua Gao; Wei Liu; Ling Qiu*; Guangmin Zhou*; Dendrite-Free Lithium Deposition and Stripping Regulated by Aligned Microchannels for Stable Lithium Metal Batteries, Advanced Functional Materials, 2022, 202200682
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2014 Chinese Government Award for Outstanding Self-Financed Students Abroad
+2011 Vice-Chancellor’s Commendation for Master Thesis Excellence, Monash (award one graduate in Engineering Faculty annually)
+2008 Rio Tinto Scholarship, Rio Tinto Aluminium
+ </奖励荣誉>

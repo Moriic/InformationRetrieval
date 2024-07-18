@@ -1,0 +1,41 @@
+{"title":"杜鸿达","cnUrl":"http://www.sigs.tsinghua.edu.cn/dhd/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/fb/eb/a86180e24b2f8f134c34d24c17d8/4d5d79fd-db58-4fa3-a495-56286b4a2113.jpg","email":"duhongda@gmail.com"}
+<个人简历>
+概况 
+1997年、2000年、2007年分别获得清华大学材料科学与工程专业学士、硕士、博士学位
+2008年1-3月,日本九州大学做访问学者
+教育经历 
+工作经历 
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+现在主要从事热管理工程与高导热材料，燃料电池材料的研究
+近年来主持和参与的科研课题：
+1.中国博士后科学基金：“多孔炭负载银核铂壳纳米催化剂的制备及其性能研究”
+2.组建深圳市热管理工程与材料重点实验室，深圳市科技与信息局
+3.国家自然科学基金：纳米炭负载(铜银)核(铂)壳纳米催化剂的制备及其催化性能研究
+4.深圳市基础研究项目：燃料电池用新型核壳结构催化剂的研究 
+5.横向课题，等离子显示器件中的新型导热材料研究，四川长虹集团 
+6.深圳市科技局非共识项目：“直接甲醇燃料电池正极合金催化剂”
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1.Du HD, Li BH, Kang FY, Fu RW, Zeng YQ. Carbon aerogel supported Pt-Ru catalysts for using as the anode of direct methanol fuel cells. Carbon. [Article]. 2007 Feb;45(2):429-35.
+2.Du HD, Gan L, Li BH, Wu P, Qiu YL, Kang FY, et al. Influences of mesopore size on oxygen reduction reaction catalysis of Pt/carbon aerogels. J Phys Chem C. [Article]. 2007 Feb;111(5):2040-3.
+3.Du HD, Li BH, Gan L, Wu P, Kang FY, Zeng YQ. PtRu nanoparticles loaded on a series of carbon aerogels as catalysts for methanol oxidation. New Carbon Materials. [Article]. 2008 Mar;23(1):58-62.
+4.Gan L, Lv RT, Du HD, Li BH, Kang FY. High loading of Pt-Ru nanocatalysts by pentagon defects introduced in a bamboo-shaped carbon nanotube support for high performance anode of direct methanol fuel cells. Electrochemistry Communications. [Article]. 2009 Feb;11(2):355-8.
+5.Gan L, Lv R, Du HD, Li BH, Kang FY. Highly dispersed Pt nanoparticles by pentagon defects introduced in bamboo-shaped carbon nanotube support and their enhanced catalytic activity on methanol oxidation. Carbon. [Article]. 2009 Jun;47(7):1833-40.
+6.Gan L, Lv R, Du H, Li B, Kang F. High loading of Pt-Ru nanocatalysts by pentagon defects introduced in a bamboo-shaped carbon nanotube support for high performance anode of direct methanol fuel cells. Electrochemistry Communications. 2009;11(2):355-8.
+7.Gan L, Du H, Li B, Kang F. Influence of reaction temperature on the particle-composition distributions and activities of polyol-synthesized Pt-Ru/C catalysts for methanol oxidation. J Power Sources. 2009;191(2):233-9.
+8.杜鸿达,李宝华,干林,吴鹏,康飞宇.炭气凝胶负载PtRu纳米颗粒用作甲醇氧化催化剂.新型炭材料.2008;23(1):58-62.
+9.Xu CJ, Li BH, Du HD, Kang FY, Zeng YQ. Electrochemical properties of nanosized hydrous manganese dioxide synthesized by a self-reacting microemulsion method. J Power Sources. [Article]. 2008 May;180(1):664-70.
+10.Xu C, Li B, Du H, Kang F, Zeng Y. Supercapacitive studies on amorphous MnO2 in mild solutions. J Power Sources. 2008;184(2):691-4.
+11.Wu P, Li B, Du H, Gan L, Kang F, Zeng Y. The influences of multi-walled carbon nanotube addition to the anode on the performance of direct methanol fuel cells. J Power Sources. 2008;184(2):381-4.
+12.Gan L, Du H, Li B, Kang F. Enhanced oxygen reduction performance of Pt catalysts by nano-loops formed on the surface of carbon nanofiber support. Carbon. 2008;46(15):2140-3.
+13.Zhang BA, Du HD, Li BH, Kang FY. Structure and Electrochemical Properties of Zn-Doped Li4Ti5O12 as Anode Materials in Li-Ion Battery. Electrochemical and Solid State Letters. 2010;13(4):A36-A8.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

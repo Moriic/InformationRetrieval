@@ -1,0 +1,51 @@
+{"title":"张立勋","cnUrl":"http://www.sigs.tsinghua.edu.cn/zlx/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/8d/4a/bfa857cb4a26a054638034da8541/4b2b8800-02e9-40bd-9e18-b502c849f0a3.jpg","email":"lixunz@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2014年9月-2019年7月，清华大学，环境科学与工程专业，博士
+2016年10月-2016年11月，日本京都大学，短期国际学术交流项目
+2010年9月-2014年7月，同济大学，给水排水工程专业，学士
+2011年9月-2013年6月，同济大学，工程管理专业，学士（第二专业）
+工作经历 
+2023年1月-至今，清华大学深圳国际研究生院，助理教授
+2020年1月-2023年1月，美国加州大学尔湾分校，George E. Hewitt研究员
+2019年7月-2019年12月，清华大学深圳国际研究生院，科研助理
+学术兼职 
+担任Frontiers in Microbiology编委，以及Chemical Engineering Journal、Journal of Hazardous Materials、Science of the Total Environment等国际学术期刊审稿人。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《土壤污染防治技术与案例分析》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要研究方向为土壤/地下水污染修复、土壤肥力管理和面源污染控制，具体包括生物炭、水凝胶等土壤/地下水修复材料设计及交叉应用，重金属、农药等在土壤和地下水中的迁移和归趋，土壤氮、磷、硅营养盐循环，缓释/生物肥料和缓释农药的设计应用，农田退水生态截留、处理和再利用。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Lixun Zhang, Fangxin He, Yuntao Guan*. Immobilization of hexavalent chromium in contaminated soil by nano-sized layered double hydroxide intercalated with diethyldithiocarbamate: Fraction distribution, plant growth, and microbial evolution. Journal of Hazardous Materials, 2022, 128382
+[2] Wei Mao, Lixun Zhang*, Ying Zhang, and Yuntao Guan*. Simultaneous removal of arsenite and cadmium by manganese-crosslinking sodium alginate modified biochar and zerovalent iron composite for wastewater treatment. Environmental Science: Nano, 2022, 214-228
+[3] Wei Mao, Lixun Zhang*, Ying Zhang, Yanfei Wang, Nuanling Wen, and Yuntao Guan*. Adsorption and photocatalysis removal of arsenite, arsenate, and hexavalent chromium in water by the carbonized composite of manganese-crosslinked sodium alginate. Chemosphere, 2021, 133391.
+[4] Lixun Zhang*, Yuntao Guan. Consistent responses of soil microbial communities to bioavailable silicon deficiency in croplands. Geoderma, 2021, 115587.
+[5] Lixun Zhang, Yuntao Guan*. Microbial investigations of new hydrogel-biochar composites as soil amendments for simultaneous nitrogen-use improvement and heavy metal immobilization. Journal of Hazardous Materials, 2021, 127154.
+[6] Yang Liu, Lixun Zhang*, Zhengfang Zhang, Ying Zhang, Yuntao Guan*. Citrate-modified biochar for simultaneous and efficient plant-available silicon release and copper adsorption: Performance and mechanisms. Journal of Environmental Management, 2021, 113819.
+[7] Lixun Zhang, Shengyin Tang, Yuntao Guan*. Excellent adsorption-desorption of ammonium by poly(acrylic acid) grafred chitosan and biochar composite for sustainable agricultural development. ACS Sustainable Chemistry & Engineering, 2020, 8: 16451−16462.
+[8] Lixun Zhang*, Yuntao Guan, Sunny C. Jiang. Investigations of soil autotrophic ammonia oxidizers in farmlands through genetics and big data analysis. Science of the Total Environment, 2021, 146091.
+[9] Lixun Zhang, Sunny C. Jiang, Yuntao Guan*. Efficient removal of selenate in water by cationic poly(allyltrimethylammonium) grafted chitosan and biochar composite. Environmental Research, 2020, 110667.
+[10] Lixun Zhang, Fangxin He, Wei Mao, Yuntao Guan*. Fast and efficient removal of Cr(VI) to ppb level together with Cr(III) sequestration in water using layered double hydroxide interclated with diethyldithiocarbamate. Science of the Total Environment, 2020, 138701.
+[11] Lixun Zhang, Shengyin Tang, Fangxin He, Yang Liu, Wei Mao, Yuntao Guan*. Highly efficient and selective capture of heavy metals by poly(acrylic acid) grafted chitosan and biochar composite for wastewater treatment. Chemical Engineering Journal, 2019, 378: 122215.
+[12] Lixun Zhang, Shengyin Tang, Chaojin Jiang, Xiaoqian Jiang, Yuntao Guan*. Simultaneous and efficient capture of inorganic nitrogen and heavy metals by polyporous layered double hydroxide and biochar composite for agricultural nonpoint pollution control. ACS Applied Materials & Interfaces, 2018, 10: 43013−43030.
+[13] Lixun Zhang, Guangyu Zhu, Xin Ge, Gang Xu, Yuntao Guan*. Novel insights into heavy metal pollution of farmland based on reactive heavy metals (RHMs): Pollution characteristics, predictive models, and quantitative source apportionment. Journal of Hazardous Materials, 2018, 360: 32−42.
+[14] Lixun Zhang, Bo Zhao, Gang Xu, Yuntao Guan*. Characterizing fluvial heavy metal pollutions under different rainfall conditions: Implication for aquatic environment protection. Science of the Total Environment, 2018, 635: 1495−1506.
+[15] Lixun Zhang, Yuntao Guan*. Quantitatively updating sewage discharge standard of wastewater treatment plants: starting from the estimation of water environment capacity. Desalination and Water Treatment, 2018, 135: 381−391.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2020-2022 George E. Hewitt Fellowship
+ </奖励荣誉>

@@ -1,0 +1,59 @@
+{"title":"王恩浩","cnUrl":"http://www.sigs.tsinghua.edu.cn/weh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/88/0d/891bae9f4f3b895affdbc10aac9f/b45e405c-7f71-46ad-8a98-81b1243627e9.jpg","email":"enhao.wang@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2012年10月-2017年11月，英国斯特拉斯克莱德大学，船舶与海洋工程专业，博士
+2010年10月-2012年7月，英国斯特拉斯克莱德大学，船舶与海洋工程专业，学士
+2008年9月-2012年7月，哈尔滨工程大学，船舶与海洋工程专业，学士
+工作经历 
+2021年6月-至今，清华大学深圳国际研究生院，助理教授、特别研究员
+2018年5月-2021年5月，天津大学，博士后(在职)
+2018年4月-2021年5月，天津大学，讲师
+2017年2月-2017年12月，英国格拉斯哥大学，博士后
+学术兼职 
+中国造船工程学会会员；
+美国机械工程师协会会员；
+英国皇家造船师学会会员；
+《Frontiers in Mechanical Engineering》特刊编辑；
+《Ocean Engineering》、《Journal of Fluids and Structures》、《Journal of Offshore Mechanics and Arctic Engineering》、《Ships and Offshore Structures》、《Energy》、《Sustainable Energy Technologies and Assessments》、《Journal of Sound and Vibration》、《Nonlinear Dynamics》、《Engineering Structures》、《AIAA Journal》、《China Ocean Engineering》、《Journal of Ocean Engineering and Marine Energy》、《Cogent Engineering》、《Journal of Applied Fluid Mechanics》、《International Journal of Numerical Methods for Heat and Fluid Flow》、《Engineering Computations》、《Mathematical Problems in Engineering》等国际期刊审稿人。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+海洋工程环境学(清华大学深圳国际研究生院)
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要研究方向为海洋工程结构物流固耦合动力学及海洋可再生能源开发利用技术。利用拖曳水池和循环水槽，试验观测立管(束)的流致振动及新型流致振动潮流能发电装置的性能，探究复杂来流下立管(束)的流致振动特性，评估不同流致振动抑制装置的效率，分析流致振动潮流能发电装置的可行性。开发先进的三维双向流固耦合数值模拟求解器，对弹性支撑刚性圆柱、柔性立管(束)及扑翼式潮流能发电装置开展高保真数值模拟，研究结构物的非线性动力学响应与流体力特性，并结合流场可视化技术，深入阐释复杂物理现象所蕴含的流固耦合机制。近年来，作为项目负责人主持国家自然科学基金1项、中国博士后科学基金1项、广东省基础与应用基础研究基金自然科学基金1项、上海交通大学海洋工程国家重点实验室研究基金1项、天津大学自主创新基金1项、企事业单位委托项目1项。作为核心研究人员，参与了国家自然科学基金联合基金项目、面上项目，英国工程与自然科学研究理事会项目、苏格兰大学卡耐基信托基金项目和企事业单位委托项目10余项。在相关领域权威期刊和会议发表学术论文20余篇。研究成果获2019年全国流体力学与工程应用研讨会优秀报告奖及2020年度海洋工程科学技术奖二等奖。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]. Xu Wanhai, Zhang Qiannan, Wang Qicheng, Pang Tao, Ma Yexuan, Wang Enhao*, 2022. Flow-induced vibration analysis of two unequal-diameter flexible cylinders in staggered configuration from a hydrodynamic force perspective. Marine Structures 83, 103173.
+[2]. Xu Wanhai, Wu Haokai, Jia Kun, Wang Enhao*, 2021. Numerical investigation into the effect of spacing on the flow-induced vibrations of two tandem circular cylinders at subcritical Reynolds numbers. Ocean Engineering 236, 109521.
+[3]. Xu Wanhai, Yang Meng, Wang Enhao*, Sun Hai**, 2020. Performance of single-cylinder VIVACE converter for hydrokinetic energy harvesting from flow-induced vibration near a free surface. Ocean Engineering 218, 108168.
+[4]. Xu Wanhai, Zhang Qiannan, Ma Wenchen, Wang Enhao*, 2020. Response of two unequal-diameter flexible cylinders in a side-by-side arrangement: Characteristics of FIV. China Ocean Engineering 34(4), 475–487.
+[5]. Liu Yuanchuan, Liu Fushun*, Wang Enhao, Xiao Qing, Li Liang, 2020. The effect of base column on vortex-induced vibration of a circular cylinder with low aspect ratio. Ocean Engineering 196, 106822.
+[6]. Xie Wude, Gao Xifeng*, Wang Enhao, Xu Wanhai, Bai Yuchuan, 2019. An investigation of the nonlinear dynamic response of a flexible pipe undergoing vortex-induced vibrations and conveying internal fluid with variable-density. Ocean Engineering 183, 453–468.
+[7]. Wang Enhao, Xu Wanhai*, Yu Yang, Zhou Lidan, Incecik Atilla, 2019. Flow-induced vibrations of three and four long flexible cylinders in tandem arrangement: An experimental study. Ocean Engineering 178, 170–184.
+[8]. Wang Enhao, Xu Wanhai*, Gao Xifeng, Liu Liqin, Xiao Qing, Ramesh Kiran, 2019. The effect of cubic stiffness nonlinearity on the vortex-induced vibration of a circular cylinder at low Reynolds numbers. Ocean Engineering 173, 12–27.
+[9]. Wang Enhao, Ramesh Kiran*, Killen Shaun, Viola Ignazio Maria, 2018. On the nonlinear dynamics of self-sustained limit-cycle oscillations in a flapping-foil energy harvester. Journal of Fluids and Structures 83, 339–357.
+[10]. Xu Wanhai, Zhang Shuhai, Liu Bin*, Wang Enhao, Bai Yin, 2018. An experimental study on flow-induced vibration of three and four side-by-side long flexible cylinders. Ocean Engineering 169, 492–510.
+[11]. Xu Wanhai, Yu Yang*, Wang Enhao, Zhou Lidan, 2018. Flow-induced vibration (FIV) suppression of two tandem long flexible cylinders attached with helical strakes. Ocean Engineering 169, 49–69.
+[12]. Han Qinghua, Ma Yexuan, Xu Wanhai*, Fan Dixia, Wang Enhao, 2018. Hydrodynamic characteristics of an inclined slender flexible cylinder subjected to vortex-induced vibration. International Journal of Mechanical Sciences 148, 352–365.
+[13]. Wang Enhao, Xiao Qing*, Incecik Atilla, 2017. Three-dimensional numerical simulation of two-degree-of-freedom VIV of a circular cylinder with varying natural frequency ratios at Re = 500. Journal of Fluids and Structures 73, 162–182.
+[14]. Wang Enhao, Xiao Qing*, Zhu Qiang, Incecik Atilla, 2017. The effect of spacing on the vortex-induced vibrations of two tandem flexible cylinders. Physics of Fluids 29(7), 077103.
+[15]. Wang Enhao, Xiao Qing*, 2016. Numerical simulation of vortex-induced vibration of a vertical riser in uniform and linearly sheared currents. Ocean Engineering 121, 492–515.
+代表性著作 
+[1]. Xu Wanhai, Wang Enhao, Gao Xifeng*, 2020. Recycling Regulations. In: Cui Weicheng, Fu Shixiao, Hu Zhiqiang (Eds.), Encyclopedia of Ocean Engineering, Springer, Singapore, Singapore.
+[2]. Gao Xifeng*, Wang Enhao, Xu Wanhai, 2020. Inventory of Hazardous Materials. In: Cui Weicheng, Fu Shixiao, Hu Zhiqiang (Eds.), Encyclopedia of Ocean Engineering, Springer, Singapore, Singapore.
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+[1]. “非线性弹簧支撑刚性圆柱涡激振动数值模拟研究”，全国流体力学与工程应用研讨会优秀报告奖，2019年.
+[2]. “海洋油气管道涡激振动预报方法及安全防控关键技术”，海洋工程科学技术奖，二等奖，2021年，排名5/9.
+[3]. 深圳市海外高层次人才，2021年.
+ </奖励荣誉>

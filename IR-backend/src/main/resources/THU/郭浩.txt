@@ -1,0 +1,59 @@
+{"title":"郭浩","cnUrl":"http://www.sigs.tsinghua.edu.cn/gh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/4b/13/5174bacc4fb5a1592cdc146b1e88/ca779024-7ada-4b5a-8687-f06ecaeb6865.jpg","email":"guohao@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2013年9月-2017年10月，香港大学，水环境工程专业，博士
+2010年9月-2013年3月，华中科技大学，市政工程专业，硕士
+2006年9月-2010年6月，武汉理工大学大学，给水排水工程专业，学士
+工作经历 
+2023年2月-至今，清华大学深圳国际研究生院，助理教授、博士生导师
+2020年12月-2023年1月，香港大学，研究助理教授
+2017年11月-2020年11月，香港大学，博士后研究员/研究助理
+学术兼职 
+1. 客座编辑，Membranes；
+2. Journal of the American Chemical Society, Environmental Science & Technology, Environmental Science & Technology Letters, Water Research, Journal of Membrane Science, Desalination等期刊审稿人；
+3. 第一届国际分离纯化大会组委会委员及分会场主席。
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+水污染控制、膜法水处理及回用、海水淡化、高效节能的新型分离材料用于污染修复及资源回收、新污染物的环境分布及控制技术等。
+主要项目 
+1. 清华大学深圳国际研究生院科研启动项目，在研，主持；
+2. 香港大学种子基金（基础研究类），结题，主持；
+3. 香港特别行政区创新科技署粤港科技合作资助计划，在研，共同主持（Co-Investigator）。
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]. Zhou, S.; Long, L.; Yang, Z.; So, S.; Gan, B.; Guo, H.*; Feng, S.P.; Tang, C.Y.*, Unveiling the growth of polyamide nanofilms at water/organic free interfaces: toward enhanced water/salt selectivity, Environmental Science & Technology, 2022, 56, 14, 10279–10288.
+[2]. Guo, H.; Dai, R.; Xie, M.; Peng, L.; Yao, Z.; Yang, Z.; Nghiem, L.; Snyder, S.; Wang, Z.*; Tang, C.Y.*, Tweak in puzzle: tailoring membrane chemistry and structure towards targeted removal of organic micropollutants for water reuse, Environmental Science & Technology Letters, 2022, 9, 4, 247-257.
+[3]. Guo, H.; Li, X.; Yang, W.; Yao, Z.; Mei, Y.; Peng, L.; Yang, Z.; Shao, S.*; Tang, C. Y.*, Nanofiltration for drinking water treatment: a review, Frontiers of Chemical Science and Engineering, 2022, 16, 681-698.
+[4]. Zhang, J.; Huang, S.; Guo, H.*; Fane, Anthony G.*; Tang, C.Y., Effects of crossflow filtration cell configuration on membrane separation performance and fouling behavior, Desalination, 2022, 525, 115505.
+[5]. Guo, H.; Zhang, J.; Peng, L.; Li, X.; Chen, Y.; Yao, Z.; Tang, C.Y.*, High-efficiency capture and recovery of anionic perfluoroalkyl substances from water using PVA/PDDA nanofibrous membranes with near-zero energy consumption, Environmental Science & Technology Letters, 2021, 8, 4, 350-355.
+[6]. Peng, L.; Yao, Z.; Chen, J.; Guo, H.*; Tang, C.Y.*, Highly selective separation and resource recovery using forward osmosis membrane assembled by polyphenol network. Journal of Membrane Science, 2020, 611, 118305.
+[7]. Peng, L.; Yao, Z.; Yang, Z.; Guo, H.*; Tang, C.Y.*, Dissecting the role of substrate on the morphology and separation properties of thin film composite polyamide membranes: seeing is believing. Environmental Science & Technology, 2020, 54, (11), 6978-6986.
+[8]. Peng, L.; Yao, Z.; Liu, X.; Deng, B.; Guo, H.*; Tang, C.Y.*, Tailoring polyamide rejection layer with aqueous carbonate chemistry for enhanced membrane separation: mechanistic insights, chemistry-structure-property relationship, and environmental implications. Environmental Science & Technology, 2019, 53(16), 9764-9770.
+[9]. Guo, H.; Peng, L.; Yao, Z.; Yang, Z.; Ma, X.; Tang, C. Y.*, Non-polyamide based nanofiltration membranes using green metal-organic coordination complexes: implications for the removal of trace organic contaminants. Environmental Science & Technology, 2019, 53(5), 2688-2694.
+[10].  Guo, H.; Yao, Z.; Wang, J.; Yang, Z.; Ma, X.; Tang, C. Y.*, Polydopamine coating on a thin film composite forward osmosis membrane for enhanced mass transport and antifouling performance. Journal of Membrane Science, 2018, 551, 234-242.
+[11]. Guo, H.; Yao, Z.; Yang, Z.; Ma, X.; Wang, J.; Tang, C. Y.*, A one-step rapid assembly of thin film coating using green coordination complexes for enhanced removal of trace organic contaminants by membranes. Environmental Science & Technology, 2017, 51, (21), 12638-12643.
+[12]. Guo, H.; Deng, Y.; Yao, Z.; Yang, Z.; Wang, J.; Lin, C.; Zhang, T.; Zhu, B.; Tang, C. Y.*, A highly selective surface coating for enhanced membrane rejection of endocrine disrupting compounds: mechanistic insights and implications. Water Research, 2017, 121, 197-203.
+[13]. Guo, H.; Wang, J.; Han, Y.; Feng, Y.; Shih, K.; Tang, C. Y.*, Removal of perfluorooctane sulfonate by a gravity-driven membrane: filtration performance and regeneration behavior. Separation and Purification Technology, 2017, 174, 136-144.
+[14]. Guo, H.; Deng, Y.; Tao, Z.; Yao, Z.; Wang, J.; Lin, C.; Zhang, T.; Zhu, B.; Tang, C. Y.*, Does hydrophilic polydopamine coating enhance membrane rejection of hydrophobic endocrine-disrupting compounds? Environmental Science & Technology Letters, 2016, 3, (9), 332-338. (Featured by ACS Chemical & Engineering News).
+[15]. Guo, H.; Ren, Y.*; Sun, X.; Xu, Y.; Li, X.; Zhang, T.; Kang, J.; Liu, D., Removal of Pb2+ from aqueous solutions by a high-efficiency resin. Applied Surface Science, 2013, 283, 660-667.
+代表性著作 
+主要专利成果 
+[1]. 郭浩; 李贤辉; 汤初阳, 专利号：CN113710619A, 用于快速净化水的纳米结构膜过滤系统. 
+[2]. Guo, H.; Li, X.; Tang, C.Y., US patent US2022/0184562A1, Nanostructured membrane filter for rapid water purification.
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+三等奖，第十七届“挑战杯”全国大学生课外学术科技作评竞赛（指导教师），2022年。
+下一代脱盐之星，水脱盐报告, 2021年。
+三等奖，第7届香港大学生创新创业大赛（指导教师），2021年。
+银奖，日内瓦国际发明展，2021年。
+金奖、最佳20大发明奖、多伦多创新及先进技术国际协会特别奖，第5届加拿大国际发明创新大赛，2020年。
+香港工程师协会最佳年轻学者论文奖，2020年。
+麻省理工学院科技评论杂志亚太地区35岁以下创新者奖，2019年。
+金奖，日内瓦国际发明展，2019年。
+ </奖励荣誉>

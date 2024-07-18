@@ -1,0 +1,59 @@
+{"title":"周进","cnUrl":"http://www.sigs.tsinghua.edu.cn/zj/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/98/d6/8c3e9dc34c7182b67483e720bc60/c3b315e4-f582-4442-adac-ed8c897d0b68.jpg","email":"zhou.jin@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1997年9月-2001年7月，湖南农业大学，水产养殖专业，本科
+2001年9月-2004年7月，上海海洋大学，海洋生物专业，硕士
+2004年8月-2005年8月，正大集团，研发工程师
+2005年9月-2008年7月，华东理工大学，生物工程专业，博士
+2008年7月-2010年7月，清华大学，博士后
+2013年12月-2014年12月，美国Woods Hole海洋研究所访问学者
+2010年8月至今，清华大学深圳研究生院，副研究员 
+教育经历 
+工作经历 
+学术兼职 
+1．SCI杂志Aquatic Research，Fish and Shellfish Immunology 特约审稿人。
+2．国际微生物与应用协会，会员。
+3．《海洋百科全书（2016年5月出版）》，副主任编委，中国海洋出版社。
+4.《Biotoxicity of engineered nanoparticles and risk assessment》，编者，Springer出版社，2014年1月。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+拟定开讲课程：海洋微生物学
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+从事海洋生态与微生物分子生态学研究，近海集中于污染物毒理及微生物在典型生态事件（如赤潮、滨海湿地、珊瑚礁）中的作用；远海集中于不同生境(大洋、深海)微生物的结构与功能分析。研究工作旨在阐明微生物在生态系统中的调节与作用机制。
+近年来获得了一些原创性的成果，在污染物的毒性效应是首次提出两个假设：生态毒害是导致海洋生物个体退化的潜在原因; 生殖毒性的垂直传递与跨代表现是构成海洋生物区域性功能灭绝的诱因。微生态研究中，针对微生物的社会学属性，集中在信号调节，研究种群的结构、组成及其在生态事件中的作用。现主持或完成国家自然科学基金2项、教育部课题1项、省自然基金3项、省海洋局项目2项、以及深圳市课题3项。在SCI期刊发表论文30余篇，获发明专利3项，获国家海洋局科技进步二等奖1次。担任SCI期刊的特邀审稿人，国际微生物与应用协会会员，现为深圳市海外高层次人才、科技评审专家和政府采购评审专家。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+(1) Jin Zhou, Yihua Lyu, Mindy Richlen, Donald M. Anderson, Zhonghua Cai*. Quorum sensing: the language of chemical signals and its ecological roles in algal-bacterial interactions. The Critical Review in Plant Science, 2016, under review（约稿）.
+(2) Jin Zhou, Lao YM, Cai ZH*. Genome sequence of Enterobacter sp. ST3, a quorum sensing bacterium associated with marine dinoflagellate. Genomics Data, 2016, 7: 195-199.
+(3) Jin Zhou, Baiyang Chen, Zhonghua Cai. Metabolomics-based approach for assessing the toxicity mechanisms of dibutyl phthalate to abalone (Haliotis diversicolor supertexta). Environ. Sci. Pollut. Res. 2015, 22: 1019-1027.
+(4) Jin Zhou, Lei Li, Zhong-Hua Cai. Identification of putative cathepsin S in mangrove red snapper Lutjanus argentimaculatus and its role in antigen presentation. Developmental & Comparative Immunology. 2012, 37(1):28-38,
+(5) Jin Zhou, Zhong-Hua Cai, and Ke-Zhi Xing. Potential mechanisms of phthalate ester embryotoxicity in the abalone Haliotis diversicolor supertexta. Environmental Pollution, 159(5): 2011, 1114-1122.
+(6) Jin Zhou, Yun-Feng Gao, Lei Li, Hong-Ning Zhai, Shang-Jin Tan, and Zhong-Hua Cai. Identification and functional characterization of a putative 17β-hydroxysteroid dehydrogenase 12 in abalone (Haliotis diversicolor supertexta). Molecular and Cellular Biochemistry, 2011, 354:123–133.
+(7) Jin Zhou, Xiao-Shan Zhu, Zhong-Hua Cai. Influences of DMP on the Fertilization Process and Subsequent Embryogenesis of Abalone (Haliotis diversicolor supertexta) by Gametes Exposure. PLoS ONE 2011, 6(10): e25951. doi:10.1371/journal.pone.0025951.
+(8) Jin Zhou, Xiao-shan Zhu, Zhong-hua Cai., The impacts of bisphenol A (BPA) on abalone (Haliotis diversicolor supertexta) embryonic development. Chemosphere, 2011, 82: 443-450.
+(9) Jin Zhou, Xiao-shan Zhu, and Zhong-hua Cai. The toxicity assessment of tributyltin (TBT) on abalone (Haliotis supertexta): antioxidant enzyme activity, metabolic responses and histopathology. Journal of Hazardous Materials, 2010. 183:428-433.
+(10) Jin Zhou, Xiao-Shan Zhu, Zhonghua Cai. Are endocrine disruptors among the causes of variety deterioration of aquatic organisms? 2010, Integrated Environmental Assessment and Management, 2010, 6: 492-498.
+(11) Zhu Xiao-Shan, Jin Zhou (并列第一), and Zhong-Hua Cai. TiO2 nanoparticles in the marine environment: impact on the toxicity of Tributyltin to abalone (Haliotis diversicolor supertexta) embryos. Environmental Science & Technology, 2011, 45 (8), 3753–3758.
+(12) Guofu Chen, Chaoshuai Ma, Chunyun Zhang, Jin Zhou*(通讯作者). A rapid and sensitive method for field detection of Prorocentrum donghaiense using reverse transcription-coupled loop-mediated isothermal amplification. Harmful Algae, 2013, 29: 31-39.
+(13) Shang-Jin Tan, Jin Zhou, Xiao-Shan Zhu, Zhong-Hua Cai*. An association network analysis among microeukaryotes and bacterioplankton reveals algal bloom dynamics. Journal of Phycology, 2015, 51: 120-132.
+(14) 周进，陈国福，朱小山，陈璐，蔡中华*。赤潮过程中“藻-菌”关系的研究进展，生态学报，32(2): 269-281, 2014。
+(15) 周进， 晋慧, 蔡中华*，微生物在珊瑚礁生态系统中的作用与功能。应用生态学报，25（3）：919-930, 2014。
+代表性著作 
+主要专利成果 
+(1)周进, 蔡中华，马志平。一种改良型检测AHL群体感应信号的TLC方法，2016.02.06，中国，申请号：20160210291189.9。
+(2)周进，银鹏。希万氏菌的筛选与在抑藻上的应用，2013.06.26，中国，公开号：CN103173383A。
+(3)周进, 蔡中华。一株海洋肠杆菌的鉴定与应用，2016年2月申报，申报号：201602017780.1
+(4)蔡中华，周进，詹五根，陈璐。一种交替假单胞菌及其在抑制赤潮藻生长上的应用，2012年，中国，专利授权号：ZL201210075599.6。
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2012，国家海洋局科技进步二等奖
+ </奖励荣誉>

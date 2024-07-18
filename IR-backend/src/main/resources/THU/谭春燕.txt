@@ -1,0 +1,59 @@
+{"title":"谭春燕","cnUrl":"http://www.sigs.tsinghua.edu.cn/tcy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/ec/96/fc2f09dc4068a0a3ffc56113cff7/7df9602b-0332-42c4-b7e6-7410deb973a6.png","email":"tancy@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+2007年12月至今 清华大学深圳研究生院 副研究员、教授、博士生导师
+2005年11月-2007年12月 清华大学深圳研究生院 讲师
+2004年09月-2005年09月 美国西北大学化学系 博士后
+2000年01月-2004年08月 美国佛罗里达大学化学系 化学(有机化学) 博士
+1995年09月-1998年07月 厦门大学化学系 化学(有机化学) 硕士
+1991年09月-1995年07月 厦门大学化学系 化学 学士
+教育经历 
+工作经历 
+学术兼职 
+ACS Applied Materials & Interfaces期刊编委
+Peptide & Protein Letters 期刊编委
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+化学生物学
+强化营：生物学概论
+生物纳米检测技术实验（轮转3）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+以化学分子结构与合成研究为基础，结合荧光分子的信号转导以及生物活性分子的特异性识别，研究新型的荧光功能性分子探针的新方法和新技术，发展高灵敏度及高选择性的针对生物重要靶标分子（生物大分子和小分子）以及重要生命过程的分析检测、成像、人工调控方法，以用于疾病的早期诊断和治疗。具体包括以下两个研究方向：
+（1）荧光分子探针设计与合成的新方法、新技术研究
+（2）靶向重要生命与疾病过程的肿瘤化学生物学研究
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1.Jin, Y. Y.; Du, N.; Huang, Y. F.; Shen, W. X.; Tan, Y.; Chen, Y. Z.; Dou, W. T.; He, X. P.; Yang, Z. J.; Xu, N. H.; Tan, C. Y., Fluorescence Analysis of Circulating Exosomes for Breast Cancer Diagnosis Using a Sensor Array and Deep Learning. ACS Sensors 2022,7 (5), 1524-1532.
+2.Zhang, P.; Tan, C., Cross-Reactive Fluorescent Sensor Array for Discrimination of Amyloid Beta Aggregates. Analytical Chemistry 2022,94 (14), 5469-5473.
+3.Li, J.; Du, N.; Tan, Y.; Hsu, H.-Y.; Tan, C.; Jiang, Y., Conjugated Polymer Nanoparticles Based on Copper Coordination for Real-Time Monitoring of pH-Responsive Drug Delivery. ACS Applied Bio Materials 2021,4 (3), 2583-2590.
+4.Li, J.; An, Z.; Sun, J.; Tan, C.; Gao, D.; Tan, Y.; Jiang, Y. Highly Selective Oxidation of Organic Sulfides by a Conjugated Polymer as the Photosensitizer for Singlet Oxygen Generation, ACS Appl. Mater. Interface, 2020, 12, 35475-35481.
+5.Shen, Y.; Huang, Y.; Zhang, P.; Guo, B.; Jiang, H.; Tan, C.; Jiang, Y. Fluorescence Sensor Array for Discrimination of Urine Proteins and Differentiation Diagnosis of Urinary System Diseases, ACS Appl. Bio. Mater., 2020, 3, 5639-5643.
+6.Pang, X. L.; Tan, Y.; Tan, C. Y.; Li, W. L.; Du, N.; Lu, Y. P.; Jiang, Y. Y., One-Step Construction of Fluorenone-Based Donor-Acceptor-Type Conjugated Polymers via Direct Arylation Polymerization for Cell-Imaging Applications. ACS Appl. Mater. Interfaces 2019,11, 28246-28253.
+7.Li, S. F.; Gao, D.; Song, C.; Tan, C. Y.; Jiang, Y. Y., Isotope Labeling Strategies for Acylcarnitines Profile in Biological Samples by Liquid Chromatography-Mass Spectrometry. Anal. Chem. 2019,91, 1701-1705.
+8.Chen, Y.; Tan, Y.; Tan, C.; Lu, Y.; Chen, Y.; Jiang, Y., Naphthalimide-containing conjugated polyelectrolytes with different chain configurations. Org Biomol Chem 2019,17, 2635-2639.
+9.Li, A.; Tan, C.; Yuan, T.; Liang, J.; Gao, D.; Tan, Y.; Jiang, Y., Efficient photocatalytic oxidation sensitized by conjugated polymers in a batch reaction and microreactors under visible light. J. Mater. Chem. A 2018,6, 15927-15932.
+10.Zhang, M. L.; Wu, P.; Dou, W. T.; Han, H. H.; He, X. P.; Tan, C. Y.; Jiang, Y. Y., Conjugated polyelectrolytes with galactose-containing side chains for targeted hepatoma cell imaging. Chem. Commun. 2017,53, 5625-5628.
+11.Cai, K.; Tan, Y.; Tan, C. Y.; Wu, J. T.; Wu, P.; Liang, J. M.; Liu, S. W.; Zhang, B. B.; Jiang, Y. Y., An iminodiacetate-modified conjugated polyelectrolyte for fluorescent labeling of histidine-tagged proteins. Chem.Commun. 2017,53, 4191-4194.
+12.Wu, P.; Xu, N. H.; Tan, C. Y.; Liu, L.; Tan, Y.; Chen, Z. F.; Jiang, Y. Y., Light-Induced Translocation of a Conjugated Polyelectrolyte in Cells: From Fluorescent Probe to Anticancer Agent. ACS Appl. Mater. Interfaces 2017,9, 10512-10518.
+13.Dou, W.; Zhang, Y.; Lv, Y.; Wu, J.; Zang, Y.; Tan, C.; Li, J.; Chen, G.; He, X., Interlocked supramolecular glycoconjugated polymers for receptor-targeting theranostics. Chem. Commun. 2016,52, 3821-3824. 
+14.Dou, W.; Lv, Y.; Tan, C.; Chen, G.; He, X., Irreversible destruction of amyloid fibril plaques by conjugated polymer based fluorogenic nanogrenades. J. Mater. Chem. B 2016,4, 4502-4506. Featured article. 
+15.Liu, Y.; Wu, P.; Jiang, J.; Wu, J.; Chen, Y.; Tan, Y.; Tan, C.; Jiang, Y., Conjugated polyelectrolyte nanoparticles for apoptotic cell imaging. ACS Appl. Mater. Interfaces 2016,8, 21984-21989.
+代表性著作 
+主要专利成果 
+其他成果 
+ 【学者库主页】
+ http://kb.szdnet.org.cn/profile/chunyan-tan/53f42f79dabfaee0d9b176a6
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2021年南粤优秀教师
+清华教学优秀奖（2019年度）
+清华大学优秀硕士学位论文指导教师
+ </奖励荣誉>

@@ -1,0 +1,125 @@
+{"title":"曾龙","cnUrl":"http://www.sigs.tsinghua.edu.cn/cl/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/d1/8a/ed81ba314d5fa558479c925ae87c/f6e2e4ff-b92f-47c8-b13e-5c6b75f73b83.jpg","email":"zenglong@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+副教授，香港科技大学博士，智能制造与机器视觉课题组，清华-普渡智能服务机器人技术联合研究中心，主任。课题组长期聚焦于面向智能制造的深度学习理论、方法、和技术，并应用于CAD/CAM工业软件、智能服务机器人技术、和柔性装配。课题组近期重点研究参数化点云深度学习理论与方法，参数化点云是指工业、日常生活中通过参数化设计技术获得的人造物体，广泛存在工业零件和草图设计过程中，其主要应用领域，包括草图CAD、具身智能机器人、语义SLAM、视觉抓取、可重构柔性装配、缺陷检测、原位检测等。课题组目前已经在全球机器人和计算机视觉顶会（ICRA、IROS、CVPR、ECCV）、计算机图形学及智能制造等顶刊上发表高水平学术论文超过60篇；主持国家与企业项目超过20项，其中包括国家重点研发计划“工业软件”重点专项课题负责人、国家自然科学面上项目、青年项目，广东省自然科学基金面上项目，深圳市科技重大专项、技术攻关、学科布局项目，近3年科研经费超过1800万；申请和授权发明专利>40项，并顺利完成可重构柔性装配和视觉机械臂抓取科研成果产业化，创造了显著的经济效益。
+教育经历 
+(1) 2007年9月-2012年10月，香港科技大学，机械工程学系/计算机辅助设计与制造， 博士
+(2) 2005年9月-2007年6月，浙江大学，机械设计及理论，硕士
+(3) 2001年9月-2005年6月，大连理工大学，测控技术与仪器，学士
+工作经历 
+(1) 2023-02 至 今, 清华大学深圳国际研究生院, 数据与信息研究院, 副教授
+(2) 2020-12 至 2023-02, 清华大学深圳国际研究生院, 先进制造学部, 副教授
+(3) 2019-04 至 2020-11, 清华大学深圳国际研究生院, 先进制造学部, 讲师
+(4) 2014-12 至 2019-03, 清华大学深圳研究生院, 先进制造学部, 讲师
+(5) 2012年11月-2014年11月，香港科技大学，机械工程学系， 博士后
+学术兼职 
+(1)《计算机科学》杂志（北大中文核心期刊排名第6名），执行编委；
+(2)《计算机集成制造系统》杂志（入选EI核心数据库），理事会理事；
+(3) 中国图学学会第八届网络图形学专业委员会委员；
+(4) 全球机器人技术顶会ICRA2024 Session chair；
+(5) 长期为机器人、图形学、智能制造领域顶刊和顶会审稿，如ICRA、IROS、CAD、IEEE TASE、RCIM、IJAMT等。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+主讲课程：
+(1) 《现代CAD方法与技术》，双语教学，32学时，2017年-至今，每年春季（其中2017年秋，该课程获清华大学全校教评前5%）。
+(2)《产品设计与开发》，双语教学，32学时，2017年-至今，每年秋季。2019年秋，获清华大学获教育教学改革自由探索项目支持。
+(3) 《机器学习实践与应用》，中文，32学时，2022年-至今，每年秋季。
+合上课程：
+(4)《智能制造技术基础》，中文，48学时，主讲6学时，包括人工智能、机器学习、工业机器人技术。
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 智能制造与机器视觉课题组长期聚焦于面向智能制造的深度学习方法、技术和应用，并重点应用于CAD/CAM工业软件、服务机器人、和智能制造等领域。针对现有深度学习方法与技术不能有效发掘二维草图、三维工业零件等参数化点云的数据特点，申请人课题组创新性地提出了面向参数化点云的深度学习方法与技术，如ParametricNet@ICRA2021等。参数化点云广泛存在于工业、家庭等环境下的人造物品及其设计过程中，包括二维和三维参数化点云，如手绘草图、螺母等工业零件、水杯等餐具。
+ 在CAD工业软件领域，针对概念设计与详细设计之间的鸿沟，提出了手绘草图工程产品组装建模技术，具体包括基于深度学习、数据挖掘等方法的手绘草图理解、零件创建、和复杂产品装配等研究任务。本团队经过国自然青年、面上项目的持续支持，自主开发了3D建模内核iDesignCAD。目前在国家重点研发计划“工业软件”重点项目的支持下，计划研发大规模的手绘草图多模态数据集，为面向手绘草图的深度学习方法奠定数据基础，并开发手绘草图CAD工业软件，为手绘草图CAD工业软件的产业化应用奠定基础。
+ 在服务机器人领域，主要研究室内复杂动态环境下移动机器人的类人感知与类人决策技术，包括机器人学习平台、语义SLAM、具身智能等，主要应用在送餐机器人、清洁机器人等。目前已与深圳市配送机器人领域独角兽企业普渡科技建立了“智能服务机器人技术联合研究中心”，投入上千万元拟就智能服务机器人相关核心技术展开重点攻关和工程应用研究。
+ 在智能制造领域，针对产品个性化时代多品种小批量产品装配的重大需求和行业痛点，课题组提出了跨品类的可重构柔性装配产线变形设计理论与技术体系，广泛采用知识图谱、深度学习、虚拟调试、数字孪生等方法，实现产品装配产线的柔性化、数控化和智能化。目前，该技术已成功产业化给广州市富唯智能科技股份有限公司，并在大型国有企业得到成功应用。
+主要项目 
+课题组基于自身对产品设计与开发的深入理解，研究问题大多聚焦于智能制造和机器人企业的行业痛点，课题组也始终秉持脚踏实地、互惠互利、共同成长的理念，与合作企业建立长期深入的可持续健康合作关系！目前已完成和在研项目超过20项，总经费超过2500万，近3年超过1800万。
+(一) CAD/CAM工业软件
+手绘草图和工业零件分别是二维和三维参数化点云，主要支撑项目有：
+(1) 手绘草图采集与生成算法，国家重点研发计划“工业软件”重点专项，（项目号2022YFB3303100），2023.11-2026.10，课题经费220万，课题负责人。 
+(2) 大数据下手绘参数化建模关键问题研究（项目号61972220），国家自然科学基金委面上项目，2020–2023，59万，主持。
+(3) 基于智能特征的手绘组装建模的关键问题研究（项目号61502263），国家自然科学基金青年基金，2016 – 2018，24.9万，主持。
+(4) 工业堆叠场景中参数化零件6D位姿估计方法研究，广东省自然科学面上项目，2022-2024，10万，主持。
+(5) 复杂产品爆炸图自动生成技术开发，深圳市工之易科技有限公司，2020-2021，10万，主持。
+(二) 服务机器人技术
+(6) 清华-普渡智能服务机器人技术联合研究中心，院级机构，2021.11-2024.11，1100万，主任。
+(7) 面向类人决策配送机器人的虚实融合学习平台，深圳市科技创新委员会，2024.01-2026.12，240/600万，高校负责人。
+(8) 面向商用机器人的自主可控操作系统关键技术研发，深圳市科技创新委员会，2024.01-2025.12，60/300万，高校负责人。
+(9) 面向送餐机器人动态场景语义理解与手势交互技术，普渡科技有限公司，2020-2021，50万，主持。
+(10)办公楼内“零接触”配送机器人技术研究，清华大学深圳国际研究生院，2022-2023，5万，主持。
+(11)面向家庭护理机器人的柔性手爪结构设计与优化，深圳市科创委，2018 – 2019，10万，主持。
+(三) 智能制造技术：
+(12)可重构柔性装配中心关键技术研究，深圳市科创委高等院校稳定支持重点项目，2021-2023，150万/300万，技术负责人。
+(13)南山概念验证项目自主-可重构柔性装配，清华大学深圳国际研究生院优秀项目，2023-2024，5万。
+(14)液压梭阀柔性装配技术研发，国际精密集团，2017 – 2018，35万，另有价值30万设备捐赠，主持。
+(15)集成电路缺陷光学检测设备关键技术研发（项目号JSGG20201102160801004）, 深圳市科技创新委员会，2021.06-2023.05，50万/200万，主持。
+(16)基于深度学习的芯片焊接缺陷检测技术，深圳格兰达智能装备有限公司，2020-2021，50万，主持。
+(17)光纤缠绕缺陷视觉检测技术开发，北京能科科技股份有限公司，2020-2021，30万，主持。
+(18)基于原位检测的自适应导轨生成技术开发，北京能科科技股份有限公司，2019-2022，15万，主持。
+(19)数控加工结构件智能在线监测系统开发，浙江日发航空数字装备有限责任公司，2017 – 2018，204万，主持。
+(20)大型复杂多型腔箱体智能加工生产线系统集成技术（项目号JCKY2018208B014），中国兵器工业集团，2019–2022，75万，技术负责人。
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Yi-Fan Tang, Cong Tai, Fang-Xin Chen, Wanting Zhang, Tao Zhang, Yongjin Liu, Long Zeng*, Mobile Robot Oriented Large-Scale Indoor Dataset for Dynamic Scene Understanding, IEEE International Conference Robotic and Automation, 2024（顶会，开源地址：jackyzengl.github.io/THUD-Robotic-Dataset.github.io/）.
+[2] Fang-xing Chen, Yifan Tang, Cong Tai, Xue-ping Liu, Xiang Wu, Tao Zhang∗, and Long Zeng*, FusedNet: End-to-end Mobile Robot Relocalization in Dynamic Large-scale Scene, IEEE Robotics and Automation Letters, 2024.
+[3] XiaoMing Zhu, Shuo Wang, JunYu Su, Fei Liu*, Long Zeng*, High-speed and accurate cascade detection method for chip surface defects, IEEE Transactions on Instrumentation & Measurement (SCI 1区), 2023.
+[4] Shuo Wang, Weijie Lv, Xinyuan Zhao, Xinyu, Zhang, Junyu Su, Long Zeng*, Refined-mask guided multi-stream blending network, Multimedia Tools and Applications (SCI 2区), 2023.
+[5] L. Zhao, W. J. Lv, X. Y. Zhang, L. Zeng*, Domain Adaptation on Point Clouds for 6D Pose Estimation in Bin-picking Scenarios, 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023).
+[6] X.H. L., Y. K. Ding, J. Guo, X.S. Lai, S. H. Ren, W. S. Feng, L. Zeng*, Edge-aware Neural Implicit Surface Reconstruction, International Conference on Multimedia and Expo (CCF-B), 2023.H. Zhang, H. Z. Liang, L. Cong, J. Z. Lyu, L. Zeng∗, P. F. Feng, and J. W. Zhang, Reinforcement Learning Based Pushing and Grasping Objects from Ungraspable Poses, IEEE International Conference Robotic and Automation (ICRA2023).
+[7] L. C. Xiao, Z. B. Xu, L. Zeng*, X. P. Liu, Assembly language design and development for reconfigurable flexible assembly line, Robotics and Computer-Integrated Manufacturing (SCI 1区, IF5.1), 2022.
+[8] Z. Sun, P. F. Feng, L. Zeng*, S. Q. Zhang, X. Cheng, Adaptive Machining Scheme for a Multi-Hole Part with Multi-Position Accuracy Tolerances, Journal of Advanced Manufacturing Technology (SCI 2区), 2022
+[9] S. Wang, H. Y. Wang, F. Yang, F. Liu, L. Zeng*, Attention-based deep learning for chip-surface-defect detection, Journal of Advanced Manufacturing Technology (SCI 2区), 2022.
+[10] L. Zeng, W. J. Lv, Z. K.Dong, Y. J. Liu, PPR-Net++, Accurate 6-D Pose Estimation in Stacked Scenarios, IEEE Transactions on Automation Science and Engineering (JCR 1区), 2021, 1(1): 1-13.
+[11] F. Yang（学生）, k. Wu, S. Y. Zhang, G. N. Jiang, Y. Liu, F. Zheng, W. Zhang, C. J. Wang and L. Zeng, Class-Aware Contrastive Semi-Supervised Learning, 2022 IEEE Computer Vision and Pattern Recognition (CVPR2022, CCF-A).
+[12] L. Zeng, W. J. Lv, X. Y. Zhang, Y. J. Liu, ParametricNet: 6DoF Pose Estimation Network for Parametric Shapes in Stacked Scenarios, IEEE International Conference Robotic and Automation (ICRA 2021).
+[13] S. M. Li, L. Zeng*, Pingfa Feng, Dingwen Yu, An accurate probe pre-travel error compensation model for five-axis OMI system, Precision Engineering (SCI 1区, IF3.1), 2020, vol. 62, pp. 256-264.
+[14] Y. M. Li, L. Zeng*, K. Tang, C. Xie, Orientation-point relation-based inspection path planning method for 5-axis OMI system, Robotics and Computer-Integrated Manufacturing (SCI 1区, IF5.1), 2020, vol. 51, pp. 1-17.
+[15] Y. M. Li, L. Zeng*, K. Tang, S. M. Li, A dynamic pre-travel error prediction model for the kinematic touch trigger probe, Measurement (SCI 1区, IF3.4), 2019.
+[16] Z. K. Dong, S. C. Liu, T. Zhou, H. Cheng, L. Zeng*, X. Y. Yu, H. D. Liu, PPR-Net: Point-wise Pose Regression Network for Instance Segmentation and 6D Pose Estimation in Bin-picking Scenarios, 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (顶会，同年获得IROS2019位姿估计挑战赛双料冠军).
+[17] Y. M. Li, L. Zeng*, K. Tang, C. Xie, Orientation-point relation based inspection path planning method for 5-axis OMI system, Robotics and Computer-Integrated Manufacturing (SCI 1区, IF4.4), 2019.
+[18] L. Zeng*, Z.-k. Dong, J. Y. Yu, J. Hong, H. Y. Wang, Sketch-based Retrieval and Instantiation of Parametric Parts [J], Computer Aided Design (SCI 1区), 2019, 113(82-95).
+[19] S. M. Li, L. Zeng*, P. F. Feng Y. M. , Li, C. Xu, Y. Ma, Error Compensation using 3D error map for OMI with touch trigger probe, Journal of Advanced Manufacturing Technology (SCI 2区, IF2.5), 2019.
+[20] B. Li, P. F. Feng, L. Zeng*, et al. Path planning method for on-machine inspection of aerospace structures based on adjacent feature graph [J]. Robotics and Computer-Integrated Manufacturing (SCI 1区, IF4.4), 2018, 54:17-34.
+[21] S. L. Mi, X. Y. Wu, L. Zeng*. Optimal build orientation based on material changes for FGM parts [J]. International Journal of Advanced Manufacturing Technology (JCR 2区, IF2.5), 2017, 94(3):1-14.
+[22] Y. F. Xu（学生）, T. Fan, M. Xu, L. Zeng. SpiderCNN: Deep Learning on Point Sets with Parameterized Convolutional Filters, ECCV 2018 (全球计算机视觉三大会议之一，谷歌学术引用数>800次).
+[23] L. Zeng*, Y. J. Liu, S. H. Lee, and M. M. F. Yuen. Q-Complex: Efficient Non-Manifold Boundary Representation with Inclusion Topology, Computer-Aided Design (JCR 1区，IF3.1), Vol. 44, No. 11, pp.1115-1126, 2012.
+[24] L. Zeng*, L. M. L. Lai, D. Qi, Y. H. Lai, M. M. F. Yuen. Efficient Slicing Procedure based on Adaptive Layer Depth Normal Image, Computer-Aided Design (JCR 1区，IF3.1), Vol.43, No. 12, pp.1577-1586, 2011.
+代表性著作 
+主要专利成果 
+目前，共申请专利42项，其中已授权发明专利21项，主要分布在可重构柔性装配、视觉抓取、缺陷检测和柔性装配。其中代表性的专利：
+1. 曾龙; 赵嘉宇; 刘冠宏 ; 面向工业堆叠零件的抓取方法、终端设备及可读存储介质, 中国, ZL202010916161.0
+2. 曾龙; 吕伟杰; 张欣宇 ; 面向工业零件6D位姿估计的方法及计算机可读存储介质, 中国,ZL202010872000.6
+3. 曾龙; 林垟钵; 董至恺; 俞佳熠; 赵嘉宇 ; 一种应用于参数化零件的视觉机械臂抓取方法及装置,中国, ZL202010048562.9
+4. 曾龙; 陈敏鹤; 邱楚锋; 杨远勇 ; 可重构柔性装配系统, 中国, 201910465156.X
+5. 曾龙、张浩、冯平法，一种基于强化学习的堆叠场景机械臂抓取方法与装置，发明专利，ZL202110814252.8
+6. 曾龙、张欣宇、吕伟杰多种类工业零件堆叠场景的仿真数据集生成方法及装置，发明专利ZL202110648136.3
+7. 曾龙、胡松、赖显松、黄家明、冯平法一种面向可重构柔性装配线的可编程工夹具库，发明专利，ZL202110693909.X
+8. 曾龙、王宏羽、杨凡、王硕、林宜龙、刘飞一种基于YOLO的深度学习芯片封装裂纹缺陷检测方法，发明专利，ZL202110219336.7
+9. 曾龙、欧雪燕、冯平法、谢颂强基于集成学习的光纤缺陷检测方法与装置，发明专利，ZL202110744198.4
+10. 赵铖、曾龙、罗博、陈敏鹤一种支持手指多种布局的欠驱动手手掌，发明专利，ZL201810608856.5
+1. 可重构柔性装配和视觉抓取相关的8项发明专利，已产业成果转化给广州市富唯智能科技有限公司。
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2017-2021年，清华大学中法“互联网+创新设计”硕士项目班主任，其中在2019年度全院研究生工作组、工作组教师考核中获得 “个人优秀”的成绩。
+学生培养荣誉
+1. 指导硕士生吕伟杰获2022年清华大学优秀硕士学位论文；
+2. 指导硕士生程曦获2021年清华大学优秀硕士学位论文；
+3. 指导硕士生董至恺获2020年清华大学优秀硕士学位论文；
+3. 指导研究生王宏羽获得2020-2021年度第六届专业实践一等奖学金，全院10名；
+4. 协助指导研究生蒋昊雨获得2020-2021年度第六届专业实践一等奖学金，全院10名；
+ 个人荣誉：
+1. 深圳市海外高层次人才“孔雀计划”人才
+2. 深圳市国家高层次人才
+3. 南山区领航人才
+4. 清华大学优秀硕士学位论文指导教师，2020年
+5. 清华大学优秀硕士学位论文指导教师，2022年
+6. 清华大学深圳国际研究生院2022年度考核，优秀
+7. 清华大学深圳国际研究生院2023年度考核，优秀
+ </奖励荣誉>

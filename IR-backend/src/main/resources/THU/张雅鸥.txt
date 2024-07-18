@@ -1,0 +1,64 @@
+{"title":"张雅鸥","cnUrl":"http://www.sigs.tsinghua.edu.cn/zyo/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/e0/b8/af2bc5014501a4488e64442837c4/e65f1104-9751-4077-9dc2-7792fa001d89.jpg","email":"zhangyo@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1988- 1991，华西医科大学，儿科血液肿瘤，博士；
+1983-1985，华西医科大学，儿科心血管，硕士；
+1978-1982，华西医科大学，医学，学士；
+1983-1985，华西医科大学，儿科心血管，硕士；
+1978-1982，华西医科大学，医学，学士；
+工作经历 
+2004年-至今，清华大学深圳研究生院，分子与细胞生物学，教授；
+2001-2003，香港城市大学，基因分子生物学，高级研究员；
+1999 -2000，哈佛大学，分子与细胞生物学，博士后研究员；
+1995-1998，多伦多大学，分子与细胞生物学，博士后；
+1994，华西医科大学附二院，儿科，副教授；
+1990-1994，华西医科大学附二院，儿科，主治医师；
+1986-1989，华西医科大学附二院，儿科，住院医师/讲师；
+学术兼职 
+深圳市化学生物与分子生物学会理事
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+临床医学概论
+细胞与分子生物学进展
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+在非编码核酸、肿瘤及神经退行性疾病、细胞外基质与疾病的关系等方向有一系列前沿性和原创性的研究。 原创性论文在《Nature Cell Biology》 、 《J Clin Invest》 、 《Autophagy》 、 《Nucleic Acids Res.》 等杂志发表, 共有 80多篇论文被 Web of Science数据库收录，平均每篇被引用 42.54 次；H 指数达到33。应用研究方面，抗肿瘤小核酸药物的研究得到“新药创制”国家十一五和十二五重大专项的资助，获得授权专利 7 项，实现成果转化一项。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1.Weijie Liao, Naihan Xu , Haowei Zhang , Weifang Liao , Yanzhi Wang , Songmao Wang , Shikuan Zhang , Yuyang Jiang, Weidong Xie*, Yaou Zhang* Persistent high glucose induced EPB41L4A-AS1 inhibits glucose uptake via GCN5 mediating crotonylation and acetylation of histones and non-histones. Clin Transl Med. 2022 Feb;12(2):e699
+2.Tingpeng Yang, Yanzhi Wang, Weijie Liao, Shikuan Zhang, Songmao Wang, Naihan Xu, Weidong Xie, Cheng Luo, Yangyang Wang, Ziqiang Wang & Yaou Zhang*. Down-regulation of EPB41L4A-AS1 mediated the brain aging and neurodegenerative diseases via damaging synthesis of NAD + and ATP.Cell Biosci. 2021 Nov 10;11(1):192.
+3.Liao M, Sun X, Gao S, Zhang Y*. A Class of Protein-Coding RNAs Binds to Polycomb Repressive Complex 2 and Alters Histone Methylation. Front Oncol. 2021 Nov 5;11:739830. eCollection 2021.
+4.Liao W, Liu F, Zhang H, Liao W, Xu N, Xie W, Zhang Y*. Upregulation of GpncA is associated with poor prognosis through enhancement of tumor growth via regulating GSK3B. Sci Rep. 2020 Feb 6;10(1):2044. 
+5.Liao M, Liao W, Xu N, Li B, Liu F, Zhang S, Wang Y, Wang S, Zhu Y, Chen D, Xie W, Jiang Y, Cao L, Yang BB, Zhang Y*. LncRNA EPB41L4A-AS1 regulates glycolysis and glutaminolysis by mediating nucleolar translocation of HDAC2. EBioMedicine. 2019 Mar;41:200-213
+6.Wang Z, Zhao Y, Xu N, Zhang S, Wang S, Mao Y, Zhu Y, Li B, Jiang Y, Tan Y, Xie W, Yang BB, Zhang Y*. NEAT1 regulates neuroglial cell mediating Aβ clearance via the epigenetic regulation of endocytosis-related genes expression. Cell Mol Life Sci. 2019 Aug;76(15):3005-3018.
+7.Zhu Y, Liu Q, Liao M, Diao L, Wu T, Liao W, Wang Z, Li B, Zhang S, Wang S, Xie W, Jiang Y, Xu N, Zeng Y, Yang BB, Zhang Y*.. Overexpression of LncRNA EPB41L4A-AS1 induces metabolic reprogramming in trophoblast cells and placenta tissue of miscarriage. Mol Ther Nucleic Acids. 2019 Sep 26;18:518.
+8.Liao M, Liu Q, Li B, Liao W, Xie W, Zhang Y. A group of long noncoding RNAs identified by data mining can predict the prognosis of lung adenocarcinoma. Cancer Sci. 2018 Oct 5. doi: 10.1111/cas.13822
+9. Wang Z， Fan P，Zhao Y，Zhang S, Lu J, Xie W2, Jiang Y, Lei F, Xu N， Zhang Y*. NEAT1 modulates herpes simplex virus-1 replication by regulating viral gene transcription. Cell Mol Life Sci. 2017 Mar;74(6):1117-1131
+10.Wang Z, Liu Q, Lu J, Fan P, Xie W1, Qiu W, Wang F, Hu G, Zhang Y. Serine/Arginine-rich Splicing Factor 2 Modulates Herpes Simplex Virus Type 1 Replication via Regulating Viral Gene Transcriptional Activity and Pre-mRNA Splicing. J Biol Chem. 2016 Dec 16;291(51):26377-26387
+11.Wan G, Xie W, Liu Z, Xu W, Lao Y, Huang N, Cui K, Liao M, He J, Jiang Y, Yang BB, Xu H, Xu N, Zhang Y. Hypoxia-induced MIR155 is a potent autophagy inducer by targeting multiple players in the MTOR pathway. Autophagy. 2014 Jan 1;10(1):70-9.
+12.Zhao HJ, Ren LL, Wang ZH, Sun TT, Yu YN, Wang YC, Yan TT, Zou W, He J, Zhang Y, Hong J, Fang JYMiR-194 deregulation contributes to colorectal carcinogenesis via targeting AKT2 pathway. Theranostics. 2014 19;4(12):1193-208
+13.He J, Wu J, Xu N, Xie W, Li M, Li J, Jiang Y, Yang BB*, Zhang Y*. MiR-210 disturbs mitotic progression through regulating a group of mitosis-related genes. Nucleic Acids Res. 1;41(1):498-508. 2013
+14.Min Yang, Yaou Zhang, Jiehong Pan, Jiusong Sun, Jian Liu, Peter Libby, Galina K. Sukhova, Alessandro Doria, Nobuhiko Katunuma, Odile D. Peroni, Mich&egrave;le Guerre-Millo, Barbara B. Kahn, Karine Clement & Guo-Ping Shi. Cathepsin L activity controls adipogenesis and glucose tolerance. Nature Cell Biology. Nat Cell Biol. 2007 Aug;9(8):970-7. (共同第一作者)
+15.Sukhova GK, Zhang Y Pan JH, Wada Y, Yamamoto T, Naito M, Kodama T, Tsimikas S, Witztum JL, Lu ML, Sakara Y, Chin MT, Libby P, Shi GP. Deficiency of cathepsin S reduces atherosclerosis in LDL receptor-deficient mice. J Clin Invest 2003 Mar;111(6):897-906 (共同第一作者)
+代表性著作 
+主要专利成果 
+1）一种抑制VEGF表达的siRNA及其应用。专利号: ZL 2005 1 0130094.5
+2）一种预防肿瘤复发和抑制肿瘤生长的寡聚核酸及其应用. 专利号: ZL 201010137856.5。
+3）一种抑制肿瘤生长的寡聚核酸及其应用. 专利号: ZL 2011 1 0003508.3
+4）抑制肿瘤生长及血管生成的寡聚核酸组合物及其应用. 专利号: ZL 2011 1 0004582.7
+5）抑制肿瘤生长的siRNA及其寡聚核酸组合与应用. 专利号: ZL 2011 1 0060142.3
+6）抑制肺转移肿瘤生长的siRNA及其寡聚核酸组合与应用. 专利号: ZL 2011 1 0062114.5
+7）一种抗病毒的小核酸温敏凝胶制剂及其应用.申请号: 201210437612.8
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+入选深圳市双百计划、深圳市高层次专业人才（地方级领军人才）、深圳市海外高层次人才（B类）
+ </奖励荣誉>

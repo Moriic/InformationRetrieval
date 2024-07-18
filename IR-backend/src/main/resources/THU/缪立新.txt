@@ -1,0 +1,139 @@
+{"title":"缪立新","cnUrl":"http://www.sigs.tsinghua.edu.cn/mlx/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/07/b2/d7d4b81b4114b4363e154138d9da/438d9c86-9e2f-4fa9-a50e-c705afc18aa9.jpg","email":"lxmiao@tsinghua.edu.cn"}
+<个人简历>
+概况 
+2003年03月至今，清华大学，深圳国际研究生院（原深圳研究生院），现任教授、博士生导师、物流与交通学部主任、现代物流研究所所长，曾任副教授、现代物流研究中心主任、深圳研究生院管理学部主任。
+2000年01月-2002年12月，承担日本通产省资助项目，多次赴日本庆应大学等大学与研究机构做合作研究和学术交流，担任交通仿真课题专家组组长。
+1997年01月-1998年06月，美国堪萨斯大学(The University of Kansas)，访问教授。
+1987年06月-2003年02月，清华大学，土木工程系，历任讲师、副教授、交通工程设计研究所所长。
+1984年09月-1987年05月，同济大学，交通工程专业，硕士（国内最早培养的交通工程专业研究生之一）毕业。
+教育经历 
+工作经历 
+学术兼职 
+中国物流学会副会长
+广东省物流行业协会副会长
+国际交通物流会议常任合作主席
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+物流技术与管理职业素养讲座
+交通运输工程导论
+交通流理论与控制
+离散选择模型及其应用
+物流系统分析及优化
+物流信息技术
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主持建成清华大学物流工程与管理学科(02年)，为能在国内培养高层次物流技术与管理人才奠定了好的基础;主持建成体现高技术和实用性兼备的物流实验室——“深圳市物流工程与仿真重点实验室”。
+主持课题40余项，在物流设施规划、产业园区与物流园区规划、交通物流仿真、港口运作调度优化，以及智能交通等方面有深入研究;主持开发物流核心应用软件6套和相关决策支持软件;主持开发的广东省物流师职业资格认证考试培训系统已有逾30万人次运用。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1.Wu, Y., & Miao, L. (2021). An Efficient Procedure for Inserting Buffers to Generate Robust Berth Plans in Container Terminals. Discrete Dynamics in Nature and Society, 2021, 6619538. (SCI)
+2.You, J., Zhang, C., Xue, Z., Miao, L., & Ye, B. (2020). A bi-objective model for robust local container drayage problem. RAIRO - Operations Research, 55, S625-S646. (SCI)
+3.Lian, F., Chen, B., Zhang, K., Miao, L., Wu, J., & Luan, S. (2020). Adaptive traffic signal control algorithms based on probe vehicle data. Journal of Intelligent Transportation Systems, 25(1), 41-57. (SCI)
+4.You, J., Miao, L., Zhang, C., & Xue, Z. (2020). A generic model for the local container drayage problem using the emerging truck platooning operation mode. Transportation Research Part B: Methodological, 133, 181-209. (SCI)
+5.Wu, Y., & Miao, L. (2020). A Robust Scheduling Model for Continuous Berth Allocation Problem under Uncertainty. In 2020 5th International Conference on Electromechanical Control Technology and Transportation (ICECTT) (pp.43-49). IEEE. (EI)
+6.Chen, R., Qian, X., Miao, L., & Ukkusuri, S. V. (2020). Optimal charging facility location and capacity for electric vehicles considering route choice and charging time equilibrium. Computers & Operations Research, 113, 104776. (SCI)
+7.Wang, F., Chen, R., Miao, L., Yang, P., & Ye, B. (2019). Location optimization of electric vehicle mobile charging stations considering multi-period stochastic user equilibrium. Sustainability, 11(20), 5841. (SCI)
+8.Lin, Y., Zhang, K., Shen, Z., Ye, B., & Miao, L. (2019). Multistage large-scale charging station planning for electric buses considering transportation network and power grid. Transportation Research Part C: Emerging Technologies, 107, 423-443. (SCI)
+9.Lin, Y., Zhang, K., Shen, Z., & Miao, L. (2019). Charging network planning for electric bus cities: a case study of Shenzhen, China. Sustainability, 11(17), 4713. (SCI)
+10.Xiang, X., Liu, C., & Miao, L. (2018). Reactive strategy for discrete berth allocation and quay crane assignment problems under uncertainty. Computers & Industrial Engineering, 126, 196-216. (SCI)
+11.Liu, P., Chen, Y., Xing, F., Yu, Z., Wang, W., & Miao, L. (2018). Water transport behavior of concrete: boundary condition and water influential depth. Journal of Materials in Civil Engineering, 30(11), 04018288. (SCI)
+12.Yu, J., Yang, P., Zhang, K., Wang, F., & Miao, L. (2018). Evaluating the effect of policies and the development of charging infrastructure on electric vehicle diffusion in china. Sustainability, 10(10), 3394. (SCI)
+13.Wu, J., Chen, B., Zhang, K., Zhou, J., & Miao, L. (2018). Ant pheromone route guidance strategy in intelligent transportation systems. Physica A Statistical Mechanics & Its Applications, 503, 591-603. (SCI)
+14.Zhang, C., Wu, T., Qi, M., & Miao, L. (2018). Simultaneous allocation of berths and quay cranes under discrete berth situation. Asia-Pacific Journal of Operational Research, 35(3), 1850011. (SCI)
+15.Li, B., Miao, L., Zhang, C., & Yang, W. (2018). A Lagrange Multiplier-based Regularization Algorithm for Image Super-resolution. In 2018 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM) (pp.422-426). IEEE. (EI)
+16.Xiang, X., Liu, C., & Miao, L. (2017). Storage assignment and order batching problem in Kiva mobile fulfilment system. Engineering Optimization, 50(11), 1941-1962. (SCI)
+17.Chen, B., Wang, D., Gao, Y., Zhang, K., Miao, L., & Wang, B. (2018). Effects of traffic lights for Manhattan-like urban traffic network in intelligent transportation systems. Transportmetrica B-Transport Dynamics, 6(1), 4-16. (SCI)
+18.Zhang, K., Liu, S., Dong, Y., Wang, D, Zhang, Y., & Miao, L. (2017). Vehicle positioning system with multi-hypothesis map matching and robust feedback. IET Intelligent Transport Systems, 11(10), 649-658. (SCI)
+19.Xiang, X., Liu, C., & Miao, L. (2017). A bi-objective robust model for berth allocation scheduling under uncertainty. Transportation Research Part E Logistics & Transportation Review, 106, 294-319. (SCI)
+20.Yang, P., Yang, K., Qi, M., Miao, L., & Ye, B. (2017). Designing the optimal multi-deep as/rs storage rack under full turnover-based storage policy based on non-approximate speed model of s/r machine. Transportation Research Part E Logistics & Transportation Review, 104, 113-130. (SCI)
+21.Jiang, J., Ye, B., Xie, D., Li, J., Miao, L., & Yang, P. (2017). Sector decomposition of China’s national economic carbon emissions and its policy implication for national ETS development. Renewable and Sustainable Energy Reviews, 75, 855-867. (SCI)
+22.Ye, B., Jiang, J., Li, C., Miao, L., & Tang, J. (2017). Quantification and driving force analysis of provincial-level carbon emissions in China. Applied Energy, 198, 223-238. (SCI)
+23.Ye, B., Zhang, K., Jiang, J. J., Miao, L., & Li, J. (2017). Towards a 90% renewable energy future: A case study of an island in the South China Sea. Energy Conversion and Management, 142, 28-41. (SCI)
+24.Ye, B., Yang, P., Jiang, J., Miao, L., Shen, B., & Li, J. (2017). Feasibility and economic analysis of a renewable energy powered special town in China. Resources, Conservation and Recycling, 121, 40-50. (SCI)
+25.Liu, P., Wang, W., Chen, Y., Feng, X., & Miao, L. (2017). Concrete damage diagnosis using electromechanical impedance technique. Construction & Building Materials, 136, 450-455. (SCI)
+26.Yang, H., Low, V., Zhang, C., Zheng, L., & Miao, L. (2017). Behaviour perception-based disruption models for the parallel machine capacitated lot-sizing and scheduling problem. International Journal of Production Research, 55(11), 3058-3072. (SCI)
+27.Yang, H., Miao, L., & Zhang, C. (2017). Capacitated Lot-Sizing Problem with One-way Substitution: A Robust Optimization Approach. In 3rd International Conference on Information Management (ICIM) (pp. 159-163). IEEE. (EI, ISTP)
+28.Yang, P., Peng, Y., Ye, B., & Miao, L. (2017). Integrated optimization of location assignment and sequencing in multi-shuttle automated storage and retrieval systems under modified 2 n-command cycle pattern. Engineering Optimization, 49(9), 1604-1620. (SCI)
+29.Ye, B., Jiang, J., Miao, L., & Xie, D. (2017). Interprovincial allocation of China's national carbon emission allowance: an uncertainty analysis based on Monte-Carlo simulations. Climate Policy, 17(4), 401-422. (SCI)
+30.Lin, B., Chen, B., Gao, Y., Tse, C. K., Dong, C., & Miao, L., Wang, B. (2017). Advanced algorithms for local routing strategy on complex networks. Plos One, 11(7), e0156756.(SCI)
+31.Jiang, J., Ye, B., Ma, X., & Miao, L. (2016). Controlling GHG emissions from the transportation sector through an ETS: institutional arrangements in Shenzhen, China. Climate Policy, 16(3), 353-371. (SCI)
+32.Wang, X., Meng, Q., & Miao, L. (2016). Delimiting port hinterlands based on intermodal network flows: model and algorithm. Transportation Research Part E Logistics & Transportation Review, 88, 32-51. (SCI)
+33.Chen, J., Qi, M., & Miao, L. (2016). The Electric Vehicle Routing Problem with Time Windows and Battery Swapping Stations. In 2016 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM) (pp. 712-716). IEEE. (EI, ISTP)
+34.Lei, C., Lin, W. H., & Miao, L. (2016). A two-stage robust optimization approach for the mobile facility fleet sizing and routing problem under uncertainty. Computers & Operations Research, 67(C), 75-89. (SCI)
+35.Yang, P., Yang, K., Wang, S., Miao, L., & Ye, B. (2016). Optimal 3D compact AS/RS storage rack design with full turnover-based storage policy considering the operating characteristics of S/R machine. In CIE 2016: 46th International Conferences on Computers and Industrial Engineering, Tianjin. (EI)
+36.Zhang, K., Ma, Z., Zhang, C., & Miao, L. (2016). A survey of Hub location problem for the new network structure research. In CIE 2016: 46th International Conferences on Computers and Industrial Engineering, Tianjin. (EI)
+37.Yang, H., Low, V., Zhang, C., Zheng, L., & Miao, L. (2016). Behaviour perception-based disruption models for the parallel machine capacitated lot-sizing and scheduling problem. International Journal of Production Research, 1-15. (SCI)
+38.Chen, B., Wang, D. Z., Gao, Y., Zhang, K., Miao, L., & Wang, B. (2016). Effects of traffic lights for Manhattan-like urban traffic network in intelligent transportation systems. Transportmetrica B: Transport Dynamics, 1-13. (SCI)
+39.Ye, B., Jiang, J., Miao, L., Li, J., & Peng, Y. (2016). Innovative carbon allowance allocation policy for the Shenzhen emission trading scheme in China. Sustainability, 8(1), 3. (SCI)
+40.况漠, 缪立新, 况达, & 张志贤. (2016). 广州城市物流体系发展现状与对策分析. 特区经济(11), 35-38.
+41.张灿荣, 钟明, & 缪立新. (2015). 集装箱场地箱位分配问题. 清华大学学报(自然科学版)(10), 1150-1156. (EI)
+42.陈进博, 戚铭尧, & 缪立新. (2015). 车货匹配网站评价指标体系的构建及实证分析. 物流技术, 34(8), 140-143.
+43.况漠, 缪立新, & 林署青. (2015). 3D打印产业物流发展的趋势及对策分析. 物流工程与管理, 37(8), 47-51.
+44.Ye, B., Miao, L., Yang, P., & Jiang, J. (2015). The Analysis of Carbon Price Volatility Properties in EU-ETS. In ICMMSEE (pp.625-632). (ISTP)
+45.Yang, P., Miao, L., Xue, Z., & Qin, L. (2015). An integrated optimization of location assignment and storage/retrieval scheduling in multi-shuttle automated storage/retrieval systems. Journal of Intelligent Manufacturing, 26(6), 1145-1159. (SCI)
+46.Ye, B., Jiang, J., Miao, L., Yang, P., Li, J., & Shen, B. (2015). Feasibility study of a solar-powered electric vehicle charging station model. Energies, 8(11), 13265-13283. (SCI)
+47.Jiang, J., Ye, B., Xie, D., & Miao, L. (2015). Dynamic Nonlinear Relationships between Carbon Emission Allowance and Reduction Credit Markets-Based on the IRF-DCC Model. In Geo-Informatics in Resource Management and Sustainable Ecosystem (pp. 770-777). Springer Berlin Heidelberg. (EI, ISTP)
+48.Xue, Z., Lin, W. H., Miao, L., & Zhang, C. (2015). Local container drayage problem with tractor and trailer operating in separable mode. Flexible Services and Manufacturing Journal, 27(2), 1-20. (SCI)
+49.Yang, P., Miao, L., Xue, Z., & Ye, B. (2015). Variable neighborhood search heuristic for storage location assignment and storage/retrieval scheduling under shared storage in multi-shuttle automated storage/retrieval systems. Transportation Research Part E Logistics & Transportation Review, 79, 164-177. (SCI)
+50.Lei, C., Lin, W. H., & Miao, L. (2015). A stochastic emergency vehicle redeployment model for an effective response to traffic incidents. IEEE Transactions on Intelligent Transportation Systems, 16(2), 898-909. (SCI)
+51.Ye, B., Jiang, J., Miao, L., & Yang, P. (2015). Sustainable energy options for a low carbon demonstration city project in Shenzhen, China. Journal of Renewable & Sustainable Energy, 7(2), 023122. (SCI)
+52.Yang, P., Miao, L., Xue, Z., & Qin, L. (2015). Optimal storage rack design for a multi-deep compact AS/RS considering the acceleration/deceleration of the storage and retrieval machine. International Journal of Production Research, 53(3), 929-943. (SCI)
+53.Zhu, M., Cheng, X., Miao, L., & Sun, X. (2015). Random field modeling of track irregularity of Beijing-Guangzhou high-speed railway with Karhunen-Loève expansion. International Journal of Distributed Sensor Networks, 2015, 1-9. (SCI)
+54.Xue, Z., Zhang, C., Yang, P., & Miao, L. (2015). A combinatorial Benders’ cuts algorithm for the local container drayage problem. Mathematical Problems in Engineering, 2015(7), 1-7. (SCI)
+55.Zhang, Y., Qi, M., Miao, L., & Wu, G. (2015). A generalized multi-depot vehicle routing problem with replenishment based on LocalSolver. International Journal of Industrial Engineering Computations, 6(1), 81-98.
+56.Mehrbod, M., Xue, Z., Miao, L., & Lin, W. H. (2015). A straight priority-based genetic algorithm for a logistics network. RAIRO-Operations Research, 49(2), 243-264. (SCI)
+57.Li, H., Yang, H., & Miao, L. (2015). Bimodal interaction within highway congestion and transit in-vehicle crowding with heterogeneous commuters. In Proceedings of the 20th International Conference of Hong Kong Society for Transportation Studies, Hong Kong (p. 63). (EI)
+58.Li, Q., Wang, Q., & Miao, L. (2015). Route Choice Modeling for High-Density Network Using Probe Data. In CICTP 2015 (pp. 2719-2730). (EI)
+59.Li, Q., Hu, H., & Miao, L. (2015). Queue Length Estimation Using Probe Vehicle Data for a Congested Arterial Road. In CICTP 2015 (pp. 2295-2306). (EI)
+60.Li, Q., Lian, F., & Miao, L. (2015). A Probe-Based Traffic Signal Control Method for an Arterial Corridor. In CICTP 2015 (pp. 1995-2006). (EI)
+61.Li, Q., Zhu, G., & Miao, L. (2015). Developing operation layer of logistics information system based on EPCIS. International Journal of Embedded Systems, 7(2), 115-122. (EI)
+62.Mehrbod, M., Tu, N., & Miao, L. (2015). A hybrid solution approach for a multi-objective closed-loop logistics network under uncertainty. Journal of Industrial Engineering International, 11(2), 237-252. (SCI)
+63.Lei, C., Lin, W. H., & Miao, L. (2014). A multi-cut L-shaped based algorithm to solve a stochastic programming model for the mobile facility routing and scheduling problem. European Journal of Operational Research, 238(3), 699-710. (SCI)
+64.Zhang, C., Wu, T., Kim, K. H., & Miao, L. (2014). Conservative allocation models for outbound containers in container terminals. European Journal of Operational Research, 238(238), 155–165. (SCI)
+65.Zhang, K., Miao, L., Li, Q., & Hou, G. (2014). Improvement of global map matching algorithm based on fréchet distance. In 21st World Congress on Intelligent Transport Systems, ITSWC 2014. (EI)
+66.Xue, Z., Zhang, C., Lin, W. H., Miao, L., & Yang, P. (2014). A tabu search heuristic for the local container drayage problem under a new operation mode. Transportation Research Part E Logistics & Transportation Review, 62(1), 136–150. (SCI)
+67.Li, Q., Zhu, G., & Miao, L. (2014). A TDVRP Model for Financial Convoy Service in China. In Cota International Conference of Transportation Professionals (pp.733-745). (EI)
+68.Zhu, M., Cheng, X., & Miao, L. (2014). Numerical simulations of dynamic responses of high-speed trains to random track irregularities. In Sustainable Development of Critical Infrastructure (pp. 289-297). (EI)
+69.秦进, 倪玲霖, 王承娜, & 缪立新. (2013). 集装箱码头岸桥调度优化模型及算法. 西南交通大学学报, 48(1), 184-192. (EI)
+70.Lei, C., Lin, W. H., Miao, L., & Qi, M. (2013). Stochastic mobile facility routing and scheduling problem. In International IEEE Conference on Intelligent Transportation Systems (pp.1823-1828). (EI, ISTP)
+71.Ruan, Q., Zhang, Z., Miao, L., & Shen, H. (2013). A hybrid approach for the vehicle routing problem with three-dimensional loading constraints. Computers & Operations Research, 40(6), 1579-1589. (SCI)
+72.Zhang, C., Tao, W. U., Zheng, L., & Miao, L. (2013). A Lagrangian relaxation-based algorithm for the allocation of yard cranes for yard activities with different priorities. Journal of Systems Science and Systems Engineering, 22(2), 227-252. (SCI)
+73.Qi, M., Zhang, Y., Zhang, J., & Miao, L. (2013). A new two-phase hybrid metaheuristic for vehicle routing problem with time windows. Journal of the Eastern Asia Society for Transportation Studies, 10, 880-896.
+74.Zhu, M., Cheng, X., Miao, L., Sun, X., & Wang, S. (2013). Advanced stochastic modeling of railway track irregularities. Advances in Mechanical Engineering. (SCI)
+75.李强, 曹鹏, & 缪立新. (2013). 针对探测车历史数据的离线地图匹配算法. 武汉大学学报（信息科学版）, 38(2), 244-247. (EI)
+76.Yang, P., & Miao, L. (2013). Job scheduling optimization in multi-shuttle automated storage and retrieval system. Computer Integrated Manufacturing Systems, 19(7), 1626-1632. (EI)
+77.Yang, P., Miao, L., Qin, L., & Xue, Z. (2013). The impact on designing storage rack for a multi-deep compact AS/RS on the speed profile of the storage and retrieval machine. In International Conference on Information Management, Innovation Management and Industrial Engineering (pp.209-212). (EI, ISTP)
+78.Xue, Z., Zhang, C., Miao, L., & Lin, W. H. (2013). An ant colony algorithm for yard truck scheduling and yard location assignment problems with precedence constraints. Journal of systems science and systems engineering, 22(1), 21-37. (SCI)
+79.Qi, M., Yang, K., & Miao, L. (2013). A Freight Forecasting Model Based on Computable General Equilibrium. Journal of Industrial Technological Economics, 3, 002.
+80.杨朋, & 缪立新. (2012). 多载具自动化存取系统性能评价研究. 工业工程, 15(4), 21-27.
+81.李强, 葛乾, & 缪立新. (2012). 基于少量探测车的城市路段平均行程时间估计. 交通信息与安全, 30(3), 46-51.
+82.Qi, M., Lin, W. H., Li, N., & Miao, L. (2012). A spatiotemporal partitioning approach for large-scale vehicle routing problems with time windows. Transportation Research Part E: Logistics and Transportation Review, 48(1), 248-257. (SCI)
+83.Mehrbod, M., Tu, N., Miao, L., & Wenjing, D. (2012). Interactive fuzzy goal programming for a multi-objective closed-loop logistics network. Annals of Operations Research, 201(1), 367-381. (SCI)
+84.Miao, L., Ruan, Q., Woghiren, K., & Ruo, Q. (2012). A hybrid genetic algorithm for the vehicle routing problem with three-dimensional loading constraints. RAIRO-Operations Research, 46(1), 63-82. (SCI)
+85.Xu, W., Miao, L., & Lin, W. H. (2012). Stochastic user equilibrium assignment in schedule-based transit networks with capacity constraints. Discrete Dynamics in Nature and Society, 2012. (SCI)
+代表性著作 
+[1]《物流软件操作》，海天出版社，缪立新，纪寿文，刘庆，2004年3月;
+[2]《现代物流信息技术》, 中国物资出版社，李家齐、缪立新， 2008 年11月
+[3]《仓储与配送管理基础》，海天出版社，高本河，缪立新，郑力，2004年1月 
+主要专利成果 
+其他成果 
+1、与新加坡国立大学、日本东京大学等校著名交通物流专家一起，创办国际交通物流会议，推动交通与物流领域的学科交叉融合。
+2、提出交通运行路径、物品运作的全程仿真设计思想，主持建成“深圳市物流工程与仿真重点实验室”，在实验系统中采用了全程仿真的设计思想，成果获中国物流与采购联合会科技进步一等奖(省部级06年度)。
+3、提出区域交通物流设施规划的均衡分布理论，从基础方法上保证设施的分布做到既不冗余也不短缺，随着该理念和方法的推广，能在保证物流系统效率的前提下，为国家交通物流基础设施建设节省大量投资。
+4、主持建设 “广州大学城交通管理系统建设” (国内高校承接的最大交通管理工程项目之一)，实现了交通控制系统与信息诱导系统的有机融合。
+5、主持UNDP(联合国开发计划署)示范项目—“复杂交通流交通控制设计、设备研制及工程示范建设”，获四川省科学技术进步二等奖。
+6、提出先进的集装箱装船顺序优化模型及算法，04年获第三届中国物流学术年会奖一等奖(全国两项)。
+7、提出物流园规划空间分布、建筑物体量及设施设备数量的计量分析方法，在广州南沙港国际物流园核心区规划和四川中国西部国际现代物流港项目中进行了示范应用。
+8、以标准化、国际化、通用性作为基本目标，运用嵌入式系统设计理念，主持开发了交通物流系列软件：仓储管理系统、运输管理系统、配送系统、物流数据挖掘系统、交通地理信息系统和超大规模商品信息系统。
+9、主持深圳市及广东省物流师职业资格认证标准、9本教材、超过1万道题的题库和考试培训系统软件的编制工作。
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+获IET国际工程教育教师奖、国际及国家级竞赛奖3项、省部级科技进步奖5项、清华大学教学成果一等奖2项。
+ </奖励荣誉>

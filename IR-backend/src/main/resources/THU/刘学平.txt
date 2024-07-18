@@ -1,0 +1,55 @@
+{"title":"刘学平","cnUrl":"http://www.sigs.tsinghua.edu.cn/lxp/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/19/00/6076a0ec4d7f9831c03f7cc4da07/47f09ce7-2791-49da-8d55-f35ba9e2a3c7.jpg","email":"liuxp@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+2000年获博士学位，2003年博士后出站，2003.10进入清华大学深圳研究生院副研究员
+教育经历 
+工作经历 
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+专业：机械工程
+研究方向：绿色制造工艺及装备
+主要从事机电产品绿色设计、绿色制造工艺及装备研究。作为课题负责人承担国家科技支撑计划2项、国家863计划2项、国家科技重大专项1项。作为主要研究人员参加国家科技支撑计划2项、国家科技重大专项1项，国家自然科学基金项目2项。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+在国内外高水平学术期刊和会议上发表论文40余篇，被EI检索的10余篇。
+[1] The Recycle Model of Printed Circuit Board and Its Economy Evaluation，2007 IEEE International Symposium on Electronics and the Environment, ISEE, 2007, p 106-111
+[2] Study of Relations between Several Factors in Immersion SilverTechnique and Galvanic Attack Problem，2007 IEEE International Symposium on Electronics and the Environment, ISEE, 2007，p 202-205
+[3] Recycling strategy and a recyclability assessment model based on an artificial neural network, JOURNAL OF MATERIALS PROCESSING TECHNOLOGY, 129 (1-3): 500-506 OCT 11 2002
+[4] The Quantification of the Relating Degree of Parts based on the Fuzzy Synthesizing Evaluation Method，2002 IEEE International Symposium on ELECTRONICS & the ENVIRONMENT, May 6-9,2002 San Francisco, CA, USA, 74-78
+[5] Recycling and reuse of industrial wastes in manufacture stage of product life cycle, 6th International Conference on Progress of Machining Technology, Sept. 10-14, 2002, Xi’an, China, 993-997
+[6] Green Design Assessing System Model of Products，2002 IEEE International Symposium On Electronics and the Environment(ISEE), San Francisco, California, 123-127
+[7] ANN-Driven Fuzzy Reasoning Model of Product Green Attributes, Proceeding of the 3rd World Congress on Intelligent Control and Automation, 2000,7
+[8] Life Cycle Assessment Tool For Electromechanical Products Green Design，2003 IEEE International Symposium on ELECTRONICS & the ENVIRONMENT, May 19-22, 2003 Boston, MA, USA
+[9] An information system management of assessment of disassembly and recycle, 2003 IEEE International Symposium on ELECTRONICS & the ENVIRONMENT, May 19-22, 2003 Boston, MA, USA, 286-290
+[10] INTELLIGENCE UDY OF CONTROL STRATEGY IN BGA REWORKROCESS. International Conference on Aanced Technology of Design and Manufacture 2010,90,426-430.
+[11] 切削颤振模型及机理研究，机械工程学报 1998(4)
+[12] 机电产品拆卸研究综述,机械工程学报,2004(7)
+代表性著作 
+参编《中国资源再生产业政策研究》
+主要专利成果 
+1) 从富含铜的电子废料中回收有色金属和非金属材料的工艺，专利号ZL021214344，授权
+2) 一种单片机控制的闭环反馈自动进料装置，专利号ZL200710075890.2，授权
+3) 利用废旧线路板中回收的非金属材料制作的复合材料，专利号ZL200910107913.2，授权
+4) 湿法研磨设备，专利号ZL200710076912.7，授权
+5) 轻质高强度道路交通标志板，专利号ZL200910107914.7，授权
+6) 通过电机电流闭环反馈的自动进料控制装置，专利号ZL 200710076913.1，授权
+7) 脉冲摆式单组元发动机，专利号ZL200610064697.4 授权
+8) 单活塞式单组元液压自由活塞发动机 ZL 200610064694.0 授权
+9) 直喷摆式单组元发动机，专利号ZL200610064696 授权
+10) 一种非金属粉填充酚醛树脂复合材料及其制备方法，专利号200910235349.2，公开
+11) 一种显影喷嘴，申请号201210554493.4
+12) 抗变形排孔显影喷嘴及其制备方法，申请号201310018548.4
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1 典型家电产品再资源化关键技术研究及应用，四川省科技进步奖一等，2012
+2 家电线路板的无铅绿色制造及其功能测试技术的研究及应用，青岛市科技进步奖二等，2011
+3 典型家电产品再资源化关键技术研究及应用，绵阳市科技进步奖 特等，2011
+4 用于实践教学的基于USB2.0接口的外置式多通道A/D卡，清华大学实验技术成果奖 二等，2008
+ </奖励荣誉>

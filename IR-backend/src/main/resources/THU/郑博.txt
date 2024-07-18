@@ -1,0 +1,61 @@
+{"title":"郑博","cnUrl":"http://www.sigs.tsinghua.edu.cn/zb2/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/d5/ea/2a5c057d441caf6162ab425fde03/a784732c-58c5-486e-946e-0da15ab98385.png","email":"bozheng@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+郑博聚焦大气碳循环这一基础科学问题，系统发展了基于卫星遥感的多种大气成分源汇收支反演技术方法，在Science、Science Advances、Nature Communications等期刊发表了系列高水平研究论文。Science论文入选亮点研究（Research Highlights），由Science杂志社在2023年美国科学促进会（American Association for the Advancement of Science，AAAS）年会举办专题新闻发布会（News Briefings）介绍该研究成果科学价值，被包括新华社、光明日报、美联社、法新社在内全球百余家新闻媒体广泛报道。
+教育经历 
+2011年9月-2016年7月，清华大学，环境科学与工程专业，博士
+2007年9月-2011年7月，清华大学，环境工程专业，学士
+工作经历 
+2023年12月 – 至今，清华大学深圳国际研究生院，副教授
+2021年1月 – 2023年12月，清华大学深圳国际研究生院，助理教授
+2016年11月 – 2020年12月，法国气候与环境科学实验室（LSCE），博士后
+学术兼职 
+Earth System Science Data (ESSD) 编委
+Journal of Geophysical Research: Atmospheres (JGR: Atmospheres) 编委
+Environmental Science & Ecotechnology (ESE) 青年编委
+National Science Review第二届学科编辑工作组-地球科学组成员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+空气污染化学 (SIGS)、全球环境前沿问题 (SIGS)、文献检索与论文写作 (SIGS)
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+基于数据与模型驱动的大气科学研究，包括：大气碳循环过程、温室气体源汇定量表征、基于卫星遥感的多种大气成分排放反演、空气污染-气候变化协同应对策略。
+主要项目 
+[1] 某国家级人才项目,2022-2024，主持
+[2] 国家基金委面上项目，2024-2027，主持
+[3] 国家基金委青年基金项目, 2022-2024，主持
+[4] 国家重点研发计划课题，2023-2026，主持
+[5] 国家重点研发计划子课题，2022-2025，主持
+[6] 中国科协青年人才托举工程项目，2021-2023，主持
+[7] 深圳市高等院校稳定资助面上项目，2022-2024，主持
+ </研究领域>
+<研究成果>
+代表性论文 
+高影响力期刊论文：
+[1] Zheng, B.*, Ciais, P., Chevallier, F., Yang, H., Canadell, J. G., Chen, Y., van der Velde, I. R., Aben, I., Chuvieco, E., Davis, S. J., Deeter, M., Hong, C., Kong, Y., Li, H., Li, H., Lin, X., He, K., and Zhang, Q.*: Record-high CO2 emissions from boreal fires in 2021, Science, 379, 912-917,doi: 10.1126/science.ade0805, 2023.
+[2] Li. H., Zheng, B.*, Ciais, P., Boersma, K. F., Riess, T. C. V. W., Martin, R. V., Broquet, G., van der A, R., Li, H., Hong, C., Lei, Y., Kong, Y., Zhang, Q., and He, K.: Satellite reveals a steep decline in China’s CO2 emissions in early 2022, Science Advances, 9, eadg7429, doi: 10.1126/sciadv.adg7429, 2023.
+[3] Shi, Q.#, Zheng, B.#, Zheng, Y., Tong, D., Liu, Y., Ma, H., Hong, C., Geng, G., Guan, D., He, K., and Zhang, Q.*: Co-benefits of CO2 emission reduction from China’s clean air actions between 2013-2020, Nature Communications, 13, 5061, doi: 10.1038/s41467-022-32656-8, 2022.
+[4] Zheng, B.*, Ciais, P., Chevallier, F., Chuvieco, E., Chen, Y., and Yang, H.: Increasing forest fire emissions despite the decline in global burned area, Science Advances, 7, eabh2646, doi: 10.1126/sciadv.abh2646, 2021.
+[5] Zheng, B.#, Geng, G.#, Ciais, P., Davis, S. J., Martin, R. V., Meng, J., Wu, N., Chevallier, F., Broquet, G., Boersma, F., van der A, R., Lin, J., Guan, D., Lei, Y., He, K., and Zhang, Q.*: Satellite-based estimates of decline and rebound in China’s CO2 emissions during COVID-19 pandemic, Science Advances, 6, eabd4998, doi: 10.1126/sciadv.abd4998, 2020.
+专业学术期刊论文：
+[1] Li, H.*, You, L., Du, H., Yu, B., Lu, L., Zheng, B.*, Zhang, Q., He, K., and Ren, N.: Methane and nitrous oxide emissions from municipal wastewater treatment plants in China: A plant-level and technology-specific study, Environmental Science and Ecotechnology, 100345, doi: 10.1016/j.ese.2023.100345, 2023.
+[2] Li. H. and Zheng, B.*: TROPOMI NO2 Shows a Fast Recovery of China’s Economy in the First Quarter of 2023, Environ. Sci. Technol. Lett.,doi: 10.1021/acs.estlett.3c00386, 2023.
+[3] Kong, Y., Zheng, B.*, Zhang, Q., and He, K.: Global and regional carbon budget for 2015–2020 inferred from OCO-2 based on an ensemble Kalman filter coupled with GEOS-Chem, Atmos. Chem. Phys., 22, 10769–10788, doi: 10.5194/acp-22-10769-2022, 2022.
+[4] Zheng, B., Zhang, Q.*, Geng, G., Chen, C., Shi, Q., Cui, M., Lei, Y., and He, K.: Changes in China’s anthropogenic emissions and air quality during the COVID-19 pandemic in 2020, Earth Syst. Sci. Data, 13, 2895–2907, doi: 10.5194/essd-13-2895-2021, 2021.
+[5] Zheng, B., Cheng, J., Geng, G., Wang, X., Li, M.*, Shi, Q., Qi, J., Lei, Y., Zhang, Q., and He, K.*: Mapping anthropogenic emissions in China at 1 km spatial resolution and its application in air quality modeling, Science Bulletin, 66, 612-620, doi: 10.1016/j.scib.2020.12.008, 2021.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2020-2023年，全球高被引科学家
+2022年，教育部高等学校科学研究优秀成果奖（科学技术）自然科学一等奖
+2022年，清华大学学术新人奖（清华大学青年教师最高学术荣誉，每年10人）
+2022年，第七届中国科协优秀科技论文遴选计划优秀论文
+2021年，第六届中国科协青年人才托举工程
+ </奖励荣誉>

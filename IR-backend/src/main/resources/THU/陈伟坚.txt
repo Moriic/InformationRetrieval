@@ -1,0 +1,149 @@
+{"title":"陈伟坚","cnUrl":"http://www.sigs.tsinghua.edu.cn/cwj/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/4e/ee/b14324cc43c9ae7e441a1caf69d5/b3f36296-0775-40b7-90a6-bd7e1ecd6923.jpg","email":"chanw@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+Dr. Chan is Professor and Co-Deputy Director of the Tsinghua-Berkeley Shenzhen Institute, Tsinghua University, China. Prior to joining Tsinghua, he served on the faculty of the Department of Industrial and Systems Engineering at the Rensselaer Polytechnic Institute (RPI), Troy, NY. Dr. Chan has served as the lead editor of the 2017 Winter Simulation Conference, co-editor of the 2015 Winter Simulation Conference, program chair of the 2013 Industrial and System Engineering Research Conference, editor of the IEEE Conference on Automation Science and Engineering, and associate editor of the IIE Transactions, IEEE Transactions on Systems, Man, and Cybernetics, and Asia-Pacific Journal of Operational Research. In addition, Dr. Chan has served as program committee for severalother international conferences, referee for a number of journals and conference proceedings, panelist for U.S. National Science Foundation (NSF), Swiss National Science Foundation (SNSF), and Macau Science and Technology Development Fund (FDCT). 
+Opening:
+Postdoctoral Researcher Position
+Two postdoctoral researcher positionsare currently open:one in big-data analytics and the other operations research. The ideal candidate should have a Ph.D. degree in one of the following areas:
+- Industrial Engineering and/or Operations Research
+- Statistics
+- Computer Science
+- Electrical Engineering
+Interested applicants please send a CV to Prof. Chan’s email listed above.
+Graduate Student Position
+Our group is expanding continuously. We are looking for excellent Ph.D. and Master’s students like YOU!If you meet at least two of the following conditions, you should apply:
+1. Strong Math skill
+2. Very good at Statistics
+3. Taken and did well in advanced courses in Operations Research, Mathematics, and Statistics
+4. Conducted projects related to our research areas
+5. Have tons of “crazy” academic ideas, and are self-motivated and perseverant
+教育经历 
+2005, Ph.D.,Industrial Engineering and Operations Research, University of California, Berkeley
+2001, M.S., Industrial Engineering and Operations Research, University of California, Berkeley
+2000, M.E., Electrical Engineering, Tsinghua University
+1997, B.E.,Electrical Engineering, Shanghai Jiao Tong University
+1997, Second B.E. in Mechanical Engineering, Shanghai Jiao Tong University
+工作经历 
+2017 – present, Professor and Co-Deputy Director, Tsinghua-Berkeley Shenzhen Institute, Tsinghua University
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+Mathematical Statistics and Application in R, 86000563, Spring 2018
+Discrete-Event Simulation, 86000493, Fall 2018
+Statistical Analysis, Spring 2016, 2017
+Operations Research Methods, Spring 2015
+Agent-based Simulation Methods, Fall 2010, 2012
+Complex Systems Modeling for Industrial and Systems Engineers, Spring 2011, 2012, 2013
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+Research Expertise and Interest
+Methodology:
+Operations Research:
+Discrete-Event Simulation (DES)
+Agent-based Simulation (ABS)
+Optimization
+Statistical Analysis
+Scheduling
+Application:
+Big-Data
+Social Networks
+Transportation
+Healthcare
+Manufacturing
+Research Description
+Our group develops novel simulation methods and big-data analysis approaches, and applies them to analyze and optimize various systems and applications, including big-data, social networks, evacuation, healthcare systems, and manufacturing.
+Our research is interdisciplinary. Students with a background in operations research, industrial engineering, mathematics, statistics, computer science, finance, physics, and other related areas are welcome to apply. See “Opening” session at the bottom of this webpage for details. The interdisciplinary nature of our group enables us to do research differently from everyone else. New (even crazy) ideas are valuable to us!
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+Simulation and Optimization:
+W. K. V. Chan. “Linear Programming Formulation of Idle Times for Single-Server Discrete-Event Simulation Models.” Asia-Pacific Journal of Operational Research, 33(5): 1650038-1:1650038-17, 2016. (SCI, EI)
+W. K. V. Chan and N. Closser. “Sensitivity Analysis of Linear Programming Formulations for G/G/m Queue.” Proceedings of the Winter Simulation Conference, pp.667-677, Washington D.C., December 8-11, 2013. (EI)
+W. K. V. Chan. “Generalized Lindley-Type Recursive Representations for Multiple-Server Tandem Queues with Blocking.” ACM Transactions on Modeling and Computer Simulation, 20(4): 1-19, 2010. (SCIE, EI)
+W. K. V. Chan and L.W. Schruben. “Optimization Models of Discrete-Event System Dynamics.” Operations Research, 56(5), 1218-1237, 2008. (SCI, SSCI, EI)
+W. K. V. Chan and L.W. Schruben. “Mathematical Programming Models of Closed Tandem Queueing Networks.” ACM Transactions on Modeling and Computer Simulation, 19(1): 1-27, 2008. (SCIE, EI)
+W. K. V. Chan and L. W. Schruben. “Mathematical Programming Representations for State-Dependent Queues.” Proceedings of the Winter Simulation Conference, pp.495-501, Miami, FL, December 7-10, 2008. (EI)
+H. Zhang and W. K. V. Chan. “Mathematical Programming-Based Perturbation Analysis for GI/G/1 Queues.” Proceedings of the Winter Simulation Conference. pp.553-559, Washington D.C., December 9-12, 2007. (EI)
+W. K. V. Chan and L. W. Schruben. “Response Gradient Estimation Using Mathematical Programming Models of Discrete-Event System Sample Paths.” Proceedings of the Winter Simulation Conference, pp.272-278, Monterey, CA, December 3-6, 2006. (EI)
+W. K. V. Chan and L. W. Schruben. “Generating Scheduling Constraints for Discrete Event Dynamic Systems.” Proceedings of the Winter Simulation Conference, pp.568-576, Washington D.C., December 5-8, 2004. (EI)
+W. K. V. Chan and L. W. Schruben. “Properties of Discrete-Event Systems from Their Mathematical Programming Representations.” Proceedings of the Winter Simulation Conference, pp.496-502, New Orleans, LA, December 7-10, 2003. (EI)
+L. W. Schruben, T. M. Roeder, W. K. V. Chan, P. Hyden, M. Freimer. “Advanced Event Scheduling Methodology.” Proceedings of the Winter Simulation Conference, pp.159-165, New Orleans, LA, December 7-10, 2003. (EI)
+Social Networks:
+M. J. Garee, W. K. V. Chan, and H. Wan. “Regression-Based Social Influence Networks and the Linearity of Aggregated Belief.” Proceedings of the Winter Simulation Conference, Accepted, 2018. (EI)
+W. K. V. Chan. “Agent-Based and Regression Models of Social Influence.” Proceedings of the Winter Simulation Conference, pp.1395-1406, Las Vegas, NV, December 3-6, 2017. (EI)
+W. Wu, W. K. V. Chan, and L. Chi, “Identifying a Set of Key Members in Social Networks Using SDP-Based Stochastic Search and Integer Programming Algorithms, Asia-Pacific Journal of Operational Research, 34(3), 1750002, 2017. (SCI, EI)
+W. K. V. Chan and C. Hsu. “When Human Networks Collide: the Degree Distributions of Hyper-Networks?” IIE Transactions, 47(9): 929-942, 2015. (SCI, EI)
+W. K. V. Chan and C. Hsu. “Service Value Networks: Humans Hyper-Network to Cocreate Value” IEEE Transactions on Systems, Man, and Cybernetics-Systems, 42(4):802-813, 2012. DOI: 10.1109/TSMCA.2012.2183356. (SCI, EI)
+W. K. V. Chan and C. Hsu. “How Hyper-Network Analysis Help Understand Human Networks?” Service Science, 2(4): 270-280, 2010. (SSCI)
+Chi, L., W. K. V. Chan, Seow, G. Tam, K. “Transplanting Social Capital to the Online World: Insights from Two Experimental Studies.” Journal of Organizational Computing and Electronic Commerce, 19(3): 214-236, 2009. (SCI)
+W. K. V. Chan and C. Hsu. “Service Scaling on Hyper-Networks.” Service Science, 1(1): 17-31, 2009. (SSCI)
+W. Wu, W. K. V. Chan, and L. Chi. “An SDP-Greedy Algorithm for the Key Player Problem.” Proceedings of the Industrial and Systems Engineering Research Conference, pp. 3815-3824, San Juan, Puerto Rico, May 18-22, 2013. (ProQuest)
+W. K. V. Chan and C. Hsu. “A Science of Scaling: Service Hyper-Networks.” Proceedings of the INFORMS International Conference on Service Science, Hong Kong, China, August 6-8, 2009. (EI)
+Transportation and Disaster Management:
+J. Y. S. Xi and W. K. V. Chan. “Emergency Management in China: A Survey of System, Agent-based Modeling, and Recommendation.” Proceedings of the Winter Simulation Conference, Accepted, 2018. (EI)
+W. K. V. Chan and C. L. P. Chen. “Consensus Control with Failure – Wait or Abandon?” IEEE Transactions on Cybernetics, 46(1): 75-84, 2016. DOI: 10.1109/TCYB.2015.2394471. (SCI, EI)
+B. Zhang, W. K. V. Chan, and S. Ukkusuri. “Adaptive Routing and Guidance Approach for Transportation Evacuation.” Proceedings of the Winter Simulation Conference, pp.2008-2019, Huntington Beach, CA, December 6-9, 2015. (EI)
+B. Zhang, W. K. V. Chan, S. Ukkusuri. “On the Modeling of Transportation Evacuation: An Agent-Based Discrete-Event Hybrid-Space Approach.” Journal ofSimulation, 8(4): 259-270, 2014. (SCIE, EI)
+B. Zhang, W. K. V. Chan, S. Ukkusuri. “Agent-Based Discrete-Event Hybrid Space Modeling Approach for Transportation Evacuation Simulation.” Proceedings of the Winter Simulation Conference, pp.199-209, Phoenix, AZ, December 11-14, 2011. (EI)
+B. Zhang, S. Ukkusuri, W. K. V. Chan. “Agent-Based Modeling for Household Level Hurricane Evacuation.” Proceedings of the Winter Simulation Conference, pp.277802784, Austin, TX, December 13-16, 2009. (EI)
+A. Kuang, Z. Huang, and W. K. V. Chan. “Stochastic User Equilibrium Traffic Assignment Model Based on Travel Time Budget.” Transportation and Development Innovative Best Practices, pp.167-172, Beijing, China, April 24-26, 2008.
+A. Kuang, Z. Huang, and W. K. V. Chan. “An Analysis on Road Network Capacity Reliability Analysis Based on OD Pair Travel Time Reliability.” International Conference on Intelligent Computation Technology and Automation, pp.333-337, Changsha, China, October 20-22, 2008.
+Healthcare and Service Systems:
+B. Gao, W. K. V. Chan, and X. N. Deng. “Generative Agent-Based Modeling and Empirical Validation of the Size Distribution of Hospitals.” IEEE Transactions on Systems, Man, and Cybernetics-Systems, 47(11): 3089 – 3100, 2017. (SCI, EI)
+B. Gao, W. K. V. Chan, X. N. Deng, and L. Chi. “On the Size Distribution and Growth Dynamics of Online Stores: A Case of China’s Taobao.com.” Electronic Commerce Research and Applications, 17: 161-172, 2016. (SSCI, EI)
+B. Gao, W. K. V. Chan, and H. Li. “On the Increasing Inequality in Size Distribution of China’s Listed Companies.” China Economic Review, 36: 25-41, 2015. (SSCI)
+W. K. V. Chan, and B. Gao. “Unfair Consequence of Fair Competition in Service Systems---An Agent-Based and Queueing Approach.” Service Science, 5(3): 249-262, 2013. (SSCI)
+B. Gao and W. K. V. Chan. “Sub-Lognormal Size Distribution of Hospitals - An Agent-based Approach and Empirical Study.” Proceedings of the Winter Simulation Conference, pp.1443-1454, Phoenix, AZ, December 8-11, 2013. (EI)
+W. Wu, W. K. V. Chan, and L. Chi. “An SDP-Greedy Algorithm for the Key Player Problem.” Proceedings of the Industrial and Systems Engineering Research Conference, pp. 3815-3824, San Juan, Puerto Rico, May 18-22, 2013. (ProQuest)
+W. K. V. Chan, L. Chi, andW. Wu. “Evolutionary Dynamics of Online Social Networks II: Theory and Simulation.” Proceedings of the Industrial Engineering Research Conference, Miami, FL, May 30-June 3, 2009. (ProQuest)
+W. K. V. Chan. “An Analysis of Emerging Behaviors in Large-Scale Queueing-Based Service Systems Using Agent-Based Simulation.” Proceedings of the Winter Simulation Conference, pp.872-878, Miami, FL, December 7-10, 2008. (EI)
+Agent-based Simulation and Distributed Systems:
+M. N. Aman, B. Sikdar, and W. K. V. Chan. “Ef？cient Packet Recovery in Wireless Networks.” Proceedings of the IEEE Wireless Communications and Networking Conference, pp.1791-1796, doi: 10.1109/WCNC.2014.6952521, Istanbul, Turkey, April 6-9, 2014 (Acceptance ration: 46%). (EI)
+Z. Zhou, W. K. V. Chan, and J. Chow. “Bidding Behaviors in Duopoly Electricity Markets with Aspirant Market Share Goals.” Simulation, 89(11): 1369-1387, 2013. (SCIE, EI)
+W. K. V. Chan. “Interaction-Based Analytical Framework for Agent-based Simulation Models.” Proceedings of the Industrial and Systems Engineering Research Conference, pp. 2475-2484, San Juan, Puerto Rico, May 18-22, 2013. (ProQuest)
+M. N. Aman, W. K. V. Chan, and B. Sikdar. “'Collision Detection in IEEE 802.11 Networks by Error Vector Magnitude Analysis.” Proceedings of the IEEE Global Telecommunications Conference, pp.5218-5223, Anaheim, CA, December 3-7, 2012. (EI)
+W. K. V. Chan. “Interaction Metric of Emergent Behaviors in Agent-based Simulation.” Proceedings of the Winter Simulation Conference, pp.357-368, Phoenix, AZ, December 11-14, 2011. (EI)
+W. K. V. Chan, Y. Son, and C. M. Macal. “Agent-based Simulation Tutorial.” Proceedings of the Winter Simulation Conference, pp.135-150, Baltimore, MD, December 5-8, 2010. (EI)
+Z. Zhou, W. K. V. Chan, J. Chow, and Serhiy Kotsan. “On The Portfolio Analysis of Electricity Market with Transmission Constraints.” Proceedings of the IEEE Power &Energy Society General Meeting, pp.1-8, Minneapolis, Minnesota, July 25-29, 2010. (EI)
+Z. Zhou, W. K. V. Chan, J. Chow, and Serhiy Kotsan. “Impacts of Bidding Behaviors on Power Markets and Electricity Service and Pricing.” Proceedings of the INFORMS International Conference on Service Science, Taipei, Taiwan, July 7-10, 2010. (EI)
+Z. Zhou and W. K. V. Chan. “Reducing Electricity Price Forecasting Error Using Seasonality and Higher Order Crossing Information.” IEEE Transactions on Power Systems, 24(3): 1126-1135, 2009. (SCI, EI)
+Z. Zhou, W. K. V. Chan, J. Chow, and Serhiy Kotsan. “Duopoly Electricity Markets with Accurate and Inaccurate Market Goals.” Proceedings of the Winter Simulation Conference, pp.1569-1580, Austin, TX, December 13-16, 2009. (EI)
+W. K. V. Chan, L.W. Schruben, B.L. Nelson, and S.H. Jacobson. “Simulation Fusion.” Proceedings of the Winter Simulation Conference, pp.686-695, Austin, TX, December 13-16, 2009. (EI)
+Z. Zhou, W. K. V. Chan, J. Chow, and Serhiy Kotsan. “An Agent-based Approach for Analyzing and Evaluating Electricity Market Structures.” Proceedings of the 8th International Conference on Power Systems Operation and Planning, Abuja, Nigeria, December 7-10, 2009.
+Z. Zhu, W. K. V. Chan, and J. Chow. “Agent-Based Simulation of Electricity Markets: A Survey of Tools.” Artificial Intelligence Review, 28(4): 305-342, 2007. (SCI, EI)
+W. K. V. Chan, X. Lin, and Q. Gao. “SDL-based Hierarchical Model for Multicasting in PNNI.” International Conference on Communication Technology Proceedings (WCC 2000), pp.1440-1444, August 21-25, 2000. (EI)
+W. K. V. Chan, X. Lin, and Q. Gao. “Modeling and Validating PNNI Signaling Protocol in SDL.” International Conference on Communication Technology Proceedings (ICCT 1998), Beijing, China, October 22-24, 1998. (EI)
+Manufacturing:
+L. Jiang, D. Walczyk, G. Mclntyre, and W. K. V. Chan. “Cost Modeling and Optimization of a Manufacturing System for Mycelium-based Biocomposite Parts.” Journal of Manufacturing Systems, 41: 8-20, 2016. (SCIE, EI)
+W. K. V. Chan and C. Malmborg. “On the Effectiveness of Monte Carlo Simulation and Heuristic Search for Solving Large-Scale Block Layout Problems.” International Journal of Production Research, 51(14):4258-4272, 2013. (SCI, EI)
+W. K. V. Chan, J. Yi, and S. Ding. “Optimal Scheduling of Multi-Cluster Tools with Constant Robot Moving Times, Part I.” IEEE Transactions on Automation Science and Engineering, 8(1): 5-16, 2011. (SCI, EI)
+W. K. V. Chan, J. Yi, S. Ding, and Dezhen Song. “Optimal Scheduling of Multi-Cluster Tools with Constant Robot Moving Times, Part II.” IEEE Transactions on Automation Science and Engineering, 8(1): 17-28, 2011. (SCI, EI)
+W. K. V. Chan and C. Malmborg. “Monte Carlo Simulation Based Procedures for Solving Block Layout Problems.” European Journal of Industrial Engineering, 5(1), 2011. (SCIE, EI)
+W. K. V. Chan and C. Malmborg. “A Monte Carlo Simulation Based Heuristic Procedure for Solving Dynamic Line Layout Problems for Facilities Using Conventional Material Handling Devices.” International Journal of Production Research, 48(1):2937-2956, 2010. (SCI, EI)
+W. K. V. Chan and C. Malmborg. “Monte Carlo Simulation Methods for Dynamic Line Layout Problems with Nonlinear Movement Costs.” European Journal of Industrial Engineering, 4(1):40-58, 2010. (SCIE, EI)
+W. K. V. Chan and T. M. Roeder. “On Gradient Estimation of Scheduling of Multi-Cluster Tools with General Robots Moving Times.” Proceedings of the IEEE Conference on Automation Science and Engineering, pp.112-117, Toronto, Canada, August 21-24, 2010. (EI)
+W. K. V. Chan, J. Yi, S. Ding, and D. Song. “Optimal Scheduling of k-Unit Production of Multi-Cluster Tools with Single-Blade Robots.”Proceedings of the IEEE Conference on Automation Science and Engineering, pp.335-340, Washington DC, August 23-26, 2008. (EI)
+W. K. V. Chan, J. Yi, and S. Ding. “On the Optimality of One-Unit Cycle Scheduling of Multi-Cluster Tools with Single-Blade Robots.” Proceedings of the IEEE Conference on Automation Science and Engineering, pp.392-397, Scottsdale, AZ, September 22-25, 2007. (EI)
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+NSF CAREER Award, National Science Foundation, 2007.
+Alan B. Pritsker Doctoral Dissertation Award, 1stplace, IIE, 2006.
+George E. Nicholson Student Paper Competition, runner up, INFORMS, 2005.
+The Best Paper Award, INFORMS International Service Science Society, 2010.
+The Best Paper Award, third place, Service Science Section, INFORMS, 2010.
+The Best Paper Award, finalist, IEEE Conf. on Automation Science and Engineering, 2008
+The Best Paper Award, finalist, IEEE Conf. on Automation Science and Engineering, 2007
+Frontiers on Engineering, National Academy of Engineering (NAE), 2007
+Faculty Induction in Alpha Pi Mu Industrial Engineering Honor Society, 2010.
+Outstanding Graduate Student Instructor Award, UC Berkeley, 2005
+The Best Graduate Student Instructor Award, Department of IEOR, UC Berkeley, 2004
+ </奖励荣誉>

@@ -1,0 +1,49 @@
+{"title":"侯廷政","cnUrl":"http://www.sigs.tsinghua.edu.cn/htz/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/4a/cc/7cde971e47d0972663e4276fb1c5/32d22346-6d4d-4589-88c6-e9737908a415.jpg","email":"tingzhenghou@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+侯廷政博士于2022年加入清华大学深圳国际研究生院。主要研究方向为材料的计算模拟与设计、高通量计算和机器学习在材料研究中的应用等，研究的材料体系包括液态和固态电解质、硅和锂金属负极、锂硫电池正极和高温金属材料等。在JACS、Angewandte Chemie、Science Advances、Advanced Materials、Nano Letters、Nano Energy、Chem、Joule等国际一流期刊发表学术论文20余篇，其中（共同）第一或通讯作者论文10篇，ESI高被引8篇，总被引5000余次。担任Nature Catalysis、JACS、Chemistry of Materials、Research、RSC Advances、Chinese Chemical Letters等期刊审稿人。曾获得2019年教育部高等学校科学研究优秀成果奖（科学技术）自然科学一等奖和2018年英国物理学会中国高被引作者奖。
+个人主页：https://tingzhenghou.github.io/
+教育经历 
+2016年8月-2021年9月，美国加州大学伯克利分校，材料科学与工程专业，博士
+2014年9月-2016年6月，清华大学，化学工程与技术专业，硕士
+2010年9月-2014年7月，清华大学，材料科学与工程专业，学士
+工作经历 
+2022年10月-至今，清华大学深圳国际研究生院，助理教授
+2021年9月-2022年9月，美国加州大学伯克利分校/劳伦斯伯克利国家实验室，博士后学者
+学术兼职 
+担任Nature Catalysis、Journal of the American Chemical Society、Chemistry of Materials、Research、RSC Advances、Chinese Chemical Letters等期刊审稿人。
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+材料高通量计算方法的开发及应用；
+储能材料体相和界面的输运性质及离子溶剂化行为；
+储能材料界面反应化学；
+机器学习在材料科学中的应用。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Tingzheng Hou*, Xiang Chen, Lu Jiang, Cheng Tang*. Advances and Atomistic Insights of Electrolytes for Lithium-Ion Batteries and Beyond. J. Electrochem., 2022, DOI: 10.13208/j.electrochem.2219007.
+[2]Tingzheng Hou#, Wentao Xu#, Xiaokun Pei, Lu Jiang, Omar M. Yaghi*, Kristin A. Persson*. Ionic Conduction Mechanism and Design of Metal−Organic Framework Based Quasi-Solid-State Electrolytes. J. Am. Chem. Soc., 2022, 144(30):13446-13450
+[3]Tingzheng Hou*, Kara D. Fong, Jingyang Wang, Kristin A. Persson*. The solvation structure, transport properties and reduction behavior of carbonate-based electrolytes of lithium-ion batteries. Chem. Sci., 2021, 12(44):14740-14751.
+[4]Tingzheng Hou, Guang Yang, Nav Nidhi Rajput, Julian Self, Sang-Won Park, Jagjit Nanda, Kristin A. Persson*. The influence of FEC on the solvation structure and reduction reaction of LiPF6/EC electrolytes and its implication for solid electrolyte interphase formation. Nano Energy, 2019, 64:103881.
+[5]Ting-Zheng Hou#, Wen-Tao Xu#, Xiang Chen#, Hong-Jie Peng, Jia-Qi Huang, Qiang Zhang*. Lithium Bond Chemistry in Lithium–Sulfur Batteries. Angew. Chem. Int. Ed., 2017, 56(28):8178-8182.
+[6]Xiang Chen#, Ting-Zheng Hou#，Bo Li，Chong Yan，Lin Zhu，Chao Guan，Xin-Bing Cheng，Hong-Jie Peng，Jia-Qi Huang, Qiang Zhang*. Towards stable lithium-sulfur batteries: Mechanistic insights into electrolyte decomposition on lithium metal anode. Energy Storage Mater., 2017, 8:194-201.
+[7]Ting-Zheng Hou, Xiang Chen, Hong-Jie Peng, Jia-Qi Huang, Bo-Quan Li, Qiang Zhang*, Bo Li*. Design Principles for Heteroatom-Doped Nanocarbon to
+Achieve Strong Anchoring of Polysulfi des for Lithium–Sulfur Batteries. Small, 2016, 12(24):3283-3291.
+[8]Chen-Yu Chen#, Hong-Jie Peng#, Ting-Zheng Hou#, Pei-Yan Zhai, Bo-Quan Li, Cheng Tang, Wancheng Zhu, Jia-Qi Huang, Qiang Zhang*. A Quinonoid-Imine-Enriched Nanostructured Polymer Mediator for Lithium-Sulfur Batteries. Adv. Mater., 2017, 29(23):1606802.
+[9]Zhe Yuan#, Hong-Jie Peng#, Ting-Zheng Hou#, Jia-Qi Huang, Cheng-Meng Chen, Dai-Wei Wang, Xin-Bing Cheng, Fei Wei, Qiang Zhang*. Powering Lithium–Sulfur Battery Performance by Propelling Polysulfide Redox at Sulfiphilic Hosts. Nano Lett., 2016, 16(1):519-527.
+[10]Ting-Zheng Hou, Hong-Jie Peng, Jia-Qi Huang, Qiang Zhang*, Bo Li*. The formation of strong-couple interactions between nitrogen-doped graphene and sulfur/lithium (poly)sulfides in lithium-sulfur batteries. 2D Mater., 2015, 2(1):014011.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2019年教育部高等学校科学研究优秀成果奖（科学技术）自然科学一等奖（7/8）
+2018年英国物理学会中国高被引作者奖
+2015年清华大学化工系优秀学生干部
+2014年清华大学优良毕业生
+2014年清华大学综合论文训练优秀论文
+ </奖励荣誉>

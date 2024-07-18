@@ -1,0 +1,75 @@
+{"title":"段梦兰","cnUrl":"http://www.sigs.tsinghua.edu.cn/dml/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/7f/3b/95873eb64abab92a9cb2a0894945/21c559a0-c5cf-4006-b7f8-9e119aad1725.jpg","email":"mlduan@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1990/09-1993/07，石油大学（北京），石油天然气机械工程，博士
+1987/09-1990/03，石油大学（北京），石油矿场机械，硕士
+1983/09-1987/07，江汉石油学院，石油钻井工程，学士
+工作经历 
+2023/05-至今，清华大学深圳国际研究生院，教授
+2006/06-2023/04，中国石油大学（北京），教授
+1999/08-2006/06，中国船级社工业总公司/技术研发中心，正高级工程师（交通部部管人才）
+1998/04-1999/07，中国船级社海洋工程处，高级工程师
+1997/03-1998/04，University of Rochester, USA，Senior Research Officer/Post Doctorial Fellow
+1995/08-1997/03，中国船级社海洋工程处，高级工程师
+1993/08-1995/08，中国科学院力学研究所，博士后
+学术兼职 
+2015/09-2018/09，Subsea Technology Committee, International Ship and Offshore Structures Congress，Chair
+2010/12-2017/12，China Branch, Society for Underwater Technology，Founder/Chair
+2012/10-Now，Annual International SUT Technical Conference，Founder/Chair/Honorary Chair
+2016/05-Now，Biennial China-Brazil Deepwater Forum，Founder/Co-Chair
+2015/08-2020/08，中国力学学会第四届产学研工作委员会，主任委员
+2022/06-迄今，中国石油和石油化工设备工业协会“海洋油气工程装备标准化技术委员会”，副主任委员
+2004年迄今（现任或曾任）：中国力学学会、中国振动工程学会、中国海洋学会等国家一级学会理事
+中国大百科全书«石油与天然气工程卷»“海洋油气工程分卷”主编、Springer 百科全书系列«the Encyclopedia of Ocean Engineering»“Subsea Engineering”和“Subsea Pipelines and Risers”分卷主编、科学出版社“水下作业与装备丛书”主编
+国外期刊“Development and Application of Oceanic Engineering”、“Journal of Modern Green Energy”、“Modern Subsea Engineering and Technology”主编和“Frontier in Fossil Fuel Engineering”创始主编、“Maritime Systems and Ocean Technology”副主编、“International Journal of Naval Architecture and Ocean Engineering”、“Ships and Offshore Structures”、“Proc. IMechE. Part M: Journal of Engineering for the Maritime Environment”等16家国外海洋工程相关期刊编委
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+研究方向
+海洋石油工程、深水水下工程、结构和材料的疲劳断裂与损伤、结构稳定性、随机振动及工程减振、海冰工程力学、风险与可靠性
+和中国海油一起创造了我国海洋石油开发历史上的众多第一（首座冰区独腿平台、首个海上单点风电、首艘深水铺管船、首次组块浮拖、首个整体外挂导管架平台、首个深水打桩导向装置、首座超大型桩靴平台及高效冲桩系统、首条抗屈曲双层海底管道、首座大口径岸基LNG装卸装置，等等），在国内率先开始了水下采油树、管汇、跨接管、管线/管汇终端、连接器、分离器、阀门、湿式电接头等水下关键装备的研制。先后承担完成200多个海洋工程的研究项目（1000万元以上项目6个），包括国家重点研发计划项目、国家自然科学基金、973项目子课题、863重点项目、国家科技重大专项、发改委和工信部及海洋局海洋装备重大项目等40多个国家项目，发表学术论文800多篇，其中SCI检索期刊论文160多篇，被引5000多次，他引h-index 29，英文专著5部，获发明专利100多项。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+代表性论文：
+[1] Menglan Duan, Kang Zhang, Carlos Soares and Jeom Paik, Theoretical Investigation on Hub Structure Design of Subsea Connectors, Thin-walled Structures, 159 (2021), 107036, featured on Advances in Engineering at https://advanceseng.com/precise-analytical-model-asme-viii-predict-axisymmetric-bending-deformations-thick-walled-hub-structure/
+[2] Junpeng Liu, Bo Yu, Yi Zhang, Yang Zhou and Menglan Duan, The buckling of spherical-cylindrical composite shells by external pressure, Composite Structures, Volume 265, 1 June 2021, 113773, featured on Advances in Engineering at https://advanceseng.com/buckling-spherical-cylindrical-composite-shells-external-pressure/
+[3] Hui Wang, Menglan Duan, Chen An and Jian Su, Investigation of thermal behavior of long-distance multilayer pipeline with MicroPCM particles, International Journal of Heat and Mass Transfer, Volume 153, June 2020, 119605
+[4] Yang Zhou, Menglan Duan, Jianmin Ma, Theoretical analysis of reinforcement layers in bonded flexible marine hose under internal pressure, Engineering Structures, Volume 168, 1 August 2018, Pages 384-398, featured on Advances in Engineering at https://advanceseng.com/reinforcement-layers-bonded-flexible-marine-hose-internal-pressure/
+[5] Xiaguang Zeng and Menglan Duan, Mode localization in lateral buckling of partially embedded submarine pipelines, International Journal of Solids and Structures, 2014, 51(10):1991-1999
+近期顶刊论文：
+[6] Peng Zhang, Menglan Duan, Lin Yuan, Jianmin Ma, Jinxin Wang, Jian Tan and Jinjia Wang, Equivalently analytical solution for the large deformation of slender beams under follower loads: a second-order ANCF approach, Applied Mathematical Modelling, Volume 122, October 2023, Pages 477-505
+[7] Naeem Ullah, Menglan Duan, Mac Darlington Uche Onuoha, Asad Syed, Muhammad Sajid, Guomin Sun & Wenda Li, Multibody constrained dynamics of deepwater Y-method installation system, Ocean Engineering, Volume 278, 15 June 2023, 114482
+[8] Kang Zhang, Jiupeng Liu and Menglan Duan, Analytical calculation method for predicting compression deformations and sealing performance of subsea connector under operating condition, International Journal of Pressure Vessels and Piping, 21 January 2023, Vol. 202, 10490
+[9] Lindong Fan, Okky Purwana, Menglan Duan, et al. Discrete element method for simulations of the jack-up foundation penetration. Ocean Engineering. Volume 273, 1 April 2023, 113884
+[10] Naeem Ullah, Menglan Duan, Miaozi Zheng, Mac Darlington Uche Onuoha, and Muhammad Sajid, Planar Multibody Dynamics of Floating Y-Method Installation System and the Lowering of Subsea Equipment based on Finite Element Modeling, Marine Structures, Volume 88, March 2023, 103361
+[11] Yixuan Mao, Tianqi Wang and Menglan Duan, A DNN-based approach to predict dynamic mooring tensions for semi-submersible platform under a mooring line failure condition, Ocean Engineering, Volume 266, Part 1, 15 December 2022, 112767
+[12] Yixuan Mao, Tianqi Wang, Menglan Duan and Hongyuan Men, Multi-objective optimization of semi-submersible platforms based on a support vector machine with grid search optimized mixed kernels surrogate model, Ocean Engineering, Volume 260, 15 September 2022, 112077
+[13] Ye Yuan, Lindong Fan, Jianbo Li, Jie Gao and Menglan Duan, Numerical investigation on reinstallation of jack-up unit with rectangular spudcan close to footprint, Ocean Engineering, Volume 252(5), 15 May 2022, 111212
+[14] Peng Zhang, Menglan Duan, Qiang Gao, Jianmin Ma, Jinxin Wang and Svein Sævik, Efficiency improvement on the ANCF cable element by using the dot product form of curvature, Applied Mathematical Modelling, Volume 102, February 2022, Pages 435-452
+[15] Macdarlington Uche O. and Menglan Duan, Numerical modelling of the interaction between severe slugging and dynamic response of deepwater risers: A time-domain ANHE-FD based solution, International Journal of Non-Linear Mechanics, 138(2022), 103834
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1、 国际大奖：
+1） 2020 SOBENA Award of Excellence,the 28th International Congress on Waterborne Transportation, Shipbuilding and Offshore Constructions, 26-29 October, 2020, Rio de Janeiro. This award is given every two years to an outstanding international researcher/academic recognizing innovation and leadership within the Marine and Ocean Engineering community.
+2） 2012 Fellowship Award, Society for Underwater Technology.
+2、 国内奖励：
+曾获“全国交通青年科技英才”、“中央国家机关优秀（杰出）青年”、“全国交通系统青年岗位能手”等荣誉称号。近期获奖项目：
+1） 钢结构疲劳性能提升关键技术研究与应用，2023年，中国建筑科学技术奖（华夏奖），中国建筑学会，一等奖，第8完成人；
+2） 100米级水深超软复杂地层关键钻井技术装备及工业化，2022年，中国海洋科学技术奖，一等奖，第1完成人；
+3） 水下应急维修半物理仿真方法及系统应用，2022年，中国海洋科学技术奖2022年度海洋优秀科技图书奖，第1完成人；
+4） 钢结构工程疲劳性能研究与应用，2021年，中国钢结构协会科学技术奖，特等奖，第4完成人；
+5） 圆筒型浮式海上油气生产储卸平台设计与制造，2020年，中国航海学会科技进步奖，一等奖，第2完成人；
+6） 自升式钻井平台全生命周期降本增效关键技术及其规模化应用，2020年，中国石油和化学工业联合会科技进步奖，一等奖，第1完成人；
+7） 深水海管关键力学性能研究成果及工程应用，2019年，中国海洋科学技术奖，一等奖，第1完成人；
+8） 深水水下管汇连接器国产化研制，2018年，中国发明创业成果奖，一等奖，第1完成人；
+9） 中国产学研合作创新奖，2017 年，中国产学研合作促进会，中国产学研合作创新与促进奖，第1完成人；
+10） 中巴深海技术联合研究院，2017年，中国石油和化学工业联合会，首届国际科技合作奖，第1完成人。
+ </奖励荣誉>

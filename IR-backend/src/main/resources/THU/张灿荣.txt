@@ -1,0 +1,144 @@
+{"title":"张灿荣","cnUrl":"http://www.sigs.tsinghua.edu.cn/zcr/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/19/93/a339bd2e46c88d9e0a134c4521a8/2435d2d4-aea1-440f-b597-affac235abd6.jpg","email":"crzhang@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+ 张灿荣，教授、博士生导师、广东省杰青。2005年本科毕业于西安交通大学工业工程系，2010年博士毕业于清华大学工业工程系，读博期间，到美国威斯康星大学麦迪逊分校交流学习一年，2010年博士毕业后入职清华大学深圳国际研究生院。
+ 长期从事数字化生产、智慧物流、供应链管理等方面的研究，主要的工作是设计优化理论与数据分析技术（Optimization and Data Analytics）相结合的优化算法，处理集装箱码头运作优化、生产计划与调度、物流网络设计和优化等领域的复杂优化决策问题，提高系统运作效率。
+ 承担包括4项国家自然科学基金在内的十余项国家、地方、企事业单位科研项目；研究成果发表在Transportation Science，Transportation Research Part B: Methodological, INFORMS Journal on Computing，IISE Transactions，European Journal of Operational Research, Naval Research Logistics等国际知名期刊上；部分科研成果通过产学研合作和科技成果转化等方式，在华为技术有限公司、华为海思半导体有限公司、阿里巴巴、恒力集团、盐田港、天津港等多家企业得到应用，为企业带来实实在在的效益。
+ 担任工业工程学科知名SCI期刊Computers & Industrial Engineering领域主编；参与INFORMS Conference on Service Science等多个国际会议的组织工作。
+ 承担《高级运筹学》、《生产管理》等多门课程的教学任务，教学效果良好，《高级运筹学》被评为清华大学校级精品课程和清华大学课程思政示范课程，多次获评清华大学年度教学优秀奖，被学生评为深研院首届“良师益友”。
+下载个人简历：
+张灿荣_个人简历.pdf
+cv_crzhang.pdf
+教育经历 
+2008年09月-2009年09月，美国威斯康星大学麦迪逊分校，联合培养；
+2005年09月-2010年07月，清华大学，工业工程系，博士；
+2000年09月-2005年07月，西安交通大学管理学院工业工程系，双学士；
+工作经历 
+2020.12-现在，清华大学深圳国际研究生院，教授、博导；
+2013.12-2020.11，清华大学深圳国际研究生院，副教授、博导；
+2010.07-2013.11，清华大学深圳国际研究生院，讲师；
+学术兼职 
+• Computers & Industrial Engineering，领域主编（Area Editor）
+• INFORMS Conference on Service Science，项目主席（Program Chair）
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+• 《高级运筹学》
+• 《生产管理》
+• 《库存管理》
+• 《Analysis and Optimization on Logistics Systems》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+从事数字化生产、智慧物流、供应链管理等方面的研究：
+• 方法层面：
+大规模优化、线性和整数规划、动态规划、随机优化、数据挖掘等。
+• 应用层面：
+集装箱码头运作优化、生产计划与调度、物流网络设计和优化，以及相应的决策支持系统研发。
+主要项目 
+• 纵向科研项目
+[1] 国家自然科学基金面上项目，《基于数据驱动的集装箱甩挂运输问题研究》，主持，在研
+[2] 国家自然科学基金面上项目，《基于动态决策和数据挖掘的集装箱翻倒问题研究》，主持，已结题
+[3] 国家自然科学基金面上项目，《考虑不确定性的港口资源调度问题研究》，主持，已结题
+[4] 国家自然科学基金青年项目，《考虑集装箱翻倒的场地位置分配研究》，主持，已结题
+[5] 国家重点研发计划，《基于HCPS的智能工厂与无人生产线自组织重构体系与关键技术》，主持（子课题），已结题
+[6] 广东省自然科学基金杰出青年项目，《集装箱码头运作优化研究》，主持，在研
+[7] 深圳市稳定支持项目（重点项目），《可重构柔性装配中心关键技术研究》，共同主持，在研
+[8] 深圳市基础研究项目（自由探索），《半导体智能生产管理决策支持系统关键技术研究》，主持，已结题
+[9] 深圳市基础研究项目（学科布局），《物流末端配送机器人关键技术研究》，共同主持，已结题
+• 企业合作项目
+[1] 苏州恒力智能科技有限公司，《薄膜下料与生产排程优化项目》，主持，在研
+[2] 阿里云计算有限公司，《基于缓冲区的汽车焊装-涂装-总装多车间联合调度排序问题研究》，主持，在研
+[3] 华为技术有限公司，《芯片生产排程调度算法研发》，主持，已结题
+[4] 华为海思半导体有限公司，《仓储机器人协调控制算法研发》，主持，已结题
+[5] 华为海思半导体有限公司，《仓库操作看板优化调度系统研发》，主持，已结题
+[6] 华为海思半导体有限公司，《高级生产计划排程系统（APS）研发》，主持，已结题
+[7] 盐田港国际资讯有限公司，《盐田区临港物流能力指数构建》，主持，已结题
+[8] 深圳市盐田区经济促进局，《盐田区港口物流业发展第十三个五年规划》，主持，已结题
+[9] 天津五洲国际集装箱码头有限公司，《集装箱堆场场地计划决策支持系统研发》，主要完成人，已结题
+ </研究领域>
+<研究成果>
+代表性论文 
+（注：* 代表通讯作者； # 代表指导的学生）
+[55] Wang Naiyu#, Meng Qiang, and Zhang Canrong*. A branch-price-and-cut algorithm for the local container drayage problem with controllable vehicle interference. Transportation Research Part B: Methodological, 2023, forthcoming.
+[54] Wang Chong#, Miao Lixin, Zhang Canrong*, Wu Tao, and Liang Zhe. Robust Optimization for the Integrated Berth Allocation and Quay Crane Assignment Problem. Naval Research Logistics, 2023, forthcoming. 
+[53] Hao Xinye#, Liu Changchun, Liu Maoqi, Zhang Canrong, and Zheng Li*. Solving a Real-world Large-scale Cutting Stock Problem: A Clustering-assignment-based Model. IISE Transactions, November 2023, 55(11): 1160-1173.
+[52] Zhang Canrong*, Wang Qi, and Yuan Guoping. Novel models and algorithms for location assignment for outbound containers in container terminals. European Journal of Operational Research, July 2023, 308(2): 722-737.
+[51] Xia Yang#, Zeng Wenjia, Zhang Canrong*, and Yang Hai. A branch-and-price-and-cut algorithm for the vehicle routing problem with load-dependent drones. Transportation Research Part B: Methodological, May 2023, 171: 80-110.
+[50] Wu Tao, Zhang Canrong*, Chen Weiwei, Liang Zhe, and Zhang Xiaoning. Unsupervised Learning-driven Matheuristic for Production-distribution Problems. Transportation Science, November-December 2022, 56(6): 1677-1702.
+[49] Wang Mengtong#, Zhang Canrong*, Bell Michael, and Miao Lixin. A Branch-and-Price Algorithm for Location-Routing Problems with Pick-Up Stations in the Last-Mile Distribution System, European Journal of Operational Research, December 2022, 303(3): 1258-1276.
+[48] Hao Xinye#, Zheng Li, Li Na, and Zhang Canrong*. The integrated bin packing and lot-sizing problem considering the configuration-dependent bin packing process. European Journal of Operational Research, December 2022, 303(2): 581-592.
+[47] Wu Tao, Huang Le, Liang Zhe, Zhang Xiaoning, and Zhang Canrong. A Supervised Learning-Driven Heuristic for Solving the Facility Location and Production Planning Problem, European Journal of Operational Research, September 2022, 301(2): 785-796.
+[46] Duan Hongda#, Miao Lixin, and Zhang Canrong*. A Semi-supervised Deep Learning Approach for Vessel Trajectory Classification Based on AIS Data, Ocean and Coastal Management, March 2022, 218: 106015. 
+[45] Wang Mengtong#, Miao Lixin, and Zhang Canrong*. A Branch-and-Price Algorithm for a Green Location Routing Problem with Multi-Type Charging Infrastructure, Transportation Research Part E: Logistics and Transportation Review, December 2021, 156: 1-30.
+[44] Li Xiaowen#, Yang Xiuqing, Zhang Canrong, and Qi Mingyao*. A simulation study on the robotic mobile fulfillment system in high-density storage warehouses, Simulation Modelling Practice and Theory, November 2021, 112:1-17.
+[43] Duan Guofang, Zhang Canrong, Gonzalez Priscila, and Qi Mingyao*. Performance evaluation for Robotic Mobile Fulfillment Systems with time-varying arrivals. Computers & Industrial Engineering, August 2021, 158: 1-22.
+[42] Zhang Canrong, Zhang Dandan, and Wu Tao* Data-driven Branching and Selection for Lot-sizing and Scheduling Problems with Sequence-dependent Setups and Setup Carryover. Computers & Operations Research, August 2021, 132: 1-16.
+[41] Yu Lina, Zhang Canrong, Jiang Jingyan, Yang Huasheng*, and Shang Huayan. Reinforcement learning approach for resource allocation in humanitarian logistics. Expert Systems with Applications, July 2021, 173: 1-14.
+[40] Li Na, Li Xiaorui, Zhang Canrong, and Kong Nan. Integrated Optimization of Appointment Allocation and Access Prioritization in Patient-Centred Outpatient Scheduling. Computers & Industrial Engineering, April 2021, 154: 1-10.
+[39] Wu Tao, Shi Zhongshun, and Zhang Canrong*. The hub location problem with market selection. Computers & Operations Research, March 2021, 127: 1-13.
+[38] You Jintao#, Zhang Canrong, Xue Zhaojie, Miao Lixin, and Ye Bin. A bi-objective model for robust local container drayage problem. RAIRO - Operations Research, March 2021, 55: 625-646.
+[37] Wu Tao, Shi Zhongshun, Liang Zhe, Zhang Xiaoning, and Zhang Canrong*. Dantzig-Wolfe Decomposition for the Facility Location and Production Planning Problem. Computers & Operations Research, December 2020, 124: 1-19.
+[36] Zhang Canrong, Guan Hao, Yuan Yifei, Chen Weiwei, and Wu Tao. Machine learning-driven algorithms for the container relocation problem. Transportation Research Part B: Methodological, September 2020, 139: 102-131.
+[35] Wei Mingyuan#, Guan Hao, Liu Yunhan, Gao Benhe, and Zhang Canrong*. Production, Replenishment and Inventory Policies for Perishable Products in a Two-echelon Distribution Network. Sustainability, June 2020, 12(11): 1-26.
+[34] You Jintao#, Miao Lixin, Zhang Canrong*, and Xue Zhaojie. A generic model for the local container drayage problem using the emerging truck platooning operation mode. Transportation Research Part B: Methodological, March 2020, 113: 181-209.
+[33] Xie Fanrui#, Wu Tao, and Zhang Canrong*. A Branch-and-Price Algorithm for the Integrated Berth Allocation and Quay Crane Assignment Problem. Transportation Science, September-October 2019, 53(5): 1427-1454.
+[32] Wu Tao, Xiao Fan, Zhang Canrong, Zhang Defu, and Liang Zhe. Regression and Extrapolation Guided Optimization for Production-Distribution with Ship-Buy-Exchange Options. Transportation Research Part E: Logistics and Transportation Review, September 2019, 129: 15-37.
+[31] Wei Mingyuan#, Qi Mingyao, Wu Tao, and Zhang Canrong*. Distance and Matching-Induced Search Algorithm for the Multi-level Lot-Sizing Problem with Substitutable Bill of materials. European Journal of Operational Research, September 2019, 277(2): 521-541.
+[30] Yu Lina#, Yang Huasheng, Miao Lixin, and Zhang Canrong*. Rollout Algorithms for Resource Allocation in Humanitarian Logistics. IISE Transactions, August 2019, 51(8):887-909.
+[29] Wang Zujian#, Qi Mingyao, Cheng Chun, and Zhang Canrong. A hybrid algorithm for large-scale service network design considering a heterogeneous fleet. European Journal of Operational Research, July 2019, 276(2): 521-541.
+[28] Liu Changchun#, Xiang Xi, Zhang Canrong, Wang Qiang, and Zheng Li. A column generation based distributed scheduling algorithm for multi-mode resource constrained project scheduling problem. Computers & Industrial Engineering, November 2018, 125: 258-278.
+[27] Qi Mingyao, Li Xiaowen, Yan Xuejun, and Zhang Canrong*. On the evaluation of AGVS-based warehouse operation performance. Simulation Modelling Practice and Theory, September 2018, 87: 379-394.
+[26] Wu Tao, Xiao Fan, Zhang Canrong, He Yan, and Liang Zhe. The green capacitated multi-item lot sizing problem with parallel machines. Computers & Operations Research, October 2018, 98: 149-164.
+[25] Wu Tao, Liang Zhe, and Zhang Canrong. Analytics Branching and Selection for the Capacitated Multi-Item Lot Sizing Problem with Non-Identical Machines. INFORMS Journal on Computing, Spring 2018, 30(2): 236-258.
+[24] Zhang Canrong, Wu Tao, Qi Mingyao, and Miao Lixin. Simultaneous Allocation of Berths and Quay Cranes under Discrete Berth Situation. Asia-Pacific Journal of Operational Research, June 2018, 35(3): 1-28. 
+[23] Yu Lina#, Zhang Canrong, Yang Huasheng, and Miao Lixin. Novel Methods for Resource Allocation in Humanitarian Logistics Considering Human Suffering. Computers & Industrial Engineering, May 2018, 119: 1-20.
+[22] Zhang Canrong, Xie Fanrui, Huang Kun, Wu Tao, and Liang Zhe. MIP Models and a Hybrid Method for the Capacitated Air-cargo Network Planning and Scheduling Problems. Transportation Research Part E: Logistics and Transportation Review, July 2017, 103: 158-173.
+[21] Yang Huasheng#, Low Vincent, Zhang Canrong*, Zheng Li, and Miao Lixin. Behavior perception-based disruption models for the parallel machine capacitated lot-sizing and scheduling problem. International Journal of Production Research, 2017, 55(11): 3058-3072.
+[20] Liu Changchun#, Zhang Canrong, and Zheng Li. A Bi-objective Model for Robust Yard Allocation Scheduling for Outbound Containers. Engineering Optimization, 2017, 49(1): 113-135. 
+[19] Liu Changchun#, Xiang Xi, Zhang Canrong, and Zheng Li. A Decision Model for Berth Allocation Under Uncertainty Considering Service Level Using an Adaptive Differential Evolution Algorithm. Asia-Pacific Journal of Operational Research, December 2016, 33(6): 1-28.
+[18] Liu Changchun#, Zheng Li, and Zhang Canrong*. Behavior perception-based disruption models for berth allocation and quay crane assignment problems. Computers & Industrial Engineering, July 2016, 97: 258-275.
+[17] He Yan, Wu Tao, Zhang Canrong, and Liang Zhe. An improved MIP heuristic for the intermodal hub location problem. Omega - International Journal of Management Science, December 2015, 57, Part B: 203-211. 
+[16] Liang Zhe, He Yan, Wu Tao, and Zhang Canrong*. An informative column generation and decomposition method for a product on planning and facility location problem. International Journal of Production Economics, December 2015, 170, Part A: 88-96. 
+[15] Xiao Jing#, Yang Huasheng, Zhang Canrong, Zheng Li, and Gupta Jatinder N. D. A Hybrid Lagrangian-Simulated Annealing-based heuristic for the parallel-machine capacitated lot-sizing and scheduling problem with sequence-dependent setup times. Computers & Operations Research, November 2015, 63:72-82. 
+[14] Xue Zhaojie#, Lin Wei-Hua, Miao Lixin, and Zhang Canrong. Local container drayage problem with tractor and trailer operating in separable mode. Flexible Services and Manufacturing Journal, September 2015, 27(2-3): 431-450.
+[13] Xue Zhaojie#, Zhang Canrong, Yang Peng, and Miao Lixin. A Combinatorial Benders' Cuts Algorithm for the Local Container Drayage Problem. Mathematical Problems in Engineering, 2015. 
+[12] Zhang Canrong, Wu Tao, Zhong Ming, Zheng Li, and Miao Lixin. Location Assignment for Outbound Containers with Adjusted Weight Proportion. Computers & Operations Research, December 2014, 52, Part A: 84-93. 
+[11] Zhang Canrong, Wu Tao, Kim Kap Hwan, and Miao Lixin. Conservative Allocation Models for Outbound Containers in Container Terminals. European Journal of Operational Research, October 2014, 238(1): 155-165. 
+[10] Xue Zhaojie#, Zhang Canrong, Lin Wei-Hua, Miao Lixin, and Yang Peng. A tabu search heuristic for the local container drayage problem under a new operation mode. Transportation Research Part E: Logistics and Transportation Review, February 2014, 62: 136-150. 
+[9] Lin Jiahong#, Gao Benhe, and Zhang Canrong. Simulation-based investment planning for Humen Port. Simulation Modelling Practice and Theory, January 2014, 40: 161-175. 
+[8] Xiao Jing#, Zhang Canrong, Zheng Li, and Gupta Jatinder N. D. MIP-based fix-and-optimize algorithms for the parallel machine capacitated lot-sizing and scheduling problem. International Journal of Production Research, August 2013, 51(16): 5011-5028. 
+[7] Wu Tao, Zhang Canrong, Zhe Liang, and Leung Stephen C. H. A Lagrangian Relaxation-based Heuristic and Models Evaluation for Multi-level Lot Sizing Problems with Backorders. Computers & Operations Research, July 2013, 40(7): 1852-1863. 
+[6]Zhang Canrong, Wu Tao, Zheng Li, and Miao Lixin. A Lagrangian Relaxation-based Algorithm for the Allocation of Yard Cranes for Yard Activities with Different Priorities. Journal of Systems Science and Systems Engineering, June 2013, 22(2): 227-252. 
+[5] Xue Zhaojie#, Zhang Canrong, Miao Lixin, and Lin Wei-Hua. An Ant Colony Algorithm for Yard Truck Scheduling and Yard Location Assignment Problems with Precedence Constraints. Journal of Systems Science and Systems Engineering, March 2013, 22(1): 21-37. 
+[4] Zhang Canrong* and Chen Weiwei. A note on ‘A new dynamic programming formulation of (n×m) flowshop sequencing problems with due dates’. International Journal of Production Research, 2012, 50(16): 4631-4634. 
+[3] Zhang Canrong*, Zhang Zhihai, Zheng Li, and Miao Lixin. A decision support system for the allocation of yard cranes and blocks in container terminals. Asia-Pacific Journal of Operational Research, December 2011, 28(6): 803-829. 
+[2] Zhang Canrong, Chen Weiwei, Shi Leyuan, and Zheng Li. A note on deriving decision rules to locate export containers in container yards. European Journal of Operational Research, September 2010, 205(2): 483-485. 
+[1] Zhang Canrong, Zheng Li, Zhang Zhihai, Shi Leyuan, and Armstrong Aaron. The allocation of berths and quay cranes by using a sub-gradient optimization technique. Computers & Industrial Engineering, February 2010, 58(1): 40-50.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+• 学术荣誉
+[1] 华为“合作创新奖”（2023年）
+[2] 广东省杰青（2020年）
+[3] 深圳市地方级领军人才（2017年）
+[4] 深圳市海外孔雀计划人才（2014年）
+[5] 中日友好NSK机械工学优秀论文奖（2010年）
+[6] IEEE自动化与物流国际会议最优论文（2007年）
+• 课程教学和学生指导
+[1] 深圳市优秀教师（2023年）
+[2]《高级运筹学》清华大学课程思政示范课程（2023年）
+[3] 清华大学课程思政示范教师（2023年）
+[4]《高级运筹学》院课程思政试点示范工程（2022年）
+[5] 清华大学第十八届“良师益友”提名（2022年）
+[6]《高级运筹学》清华大学精品课（2019年）
+[7] 清华大学年度教学优秀奖（2018年）
+[8] 清华大学年度教学优秀奖（2017年首届）
+[9]《高级运筹学》清华大学深圳研究生院精品课（2017年）
+[10] 清华大学深圳研究生院“良师益友”（2013年首届）
+ </奖励荣誉>

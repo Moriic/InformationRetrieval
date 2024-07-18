@@ -1,0 +1,58 @@
+{"title":"曹译丹","cnUrl":"http://www.sigs.tsinghua.edu.cn/cyd/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/b5/d9/88f3952245f78745ce13117855e0/12a517be-85c7-4894-8c7f-147ec6a79871.jpg","email":"yidancao@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+Prof. Yidan Cao currently is a faculty member at Tsinghua-Berkeley Shenzhen Institute (TBSI). She graduated with the honor of Outstanding Graduate from Tsinghua University and received B.E. degree in 2011 and Ph.D. degree in 2016. She has been a visiting scholar at MIT in USA from 2013 to 2014, and has been a Killam Laureates Postdoctoral Scholar at Dalhousie University in Canada from 2016 to 2019. She has been a collaborator with some world-leading companies including BASF and 3M. With extensive interdisciplinary experience in catalysis, electrochemistry, materials science, and energy storage technologies, Dr. Yidan Cao’s lab primarily focuses on materials’ architecture design and devices’ development in electrochemical system, aiming to not only create new and efficient materials with advanced architectures for applications in energy storage and conversion, but also enrich the fundamental chemistry understanding in materials science.
+Opening:
+Postdoctoral Researcher Position
+A postdoctoral researcher position is currently open. The ideal candidate should have a Ph.D. degree in chemistry/material science. Interested applicants please email a CV to yidancao@sz.tsinghua.edu.cn.
+Graduate Student Position
+Applications are encouraged from students with an excellent educational background in chemistry, physics, or material science. Interested applicants please contact yidancao@sz.tsinghua.edu.cn about openings.
+实验室目前开放博士后、博士研究生、硕士研究生申请，感兴趣的同学请将个人简历发送yidancao@sz.tsinghua.edu.cn。
+教育经历 
+2011年8月-2016年7月，清华大学，材料科学与工程专业，博士
+2013年9月-2014年9月，美国麻省理工学院，材料科学与工程专业，联合培养博士
+2007年8月-2011年7月，清华大学，材料科学与工程专业，学士
+工作经历 
+2022年12月-至今，清华大学深圳国际研究生院，材料研究院，副教授/特别研究员/博士生导师
+2021年1月-2022年11月，清华大学深圳国际研究生院，材料研究院，助理教授/特别研究员/博士生导师
+2019年11月-2020年12月，清华-伯克利深圳学院，助理教授/特别研究员/博士生导师
+2016年10月-2019年10月，加拿大达尔豪斯大学，物理系&化学系，博士后
+学术兼职 
+中国材料研究学会 会员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《能源储存与转化：材料与器件》、《材料表面与界面》全英文课程
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要从事功能材料设计与开发、纳米能源材料、先进电化学储能材料与器件、高能量密度锂电池技术与应用等相关研究，基于材料科学基础和电化学理论，从功能材料的结构和界面设计出发，开发高性能储能材料与器件。近3年主持研究课题7项，参与国家重点研发项目1项，加拿大重点研发项目2项；并曾参与国家973项目、863项目、美国DOE项目等的科研和项目管理工作，与美国3M公司、BASF公司、加拿大Novonix公司等世界知名企业开展合作研究。已发表SCI论文40余篇，申请发明专利7项，并曾多次受邀在国际学术会议做报告。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] G Zhong, F Kang*, Y Cao*, et al. Triazine Crosslinked Polyionic Liquid: An Electrolyte-Stable, Lithiophilic and Electrostatic Shielding Layer for Uniform Lithium Plating/Stripping. Nano Energy 2022, 103, 107828. 
+[2] Y Lv, J Zhang*, Y Cao*, et al. B2O3/LiBO2 Dual-Modification Layer Stabilized Ni-rich Cathode for Lithium-ion Battery. Journal of Power Sources 2022, 536, 231510. 
+[3] T Jia, F Kang*, Y Cao*, et al. Prelithiation Strategies for Silicon-Based Anode in High Energy Density Lithium-Ion Battery. Green Energy & Environment 2022, doi.org/10.1016/j.gee.2022.08.005. 
+[4] K Cai, G Zhong, Y Cao*, et al. A Facile Electroless-Plating Method to Fabricate Nickel-Phosphorus Modified Copper Current Collector for Lean Lithium Metal Anode. ACS Applied Materials & Interfaces 2022, 14, 45433. 
+[5] Y Lv, J Zhang*, Y Cao*, et al. Engineering of cobalt-free Ni-rich cathode material by dual-element modification to enable 4.5 V-class high-energy-density lithium-ion batteries. Chemical Engineering Journal 2023, 455, 140652.
+[6] T Jia, F Kang*, Y Cao*, et al. Interfacial fluoride engineering enabled robust LiF-rich solid electrolyte interphase to reduce active lithium loss in rechargeable lithium battery. Chemical Engineering Journal 2023, 454, 140397.
+[7] G Kang, F Kang*, Y Cao*, et al. Weakly solvated EC-free linear alkyl carbonate electrolytes for Ni-rich cathode in rechargeable lithium battery. iScience 2022, 25, 105710.
+[8] N Li, F Kang*, Yidan Cao*, et al. The Rational Engineering of Anode Current Collector for Dendrite-Free Lithium Deposition, Frontiers in Chemistry 2022, 10, 884308. 
+[9] Y Cao, S Hans, MN Obrovac*, et al. Si(CO)y Negative Electrodes for Li-Ion Batteries. Chemistry of Materials 2021, 33, 7386.
+代表性著作 
+主要专利成果 
+[1] Electrochemically Active Dispersions and Composites for Rechargeable Battery Anodes. US patent application No. 62782008.
+[2] 一种三维亲锂碳界面修饰的铜基集流体及其制备方法和应用（202210013126.7.）
+[3] 一种无负极锂金属电池、其负极集流体及制备方法（202210808989.3）
+[4] 一种无钴高镍正极材料及其制备方法（202211046979.7）
+[5] 一种高电压电解液及其制备方法和用途（202210885310.0）
+[6] 一种正极预锂化浆料的制备方法及其用于高镍三元正极补锂的使用方法（202210816843.3）
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+省级青年人才，深圳市海外高层次人才,加拿大Killam Postdoc Fellow
+ </奖励荣誉>

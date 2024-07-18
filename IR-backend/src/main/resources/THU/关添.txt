@@ -1,0 +1,61 @@
+{"title":"关添","cnUrl":"http://www.sigs.tsinghua.edu.cn/gt/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/73/c7/d65232fd4beebe36ec2954ead169/755378f4-61cc-4701-b300-79b740c6e832.jpg","email":"guantian@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2001年09月-2006年07月，清华大学，生物医学工程，博士、硕士
+1997年09月-2001年07月，清华大学，生物医学工程，学士
+工作经历 
+2022年12月至今，清华大学深圳国际研究生院，教授
+2019年08月-2022年11月，清华大学深圳国际研究生院，副教授
+2012年12月-2019年08月，清华大学深圳研究生院，副教授
+2009年09月-2012年12月，清华大学深圳研究生院，讲师
+2007年09月-2009年09月，清华大学深圳研究生院，博士后
+2006年07月-2007年08月，香港中文大学电子系，博士后
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+教学方面承担两门研究生课程，《生物医学声学的工程分析和处理》和《高新企业创办与管理》，年教学工作量96学时。教学工作热情投入，注重学生互动。《生物医学声学的工程分析和处理》在2017-2018学年度清华大学研究生课程评估中获得前5%成绩（共有542门课参评）。
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+申请人在生物医学工程领域进行了多年的研究，研究的内容集中在医疗过程与装置，主要包括语音处理算法，听觉系统建模检测和康复助听系统等。并在耳声发射检测仪，人工耳蜗设备等多个项目尝试进行产业化转化。先后作为项目负责人承担了国家自然科学基金，广东省教育部产学研结合项目，深圳市学科布局项目等科研项目十余项。发表高水平文章90余篇。并被深圳市先后评为地方级/后备级高层次领军人才。
+主要项目 
+1.深圳市基础研究学科布局项目：常见高发恶性肿瘤的数据采集挖掘及人工智能算法与装备研究（JCY20180508152528735）,2019.3-2022.3，合作单位负责人
+2.深圳市基础研究布局项目：光刺激人工耳蜗关键技术研究（JCY20160324163759208），2016.6-2019.6，项目负责人
+3.深圳市工程实验室：深圳市听力与平衡疾患诊疗技术工程实验室（S2014000680004）,2015.1-2019.6，合作单位负责人
+4.国家自然科学基金：多通道光刺激听觉机理研究（31271056），2013.1-2016.12，项目负责人
+5.广东省教育部产学研结合项目：基于脑深部电刺激的癫痫监测与治疗设备研究（2011B090400315），2011.1-2013.12，合作单位负责人
+6.深圳市生物产业发展专项资金基础研究重点项目：光学人工耳蜗机理研究（JC201005270305A），2011.4-2014.4，项目负责人
+7.广东省自然科学基金：具备汉语特征的人工耳蜗语音处理器研究(10151805702000000)，2010.10-2012.9，项目负责人
+8.深圳市基础研究基金：人耳复合电声听觉机理及应用平台研究（JC200903180546A），2009.7.1-2012.6.30，项目负责人
+9.中国博士后科学基金特别资助计划：基于手机的复合电声刺激技术研究（200902105），2009.3-2011.2，项目负责人
+10.国家自然科学基金：人耳电听觉音高编码机理研究（30800234），2009.1-2011.12，项目负责人
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] He QH, Chen XJ, He YH, Guan Tian*, Feng GX, Lu BR, Zhou XS, Hu LS, Cao DL*. Spectral-Optical-Tweezer-Assisted Fluorescence Multiplexing System for QDs-Encoded Bead-Array Bioassay. Biosensors & bioelectronics. 2019, 129:107-117
+[2] Xu Y, Shi LX, Guan Tian*,Zhong SY, Zhou XS, Li DM, Guo CX, Yang YX, Wang XN, Li ZY, He YH*, Xie LY, Gan ZH. Multifunctional Weak Measurement System that Can Measure the Refractive Index and Optical Rotation of a Solution. APPLIED PHYSICS LETTERS. 2019, 114(18):181901
+[3] Chen XJ, He QH, Guan Tian*,He YH*, Feng GX, Wang B, Lu BR, Ji YH. Dual-Digital Encoded Suspension Array Based on Raman Spectroscopy and Laser Induced Breakdown Spectroscopy for Multiplexed Biodetection. SENSORS AND ACTUATORS B-CHEMICAL. 2019, 282:457-468
+[4] Guan Tian*, Yang YX, Zhang QW, He YH*, Xu NH*, Li DM, Shi LX, Xu Y, Wang XN. Label-Free and Non-Destruction Determination of Single- and Double-Strand DNA Based on Quantum Weak Measurement. Scientific reports. 2019,9(1):1891
+[5] Chen XJ, Shen ZY, He YH, Guan Tian*,He QH, Wang B, Xie LY, Feng GX, Lu BR, Zhou XS. Dual-Wavelength Digital Holographic Phase and Fluorescence Microscopy Combining with Raman Spectroscopy for Micro-Quartz Pieces-Based Dual-Channel Encoded Suspension Array. OPTICS EXPRESS. 2019, 27(3):1894-1910
+[6] Xu Y, Shi LX, Guan Tian*,Zhong SY, Zhou XS, Li DM, Guo CX, Yang YX, Wang XN, Li ZY, He YH*, Xie LY, Gan ZH. Rapid Separation of Enantiomeric Impurities in Chiral Molecules by a Self-Referential Weak Measurement System. SENSORS.2018, 18(11):3788
+[7] Li DM, Guan Tian, He YH*, Liu F, Yang AP, He QH, Shen ZY, Xin MG*. A Chiral Sensor Based on Weak Measurement for the Determination of Proline Enantiomers in Diverse Measuring Circumstances. BIOSENSORS & BIOELECTRONICS. 2018, 110:103-109
+[8] Guan Tian*, Wang XN, Li DM, Zhang YL, He YH*, Shi LX, Liu YQ, Yang YX, Xu Y, Cui R. Determination of Tumor Marker Carcinoembryonic Antigen with Biosensor Based on Optical Quantum Weak Measurements. SENSORS. 2018, 18(5):1550
+[9] Feng GX, He QH, Xie WY, He YH*, Chen XJ, Wang B, Lu BR,Guan Tian*. Dual-spectra Encoded Suspension Array Using Reversed-Phase Microemulsion UV Curing and Electrostatic Self-Assembling. RSC ADVANCES. 2018, 8(38):21272-21279
+[10] Guan Tian, Chu Guangxing, Tsao Yu, Chen Fei*. Assessing the perceptual contributions of level-dependent segments to sentence intelligibility. Journal of the Acoustical Society of America, 2016, 140(5):3745-3754
+代表性著作 
+主要专利成果 
+[1] 国家发明专利：电子耳蜗体外语音处理装置，专利号：ZL200610060580.9，发明人排序：4，授权日：2008.7.2
+[2] 国家发明专利：电子耳蜗听觉仿真平台、仿真试验方法及算法比较方法，专利号：ZL200610060579.6，发明人排序：4，授权日：2008.7.2
+[3] 国家发明专利：电子耳蜗汉语固定电刺激幅度变化模式体外语音处理装置，专利号：ZL200810067315.2，发明人排序：1，授权日：2009.12.2
+[4] 国家发明专利：具有S参数控制的基于汉语特征的电子耳蜗语音处理方法，专利号：ZL200610060581.3，发明人排序：2，授权日：2010.2.17
+[5] 国家发明专利：电子耳蜗汉语声调的n度标记法的电刺激编码方法，专利号：ZL200610060582.8，发明人排序：2，授权日：2010.2.17
+[6] 国家发明专利：用于疲劳检测的嘴唇图像分割方法及系统，专利号：ZL200910108704.X，发明人排序：3，授权日：2011.8.30
+[7] 国家发明专利：一种电子耳蜗前端指向性语音增强的预处理系统，专利号：ZL201010117648.9，发明人排序：3，授权日：2012.2.8
+[8] 国家发明专利：一种基于双核处理器的电子耳蜗体外语音处理器，专利号：ZL201010224849.9，发明人排序：3，授权日：2012.2.8
+[9] 国家发明专利：用于耳声发射听力检测的塞耳型换能器的校准方法和设备，专利号：ZL200810241774.8，发明人排序：3，授权日：2012.5.30
+其他成果 
+ </研究成果>

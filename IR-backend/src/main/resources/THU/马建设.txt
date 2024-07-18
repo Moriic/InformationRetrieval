@@ -1,0 +1,80 @@
+{"title":"马建设","cnUrl":"http://www.sigs.tsinghua.edu.cn/mjs/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/db/ea/d1607d594b6590c2bf2cc90ab4dd/9e42d1e3-1079-4849-9c43-41bcc0a777e1.jpg","email":"ma.jianshe@mail.sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+2003.10-至今，清华大学深圳研究生院，副研究员
+2003.11-2008.11，清华大学精仪系，高级工程师
+2000.9-2003.9，清华大学精仪系，博士后
+1997/03-2000/09，哈尔滨工业大学，机械电子工程，工学博士
+1994/09-1997/03，昆明理工大学，机械制造，工学硕士
+1992/08-1994/08，中国长城铝业公司，助理工程师
+1987/09-1992/07，北京科技大学，冶金机械，工学学士
+教育经历 
+工作经历 
+学术兼职 
+1)中国电子音响工业协会 专家委员会委员
+2)深圳市设施农业协会 专家委员会委员 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+开设课程：LED技术及其应用，信息存储与数据安全实践
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+研究方向：信息存储与处理，先进显示及成像，现代光源及照明技术等。
+现代光源及其应用技术主要集中在以LED为代表的现代光源及其核心应用方面，包括LED新型封装技术；LED植物工厂关键技术；以汽车智能照明为代表的大功率LED照明技术；先进显示及成像技术主要集中在以超大屏幕裸眼3D LED显示和超小间距LED显示为代表的新型LED显示技术。信息存储及处理技术主要研究领域包括便携式3D重构及图像识别技术、数据处理及存储安全技术、深紫外通讯及探测技术等。
+主要项目 
+已结题项目：
+1.微型集成三维立体摄像模组关键技术开发，企业委托，项目负责人
+2.基于OLED的移动终端裸眼3D显示技术研究开发及产业化，省部产学研，项目负责人
+3.LED荧光粉远程配光理论及关键技术研究，深圳市科创委，负责人
+4.高性能微型投影模组的研发及产业化，粤港招标，项目负责人
+5.基于LED的智能蔬菜工厂关键技术开发及产业化，广州市花都区科技计划，负责人
+6.V-Band微波防抖技术合作项目，华为技术有限公司，负责人
+7.高密度激光读写头三维力矩器数字化系统建模技术的研究，863，项目负责人
+在研项目：
+1.大尺寸微纳米压印辊筒超精密制造技术及成套装备，863，清华方负责人
+2.汽车智能LED前照灯关键技术研发及产业化，广东省新型研发机构研发经费补贴，负责人
+3.LED汽车前照灯关键技术方案开发，企业委托，项目负责人
+4.超小间距LED显示方案，企业委托，项目负责人
+ </研究领域>
+<研究成果>
+代表性论文 
+1)Ping Su , Pengli An , Jianshe Ma*, Lixiang Han , Zhenbo Ren , Jie Mao , Liangcai Cao , Guofan Jin. Demonstration of an autostereoscopic three-dimensional light-emitting diode display using diffractive optical elements sheet. Journal of Display Technology, 11, 953-958 (2015)
+2)Ma, Jianshe, Wei, Yunfeng,Su, Ping. A portable system for 3D reconstruction based on Stereo-View. IEEE-CYBER 2016, 167-172(2016) 
+3)Yuan,Renzhi; Ma,Jianshe. Review of Ultraviolet non-line-of-sight communication. CHINA COMMUNICATIONS, 13(6), 63-75(2016)
+4)Renzhi Yuan, Jianshe Ma, Ping Su, and Zehao He. An Integral Model of Two-order and Three-order Scattering for Non-line-of-sight Ultraviolet Communication in a Narrow Beam Case. IEEE COMMUNICATIONS LETTERS, 2016
+5)Ma, Jianshe; Cheng, Bingchao; Cao, Wenbo; Su, Ping Cao, Liangcai. Holographic display system of digital micro-mirror devices based on LED light source. Guangxue Xuebao/Acta Optica Sinica. v 36, n 7(2016)
+6)Su, Ping; An, Pengli; Ma, Jianshe; Han, Lixiang; Ren, Zhenbo ; Mao, Jie; Cao, Liangcai; Jin, Guofan. Demonstration of an Autostereoscopic Three-Dimensional Light-Emitting Diode Display Using Diffractive Optical Elements Sheet. JOURNAL OF DISPLAY TECHNOLOGY, 11(11), 953-958(2015)
+7)马建设，代振华，刘彤. 基于旋转涂覆法的LED远程配光器件研究，照明工程学报，26(5)，127-131(2015)
+8)覃冠杰，马建设，程雪岷. 基于组合式爬山算法提高S盒非线性度的方法. 计算机应用，35(8)，2195-2198(2015)
+9)韩励想，滑伟，马建设，苏萍，任振波. 高精度石英全息透镜的MEMS工艺制作. 光学精密工程. 23(11)，3107-3113(2015)
+代表性著作 
+主要专利成果 
+1)一种LED汽车前照灯，201621008039.9，1/5
+2)双目三维重构装置及其三维重构方法以及一种安卓应用，2016102078353，1/4
+3)一种双目三维重建方法，201610195387X，1/4
+4)一种直线音圈电机，2016101873502，1/4
+5)一种LED封装及其荧光粉壳体，201610809183.5，1/5
+6)一种基于互补卡尔曼滤波算法计算融合姿态角度的方法，1/5
+7)自适应LED汽车前照灯，2015110200757，2/6
+8)LED汽车前照灯，2015110244219，2/6
+9)汽车前照灯及制造方法，2015110274248，2/7
+10)一种系统分区隐藏方法，2014102045261
+11)一种LED前照灯配光系统，2014107664357，1/5
+12)LED光源荧光粉配光板，201310495834.X，1/9
+13)水冷式大功率LED植物生长灯及循环系统，201310495798.7，1/9
+14)一种基于FPGA的硬盘加密、解密系统，2014103953875，1/4
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1)高速对焦摄像模组，2015年江西省科技进步三等奖（排名第一）
+2)2014级研究生袁仁智获得国家奖学金
+3)2013级研究生魏云峰于2016年获得IEEE-CYBER最佳学生论文奖
+4)高密度激光头成套生产装备研发及产业化，2012年清华大学深圳研究生院建院十年十大科技成果奖
+5)2009年清华大学先进工作者
+6)新型高密度光盘实用技术，2005年中国电子学会信息科学技术一等奖（排名第五）
+7)高密度光盘存储技术，2005年北京市科技进步一等奖(排名第五) 
+ </奖励荣誉>

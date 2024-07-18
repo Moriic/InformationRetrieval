@@ -1,0 +1,77 @@
+{"title":"李炳","cnUrl":"http://www.sigs.tsinghua.edu.cn/lb2/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/42/43/3ec6ee004dbfa4aa1d56d081fcfb/4c1e2de0-0659-4b5f-879a-1b608d45af72.jpg","email":"bingli@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2007年09月-2011年08月，香港大学，环境工程专业，博士
+2004年09月-2007年07月，湖南大学，市政工程专业，硕士
+2000年09月-2004年07月，湖南大学，给水排水工程，学士
+工作经历 
+2020年10月至今，清华大学深圳国际研究生院，副教授、博士生导师
+2019年08月-2020年10月，清华大学深圳国际研究生院，副教授
+2015年06月-2019年08月，清华大学深圳研究生院，副教授 
+2011年12月-2015年03月，香港大学，环境微生物技术实验室，博士后
+2011年09月-2011年12月，香港大学，环境微生物技术实验室，兼职研究助理、高级研究助理 
+2012年05月-2013年01月，斯坦福大学，访问学者 
+学术兼职 
+SCI期刊Applied Microbiology and Biotechnology编委会，委员
+SCI期刊Journal of Hazardous Materials首届Early Career Advisory Board，委员
+中国生态学学会微生物生态专业委员会，委员
+广东省环境科学学会生态毒理学与环境毒理学专业委员会，委员
+国际微生物生态学会，会员
+美国微生物学会，会员
+国际水协会，会员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+现代环境生物学（32课时）
+现代环保设备（32课时）
+研究生英语（32课时）
+Dynamics of Environmental Systems: Principles of Mass Transformation and Energy Flow（14课时）
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 已主持完成包括国家自然科学基金等在内的科研课题10余项，目前主持在研国家重点研发计划、国家自然科学基金面上项目、广东省自然科学基金-杰出青年基金项目等纵向课题7项。近5年作为主研人员累计参与美国能源部资助课题和香港主题研究计划（Theme-based Research Scheme）等纵向课题10余项，已在包括ISME J、Microbiome、Environmental Science & Technology和 Water Research等在内的环境微生物学和环境科学与工程领域知名期刊上发表SCI论文90余篇（7篇高被引论文），近3年做国际/国内大型学术会议特邀报告6次。研究成果被国际学术同行在包括Nature、Cell、Nature Biotechnology以及Nature Reviews Microbiology等在内的顶级学术期刊上正面引用，引用总数7500余次，H指数为40。研究领域坚持国际热点前沿与国家环境保护重大需求并重，包括：
+(1) 采用多维组学手段（包括代谢组学、宏基因组学、宏转录组学以及蛋白组学）研究新兴污染物的生物降解机理与降解途径，表征相关的降解功能基因
+(2) 抗生素抗性基因、抗生素耐药菌以及致病菌广谱表征及其在水处理工艺中的削减机制与归趋
+(3) 给水、污水处理厂生物处理单元中的微生物生态学
+(4) 城市水环境中微生物组大数据分析
+(5) 新污染物在常规消毒工艺及高级氧化工艺中的去除机理
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Jiayu Zhang, Wenhui Gan, Renxin Zhao, Ke Yu, Huaxin Lei, Ruiyang Li, Xiaoyan Li, Bing Li*, 2020. Chloramphenicol biodegradation by enriched bacterial consortia and isolated strain Sphingomonas sp. CL5.1: The reconstruction of a novel biodegradation pathway. Water Research, 116397
+[2] Renxin Zhao, Ke Yu, Jiayu Zhang, Guijuan Zhang, Jin Huang, Liping Ma, Chunfang Deng, Xiaoyan Li, Bing Li*，2020. Deciphering the mobility and bacterial hosts of antibiotic resistance genes under antibiotic selection pressure by metagenomic assembly and binning approaches. Water Research,186: 116318
+[3] Renxin Zhao, Jie Feng, Jie Liu, Wenjie Fu, Xiaoyan Li, Bing Li*, 2019. Deciphering of microbial community and antibiotic resistance genes in activated sludge reactors under high selective pressure of different antibiotics. Water Research, 151, 388–402.
+[4] Lijia Cao, Jiayu Zhang, Renxin Zhao, Yu Deng, Jie Liu, Wenjie Fu, Yusha Lei, Tong Zhang, Xiaoyan Li, Bing Li*, 2019. Genomic characterization, kinetics, and pathways of sulfamethazine biodegradation by Paenarthrobacter sp. A01. Environment International, 131, 104961.
+[5] Jie Liu, Bing Li*, Yingying Wang, Guijuan Zhang, Xiaotao Jiang, Xiaoyan Li*, 2019. Passage and community changes of filterable bacteria during microfiltration of a surface water supply. Environment International, 131, 104998.
+[6] Jiayu Zhang, Renxin Zhao, Lijia Cao, Yusha Lei, Jie Liu, Jie Feng, Wenjie Fu, Xiaoyan Li, Bing Li*, 2019. High-efficiency biodegradation of chloramphenicol by enriched bacterial consortia: Kinetics study and bacterial community characterization. Journal of Hazardous Materials, 384,121344.
+[7] Guijuan Zhang, Bing Li*, Feng Guo, Jie Liu, Mingqiang Luan, Yang Liu, Yuntao Guan*, 2019. Taxonomic relatedness and environmental pressure synergistically drive the primary succession of biofilm microbial communities in reclaimed wastewater distribution systems. Environment International, 124, 25-37
+[8] Guijuan Zhang, Bing Li*, Jie Liu, Mingqiang Luan, Long Yue, Xiao-Tao Jiang, Ke Yu, Yuntao Guan*, 2018.The bacterial community significantly promotes cast iron corrosion in reclaimed wastewater distribution systems. Microbiome, 6 (1), 222.
+[9] Bing Li, Wei-Min Wu*, David B. Watson, Erick Cardenas, Yuanqing Chao, D. H. Phillips, Tonia Mehlhorn, Kenneth Lowe, Shelly D. Kelly, Pengsong Li, Huchun Tao, James M. Tiedje, Craig S. Criddle, Tong Zhang*, 2018. Bacterial Community Shift and Coexisting/Coexcluding Patterns Revealed by Network Analysis in A Bioreduced Uranium Contaminated Site after Reoxidation. Applied and Environmental Microbiology. DOI:10.1128/AEM.02749-17
+[10] Renxin Zhao; Jie Feng; Xiaole Yin; Jie Liu; Wenjie Fu; Thomas U.Berendonk; Tong Zhang; Xiaoyan Li; Bing Li* , Antibiotic resistome in landfill leachate from different cities of China deciphered by metagenomic analysis, Water Research, 2018, 134: 126~139
+[11] Jie Feng; Bing Li*; Xiaotao Jiang; Ying Yang; George F. Wells; Tong Zhang; Xiaoyan Li, Antibiotic resistome in a large-scale healthy human gut microbiota deciphered by metagenomic and network analyses, Environmental Microbiology, 2018, 20(1): 355~368 
+[12] Wenjie Fu; Bing Li*; Jinqin Yang; Haibo Yi; Liyuan Chai; Xiaoyan Li, New insights into the chlorination of sulfonamide: Smiles-type rearrangement, desulfation, and product toxicity, Chemical Engineering Journal, 2017, 331, 785-793
+[13] Liping Ma#, Bing Li#, Xiaotao Jiang, Yulin Wang, Yu Xia, Aandong Li, Tong Zhang*, 2017. Catalogue of Antibiotic Resistome and Host-tracking in Drinking Water Deciphered by a Large Scale Survey. Microbiome, 5 (154), DOI 10.1186/s40168-017-0369-0 (#共同一作)
+[14] Li, Bing; Yang, Ying; Ma, Liping; Ju, Feng; Guo, Feng; Tiedje, James M.; Zhang, Tong*, Metagenomic and network analysis reveal wide distribution and co-occurrence of environmental antibiotic resistance genes, The ISME Journal, 2015, 9(11): 2490~2502 
+[15] Li, Bing; Ju, Feng#; Cai, Lin; Zhang, Tong*,Profile and Fate of Bacterial Pathogens in Sewage Treatment Plants Revealed by High-Throughput Metagenomic Approach, Environmental Science & Technology, 2015, 49(17): 10492~10502 
+代表性著作 
+【译著章节】
+Water Quality & Treatment-A Handbook of Community Water Supplies (水质与水处理–公共供水技术手册. 第五章：吹脱与曝气；第七章：沉淀和浮选), 2008, 中国建筑工业出版社.
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2021年，入选国家级重大人才计划青年项目
+2020年，“首创水星奖”（科学创新类）银奖
+2019年，广东省，自然科学基金杰出青年基金
+2016年，国家生态环境部，国家环境保护专业技术青年拔尖人才
+2016年，教育部，自然科学一等奖，
+2015年，深圳市海外高层次C类人才
+2013年，香港科学会，Finalist of 2013 Young Scientist Awards
+2012年，香港大学，Outstanding Research Postgraduate Student Award
+2011年，香港大学，Outstanding Teaching Assistant Award，
+ </奖励荣誉>

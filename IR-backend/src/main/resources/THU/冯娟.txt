@@ -1,0 +1,63 @@
+{"title":"冯娟","cnUrl":"http://www.sigs.tsinghua.edu.cn/fj/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/25/c4/7669994c4683a50d2f59a54fdd53/71717f3e-bf2e-4e72-8622-eca59f743d51.jpg","email":"juan.feng@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1998年获得中国人民大学经济学学士学位；2003年获得宾夕法尼亚洲立大学工商管理博士（信息管理方向），暨运筹学双博士。
+工作经历 
+2020.10至今 教授，创新管理研究院，清华大学深圳国际研究生院 
+2020 至今 鸿海讲席教授，管理科学与工程系，清华大学经济管理学院
+2017-2020 教授兼商务信息系统理学硕士项目主任，资讯系统系，香港城市大学商学院
+2012-2017 副教授兼商务信息系统理学硕士项目主任，资讯系统系，香港城市大学商学院
+2009-2012 助理教授，资讯系统系，香港城市大学商学院
+2003-2009 助理教授, Department of Information Systems & Operations Management, Warrington College of Business, University of Florida
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+区块链与金融创新
+大数据与创新
+商务智能与决策2014-2018, (post graduate class);
+管理信息系统，EMBA 2020，2019班
+研究方法III, DBA class, 2019
+大数据时代商务模式与创新, EMBA class, 2019
+System Analysis & Design
+Project Management
+Multi-channel Marketing
+Internet Strategies
+Business Data Communication
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+研究课题主要关注IT对核心管理问题带来的新挑战，包括定价，竞争， 广告，云计算与SaaS等现象；IT对信息环境带来的新变化，包括社交媒体如何助力普惠金融，在线评论与UGC怎样改变消费者行为和厂商定价等；以及数字技术带来的政策挑战，包括对国际贸易的影响：跨境代购与灰色市场；对政府文化政策的影响，以及区块链与数据确权，数据治理，等等。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+1. Fly with the Wings of Live stream Selling – Channel Strategies with/out Switching Demand, with Ran Pan and Zhengling Zhao, accepted, Production and Operations Management.
+2. Skill Spanning in Online Labor Market --- A Double-edged Sword?, with Yan Fu and Qiang Ye, Journal of the Association for Information Systems, 23(3), 750-778.
+3. Incongruent Skills and Experiences in Online Labor Market, with Yan Fu, Nan Li and Qiang Ye, Electronic Commerce Research and Applications, 45(2021), 101025.
+4. Does Money Talk? The Impact of Monetary Incentives on User-Generated Content Contributions, with Yuewen Liu, 2021, Information Systems Research 32(2), 394-409.
+5. Online Product Reviews-Triggered Dynamic Pricing: Theory and Evidence, with Xin Li and Xiaoquan (Michael) Zhang, 2019，Information Systems Research, 30(4), 1107-1123.
+6. Multiple-Winner Award Rules in Online Procurement Auctions, with Qi Wang, Xuping Jiang and Jinhong Xie, 2019, Production and Operations Management(POM), 2533-2551
+7. Helpfulness of Online Reviews: Examining Review Informativeness and Classification Thresholds by Search Products and Experience Products, with Xinyu Sun and Maoxin Han, Decision Support Systems (DSS), Volume 124, September 2019, 113099
+8. Selling or leasing? Dynamic pricing of software with upgrades, with Kunhao Jia and Xiuwu Liao. May 2018; European Journal of Operational Research. Vol. 266, No. 3, pp. 1044-1061
+9. When Online Review Meets Sales Volume Information: Is More/Accurate Information Always Better, with Yang Liu and Xiuwu Liao, Information Systems Research (2017), 28(4), 723-743.
+10. Predicting and Deterring Default with Social Media Information in Peer-to-Peer Lending, with Ge, Ruyi, Juan Feng, Bin Gu and Pengzhu Zhang, Journal of Management Information Systems (2017), 34(2), 401-424.
+11. Price with Unauthorized Distribution Channels: An Analytical Model and Empirical Analysis, with Zhongju Zhang, Information Systems Research (2017), 28(2), 397-412.
+12. Mobile Technology in China: A Transformation of the Payments Industry, with Subrahmanyam, Vijaya, and Nyayapati, Murthy (May 2015), China current, 14, 5, 3.
+13. Negative Price Premium Effect in Online Market —The Impact of Competition and Buyer Informativeness on the Pricing Strategies of Sellers with Different Reputation, with Yuewen Liu and K.K. Wei, Decision Support Systems, 54(1), December 2012, 681–690
+14. Performance-based Advertising: Advertising as Signals of Product Quality, with Jinhong Xie, Information Systems Research, Nov 2012, 23 (3-2), 1030-1041
+15. Cyclical Bid Adjustments in Search-Engine Advertising, with Michael Zhang, Management Science, Sep. 2011, 57 (9), pp 1703-1719
+16. Entertainment without Borders: the Impact of Digital Technologies on Government Cultural Policy(2014), with Kenny Cheng，Gary Koehler and Sean Marston, Journal of Management Information Systems, 27, 3, 269 – 302
+17. Simultaneous Vs. Sequential Auctions, Intensity of Competition and Uncertainty, with Kalyan Chatterjee, Decision Support Systems, 49 (3), June 2010, Pages 251-260
+18. Keyword Auctions, Unit-Price Contracts, and the Role of Commitment, with Jianqing Chen and Andrew Whinston, Production and Operations Management, 19(3), Nov 2009, Pages 305-321
+19. Optimal Mechanisms for Selling a Set of Commonly Ranked Objects, Marketing Science, 27(3), May-June 2008, 501-512
+20. Ranked Items Auctions and Online Advertisement, with Roger Zhan and Max Shen, Productions and Operations Management, 16 (4), August 2007, pp 510 - 522.
+21. Implementing Sponsored Search in Web Search Engines: Computational Evaluation of Alternative Mechanisms, with Hemant Bhargava and David Pennock, Informs Journal on Computing, 19(1), Winter 2007, pp. 137-148
+22. America Online's Internet Access Service: How to Deter Unwanted Customers, with Hemant America Online's Internet Access Service: How to Deter Unwanted Customers, with Hemant Bhargava, Electronic Commerce Research and Application, 4(1), Spring 2005, page 35-48.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

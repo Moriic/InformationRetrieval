@@ -1,0 +1,64 @@
+{"title":"曹顺翔","cnUrl":"http://www.sigs.tsinghua.edu.cn/csx/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/d7/14/ac42e4f74d36a43364208fce3f44/323536d2-9ba7-4a4d-892f-d0d0c417c38c.png","email":"caoshunxiang@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2014年8月-2019年8月，美国弗吉尼亚理工大学，航空工程专业，博士
+2010年9月-2014年5月，北京航空航天大学，航空工程专业，学士
+工作经历 
+2022年7月-至今，清华大学深圳国际研究生院，助理教授
+2019年11月-2022年5月，美国加州理工学院，博士后研究员
+学术兼职 
+担任International Journal of Multiphase Flow, International Journal for Numerical Methods in Fluids (IJNMF)、Journal of Fluids and Structures (JFS)、Aerospace、Mechanical Sciences、BME Frontiers (BMEF)等期刊审稿人
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+流固耦合方法与仿真 (课号：85990872，国际院)
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+课题组主要研究方向：
+一、多相流固耦合问题的高保真建模与高性能仿真
+1、构建成套高保真多相流固耦合模型，为涉及空泡/空泡群、激波、大变形固体结构、以及材料损伤与断裂等复杂非线性问题提供一体化耦合仿真工具；
+2、开发兼顾精确性、计算效率、及可扩展性的耦合算法，解决多物理场耦合带来的高计算复杂度和算法收敛难题；
+3、开发多模块多物理场并行仿真求解器，并在高强聚焦超声医疗、海洋工程等重点领域展开应用。
+二、基于机器学习的流固耦合主动控制技术
+1、发掘前沿机器学习技术，构建基于强化学习的流固耦合主动控制策略，并在海洋减阻、结构物减振等领域展开应用；
+2、采用先进模态分解方法构建高精度流固耦合降阶模型，提高计算效率。
+三、设计和开发高效的流固耦合反问题并行计算框架
+为建立大型流固耦合数字孪生模型提供理论基础与技术保证。
+研究成果发表在流体力学、固体力学以及数值方法领域中的国际权威期刊，包括JFM、IJSS、IJNME等。参与了两套大型多相流固耦合并行求解器（AEROS/F、MFC）的开发工作。
+欢迎对流体力学、固体力学、数值分析、机器学习感兴趣的同学报考！
+主要项目 
+1．清华大学深圳国际研究生院,科研启动项目，在研, 主持
+2．清华大学深圳国际研究生院交叉研究项目, 在研, 主持
+3．美国科学基金会（NSF），已结题，骨干。
+4．美国科学基金会（NSF），已结题，骨干。
+ </研究领域>
+<研究成果>
+代表性论文 
+在审论文：
+[1] H.-K. Jiang, S.-X. Cao. Drag reduction of oscillating cylinder controlled by reinforcement learning. 2023
+[2] D. Xiang, Z.-Z. Liu, C. Wang, K. Li and S.-X. Cao. An improved RRT* algorithm for multi-objective optimization based on NSGA-III. 2023
+已发表论文：
+[1] S.-X. Cao, Z. Huang. Bayesian calibration for large-scale fluid structure interaction problems under embedded/immersed boundary framework. International Journal for Numerical Methods in Engineering. 2022.
+[2] S.-X. Cao, G.-Y. Wang, O. Coutier-Delgosha, K.G. Wang. Shock-Induced Bubble Collapse Near Solid Materials: Effect of Acoustic Impedance. Journal of Fluid Mechanics. 2020.
+[3] S.-X. Cao, G.-Y. Wang, K.G. Wang. A Spatially Varying Robin Interface Condition for Fluid-Structure Coupled Simulations. International Journal for Numerical Methods in Engineering. 2020.
+[4]S.-X. Cao, Y. Zhang, D. Liao, P. Zhong, K. G. Wang. Shock-induced damage and dynamic fracture in cylindrical bodies submerged in liquid. International Journal of Solids and Structures. 2019; 169, 55-71.
+[5] S.-X. Cao, A. Main, K.G. Wang. Robin-Neumann transmission conditions for fluid-structure coupling: Embedded boundary implementation and parameter analysis. International Journal for Numerical Methods in Engineering. 2018;115(5):578–603.
+[6] S.-X. Cao, A. Main, K.G. Wang. An embedded Robin boundary method for incompressible fluid-structure interaction problems. In AIAA Aviation, 2017.
+[7]H. Chung, S.-X. Cao, M. Philen, P.S. Beran, K.G. Wang. CFD-CSD coupled analysis of underwater propulsion using a biomimetic fin-and-joint system. Computers & Fluids. 2018; 172(8): 54–66.
+[8] M. Bailey, A. Maxwell, S.-X. Cao, S. Ramesh, Z. Liu, J. Williams Jr, J. Thiel, B. Dunmire, T. Colonius, E. Kuznetsova, W. Kreider, M. Sorensen, J. Lingeman, O. Sapozhnikov. Improving burst wave lithotripsy effectiveness for small stones and fragments by increasing frequency: theoretical modeling and ex vivo study. Journal of Endourology. 2022.
+[9] G.-M. Xiang, X.-J. Ma, C. Liang, H.-Y Yu, D. Liao, G. Sankin, S.-X. Cao, K. Wang and P. Zhong. Variations of stress field and fracture pattern produced at different locations in a shock wave lithotripter field. The Journal of the Acoustical Society of America. 150, no. 2 (2021): 1013-1029.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+USNCCM16 Conference Award, 2021
+美国弗吉尼亚理工大学研究生奖学金, 2014
+北京市优秀毕业生, 2014
+新加坡科技工程奖学金, 2010-2013
+ </奖励荣誉>

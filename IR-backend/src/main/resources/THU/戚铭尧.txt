@@ -1,0 +1,108 @@
+{"title":"戚铭尧","cnUrl":"http://www.sigs.tsinghua.edu.cn/qmy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/a4/4e/461397ba4c218ff2cf5375e795c1/07e15708-97bd-4155-80c8-10532d02b441.jpg","email":"qimy@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+主要致力于复杂物流系统的建模、优化、仿真与信息化研究，包括设施选址、物流网络规划、车辆路径规划，智能仓储系统、物流机器人系统、城市物流与交通、物流大数据分析等。理论方法涉及混合整数规划、非线性规划、随机规划、鲁棒优化、机器学习等。
+教育经历 
+2004年06月，中国科学院地理科学与资源研究所，地理信息系统专业，理学博士
+1996年07月，测绘学院，航空摄影测量专业，学士
+工作经历 
+2022年12月– 今 清华大学深圳研究生院 教授、博士生导师
+2019年08月– 2022年11月 清华大学深圳国际研究生院 副教授、博士生导师
+2018年08月– 2019年08月 密歇根大学安娜堡分校 访问教授
+2009年12月 – 2019年08月 清华大学深圳研究生院 副教授、博士生导师（2013年）
+2006年08月 – 2009年11月 清华大学深圳研究生院 讲师
+2004年08月 – 2006年06月 中国科学院遥感应用研究所 博士后
+学术兼职 
+Transportation Research Part E，编委
+T-LOG交通物流国际会议 ，常任联合主席
+全国物流标准化技术委员会，委员
+国家自然科学基金委，同行评审专家
+深圳市科技专家委员会，专家
+Manufacturing and Service Operations Management，审稿人
+European Journal of Operational Research，审稿人
+Transportation Research Part B，审稿人
+Networks，审稿人
+International Journal of Production Economics，审稿人
+Computers and Industrial Engineering，审稿人
+International Journal of Production Research，审稿人
+Transportation Research Board，审稿人
+EASTS东亚运输协会国际会议，审稿人
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+“Analysis and Optimization on Logistics System”（全英文）
+《配送系统建模与分析》
+《物流信息技术》
+《管理信息系统》
+《物流地理信息系统》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要致力于物流系统的建模、优化、仿真与信息化研究，包括物流网络规划、车辆路径规划，智能仓储系统、物流机器人系统、企业物流系统、物流大数据分析等。研究方法涉及混合整数规划、非线性规划、随机规划、鲁棒优化、元启发式算法、机器学习等。
+先后主持国家自然科学基金项目三项、国家重点研发计划课题一项、国家科技支撑计划项目课题三项，主持了广东省部产学研合作项目一项、广东省自然科学基金项目一项、地市级科技项目三项。此外，还主持了多家大型企业或政府部门的物流运作优化、物流信息化、物流园区规划等方面的横向课题，如华为海思、唯品会、苏宁电器、南方电网、中国移动、中国石油、威豹金融押运等。研发的物流机器人产品已实现成果转化。
+在Operations Research, Transportation Science, European Journal of Operational Research, Transportation Research Part B, IEEE T-ASE, Transportation Research Part E, Omega, International Journal of Production Economics, Computers & OR, Computers & IE等重点期刊上发表论文多篇。主编教材一部，合作出版专著4部。担任TRE编委，交通物流国际会议T-LOG常任联合主席，全国物流标准化技术委员会。2009年被认定为深圳市国家级领军人才。
+主要项目 
+国家自然科学基金面上项目“考虑系统弹性的服务网络鲁棒优化研究”
+国家自然科学基金面上项目“不确定条件下移动设施路径问题的时空优化研究”
+国家自然科学基金青年基金项目“基于时间地理学的城市物流配送时空优化分析”
+国家科技部重点研发计划项目“区域遥感协同监测应急服务体系”
+国家科技支撑计划课题：集装箱供应链服务平台研发与应用
+国家科技支撑计划项目：基于RFID技术的智能集装箱及其公共服务系统开发、
+广东省部产学研项目：基于物联网的制造业供应链一体化管理及行业应用研究
+深圳市基础研究（学科布局）项目：物流末端配送机器人关键技术研究
+深圳市科技研发计划项目：卡车车联网与物流电子交易平台关键技术与应用
+AMR智能调度系统算法子系统，企业委托
+RCS机器人调度系统，企业委托
+即时配送骑手调度算法，企业委托
+机场作业调度算法，企业委托
+环形穿梭车调度算法，企业委托
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Mingyao Qi, Ruiwei Jiang, Siqian Shen*. Sequential Competitive Facility Location: Exact and Approximate Algorithms, Operations Research, 2024, 72(1), 300-316.
+[2] Xin Wang, Ruiwei Jiang, Mingyao Qi*. A Robust Optimization Problem for Drone-based Equitable Pandemic Vaccine Distribution with Uncertain Supply. Omega, 2023, 119, 102872.
+[3] Mingyao Qi*, Xinru Hao, Meng Yuan. An Optimal Layout Pattern-Based Solution Approach to the Extended Machine Layout Problem With Multirow Multicolumn Structure, IEEE Transactions on Automation Science and Engineering, 2022,20(2), 1408-1428.
+[4] Jing He, Xinglu Liu, Qiyao Duan, Wai Kin Victor Chan, Mingyao Qi*. Reinforcement learning for multi-item retrieval in the puzzle-based storage system. European Journal of Operational Research, 2023, 305 (2), 820-837.
+[5] Shijia Hua, Wenjia Zeng, Xinglu Liu, Mingyao Qi*. Optimality-guaranteed algorithms on the dynamic shared-taxi problem. Transportation Research Part E: Logistics and Transportation Review, 2022, 164, 102809.
+[6] Bingqian Wang, Xiuqing Yang, Mingyao Qi*. Order and rack sequencing in a robotic mobile fulfillment system with multiple picking stations. Flexible Services and Manufacturing Journal, 2022, 1-39. 
+[7] Yongsen Zang, Meiqin Wang, Mingyao Qi*. A column generation tailored to electric vehicle routing problem with nonlinear battery depreciation. Computers & Operations Research, 137(2022): 105527.
+[8] Xiaowen Li, Xiuqing Yang, Canrong Zhang, Mingyao Qi*. A simulation study on the robotic mobile fulfillment system in high-density storage warehouses. Simulation Modelling Practice and Theory, 112 (2021): 102366.
+[9] Guofang Duan, Canrong Zhang, Priscila Gonzalez, Mingyao Qi. Performance evaluation for Robotic Mobile Fulillment Systems with time-varying arrivals. Computers & Industrial Engineering, 158 (2021): 107365.
+[10] Zujian Wang, Mingyao Qi*. Robust service network design under demand uncertainty. Transportation Science, 2020, 54 (3), 676-689.
+[11] Zujian Wang, Mingyao Qi*, Chun Cheng, Canrong Zhang. A hybrid algorithm for large-scale service network design considering a heterogeneous fleet. European Journal of Operational Research, 2019, 276(2): 483-494.
+[12] Chun Cheng, Mingyao Qi*, Ying Zhang, Louis-Martin Rousseau. A Two-Stage Robust Approach for the Reliable Logistics Network Design Problem. Transportation Research Part B: Methodological, 2018, 111(2018):185-202.
+[13] Mingyao Qi, Xiaowen Li, Xuejun Yan, Canrong Zhang*. On the evaluation of AGVS-based warehouse operation performance. Simulation Modelling Practice and Theory, 2018, 87(2018):379-394.
+[14] Mingyao Qi*, Mingfei Xia, Ying Zhang, Lixin Miao. Competitive facility location problem with foresight considering service distance limitations. Computers & Industrial Engineering, 2017, 112:483-491.
+[15] Chun Cheng, Peng Yang, Mingyao Qi*, Louis-Martin Rousseau. Modeling a green inventory routing problem with a heterogeneous fleet. Transportation Research Part E: Logistics and Transportation Review, 2017, 97:97-112. 
+[16] Chun Cheng, Mingyao Qi*, Xingyi Wang, Ying Zhang. Multi-period inventory routing problem under carbon emission regulations. International Journal of Production Economics, 2016, 182: 263-275.
+[17] Mingyao Qi*, Cheng Peng, Xiaoyu Huang. A General Metaheuristic Algorithm for a Set of Rich Vehicle Routing Problems. Transportation Research Record: Journal of the Transportation Research Board, 2016, 2548: 97-106.
+[18] Ying Zhang, Lawrence V. Snyder, Mingyao Qi, Lixin Miao*. A Heterogeneous Reliable Location Model with Risk Pooling under Supply Disruptions. Transportation Research Part B: Methodological,83 (2016) 151–178.
+[19] Ying Zhang, Mingyao Qi*, Wei-Hua Lin, Lixin Miao. A metaheuristic approach to the reliable location routing problem under disruptions. Transportation Research Part E: Logistics and Transportation Review, 2015, 83:90-110.
+[20] Ying Zhang, Mingyao Qi*, Lixin Miao, Erchao Liu. Hybrid metaheuristic solutions to inventory location routing problem. Transportation Research Part E: Logistics and Transportation Review, 2014, 70:305-323 
+[21] Mingyao Qi，Wei-Hua Lin*, Nan Li, Lixin Miao. A Spatiotemporal Partitioning Approach for Large-scale Vehicle Routing Problems with Time Windows, Transportation Research Part E: Logistics and Transportation Review, 2012, 48:248-257.
+[22] 吴国涛，戚铭尧，张莹，陈吉. 考虑成本上涨的多商品流问题. 计算机集成制造系统，2015，21(12) : 3330-3335.
+[23] 戚铭尧，吴涛，张新. 车辆路径问题：从时间地理学的视角. 地球信息科学, 2015, 17(1) : 1-9.
+[24] 张莹，刘二超，戚铭尧. 考虑支撑面约束的三维装箱问题快速求解方法. 交通运输系统工程与信息, 2014, 14(2): 192-198. 
+代表性著作 
+[1] 《企业物流管理》
+[2] 《物流空间信息服务与应用》
+[3] 《IT企业物流运营实务》
+[4] 《物流信息技术》
+[5] 《生产物流》 
+主要专利成果 
+一种从地图数据中获取多车辆导航路径的方法（专利号：ZL201110281769.1）
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+中国智能交通协会科技进步一等奖一项
+广东省科技进步二等奖一项
+深圳市科技进步二等奖一项
+中国物流与采购联合会科技进步奖一等奖一项、二等奖两项
+中国物流学会优秀论文一等奖一项、二等奖两项
+入选Transportation Research Part E: Logistics and Transportation Review2019年度最多引用论文(most cited papers) 
+Transportation Research Part E: Logistics and Transportation Review Outstanding Reviewer （2014-2015）
+Outstanding paper award: 2021 IEEE IEEM conference.
+ </奖励荣誉>

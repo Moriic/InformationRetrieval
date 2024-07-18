@@ -1,0 +1,48 @@
+{"title":"陈振","cnUrl":"http://www.sigs.tsinghua.edu.cn/cz/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/3b/1d/798167db423eb71648f9d6891e08/36c16d11-3c66-4e21-9158-2a704b86a3be.jpg","email":"zhen.chen@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+陈振博士，清华大学深圳国际研究生院教研系列副教授、博士生导师。2016年获得日本东京大学化学生命工程专业博士学位，师从于Takuzo Aida教授；2017年在香港大学化学系从事博士后研究，合作导师是任詠华院士；2021年6月入职清华大学深圳国际研究生院材料研究院。陈博士致力于功能高分子和超分子组装软材料研究，以一作（共一）身份在Nature Materials, Nature Communications, JACS, Angew. Chem. Int. Ed, PNAS等学术期刊上发表论文10篇以上，以第一完成人获授权专利1项，曾获得日本政府文部科学省奖学金。
+Opening:
+Chen’s group is looking for highly motivated Graduate Students and Postdoctoral Fellows with background in one of the following fields including polymeric/organic soft materials, supramolecular chemistry, and chemical engineering. 
+Applicants should send their CV to zhen.chen@sz.tsinghua.edu.cn.
+教育经历 
+2011年10月-2016年12月，东京大学，化学生命工程专业，博士（导师：Takuzo Aida）
+2008年9月-2011年6月，清华大学，材料科学与工程专业，硕士（导师：和亚宁）
+2004年9月-2008年6月，武汉理工大学，化学工程与工艺专业，学士
+工作经历 
+2023年12月-至今，清华大学深圳国际研究生院，材料研究院，副教授
+2021年6月-2023年12月，清华大学深圳国际研究生院，材料研究院，助理教授
+2017年4月-2021年6月，香港大学，化学系，博士后（合作导师：任詠华院士）
+2014年10月-2017年3月，东京大学，工学院，研究助理
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+The main focus of Chen’s group is on creating advanced soft materials including liquid crystals, 2D porous polymers, biomimetic materials, functional supramolecular polymers, etc., with controlled micro- and macroscopic structures, and exploring their applications in green synthesis (autocatalytic systems), energy store (organic batteries) and membrane engineering (desalination and gas separation), for a sustainable future. Besides, the manipulation of interfacial supramolecular interactions between designed molecules and nanomaterials including 2D nanosheets, cellulose nanocrystals, carbon nanotubes, graphene oxide, clusters and nanoparticles, etc. are of our great interest for the development of functional composites towards the multicomponent co-assembly and 3D printing. Our research projects are listed as follows:
+1) Design, construction and applications of supramolecular autocatalytic systems;
+2) Development of polymeric membranes and artificial water channels for ion sieving;
+3) Development of organic cathode materials for batteries.
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Chen, Z., Suzuki, Y., Imayoshi, A., Ji, X., Rao, K. V., Omata, Y., Miyajima, D., Sato, E., Nihonyanagi, A., Aida, T. Solvent-free autocatalytic supramolecular polymerization. Nat. Mater., 2022, 21, 253–261.
+[2]Poon, J. K.-L., Chen, Z. (Equal contribution), Leung, S. Y.-L., Leung, M.-Y., Yam, V. W.-W. Geometrical manipulation of complex supramolecular tessellations by hierarchical assembly of amphiphilic platinum(II) complexes. Proc. Natl. Acad. Sci. USA, 2021, 118, e2022829118. 
+[3]Yao, L., Chen, Z., Zhang, K., Yam, V. W.-W. Heterochiral self-discrimination-driven supramolecular self-assembly of decanuclear gold(I)-sulfido complexes into 2D nanostructures with chiral anions-tuned morphologies. Angew. Chem. Int. Ed., 2020, 59, 21163–21169.
+[4]Chen, Z., Chan, M. H.-Y., Yam, V. W.-W. Stimuli-responsive two-dimensional supramolecular polymers based on trinuclear platinum(II) scaffolds: reversible modulation of photoluminescence, cavity size, and water permeability. J. Am. Chem. Soc., 2020, 142, 16471–16478.
+[5]Chen, Z., Yam, V. W.-W. Precise size-selective sieving of nanoparticles using a highly oriented two-dimensional supramolecular polymer. Angew. Chem. Int. Ed., 2020, 59, 4840–4845. 
+[6]Chen, Z., Chan, A. K.-W., Wong, V. C.-H., Yam, V. W.-W. A supramolecular strategy toward an efficient and selective capture of platinum(II) complexes. J. Am. Chem. Soc., 2019, 141, 11204–11211.
+[7]Chen, Z., Chan, Y.-T., Miyajima, D., Kajitani, T., Kosaka, A., Fukushima, T., Lobez, J. M., Aida, T. A design principle of polymers processable into 2D homeotropic order. Nat. Commun., 2016, 7, 13640.
+[8]Chen, Z., He, Y., Wang, Y., Wang, X. Amphiphilic diblock copolymer with dithienylethene pendants: synthesis and photo-modulated self-assembly. Macromol. Rapid Commun., 2011, 32, 977–982.
+代表性著作 
+主要专利成果 
+陈振, 和亚宁, 郭妙才, 王晓工, 一种含手性二脱水己糖醇的二酐单体的制备方法。专利号: ZL200910092469.1, 授权公告日：2011.11.16.
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2021年获深圳市海外高层次人才
+2011年获日本政府文部科学省奖学金
+2010年获“清华之友”奖学金
+ </奖励荣誉>

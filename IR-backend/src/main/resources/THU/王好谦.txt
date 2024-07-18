@@ -1,0 +1,70 @@
+{"title":"王好谦","cnUrl":"http://www.sigs.tsinghua.edu.cn/whq/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/64/62/3a9ce9ee44c6801529c6ac90233f/26a7eb45-e551-46e0-8bda-c2062b883860.jpg","email":"wangyizhai@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+主要从事计算摄像、人工智能研究
+教育经历 
+工作经历 
+2018年11月至今清华大学深圳国际研究生院，教授
+2011年11月~2018年10月清华大学深圳研究生院，副教授
+2008年1月~2011年11月清华大学深圳研究生院，讲师
+2005年10月~2008年1月，清华大学，博士后
+2014年2月~2015年2月美国加州伯克利分校，访问学者
+学术兼职 
+国家自然科学基金委函评专家
+深圳市科创委项目评审专家
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+视频处理与宽带通信，全日制研究生秋季48学时
+现代信号处理，全日制研究生秋季48学时
+大数据与智能处理，工程博士春季32学时
+工程领域重大专题研，讨工程博士秋季16学时
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+立体视频是新一代信息获取、传播与显示的前沿核心技术，具有高沉浸感、宽视场等特点，相比平面视频，场景几何数据信息显著增长，面临着多项理论与技术挑战。近五年致力于立体视频视频特征提取和重构的基础理论与工业检测关键技术研究，发表学术论文28篇，包括顶级期刊IEEE TPAMI在内的SCI收录11篇，获20余项国家发明专利授权（国际1项公开）。获2016年国家科技进步二等奖（第二完成人）及2015年广东省科学技术一等奖（第二完成人）各一项。 
+主要项目 
+国家自然科学基金委员会，重点项目，61831014，宽视场层析计算成像理论，2019-1至2023-12，291万，在研，子课题负责人。
+国家自然科学基金委员会，重点项目，61531014，多视光场计算理论与关键技术研究，2016-1至2020-12，290万，在研，子课题负责人。
+国家自然科学基金委员会，面上项目，61571259，2-D系统滤波辅助的数据驱动变光照动态纹理合成，2016-1至2019-12，69万，已结题，主持。
+科技部，国家863课题，2015AA015901，基于光场的真三维视频采集与生成，2015-1至2017-12，752万，已结题，主持。
+深圳市工信局，创新链-产业链项目，面向新型显示终端关键工艺的系列成套智能装备研发及产业化，2018-1至2021-6，4500万，在研，子课题负责人。
+广东省科技厅，重点项目，基于计算机视觉的高性能虚拟现实位置跟踪关键技术研发，2018-1至2020-12，300万，已结题，主持。
+ </研究领域>
+<研究成果>
+代表性论文 
+1. B. Zhang, Y. Guo, Y. Li, Y. He, HQ Wang, QH Dai, “Memory Recall: A Simple Neural Network Training Framework Against Catastrophic Forgetting”, IEEE Transactions on Neural Networks and Learning Systems (TNNSL, IF: 8.793), 2021. 通讯作者
+2. L.Song, HQ Wang, and Z. Wang, “BridgingtheGapbetween2Dand3DContextsinCTVolumeforLiverandTumorSegmentation”, IEEE Journal of Biomedical and Health Infortmatics (JBHI, IF: 5.772), 2021. 通讯作者
+3. HQ Wang, X. Hu, X. Zhao and Y. Zhang, “Wide Weighted Attention Multi-Scale Network for Accurate MR Image SuperResolution”, IEEE Trans on Circuits and Systems for Video Tech. (TCSVT, IF:4.133), doi:10.1109/TCSVT.2021.3070489. 2021. 通讯作者
+4. Li X，Zhang G，Wu J, Zhang Y, Zhao Z, Lin X, Qiao H, Xie H, Wang HQ, Fang L, Dai Q, Reinforcing neuron extraction and spike inference in calcium imaging using deep self-supervised learning, Nature Methods (IF: 30.8), 2021 通讯作者
+5. H. Wang, Z. Li and HQ Wang, “Few-Shot Steel Surface Defect Detection,” IEEE Transactions on Instrumentation and Measurement (TIM, IF: 4.016), 2021. 通讯作者
+6. X. Li, G. Zhang, H. Qiao, B. Feng, Y. Deng, J. Wu, Y. He, J. Yun, X. Lin, H. Xie, Wang HQ*, Q. Dai. Unsupervised content-preserving transformation for optical microscopy, Light: Science & Applications(IF: 13.7), 2021. 通讯作者
+7. Y. Zhang, Y. Feng, X. Liu, D. Zhai, X. Ji, HQ. Wang, and Q. Dai, “Color-Guided Depth Image Recovery with Adaptive Data Fidelity and Transferred Graph Laplacian Regularization”, IEEE Trans. on Circuits and Systems for Video Technology(TCSVT, IF: 4.133), DOI 10.1109/TCSVT. 2018.2890574, 2020. 通讯作者
+8. Wang HQ* , Y. Luo, W. An, Q. Sun, J. Xu, and L. Zhang. PID Controller-Based Stochastic Optimization Acceleration for Deep Neural Networks, IEEE Transactions on Neural Networks and Learning Systems (TNNSL, IF: 8.793), 2020. 通讯作者
+9. Song L, Lin JZ, Wang Jane, Peng YB, Zhang YB, Wang HQ*. An End-to-end Multi-task Deep Learning Framework for Skin Lesion Analysis, IEEE Journal of B iomedical and Health Infortmatics (JBHI, IF: 5.772), 2020. 通讯作者.
+10. J. Xu, Y. Hou, D. Ren, L. Liu, F. Zhu, M. Yu , Wang HQ*, and L. Shao, STAR: A Structure and Texture Aware Retinex Model, IEEE Transactions on Image Processing (TIP, IF: 9.34), Vol. 29, p. 5022-5037, 2020.通讯作者
+11. X. Hu, R. Ma, Z. Liu, Y. Cai, X. Zhao, Y. Zhang, Wang HQ, Pseudo 3D Auto Correlation Network for Real Image Denoising, IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR), 2021. CCF A类会议, 通讯作者
+12. Yuanhao Cai , Xiaowan Hu, Haoqian Wang, Yulun Zhang, Hanspeter Pfister, Donglai Wei, Learning to Generate Realistic Noisy Images via Pixel-level Noise-aware Adversarial Training, NeurIPs, 2021. CCF A类会议, 通讯作者
+13. Xiaowan Hu ,YuanhaoCai, ZhihongLiu1, HaoqianWang, and Yulun Zhang, Multi-Scale Selective Feedback Network with Dual Loss for Real Image Denoising, International Joint Conference on Artificial Intelligence (IJCAI), 2021. CCF A类会议, 通讯作者
+14. Y. Cai, Z. Wang, Z. Luo, B. Yin, A. Du, HQ Wang, X. Zhang, X. Zhou, E. Zhou, and J. Sun, Learning Delicate Local Representations for Multi-Person Pose Estimation, ECCV, 2019 
+15. W. An, H. Wang, Q. Sun, J. Xu, Q. Dai, L. Zhang, “A pid controller approach for stochastic optimization of deep networks”, Proc. of IEEE Conf. on Computer Vision and Pattern Recognition (CVPR) . 2018: 8522-8531.
+代表性著作 
+主要专利成果 
+基于多视角二维图像并结合SIFT算法的三维重建方法，发明专利
+一种提取视频摘要的方法和装置，发明专利 
+一种三维对象的检索和装置，发明专利 
+三维视频采集的控制方法与系统，发明专利
+一种平面视频转立体视频的方法和装置 ，发明专利
+一种多视点视频编码边信息融合的方法 ，发明专利 
+一种深度图求取方法及装置 ，发明专利 
+人体三维模型配准方法及装置 ，发明专利
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+1. 王好谦(2/15)；新一代立体视觉关键技术及产业化，国家科技部，国家科技进步奖，二等奖，2016(戴琼海；王好谦；索津丽；张永兵；范静涛；杨艺；黄道权；申优桦；王兴政；金欣；刘烨斌；李一鹏；赵严；金刚；李秀）
+2. 王好谦(2/14)；动态立体视觉系统关键技术及应用，广东省科技厅，广东省科学技术奖，一等奖，2015(戴琼海；王好谦；范静涛；张永兵；张磊；金欣；黄道权；申优桦；杨余久；郭振华；李秀；王兴政；韦建端；黄建兴）
+3. 王好谦(3/7)；阵列像感器宽视场高分辨光场成像关键技术与应用，电子学会，科技进步一等奖，2019(方璐；林星；王好谦；郭雨辰；王德勇等）
+ </奖励荣誉>

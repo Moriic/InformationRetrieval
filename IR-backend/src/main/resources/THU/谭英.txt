@@ -1,0 +1,51 @@
+{"title":"谭英","cnUrl":"http://www.sigs.tsinghua.edu.cn/ty/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/0b/14/a60d4c954ff19d7cf1d71b89c313/f2c18337-5c15-4a5a-bc4c-16c3e2643679.png","email":"tan.ying@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+2001年09月-2005年07月，华中师范大学应用化学专业本科毕业
+2005年09月-2010年07月，华中师范大学/南开大学化学专业博士
+2010年07月-2012年07月，清华大学博士后
+2012年10月至今，清华大学深圳研究生院生命与健康学部讲师、副教授
+2016年10月-2017年10月，新加坡国立大学访问学者
+教育经历 
+工作经历 
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《生命分析化学》、《现代仪器分析与方法》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+研究方向包括肿瘤相关的化学生物学、分子生物学、细胞生物学、生物信息学，围绕药物分子（小分子、核酸、多肽）的研发及作用机制、生物传感器与分子诊断、人工智能与生物信息学等领域展开研究。主持国家自然基金、深圳市学科布局、深圳市基础研究等项目，参与国家科技部重点研发项目、国家973、国家863等项目。在Chem、JACS、Nat. Mach. Intell.、Small、Biosens. Bioelectron.、ACS Appl. Mater. Inter.等期刊上发表论文90余篇。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Bao-Cheng Wang, Tingting Fan, Fen-Ya Xiong, Peng Chen, Kai-Xin Fang, Ying Tan,* Liang-Qiu Lu,* and Wen-Jing Xiao. De Novo Construction of Chiral Aminoindolines by Cu-Catalyzed Asymmetric Cyclization and Subsequent Discovery of an Unexpected Sulfonyl Migration. Journal of the American Chemical Society, 2022, https://doi.org/ 10.1021 /jacs.2c08090.
+[2]Xinyan Zhang, Zhilin Zhang, Xiaoqi Xue, Tingting Fan, Chunyan Tan, Feng Liu, Ying Tan,*and Yuyang Jiang. PROTAC Degrader of Estrogen Receptor α Targeting DNA-Binding Domain in Breast Cancer. ACS Pharmacology & Translational Science, 2022, https://doi.org/10.1021/ acsptsci.2c00109.
+[3]Junyue Chen, Gerile Oudeng, Hongtao Feng, Sixi Liu, Hung-Wing Li, Yi-Ping Ho, Yan Chen,* Ying Tan,* and Mo Yang*. 2D MOF Nanosensor-Integrated Digital Droplet Microfluidic Flow Cytometry for In Situ Detection of Multiple miRNAs in Single CTC Cells. Small, 2022, 2201779.
+[4]Weijie Chen, Huijuan Chen, Yurou Huang, Ying Tan,* Chunyan Tan,* Yuan Xie, and Jun Yin*. Molecular Design and Photothermal Application of Thienoisoindigo Dyes with Aggregation-Induced Emission. ACSApplied Bio Materials. 2022, 5, 3428-3437.
+[5]Weijie Chen, Chen Zhang, Huijuan Chen, Kun Zang, Sheng Hua Liu, Yuan Xie, Ying Tan,*and Jun Yin*. Near-Infrared Thienoisoindigos with Aggregation-Induced Emission: Molecular Design, Optical Performance, and Bioimaging Application. Analytical Chemistry, 93, 3378-3385, 2021. (cover paper)
+[6]Bifei Li, Jianhui Li, Wei Gan*, Ying Tan*, and Qunhui Yuan*. Unveiling the Molecular Dynamics in a Living Cell to the Subcellular Organelle Level Using Second-Harmonic Generation Spectroscopy and Microscopy. Analytical Chemistry, 2021, 93, 42, 14146–14152.
+[7]Junyue Chen, Tian Jin, Jingfeng Li, Xinyan Zhang, Feng Liu, Chunyan Tan, and Ying Tan*. One-Pot Simultaneous Detection of Multiple DNA and MicroRNA by Integrating the Cationic-Conjugated Polymer and Nuclease-Assisted Cyclic Amplification. ACS Applied Bio Materials. 4, 820-828, 2021. 
+[8]Xiaoxie Ma, Chen Zhang, Lan Feng, Sheng Hua Liu, Ying Tan,* Jun Yin*. Construction and Bioimaging Application of Novel Indole Heptamethine Cyanines Containing Functionalized Tetrahydropyridine Ring. Journal of Materials Chemistry B, 8, 9906, 2020. 
+[9]Junyue Chen, Tingting Fan, Yan Chen, Lizhen Ye, Chen Zhang, Feng Liu, Ying Qin, Ying Tan*, Yuyang Jiang*. Zeptomolar-level one-pot simultaneous detection of multiple colorectal cancer microRNAs by cascade isothermal amplification. Biosensors and Bioelectronics. 169, 112631, 2020. 
+[10]Tian Jin, Jiewen Zhang, Yuanfang Zhao, Xiaoting Huang, Chunyan Tan, Shuqing Sun*, Ying Tan*. Magnetic bead-gold nanoparticle hybrids probe based on optically countable gold nanoparticles with dark-field microscope for T4 polynucleotide kinase activity assay. Biosensors and Bioelectronics. 150, 111936, 2020. 
+[11]Huan Shi, Tian Jin, Jiewen Zhang, Xiaoting Huang, Chunyan Tan, Yuyang Jiang,* Ying Tan*, A novel aptasensor strategy for protein detection based on G-quadruplex and exonuclease III-aided recycling amplification. Chinese Chemical Letters. 31, 155-158, 2020.
+[12]Zhiqiang Xu, Xiaoting Huang, Ming-Xing Zhang, Weijie Chen, Sheng Hua Liu, Ying Tan,* and Jun Yin*, Tissue Imaging of Glutathione-Speciﬁc Naphthalimide−Cyanine Dye with Two-Photon and Near-Infrared Manners.Analytical Chemistry,91, 11343-11348, 2019.
+[13]Zhiqiang Xu, Xiaoting Huang, Xie Han, Di Wu, Bibo Zhang, Ying Tan*, Meijiao Cao, Sheng Hua Liu, Jun Yin*, Juyoung Yoon*. A Visible Near-Infrared, Dual Channel Fluorescence-On Probe for Highly Selective Tracking of Mitochondrial Glutathione. Chem. 4, 1609-1628, 2018.  
+[14]Shuwen Liu, Naihan Xu, Chunyan Tan, Wei Fang, Ying Tan*, Yuyang Jiang. A sensitive colorimetric aptasensor based on trivalent peroxidasemimic DNAzyme and magnetic nanoparticles. Analytica Chimica Acta. 1018, 86-93, 2018.
+[15]Yu Liu, Pan Wu, Jianhua Jiang, Jiatao Wu, Yan Chen, Ying Tan*, Chunyan Tan*, and Yuyang Jiang. Conjugated Polyelectrolyte Nanoparticles for Apoptotic Cell Imaging.ACS Applied Materials & Interfaces. 8 (34), 21984-21989,2016.
+[16]Chen, Z.; Wu, P.; Cong, R.; Xu, N.; Tan, Y.*; Tan, C*.; Jiang, Y., Sensitive Conjugated-Polymer- Based Fluorescent ATP Probes and Their Application in Cell Imaging. ACS Applied Materials & Interfaces.8, 3567-3574, 2016. 
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2021年深圳市优秀教师
+清华大学第九届青年教师教学大赛三等奖
+清华大学优秀硕士学位论文指导教师
+ </奖励荣誉>

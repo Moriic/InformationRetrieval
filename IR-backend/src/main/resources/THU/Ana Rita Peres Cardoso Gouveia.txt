@@ -1,0 +1,53 @@
+{"title":"Ana Rita Peres Cardoso Gouveia","cnUrl":"http://www.sigs.tsinghua.edu.cn/Ana Rita/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/e3/05/a6cf8d7541ebb85a586e4bdad1af/6a114a0f-4e10-42a5-b977-de402b0f23b2.jpg","email":"anagouveia@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2007/09-2012/2, PhD in Ecology/Invertebrate Zoology, Imperial College London, Department of Ecology and Environmental Sciences
+2005/11-2006/11, MSc in Wild Animal Biology, Royal Veterinary College University of London
+2001/09-2005/06, Bsc(Honours) in Biology and Marine Science, The University of Glamorgan, Life science department
+工作经历 
+2023/02-present, Assistant Professor, Tsinghua Shenzhen International Graduate School, China
+2019/05-2021/06, Postdoctoral researcher, Toledo University, USA 
+2016/01-2019/08, Postdoctoral researcher, 中国科学院西双版纳热带植物园
+2013/01-2016/01, Postdoctoral researcher, Palacky University Olomouc 
+学术兼职 
+2016/03-2019/03, Editorial board member, Journal of Sustainable Forestry 
+2017/12-2018/11, Researcher, Ton Duc Thang University, Vietnam 
+2017/10, Teaching 2-day course, Advanced Field Course Ecology and Conservation 
+2017/03, Chair, Symposium at the Asia Pacific Chapter meeting (ATBC) 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+I am a quantitative population ecologist. My work focuses on understanding the patters and drivers of population dynamics, at various spatiotemporal scales. My approach is to apply mathematical models to understand such systems and its applications span from informed management strategies and policies in invasive species to conservation of endangered ones. I am also fascinated by how living organisms interact with each other and cope with different stressors in urban environments. 
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+Daochao Xing, Ana Gouveia, Yuxiong Huang, Ciara Chun Chen, Xiaoshan Zhu, “Non-charismatic species need protection, too.”, Science, 384, 6695, 519, May 2024, doi: 10.1126/science.ado4937
+F. Luo, T. C. Ling, J. D. Wickham, F. Bibi, and A. Gouveia, ‘Differential Dominance of Ecological Processes Shapes the Longhorn Beetle Community in Tropical Rainforests and Temperate Forests of Southwest China’, Insects, vol. 15, no. 3, p. 166, Feb. 2024, doi: 10.3390/insects15030166.
+S. Jaffe, S. S. Qian, C. M. Mayer, P. M. Kocovsky, and A. Gouveia, ‘Assessing the probability of grass carp (Ctenopharyngodon idella) spawning in the Sandusky River using discharge and water temperature’, J Great Lakes Res, p. 102303, Feb. 2024, doi: 10.1016/J.JGLR.2024.102303.
+A restructured Bayesian approach to estimate the abundance of rare and invasive fish Biological Invasions (2023). DOI:10.1007/s10530-023-03006-6Authors: Ana Gouveia, Song Qian; Christine Mayer; Judy Smith; Jonathan Bossenbroek; William D. Hintz; Robert Mapes; Eric Weimer; John Navarro; John M. Dettmers et al.
+Density-related pattern of variation in body growth, body size and annual productivity in the common hamster Mammalian Biology 91(34–40 ), March 2018 https://doi.org/10.1016/j.mambio.2018.03.006 Authors: Ivana Petrová, Martina Petriláková, Jan Losík, Ana Gouveia, Ira E. D. Damugi & Emil Tkadlec
+Illegal pangolin trade in northernmost Myanmar and its links to India and China
+Global Ecology and Conservation 10(C):23-31 · February 2017
+DOI: 10.1016/j.gecco.2017.01.006, Authors: Mingxia Zhang, Ana Gouveia, Tao Qin, Ruichang Quan, Vincent Nijman
+Long-Term Patterns of population dynamics in the field vole from Central Europe: cyclic patterns with dampening amplitude
+Population Ecology 57(4) · September 2015, DOI: 10.1007/s10144-015-0504-3
+Authors: Ana Gouveia, Vladimír Bejček, Jiří Flousek, František Sedláček, Karel Šťastný, Jan Zima, Nigel G. Yoccoz, Nils Chr. Stenseth, Emil Tkadlec
+Dissecting geographic variation in population synchrony using the field vole in the Czech Republic as a testbed
+Ecology and Evolution 6(1) · December 2015
+DOI:10.1002/ece3.1863, Authors: Ana Gouveia, Ottar Bjørnstad, Emil Tkadlec
+Barn owl productivity response to variability of vole populations
+PLoS ONE 10(12): e0145851 · December 2015, DOI: 10.1371/journal.pone.0145851
+Authors: Pavluvčík P, Poprach K, Machar I, Losík J, Gouveia A, Tkadlec E
+Effects of different calcium concentrations supplemented on the diet of Partula gibba on their morphometric growth parameters, weight, and reproduction success Malacologia 54(1):139-146 · October 2011 DOI: 10.4002/040.054.0105, Authors: Ana Gouveia, Paul Pearce-Kelly, Simon Leather, Donald Quicke
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+CAS President's International Fellowship Initiative (PIFI)
+China Postdoctoral Fund
+ </奖励荣誉>

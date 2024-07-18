@@ -1,0 +1,76 @@
+{"title":"任政儒","cnUrl":"http://www.sigs.tsinghua.edu.cn/rzr/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/d8/03/347001704076a91ed9ee0de943e7/f02d21c1-4a38-45d5-9953-aa59b8ea064d.jpg","email":"zhengru.ren@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+智能海洋工程装备与作业技术是以传感器技术与自动控制理论为基础，以海洋资源开发全生命周期内涉及到的大型海洋工程装备和海上作业技术为应用对象，研究在安装、运维、拆解等过程中的数字化、自动化和智能化共性理论与关键技术。针对复杂海洋风浪流载荷作用下海洋工程装备的多场多体耦合问题，明晰耦合系统动力特性与作业性分析方法，研究多源信息融合方法和特征提取技术，提出主动感知、控制、决策策略，旨在提升海洋工程自动化和智能化水平，推动海洋资源开发降本增效，维护国家海洋权益。
+团队负责人任政儒，男，1989年生，清华大学深圳国际研究生院海洋工程研究院助理教授，博士生导师，国家自然科学基金优秀青年科学基金项目（海外）项目获得者（2021）。共发表学术论文60余篇，其中SCI期刊论文38篇（一作/通讯20篇，一作ESI高被引期刊5篇，一作ESI热点论文2篇），引用量1246（2024年3月25日，Google scholar）。已授权中美发明专利15项，其中第一发明人7项。担任多家国际权威期刊及学术会议审稿人。
+目前课题组有在博士后1人、读博士研究生2人、硕士研究生7人，团队成员具有多学科背景，致力于服务于国家海洋战略需求，结合水动力学与控制理论，做“懂海洋、真需求、强交叉”的理论与应用研究。课题组科研和学术氛围浓厚，欢迎具备船舶、海洋、机械、土木、水利、电子、计算机等力学或自动化等背景的同学踊跃报考，课题组目前开放博士后、博士研究生、硕士研究生申请，感兴趣的同学请将个人简历发至zhengru.ren@sz.tsinghua.edu.cn。
+此外，本课题组长期招收科研助理（1年及以上）和学生实习生（线上-线下结合6个月以上或线下3个月以上）申请，感兴趣的同学请将个人简历发至xusinmin@sz.tsinghua.edu.cn。
+教育经历 
+2016年1月-2019年8月，挪威科技大学，海洋技术专业，博士
+2013年8月-2015年6月，挪威科技大学，海洋技术专业，硕士
+2008年9月-2012年6月，大连理工大学，船舶与海洋工程专业，学士
+工作经历 
+2022年2月-至今，清华大学深圳国际研究生院，助理教授、博导
+2019年8月-2021年8月，挪威科技大学，博士后、特聘博导、特聘硕导
+2019年4月-2019年8月，挪威科技大学，研究员
+学术兼职 
+Marine Structures、Ocean Engineering、IEEE Transactions on Neural Networks and Learning Systems、IEEE Transactions on Intelligent Transportation Systems等期刊审稿人
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+· 海上作业及运动仿真(85990832-200)，2学分，国际院课程
+· 动力定位系统的制导、导航和控制(85991032-200)，2学分，国际院课程
+· 非线性控制原理与应用(85991242-200)，2学分，国际院课程
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+课题组未来主要研究领域和内容包括：
+（1）风浪流立体感知-决策-控制一体化理论和技术
+风浪流海洋动力环境随机且多变，与结构非线性耦合效应复杂，是智能海洋工程精确控制和决策过程中的核心挑战。现有基于卫导和惯导等有限信息的高增益反馈控制策略易导致机械磨损和系统鲁棒性下降；因此，课题组重点攻关风浪流立体感知-决策-控制一体化理论和技术。旨在提出基于多目视觉、激光雷达、光纤光栅等先进传感技术的环境感知方法；结合多体动力学、水动力学、空气动力学等力学理论，实现多时间尺度的环境荷载预测；融合传感器融合、非线性控制、机器学习等理论，将预估荷载作为前馈输入，以期提升响应预报精度和控制鲁棒性，助力海洋工程数字孪生研究，包括：
+· 基于多目视觉和激光雷达等多源信息融合的原位实时海浪感知，及在此基础上的多变海况下浮体-海浪耦合模型辨识和响应预报方法；
+· 基于海流场和地形感知的水下潜器流场重建和内波预警；
+· 基于超短时风浪感知的漂浮式风电场协同优化控制策略；
+（2）海洋工程智能装备和海洋机器人
+针对浮运、吊装、水下作业、跨介质巡检、海上风电安装等多种海上作业型式，研发基于线性致动、侍服电机、螺旋桨致动、柔索驱动等形式的海洋工程通用及新型装备，包括但不局限于动力定位系统、锚泊辅助动力定位系统、无人船、无人机、水下机器人、机械臂、吊装系统、柔索驱动并联系统、升沉补偿系统、减摇水舱、四足机器人等，并进一步研究和实现其在海洋环境下多运动体的制导、导航与非线性控制策略。此外，课题组还针对结构物失效和视情运维策略和装备进行研发。
+【注：水面无人船的导航和控制暂不是本课题组的重点研究方向，相关领域的博士研究生名额已满，暂不加设名额。】
+（3）海上作业的作业性分析理论与数智化无人远程运维系统研发
+海洋平台和海上作业无人化和智能化发展趋势明显，面相远程无人运维和无人作业需求，课题组计划在耦合动力学仿真、远程高速通信、高精度可视化、人机交互协同、视觉大模型决策支持等数智化领域开展研究，旨在实现，为我国海洋工程贡献新质生产力，并促进相关产业降本增效。
+主要项目 
+[1] 2022 -- 2025 国家自然科学基金优秀青年科学基金项目（海外）项目，复杂海洋环境下海基船载多源感知-决策-执行智能一体化海上作业研究，100--300万
+[2] 2022 -- 2024 深圳市 “鹏城孔雀计划”特聘岗位（B档），500万
+[3] 2023 -- 2025 国家重点研发计划“建筑与市政公用设施智慧运维理论与方法”- 面向多源运维数据的分布式边缘计算体系与网联架构，子课题负责人，90万, 2022YFC3801100
+[4] 2023 -- 2025 国家重点研发计划“*******技术”，子课题负责人，59万, 2022YFC3102603
+[5] 2024-2025深圳市科技重大专项“4000米级深海资源开发多用途缆控潜水器(ROV)关键技术研发”，60万
+[6] 2024-2026广东省基础与应用基础研究基金面上项目，“基于船舶运动的非平稳海浪谱原位感知多维度融合增强方法研究”，15万
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Zhengru Ren, Xu Han, Xingji Yu∗ , Roger Skjetne, Bernt Johan Leira, Svein Sævik, and Man Zhu. Data-driven simultaneous identification of the 6dof dynamic model and wave load for a ship in waves. Mechanical Systems and Signal Processing, 184:109422, 2023. [中科院小类一区 Top, 影响因子:6.823，ESI高被引、ESI热点].
+[2] Zhengru Ren, Xingwei Zhen∗ , Zhiyu Jiang, Zhen Gao, Ye Li, and Wei Shi. Underactuated control and analysis of active single blade installation. Marine Structures, 88:103338, 2023. [中科院小类一区 Top, 影响因子:3.458].
+[3] Behfar Ataei, Shuai Yuan, Zhengru Ren∗ , and Karl Henning Halse. Effects of structural flexibility on the dynamic responses of low-height lifting mechanism for offshore wind turbine installation. Marine Structures, 89:103399, 2023. [中科院小类一区 Top, 影响因子:3.458].
+[4] Zhengru Ren, Hongyu Zhou, Binbin Li, Zhenzhong Hu, Menghong Yu, and Wei Shi∗ . Localization and topological observability analysis of a moored floating structure using mooring line tension measurements. Ocean Engineering, 266(5):112706, 2022. [中科院小类一区 Top, 影响因子:3.795].
+[5] Hongyu Zhou, Zhengru Ren∗ , Mathias Marley, and Roger Skjetne. A guidance and maneuvering control system design with anti-collision using stream functions with vortex flows for autonomous marine vessels. IEEE Transactions on Control Systems Technology, 30(6):2630–2645, 2022. [中科院小类二区, 影响因子:5.485].
+[6] Zhengru Ren, Amrit Shankar Verma, Ye Li∗, Julie J.E. Teuwen, and Zhiyu Jiang. Offshore wind turbine operations and maintenance: A state-of-the-art review. Renewable & Sustainable Energy Reviews, 144:110886, 2021. [中科院小类一区Top, 影响因子:14.982，ESI高被引、ESI热点]. 
+[7] Zhengru Ren, Amrit Verma* , Behfar Ataei, Karl Henning Halse, and Hans Petter Hildre. Model-free anti-swing control of complex-shaped payload with offshore floating cranes and a large number of lift wires. Ocean Engineering, 228:108868, 2021. [中科院小类一区 Top, 影响因子:3.795].
+[8] Zhengru Ren* , Xu Han, Amrit Shankar Verma, Johann Alexander Dirdal, and Roger Skjetne. Sea state estimation based on vessel motion responses: improved smoothness and robustness using Bézier surface and L1 optimization. Marine Structures, 76:102904, 2021. [中科院小类一区 Top, 影响因子:3.458]. 
+[9] Zhengru Ren* , Roger Skjetne, Amrit Shankar Verma, Zhiyu Jiang, Zhen Gao, and Karl Henning Halse. Active heave compensation of floating wind turbine installation using a catamaran construction vessel. Marine Structures, 75:102868, 2021. [中科院小类一区 Top, 影响因子:3.458，ESI高被引].
+[10] Zhengru Ren* , Bo Zhao, and Dong Trong Nguyen. Finite-time neural adaptive control of a class of nonlinear system: Proved by Bernoulli inequality. IEEE Access, 8:47768–47775, 2020. [中科院小类二区 Top, 影响因子:3.367]
+[11] Zhengru Ren, Roger Skjetne, Zhiyu Jiang* , and Zhen Gao. Active single-blade installation using tugger line tension control and optimal control allocation. International Journal of Offshore and Polar Engineering, 30(2):220–227, 2020. [中科院小类四区, 影响因子:0.670].
+[12] Zhengru Ren* , Roger Skjetne, and Zhen Gao. A crane overload protection controller for blade lifting operation based on model predictive control. Energies, 12(1):50, 2019. [中科院小类四区, 影响因子:3.004，ESI高被引]. 
+[13] Zhengru Ren* , Roger Skjetne, Zhiyu Jiang, Zhen Gao, and Amrit Shankar Verma. Integrated GNSS/IMU hub motion estimator for offshore wind turbine blade installation. Mechanical Systems and Signal Processing, 123:222–243, 2019. [中科院小类一区 Top, 影响因子:6.823，ESI高被引].
+[14] Roger Skjetne and Zhengru Ren* . A survey on modeling and control of thruster-assisted position mooring systems. Marine Structures, 74:102830, 2020. [中科院小类一区 Top, 影响因子:3.458].
+[15] Zhengru Ren, Zhiyu Jiang* , Roger Skjetne, and Zhen Gao. Active tugger line force control method for single blade installations. Wind Energy, 21:1344–1358, 2018. [中科院小类三区, 影响因子:2.730]. 
+[16] Zhengru Ren, Zhiyu Jiang* , Roger Skjetne, and Zhen Gao. Development and application of a simulator for offshore wind turbine blades installation. Ocean Engineering, 166:380–395, 2018. [中科院小类一区 Top, 影响因子:3.795].
+[17] Jiafeng Xu, Zhengru Ren∗ , Yue Li, Roger Skjetne, and Karl Henning Halse. Dynamic simulation and control of an active roll reduction system using free-flooding tanks with vacuum pumps. Journal of Offshore Mechanics and Arctic Engineering, 140:061302, 2018. [中科院小类四区, 影响因子:1.355]
+[18] Zhiyu Jiang, Zhen Gao, Zhengru Ren, Ye Li* , and Lei Duan. A parametric study on the blade mating process for monopile wind turbine installations under rough environmental conditions. Engineering Structures, 172:1042 – 1056, 2018. [中科院小类二区 Top, 影响因子:4.471].
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+某国家级人才项目 2021
+深圳市“鹏城孔雀计划”特聘岗位B档
+ </奖励荣誉>

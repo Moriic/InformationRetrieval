@@ -1,0 +1,49 @@
+{"title":"刘乐","cnUrl":"http://www.sigs.tsinghua.edu.cn/ll/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/ac/8a/f564a7264dcab76129c7384de5c3/134b6951-8e48-4f1e-b5de-bfd147733bb0.jpg","email":"liu.le@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2006年09月-2010年07月，清华大学，物理系，物理学，理学博士
+2003年09月-2006年07月，清华大学，物理系，物理学，理学硕士
+1999年09月-2003年07月，清华大学，物理系，物理学，理学学士
+工作经历 
+2019年08月至今，清华大学深圳国际研究生院，副研究员
+2018年12月-2019年08月，清华大学深圳研究生院，副研究员
+2013年01月-2018年12月，清华大学深圳研究生院，讲师
+2011年01月-2012年12月，清华大学深圳研究生院，博士后
+学术兼职 
+SCI期刊《纳米研究》（Nano Research）、《应用能源》(Applied Energy)、《电源杂志》(Journal of Power Sources)、《电源转换与管理》(Energy Conversion and Management)、《电化学学报》(Electrochimica Acta)、《IEEE仪器和测量汇刊》(IEEE Transactions on Instrumentation and Measurement)、《化学可持续化学》（ChemSusChem）、《应用表面科学》（Applied Surface Science）、《电分析》(Electroanalysis)、《等离子体光子学》(Plasmonics)、《应用电化学杂志》(Journal of Applied Electrochemistry)、《储能杂志》（Journal of Energy Storage）、《国际能源研究杂志》（International Journal of Energy Research）、《化学传感器与执行器》（Sensors and Actuators B: Chemical）、《物理传感器与执行器》（Sensors and Actuators A: Physical）、《传感器杂志》(Journal of Sensors)、《物理成果》（Results in Physics）审稿人
+深圳市九三学社环境与资源专门委员会委员
+中国化工学会会员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+《实验设计与数据处理》
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+在攻读硕士、博士期间主要从事光学检测技术的研究，涉及表面等离子体共振（SPR）、荧光光谱、拉曼光谱、光学相干层析（OCT）等领域，以及这些技术在生物、化学中的应用。从2011年开始进入电池技术领域，在全钒液流电池（VFB）以及其他电池的检测技术、流场设计、电池设计、电解液以及产业化方面进行研究。主持国家自然科学基金2项、广东省自然科学基金2项、深圳市科技项目4项、深圳市南山区科技项目1项；作为骨干成员参与国家863项目1项、国家自然科学基金项目5项（其中1项为本单位负责人）和省、市科技项目多项。以通讯作者和第一、二作者发表期刊论文45篇，申请发明专利12项，已经获得授权8项。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Kaijie Ma, Yunong Zhang, Le Liu*, Jingyu Xi, Xinping Qiu, Tian Guan, Yonghong He*, In situ mapping of activity distribution and oxygen evolution reaction in vanadium flow batteries, Nature Communications, 2019, 10, 5286
+[2] Zhuoyu Li, Le Liu*, Yang Zhao, Jingyu Xi, Zenghua Wu, Xinping Qiu, The indefinite cycle life via a method of mixing and online electrolysis for vanadium redox flow batteries, Journal of Power Sources, 2019, 438:226990.
+[3] Kaijie Ma, Le Liu*, Pengfei Zhang, Yonghong He, Qing Peng*, Optimization of angle-pixel resolution for angular plasmonic biosensors, Sensors and Actuators B: Chemical, 2019, 283: 188-197.
+[4] Yunong Zhang, Kaijie Ma, Xiangrong Kuang, Le Liu*, Jingyu Xi, Yunxu Sun, Real time study of the disequilibrium transfer in vanadium flow battery at different state of charge via refractive index detection, Journal of Physical Chemistry C, 2018, 122(50): 28550-28555.
+[5] Ke Wang, Yunong Zhang, Le Liu*, Jingyu Xi, Zenghua Wu, Xinping Qiu, Broad temperature adaptability of vanadium redox flow battery-Part 3: The effects of total vanadium concentration and sulfuric acid concentration, Electrochimica Acta, 2018, 259: 11-19.
+[6] Yunong Zhang, Le Liu*, Jingyu Xi, Zenghua Wu, Xinping Qiu, The benefits and limitations of electrolyte mixing in vanadium flow batteries, Applied Energy, 2017, 204: 373-381.
+[7] Ke Wang, Le Liu*, Jingyu Xi, Zenghua Wu, Xinping Qiu, Reduction of capacity decay in vanadium flow batteries by an electrolyte-reflow method, Journal of Power Sources, 2017, 338: 17-25.
+[8] Le Liu, Zhaohua Li, Jingyu Xi*, Haipeng Zhou, Wenjing Dai, Zhengyang Zhang, Shuibo Xiao, Zenghua Wu, Xinping Qiu*. Rapid detection of the positive side reactions in vanadium redox flow batteries, Applied Energy, 2017, 185: 452-462.
+[9] Yixi Liu, Le Liu, Yonghong He*, Qinghua He, Hui Ma, Quantum-dots-encoded-microbeads based molecularly imprinted Polymer, Biosensors and Bioelectronics, 2016, 77: 886-893.
+[10] Yixi Liu, Le Liu, Yonghong He*, Liang Zhu, Hui Ma, Decoding the quantum dots encoded microbeads using a hyperspectral fluorescence imaging method, Analytical Chemistry, 2015, 87(10): 5286-5293.
+[11] Le Liu, Jun Guo, Yonghong He*, Pengfei Zhang, Yilong Zhang, Jihua Guo, Study on the despeckle methods in angular surface plasmon resonance imaging sensors, Plasmonics, 2015, 10(3): 729-737.
+[12] Le Liu, Jingyu Xi*, Zenghua Wu, Wenguang Zhang, Haipeng Zhou, Weibin Li, Xinping Qiu*. State of charge monitoring for vanadium redox flow batteries by the transmission spectra of V(IV)/V(V) electrolytes, Journal of Applied Electrochemistry, 2012, 42: 1025-1031.
+[13] Le Liu, Xiangliang Chen, Zhiyi Liu, Suihua Ma, Chan Du, Yonghong He*, Jihua Guo. Polarization interference interrogation of angular surface plasmon resonance sensors with wide metal film thickness tolerance. Sensors and Actuators B: Chemical, 2012, 173: 218-224.
+[14] Le Liu, Suihua Ma, Yanhong Ji, Xingyuan Chong, Zhiyi Liu, Yonghong He* and Jihua Guo. A two-dimensional polarization interferometry based parallel scan angular surface plasmon resonance biosensor. Review of scientific instruments, 2011, 82, 023109.
+[15] Le Liu, Yonghong He*, Ying Zhang, Suihua Ma, Hui Ma and Jihua Guo. Parallel scan spectral surface plasmon resonance imaging. Applied Optics, 2008, 47(30):5616-5621.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

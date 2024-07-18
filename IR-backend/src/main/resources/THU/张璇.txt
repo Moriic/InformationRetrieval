@@ -1,0 +1,60 @@
+{"title":"张璇","cnUrl":"http://www.sigs.tsinghua.edu.cn/zx/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/73/28/5f2568b94314a7cd380fafd19322/c1e498cb-dc01-40f6-98f2-e3e29d9e708f.jpg","email":"xuanzhang@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+Prof. Xuan Zhang received the B.Eng. degree in Automation from Tsinghua University, Beijing, China, in 2011, and the Ph.D. degree in Control and Electrical Engineering from the University of Oxford, Oxford, U.K., in 2015. From 2015 to 2018, he was a Post-Doctoral Fellow with the School of Engineering and Applied Sciences and the Harvard Center for Green Buildings and Cities, Harvard University, Cambridge, MA, USA. Since 2018, he has been with the Tsinghua-Berkeley Shenzhen Institute, Shenzhen, China, where he is currently an Associate Professor with the Smart Grid and Renewable Energy Laboratory. His current research interests include the control and optimization for cyber-physical systems (such as smart grids, smart buildings, and Energy Internet), control system structure (re)design, and learning-based control.
+opening:
+I am always looking for Ph.D. and Master students with strong backgrounds in Math (control theory, optimization), Computer Science (machine learning), and Electrical Engineering (power system, smart grid, Energy Internet).
+教育经历 
+10/2011-09/2015: Ph.D. in Control Engineering, from Department of Engineering Science, University of Oxford
+09/2014-12/2014: Visiting Graduate Student in School of Engineering and Applied Sciences, Harvard University
+08/2007-07/2011: B.Eng. in Automatic Control, from Department of Automation, Tsinghua University
+工作经历 
+06/2023-Now: Associate Professor, Tsinghua-Berkeley Shenzhen Institute, Tsinghua Shenzhen International Graduate School
+03/2018-06/2023: Assistant Professor, Tsinghua-Berkeley Shenzhen Institute, Tsinghua Shenzhen International Graduate School
+09/2015-01/2018: Post-Doctoral Fellow in School of Engineering and Applied Sciences, Harvard University
+09/2015-08/2017: Post-Doctoral Fellow in Harvard Center for Green Buildings and Cities, Harvard University
+学术兼职 
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+Fall 2018-2019: Estimation and Control of Dynamical Systems
+Fall 2018-2019: Energy-Environment and Data-Information 100-Level Course
+Spring 2018-2019: System Miscellanies
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+-- Cyber-physical systems: smart grids, smart/green buildings, Energy Internet, multi-agent systems, etc.
+-- Modern control theory
+-- Convex optimization
+-- Learning, and learning-based control
+主要项目 
+-- Exploring the flexibility of distributed energy resources (renewable energy, distributed generation, controllable loads, etc.) and using AI-based techniques to aggregate them as virtual power plants to assist the operation of power grids and the general Energy Internet
+-- Designing real-time distributed optimization and control frameworks for smart power networks, with blockchain based real-time autonomous market operating in parallel. The ultimate goal is to achieve real-time point-to-point energy trading for microgrids, distribution networks, etc., and extend those frameworks to the general Energy Internet
+-- Using convex optimization/convex relaxation techniques to design controllers with certain structures for network systems, meanwhile, ensuring optimality, stability, robustness to disturbances and model uncertainties
+-- Solar-battery related applications, energy storage system planning and operation
+ </研究领域>
+<研究成果>
+代表性论文 
+Selected publications
+[J1] Xuan Zhang* and Antonis Papachristodoulou, A real-time control framework for smart power networks: Design methodology and stability. Automatica, vol. 58, pp. 43-50, 2015.
+[J2] Xuan Zhang*, Ren Kang, Malcolm McCulloch and Antonis Papachristodoulou, Real-time active and reactive power regulation in power systems with tap-changing transformers and controllable loads. Sustainable Energy, Grids and Networks, vol. 5, pp. 27-38, 2016.
+[J3] Xuan Zhang* and Antonis Papachristodoulou, Improving the performance of network congestion control algorithms. IEEE Transactions on Automatic Control, vol. 60, no. 2, pp. 522-527, 2015.
+[J4] Xuan Zhang*, Antonis Papachristodoulou and Na Li, Distributed control for reaching optimal steady state in network systems: An optimization approach. IEEE Transactions on Automatic Control, vol. 63, no. 3, pp. 864-871, 2018.
+[J5] Dario Bauso*, Xuan Zhang and Antonis Papachristodoulou, Density flow in dynamical networks via mean-field games. IEEE Transactions on Automatic Control, vol. 62, no. 3, pp. 1342-1355, 2017.
+[J6] Xuan Zhang*, Wenbo Shi, Bin Yan, Ali Malkawi and Na Li, Decentralized and distributed temperature control via HVAC systems in energy efficient buildings. ArXiv:1702.03308 [cs.SY], 2017.
+[J7] Yu Yang, Qing-shan Jia*, Xiaohong Guan, Xuan Zhang, Zhifeng Qiu and Geert Deconinck, Decentralized EV-based charging optimization with building integrated wind energy. IEEE Transactions on Automation Science and Engineering, DOI: 10.1109/TASE.2018.2856908, 2018.
+[C1] Lirong Deng, Xuan Zhang, and Hongbin Sun*, Real-time autonomous trading in the electricity-and-heat distribution market based on blockchain. In proceedings of the 2019 IEEE Power & Energy Society General Meeting, 2019.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+08/2019: Best Conference Paper in the 2019 IEEE Power & Energy Society General Meeting, IEEE Power & Energy Society
+08/2018: Overseas High-Caliber Personnel Award, Shenzhen Municipality
+10/2014: Mathematical, Physical and Life Sciences Division Outreach Award, University of Oxford
+09/2011-08/2015: State Scholarship Fund, China Scholarship Council
+06/2011: Excellent Graduation Thesis, Tsinghua University
+ </奖励荣誉>

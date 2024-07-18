@@ -1,0 +1,39 @@
+{"title":"廖庆敏","cnUrl":"http://www.sigs.tsinghua.edu.cn/lqm/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/d2/7c/73cace254980bc4aa9d1fb2889c4/d6127f19-577a-41c8-9fc9-c39a535ed574.jpg","email":"liaoqm@tsinghua.edu.cn"}
+<个人简历>
+概况 
+主要从事图像/视频信号与信息处理与分析研究
+教育经历 
+1990年10月-1994年12月，法国Rennes第一大学，信号处理与通信专业，博士
+1987年9月-1990年9月，电子科技大学/法国Rennes第一大学，信号处理与通信专业，硕士
+1980年9月-1984年7月，成都电讯工程学院，无线电技术专业，学士
+工作经历 
+1995年1月-至今，清华大学，博士后、副教授、教授
+2001年1月-2003年12月，法国Caen大学，特邀教授（兼职）
+1984年7月-1987年8月，成都电讯工程学院/电子科技大学，教师
+学术兼职 
+IEEE Senior Member；
+深圳电子学会副理事长、深圳通信学会常务理事。
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+曾开设课程《多媒体与网络》（本部）；
+现主讲课程《统计信号处理》、《数字图像处理及应用》等课程（国际院）。
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+近四十年来，一直从事有关图像和视频处理与分析领域中的算法研究，在医学图像、遥感图像、图像增强、体育/工业视频等方面的研究和应用中取得了多项成果。先后负责和承担了国家科技攻关、国家重点研发计划、国家自然科学基金、教育部重点科技、中法合作、横向合作等数十个项目，获得包含省部级科技进步一等奖在内的多项奖励，并在国际刊物、国际会议和国内核心刊物上发表了250余篇论文，其中120余篇被收入SCI检索，包括IEEE TIP、IEEE TCE、Pattern Recognition、Neurocomputing 、JVCIR、CVIU等国际著名杂志。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Ma, Haoyu; Liu, Shaojun; Liao, Qingmin; Zhang, Juncheng; Xue, Jing-Hao. Defocus Image Deblurring Network with Defocus Map Estimation as Auxiliary Task, IEEE Trans. on Image Processing, Nov. 2021.
+[2] Zhang, Youcheng; Lu, Zongqing; Ma, Dongdong; Xue, Jing-Hao; Liao, Qingmin. Ripple-GAN: Lane Line Detection With Ripple Lane Line Detection Network and Wasserstein GAN, IEEE Trans. on Intelligent Transportation Systems, 22(3):1532-1542, Mar. 2021.
+[3] Liu, Shaojun; Liao, Qingmin; Xue, Jing-Hao, Zhou, Fei. Defocus map estimation from a single image using improved likelihood feature and edge-based basis, Pattern Recognition, 107: 107485, Nov 2020.
+[4] Ma, Haoyu; Liao, Qingmin; Zhang, Juncheng; Liu, Shaojun; Xue, Jing-Hao. An alpha-Matte Boundary Defocus Model-Based Cascaded Network for Multi-Focus Image Fusion, IEEE Trans. on Image Processing, 29: 8668-8679, 2020.
+[5] Ma, Dongdong; Liao, Qingmin; Chen, Ziqin; Liao, Ran; Ma, Hui. Adaptive local-fitting-based active contour model for medical image segmentation, Signal Processing – Image Communication, 76:201-213, Aug 2019.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

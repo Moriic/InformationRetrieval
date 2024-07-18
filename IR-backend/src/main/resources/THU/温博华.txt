@@ -1,0 +1,32 @@
+{"title":"温博华","cnUrl":"http://www.sigs.tsinghua.edu.cn/wbh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/69/ee/a2ccbce543639165619c9295dba1/3821f8a8-cda3-447d-b5e8-6ce3b1b12d67.jpg","email":"bohuawen@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2011年8月-2015年5月，纽约州立大学宾汉姆顿分校，材料科学与工程专业，博士
+2010年9月-2013年6月，北京航空航天大学，材料科学与工程专业，硕士
+2006年9月-2010年7月，北京航空航天大学，材料科学与工程专业，学士
+工作经历 
+2023年6月至今 清华大学深圳国际研究生院，副教授
+2020年9月-2023年6月，清华大学深圳国际研究生院，助理教授
+2015年6月-2020年6月，麻省理工学院，博士后
+学术兼职 
+《稀有金属》青年编委（中国有色金属学会）
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+ 主要研究高能量密度、高功率密度的电池正极材料及其离子输运过程。通过晶体结构调控、微结构设计改变反应路径、消除动力学阻力；采用微观电化学测试方法，建立界面传输的电化学-化学-力学耦合作用分析。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] B. Wen, Z. Deng, P.-C. Tsai, Z. W. Lebens-Higgins, L. Piper, S.-P. Ong, Y.-M. Chiang*, Ultrafast ion transport at a cathode-electrolyte interface and its strong dependence on salt solvation, Nature Energy, 2020, 5, 578–586.
+[2] B. Wen, Q. Wang, Y. Lin, K. Karki, N. A. Chernova, F. Omenya, S. P. Ong, M. S. Whittingham*, Molybdenum Substituted Vanadyl Phosphate ε-VOPO4 with Enhanced Two-electron Transfer Reversibility and Kinetics for Lithium-ion Batteries, Chem. Mater. 2016, 28 (8), 3159–3170.
+[3] B. Wen, J. Liu, N. A. Chernova, Y. Janssen, F. Omenya, P. G. Khalifah, M. S. Whittingham*.Li3Mo4P5O24: a Two-Electron Cathode for Lithium-Ion Batteries with Three-Dimensional Diffusion Pathways, Chem. Mater. 2016, 28 (7), 2229–2235.
+[4] Y. Lin, B. Wen (equally first author), K. Wiaderek, S. Sallis, H. Liu, S. Lapidus, O. Borkiewicz, N. Quackenbush, N. Chernova, K. Karki, F. Omenya, P. Chupas, L. Piper, M. S. Whittingham*, K. Chapman*, S. P. Ong*, Thermodynamics, Kinetics and Structural Evolution of ε-LiVOPO4 over Multiple Lithium Intercalation, Chem. Mater. 2016, 28 (6), 1794–1805.
+[5] B. Wen, N. A. Chernova, R. Zhang, Q. Wang, F. Omenya, J. Fang, M. S. Whittingham*, Layered Molybdenum (Oxy)Pyrophosphate as Cathode for Lithium-Ion Batteries, Chem. Mater. 2013, 25 (17), 3513–3521.
+[6] US 2021/0119489 A1 Y.- M. Chiang, B. Wen, TECHNIQUES FOR CHARGING AND/OR DISCHARGING A BATTERY USING FREQUENCY MODULATION
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

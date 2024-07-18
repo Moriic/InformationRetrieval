@@ -1,0 +1,61 @@
+{"title":"孙树清","cnUrl":"http://www.sigs.tsinghua.edu.cn/ssq/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/51/61/44a1c88d495a91cfc46c87409cbb/d0287de4-5170-4474-bc82-57254e62ab2b.jpg","email":"sun.shuqing@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+1987年09月-1991年07月，吉林大学，物理化学专业本科，理学学士
+1991年09月-1994年07月，吉林大学，化学系物理化学专业，理学硕士
+1994年09月-1997年07月，中科院化学所，物理化学专业，理学博士
+工作经历 
+1997年8月-1999年3月，中科院感光化学所，博士后
+1999年3月-2000年6月，瑞典薄膜电子公司，客座研究员
+2000年7月-2002年6月，英国曼切斯特大学博士后
+2002年7月-2007年3月，谢菲尔德大学研究员
+2007年3月-2011年7月，国家纳米科学中心研究员
+2009年7月至今，清华大学深圳研究生院生命健康学部，研究员
+学术兼职 
+《scientific report》编委；英国皇家化学会会士（FRSC）; 公安部痕迹科学与技术重点实验室学术委员会委员; 中国光学学会第二届生物医学光子学专业委员会委员等
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+在清华大学深圳国际研究生院开设如下课程：
+《生物医用材料》
+《高端分析仪器》
+《生物物理导论》
+《交叉创行实践课—柔性传感器与可穿戴设备》等
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+主要研究方向：
+1）柔性电子传感器：面向可穿戴设备、假肢控制和驱动、人机交互传感、远程健康管理、中医现代化等领域，与微纳技术、大数据与智能信息优化相结合，发展包括高灵敏、透明可拉伸、高鲁棒性的柔性触控器件、高稳定性以及集成性的传感器件与系统；
+2）智能生物芯片：面向疾病早期诊断、食品安全、环境检测等领域的高通量、超灵敏检测的需求，发展新型荧光编码液相芯片、纳米编码液相芯片及无标记分子检测的试剂与系统；
+3）微针智能给药：与微流控及柔性传感器件相结合，发展个性化微针阵列进行药物、疫苗的智能递送。
+近十年来，主持纵向科研基金项目近20项，包括国家自然基金项目6项（含重大研究计划项目1项）。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Tong Xiao, Yifei Chen, Jianghong Huang, Shuqing Sun*, Research progress of nanocomposite hydrogels in artificial cartilage, Science in China: Chemistry (CN), 2022, 52(2):19.
+[2]Ruomei Shao, Chunnan Wang, Jingru Zhao, Hang Yang, and Shuqing Sun*，Crosstalk-free, stretching-insensitive sensor based on arch-bridge architecture for tactile mapping with parallel addressing strategy toward million-scale-pixels processing，Adv. Sci. 2021, 2101876
+[3]Yixuan Xie, Ruomei Shao, Yali Lin, Chunnan Wang, Ying Tan, Weidong Xie and Shuqing Sun*, Improved therapeutic efficiency against obesity through transdermal drug delivery using microneedle arrays, Pharmaceutics 2021, 13, 827.
+[4]Chunnan Wang, Ruomei Shao, Guiqiang Wang, Shuqing Sun*, Hierarchical hydrophobic surfaces with controlled dual transition between rose petal effect and lotus effect via structure tailoring or chemical modification, Colloids and Surfaces A: Physicochemical and Engineering Aspects, 2021, 622, 126661
+[5]Chunnan Wang, Ruomei Shao, Guiqiang Wang, Jingru Zhao, Zhou Sha, Shuqing Sun*, Controllable wet etching of porous anodic alumina toward highly ordered hierarchical interfaces, Surface & Coatings Technology, 2021, 412, 127016
+[6]Jianghong Huang, Jianyi Xiong, Lei Yang, Jun Zhang, Shuqing Sun and Yujie Liang*, Cell-free exosome-laden scaffolds for tissue repair, Nanoscale, 2021, 13(19):8740-8750.
+[7]Ruomei Shao, Guiqiang Wang, Jingru Zhao, and Shuqing Sun*, A Highly Accurate, Stretchable Touchpad for Robust, Linear, and Stable Tactile Feedback, 2020, 5, 1900864
+[8]Jin Tian, Zhang Jiewen, Zhao Yuanfang, Xiaoting Huangb, Chunyan Tan, Shuqing Sun* and Ying Tan*, Magnetic bead-gold nanoparticle hybrids probe based on optically countable gold nanoparticles with dark-field microscope for T4 polynucleotide kinase activity assay. Biosens Bioelectron, 2020, 150, 111936.
+[9]Xiangyu Sun, Cheng Cheng, Jinxie Zhang, Xing Jin, Shuqing Sun*, Lin Mei & Laiqiang Huang, Intracellular Trafficking Network and Autophagy of PHBHHx Nanoparticles and their Implications for Drug Delivery, Scientific Reports, 2019, 9: 9585
+[10]Di Zu, Haiyang Wang, Sen Lin, Gang Ou, Hehe Wei, Shuqing Sun* and Hui Wu*, Oxygen-deficient metal oxides: Synthesis routes and applications in energy and environment, Nano Resarch, 2019, 12(9): 2150–2163
+[11]Xiangyu Sun,Lijuan Jiang,Chunnan Wang,Shuqing Sun, *Lin Mei *and Laiqiang Huang*, Systematic investigation of intracellular trafficking behavior of one-dimensional alumina nanotubes, J. Mater. Chem. B, 2019,7, 2043
+[12]Di Zu,Zhongfei Xu,Ao Zhang,Haiyang Wang,Hehe Wei,Gang Ou, Kai Huang,Ruoyu Zhang, Lei Li, Shuxian Hu, *Shuqing Sun *and Hui Wu* Room temperature Mg reduction of TiO2: formation mechanism and application in photocatalysis, Chem. Commun., 2019, 55, 7675
+[13]GuiqiangWang, ChunnanWang, ShuqingSun∗, Anoptical waveguide sensor based on mesoporous silica films with a comparison to surface plasmon resonance sensors, Sensors and Actuators B 255 (2018) 3400–3408
+[14]Guohua Li, Liang Zhu, Zhenjie Wu, Yonghong He,* Hui Tan,* and Shuqing Sun*, Digital Concentration Readout of DNA by Absolute Quantification of Optically Countable Gold Nanorods, Anal. Chem. 2016, 88, 10994−11000
+[15]Xuyao An, Chunnan Wang, Ruomei Shao & Shuqing Sun, Advances and prospects of triboelectric nanogenerator for self-powered system, International Journal of Smart and Nano Materials, 2021, 12:3, 233-255
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+中国科学院亿利达奖、深圳市地方级领军人才等
+ </奖励荣誉>

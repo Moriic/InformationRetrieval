@@ -1,0 +1,149 @@
+{"title":"杨余久","cnUrl":"http://www.sigs.tsinghua.edu.cn/yyj/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/a3/0c/f0bc9cef409d9825d309daad9a00/01bb8f34-e53c-4034-9aa9-954788a1150e.jpg","email":"yang.yujiu@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+本人主要从Open FIESTA IID和数信院的人工智能、大数据三个方向招生
+教育经历 
+2008中国科学院自动化所模式识别与智能系统博士
+2002中国矿业大学控制工程硕士
+1995中国矿业大学应用地球物理专业学士
+工作经历 
+2023.12–至今 清华大学深圳国际研究生院，教授
+2016.12–2023.11 清华大学深圳国际研究生院，副教授
+2010.10–2016.12 清华大学深圳研究生院讲师，副教授
+2008.07-2010.09 清华大学博士后
+2002.07-2008.07 中国科学院自动化研究所助理研究员
+学术兼职 
+2011.05 － 现在 Association for Computing Machinery（ACM）Member
+2009.07 － 现在 Institute of Electrical and Electronics Engineers（IEEE）Member
+2009.09 － 现在 中国计算机学会（CCF）   会员
+2010.09 － 现在 CCF-YOCSEF深圳   AC委员
+2010.04 － 现在 深圳市科技专家委员会  评审专家，
+为下列期刊和国际会议担任程序委员会委员或审稿人：NeurIPS、ICML、ACL、EMNLP、NAACL、SIGKDD、CVPR、ECCV、AAAI
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+IEEE Transactions on Multimedia ( TMM )
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+SCIENCE CHINA Information Sciences
+IEEE Transactions on Knowledge and Data Engineering (TKDE) 
+IEEE Internet of Things Journal
+IEEE Transactions on Parallel and Distributed Systems （TPDS）
+IEEE Internet Computing 
+IEEE Computing in Science \& Engineering 
+IEEE Computer 
+International Journal of Machine Learning and Cybernetics
+《计算机学报》
+《自动化学报》
+《电子与信息学报》
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+开设课程：
+《智能信息处理专题》
+《统计学习理论导论》
+《分布式机器学习》
+主讲课程：
+《大数据的采集与智能处理》（合讲）
+Open FIESTA轮转课程
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+ 课题组以机器学习、模式识别基本理论为基础，开展相应算法理论研究，并围绕智能交互的需求，探索AI在自然语言处理、视觉图像理解和分析等领域应用。课题组长期同腾讯AI Lab和华为诺亚方舟实验室开展合作。非常欢迎有志于人工智能方向的同学报考。
+主要项目 
+国家自然科学基金委员会，重大项目，61991451，海洋散射光学图像重构理论、算法及评估方法研究，2020-1至2024-12，在研，任务负责人。
+国家自然科学基金委员会，联合基金重点项目，U1903213，音视频多模态协同的异常事件鲁棒性检测关键技术研究，2020-1至2023-12，在研，课题负责人。
+科技部，国家重点研发计划，2018YFB1601102，超大规模的广域时空交通知识聚合，2019-1至2022-12，在研，任务负责人。
+科技部，国家重点研发计划，2020YFB1708200，基于多源异构信息的领域知识图谱及产品设计方法，2020-1至2023-12，在研，课题负责人。
+广东省科技厅，基础研究项目，基于深度神经网络的聊天机器人内容生成技术，2019-10至2022-10，在研，主持。
+企业横向，基础研究项目，图神经网络项目，2021-10至2023-10，在研，主持。
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang：GAN Inversion: A Survey, in IEEE Transactions on Pattern Analysis and Machine Intelligence,. 45(3): 3121-3138 (2023)  （CCF-A） （IF：24.314）
+[2] Fei Yin, Yong Zhang, Baoyuan Wu, Yan Feng, Jingyi Zhang, Yanbo Fan, Yujiu Yang: Generalizable Black-Box Adversarial Attack With Meta Learning, in IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023 doi: 10.1109/TPAMI.2022.3194988.  （CCF-A） （IF：24.314）
+[3] Mingdeng Cao, Yanbo Fan, Yong Zhang, Jue Wang, Yujiu Yang: VDTR: Video Deblurring With Transformer. IEEE Trans. Circuits Syst. Video Technol. 33(1): 160-171 (2023) （IF：5.859）
+[4] Shengjie Chen, Gang Wu, Yujiu Yang, Zhenhua Guo: A simple and effective patch-Based method for frame-level face anti-spoofing. Pattern Recognit. Lett. 171: 1-7 (2023) （IF：4.757）
+[5] Lei Shi, Sheng Lan, Hao Gui, Yujiu Yang, Zhenhua Guo: A novel 2D contactless fingerprint matching method. Neurocomputing 500: 547-555 (2022) （IF：5.779）
+[6] Ran Yu, Chenyu Tian, Weihao Xia, Xinyuan Zhao, Liejun Wang, Yujiu Yang: Real-time human-centric segmentation for complex video scenes. Image Vis. Comput. 126: 104552 (2022) （IF：3.86）
+[7] Yiru Wang, Pengda Si, Zeyang Lei, Guangxu Xun, Yujiu Yang: HSCJN: A holistic semantic constraint joint network for diverse response generation. Comput. Speech Lang. 65: 101135 (2021) （IF：3.252）
+[8] Weihao Xia, Yujiu Yang, Jing-Hao Xue: Cali-sketch: Stroke calibration and completion for high-quality face image generation from human-like sketches. Neurocomputing 460: 256-265 (2021) （IF：5.779）
+[9] Weihao Xia, Yujiu Yang, Jing-Hao Xue, Jing Xiao: Domain Fingerprints for No-Reference Image Quality Assessment. IEEE Trans. Circuits Syst. Video Technol. 31(4): 1332-1341 (2021) （IF：5.859）
+[10] Weihao Xia, Yujiu Yang, Jing-Hao Xue: Unsupervised multi-domain multimodal image-to-image translation with explicit domain-constrained disentanglement. Neural Networks 131: 50-63 (2020) （IF：9.657）
+[11]  Lifang Ding, Zeyang Lei, Guangxu Xun, Yujiu Yang: FAT-RE: A faster dependency-free model for relation extraction. J. Web Semant. 65: 100598 (2020) （IF：2.77）
+会议论文：【更新文章】
+[1] Xinyu Zhu, Junjie Wang, Lin Zhang, Yuxiang Zhang, Yongfeng Huang, ruyi gan, Jiaxing Zhang and Yujiu Yang：Solving Math Word Problems via Cooperative Reasoning induced Language Models；ACL2023.（CCF-A）
+[2] Siheng Li, Yichun Yin, Cheng Yang, Wangjie Jiang, Yiwei Li, Zesen Cheng, Lifeng Shang, Xin Jiang, Qun Liu and Yujiu Yang：NewsDialogues: Towards Proactive News Grounded Conversation；ACL2023.（CCF-A）
+[3] Siheng Li, Cheng Yang, Yichun Yin, Xinyu Zhu, Zesen Cheng, Lifeng Shang, Xin Jiang, Qun Liu and Yujiu Yang： AutoConv: Automatically Generating Information-seeking Conversations with Large Language Models；ACL2023.（CCF-A）
+[4] Zhibin Gou, qingyan guo and Yujiu Yang；Multi-view Prompting Improves Aspect Sentiment Tuple Prediction；ACL2023.（CCF-A）
+[5] Jiaqi Sun, Lin Zhang, Guangyi Chen, Peng XU, Kun Zhang, Yujiu Yang: Feature Expansion for Graph Neural Networks; ICML23.  (CCF-A)
+[6] Xuanzhou Liu, Lin Zhang, Jiaqi Sun, Yujiu Yang, Haiqin Yang: D2Match: Leveraging Deep Learning and Degeneracy for Subgraph Matching; ICML23. (CCF-A)
+[7] Fei Yin, Yong Zhang, Xuan Wang, Tengfei Wang, Xiaoyu Li, Yuan Gong, Yanbo Fan, Xiaodong Cun, Ying Shan, Cengiz Oztireli, Yujiu Yang：3D GAN Inversion with Facial Symmetry Prior；CVPR23 （CCF-A）
+[8] Yatai Ji, Rong-Cheng Tu, jie jiang, Weijie Kong, Chengfei Cai, Wenzhe Zhao, WANG HongFa, Yujiu Yang, Wei Liu：Seeing What You Miss: Vision-Language Pre-training with Semantic Completion Learning；CVPR23（CCF-A）
+[9] Yatai Ji, Junjie Wang, Yuan Gong, Lin Zhang, yanru Zhu, WANG HongFa, Jiaxing Zhang, Tetsuya Sakai, Yujiu Yang：MAP: Multimodal Uncertainty-Aware Vision-Language Pre-training Model；CVPR23（CCF-A）
+[10] Qingyan Bai, Ceyuan Yang, Yinghao Xu, Xihui Liu, Yujiu Yang, Yujun Shen： GLeaD: Improving GANs with A Generator-Leading Task；CVPR23（CCF-A）
+[11] Jiahao Wang, Songyang Zhang, Yong Liu, Taiqiang Wu, Yujiu Yang, Xihui Liu, Kai Chen, Ping Luo, Dahua Lin： RIFormer: Keep Your Vision Backbone Effective But Removing Token Mixer；CVPR23（CCF-A）
+[12] Taiqiang Wu, Xingyu Bai, Weigang Guo, Weijie Liu, Siheng Li, Yujiu Yang: Modeling Fine-grained Information via Knowledge-aware Hierarchical Graph for Zero-shot Entity Retrieval. WSDM 2023: 1021-1029. （CCF-B）
+[13] Shuwei Shi, Jinjin Gu, Liangbin Xie, Xintao Wang, Yujiu Yang, Chao Dong, Rethinking Alignment in Video Super-Resolution Transformers. Advances in Neural Information Processing Systems (NeurIPS), 2022. （CCF-A）
+[14] Wangjie Jiang, Zhihao Ye, Zijing Ou, Ruihui Zhao, Jianguang Zheng, Yi Liu, Bang Liu, Siheng Li, Yujiu Yang, Yefeng Zheng: MCSCSet: A Specialist-annotated Dataset for Medical-domain Chinese Spelling Correction. CIKM 2022: 4084-4088（CCF-B）
+[15] Mingdeng Cao, Zhihang Zhong, Jiahao Wang, Yinqiang Zheng, Yujiu Yang: Learning Adaptive Warping for RealWorld Rolling Shutter Correction. CVPR 2022: 17764-17772 （CCF-A）
+[16] Shanshan Lao, Yuan Gong, Shuwei Shi, Sidi Yang, Tianhe Wu, Jiahao Wang, Weihao Xia, Yujiu Yang: Attentions Help CNNs See Better: Attention-based Hybrid Image Quality Assessment Network. CVPR Workshops 2022: 1139-1148 (The track champion)
+[17] Sidi Yang, Tianhe Wu, Shuwei Shi, Shanshan Lao, Yuan Gong, Mingdeng Cao, Jiahao Wang, Yujiu Yang: MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment. CVPR Workshops 2022: 1190-1199 (The track champion)
+[18]  Yong Liu, Ran Yu, Fei Yin, Xinyuan Zhao, Wei Zhao, Weihao Xia, and Yujiu Yang：Learning Quality-aware Dynamic Memory for Video Object Segmentation；ECCV (29) 2022: 468-486 （CCF-B）
+[19]  Yong Liu, Ran Yu, Jiahao Wang, Xinyuan Zhao, Yitong Wang, Yansong Tang, and Yujiu Yang：Global Spectral Filter Memory Network for Video Object Segmentation；ECCV (29) 2022: 648-665 （CCF-B）
+[20] Qingyan Bai, Yinghao Xu, Jiapeng Zhu, Weihao Xia, Yujiu Yang, Yujun Shen: High-fidelity GAN Inversion with Padding Space；ECCV (15) 2022: 36-53（CCF-B）
+[21] Fei Yin, Yong Zhang, Xiaodong Cun, Mingdeng Cao, Yanbo Fan, Xuan Wang, Qingyan Bai, Baoyuan Wu, Jue Wang, Yujiu Yang: StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN；ECCV (17) 2022: 85-101 （CCF-B）
+[22] Xiaopei Wan , Guoqiu Li , Yujiu Yang and Zhenhua Guo： Augmenting Anchors by the Detector Itself；IJCAI 22: 1371-1377 （CCF-A）
+[23] Mao Yan Chen and Siheng Li and Yujiu Yang： EmpHi: Generating Empathetic Responses with Human-like Intents, NAACL2022: 1063-1074 （CCF-B）
+[24] Jiahao Wang, Mingdeng Cao, Shuwei Shi, Baoyuan Wu, Yujiu Yang: Attention Probe: Vision Transformer Distillation in the Wild；ICASSP22, 2220-2224. （CCF-B）
+[25] Wangjie Jiang∗, Siheng Li∗, Jiayi Li, Yujiu Yang: Multi-Turn incomplete Utterance Restoration as Object Detection；ICASSP22, 8052-8056. （CCF-B）
+[26] Han Shu，Jiahao Wang，Hanting Chen, Lin Li，Yujiu Yang，Yunhe Wang：Adder Attention for Vision Transformer，(NeurIPS2021) Advances in Neural Information Processing Systems 34, 19899-19909  （CCF-A）
+[27] Junjie Wang, Yatai Ji, Jiaqi Sun, Yujiu Yang and Tetsuya Sakai：MIRTT: Learning Multimodal Interaction Representations from Trilinear Transformers for Visual Question Answering，EMNLP (Findings) 2021: 2280-2292. （CCF-B）
+[28] Gengcong Yang, Jingyi Zhang, Yong Zhang, Baoyuan Wu, Yujiu Yang: Probabilistic Modeling of Semantic Ambiguity for Scene Graph Generation. Virtual June19-25, CVPR2021: 12527-12536.  （CCF-A）
+[29] Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu: TediGAN: Text-Guided Diverse Image Generation and Manipulation. Virtual June19-25, CVPR2021: 2256-2265.  （CCF-A）
+[30] Yutong Wang, Renze Lou, Kai Zhang, Mao Yan Chen, Yujiu Yang: More: A Metric Learning Based Framework for Open-Domain Relation Extraction. ICASSP 2021: 7698-7702. （CCF-B）
+[31] Yiru Wang; Shen Huang; Gongfu Li; Qiang Deng; Dongliang Liao; Pengda Si; Yujiu Yang; Jin Xu. Cognitive Representation Learning of Self-Media Online Article Quality，ACM Multimedia，12-16 October 2020 Seattle, United States.  （CCF-A）
+[32] Weihao Xia*; Yujiu Yang; Jing-Hao Xue: Controllable Continuous Gaze Redirection. ACM Multimedia，12-16 October 2020 Seattle, United States.  （CCF-A）
+[33] Shuwei Shi, Qingyan Bai, Mingdeng Cao, Weihao Xia, Jiahao Wang, Yifan Chen, Yujiu Yang: Region-Adaptive Deformable Network for Image Quality Assessment. CVPR Workshops 2021: 324-333
+[34] Yue Wu, Yui Lo, Yujiu Yang: STCN: A Lightweight Sleep Staging Model with Multiple Channels. BIBM 2020: 1180-1183 （CCF-B） 
+[35] Sijin Wu, Yujiu Yang, Nicholas Yung, Zhengchen Shen, Zeyang Lei: DT-QDC: A Dataset for Question Comprehension in Online Test. COLING 2020: 6470-6480 （CCF-B）
+[36] Yanbo Fan, Baoyuan Wu, Tuanhui Li, Yong Zhang, Mingyang Li, Zhifeng Li, Yujiu Yang: Sparse Adversarial Attack via Perturbation Factorization，16th European Conference on Computer Vision (ECCV), 23-28 August, 2020. （CCF-B）
+[37] Yunzhou Shi, Zhiling Luo, Pengcheng Zhu, Feng Ji, Wei Zhou, Haiqing Chen and Yujiu Yang. G2T: Generating Fluent Descriptions for Knowledge Graph [C] ACM SIGIR 2020, July 25-30, 2020 (Xi'an, China), pages 1861-1864. （CCF-A） 
+[38] Miaomiao Yu, Yujiu Yang, Chenhui Li: HGCN4MeSH: Hybrid Graph Convolution Network for MeSH Indexing. ACL (student) 2020: 20-26； （CCF-A）
+[39] Yiru Wang, Pengda Si, Zeyang Lei, Yujiu Yang: Topic Enhanced Controllable CVAE for Dialogue Generation (Student Abstract). AAAI 2020: 13955-13956； （CCF-A）
+[40] Tuanhui Li, Baoyuan Wu, Yujiu Yang, Yanbo Fan, Yong Zhang, Wei Liu; Compressing Convolutional Neural Networks via Factorized Convolutional Filters The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019, pp. 3977-3986；（CCF-A）
+[41] Xinrui Zhuang, Yuexiang Li, Yifan Hu, Kai Ma, Yujiu Yang, Yefeng Zheng: Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik's Cube. MICCAI (4) 2019: 420-428 (学生旅行奖)
+[42] Guanqun Hou, Yujiu Yang, Jing-Hao Xue: Residual Dilated Network with Attention for Image Blind Denoising. ICME 2019: 248-253 （CCF-B）
+[43]  Weihao Xia, Yujiu Yang, Xianyu Bao: ECGAN: Image Translation with Multi-scale Relativistic Average Discriminator. AIMS 2019: 28-38 (Best student paper)
+[44]  Zeyang Lei, Yujiu Yang, Min Yang, Wei Zhao, Jun Guo, Yi Liu: A Human-Like Semantic Cognition Network for Aspect-Level Sentiment Classification. AAAI 2019: 6650-6657  （CCF-A）
+[45]  Zeyang Lei, Yujiu Yang, Min Yang, Yi Liu; A Multi-sentiment-resource Enhanced Attention Network for Sentiment Classification. Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics, ACL (2) 2018: 758-763; （CCF-A）
+[46] Zeyang Lei, Yujiu Yang, Yi Liu; LAAN: A Linguistic-Aware Attention Network for Sentiment Analysis, WWW ’18 Companion, April 23–27, 2018, Lyon, France;  （CCF-A）
+[47] Zeyang Lei, Yujiu Yang, Min Yang; SAAN: A Sentiment-Aware Attention Network for Sentiment Analysis. SIGIR 2018: 1197-1200  （CCF-A）
+[48] Zeyang Lei, Yujiu Yang, Min Yang; Sentiment Lexicon Enhanced Attention-based LSTM for Sentiment Classification, The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18) , 2018.2.2-2018.2.7  （CCF-A）
+代表性著作 
+主要专利成果 
+[1] 杨余久,张如意,邵航,黄旭; 一种无人机救援系统及其搜救方法，中国，ZL 2016 1 0047601.7。授权时间：2018.12.21
+[2] 杨余久,黄旭; 一种层次化商品信息过滤推荐方法，中国，ZL 2016 1 0112904.2 授权时间：2018.10.30
+[3] 杨余久,袁威强; 商品属性特征词聚类方法，中国，ZL 2015 1 0638459.9 授权时间：2020.11.17
+[4] 杨余久,胡源航, 邵航,金舟. 一种基于协同过滤的在线打车推荐方法,中国, ZL 2016 1 0643458.8 授权时间：2019.12.03
+[5] 杨余久,金舟,邵航,黄旭. 一种社交网络用户情绪判别方法, 中国, ZL 2016 1 0204531.1 授权时间：2019.06.28
+[6] 杨余久, 庄新瑞, 杨芳，一种基于多注意力机制的端到端的脑部肿瘤分割方法, 中国, ZL 2019 1 0002630.5 授权时间：2020.9.1
+[7] 杨余久,王艺如,杨芳, 对话机器人的回复内容生成方法和终端设备, ZL 2019 1 0244935.7 授权时间：2020.11.24
+[8] 杨余久,胡晓翔; 一种基于目标和相机运动建模的目标跟踪方法, ZL 2018 1 1307972.X 授权时间：2020.7.28
+[9] 杨余久、庄新瑞、杨芳：一种基于公私钥对的深度学习模型水印的嵌入和提取方法，ZL 2020 1 0197449.7 授权时间：2022.9.16
+[10] 龚德政、杨余久、杨芳：一种基于动态标签调整的弱监督目标检测算法，ZL 2021 1 0548236.9 授权时间：2022.9.6
+其他成果 
+软件著作权：
+（1）杨余久，尹宾，胡源航，吴过，MovieRecommended软件V1.0，中国, 2014/12/30
+标准：
+（1）云制造 服务分类 GB/T 35586-2017 (国家标准)；
+（2）跨境电子商务产品质量信息数据规范 SN/T 4900-2017 (行业标准)
+（3）检验检疫信息系统分析建模规范 SN/T 4901-2017 (行业标准)
+（4）信息化系统监控管理规范 SN/T 5025-2017 (行业标准)
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+[1] 肖京，杨余久，汪伟，徐冰，王好谦，王磊，徐亮，王健宗，陈又新，郭振华，刘懿祺，谭韬，雷泽阳，张宇辰: 基于时序知识图谱的金融风控与经济量化决策平台产业化, 第十届吴文俊人工智能科技进步奖一等奖，2020
+[2] 杨余久; 方炎林; 赵宏田; 郭振华; 王好谦; 董海鸥; 李秀; 冯传宏；移动健康管理采集终端设备关键技术研发及产业化，2017年广东省科技进步三等奖（第一完成人）
+[3] 戴琼海; 王好谦; 范静涛; 张永兵; 张 磊; 金欣; 黄道权; 申优桦; 杨余久; 郭振华; 李秀; 王兴政; 韦建端; 黄建兴；动态立体视觉系统关键技术及应用，2015年广东省科技进步一等奖
+[4] 杨余久; 方炎林; 赵宏田; 郭振华; 王好谦; 董海鸥; 李秀; 冯传宏；移动健康管理采集终端设备关键技术研发及产业化，2015年深圳市科技进步二等奖（第一完成人）
+ </奖励荣誉>

@@ -1,0 +1,40 @@
+{"title":"邢久星","cnUrl":"http://www.sigs.tsinghua.edu.cn/xjx/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/f6/77/02e727944c779373b2fb464f54e3/16d168d9-d46b-47e8-bea7-3cd06c822016.jpg","email":"jxx2012@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1978年2月-1982年2月， 南京气象学院（现南京信息工程大学），气候，本科毕业
+1985年9月-1988年7月，气象科学研究院，气象，硕士毕业
+1988年9月-1992年2月，英国雷丁大学，物理海洋，博士毕业
+1982年2月-1985年9月，国家气象局气象科学研究院工作
+1992年2月-2013年3月，英国国家海洋中心（前普劳德曼海洋研究所）工作
+2014年7月至今，清华大学深圳研究生院工作
+教育经历 
+工作经历 
+学术兼职 
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+在大陆架海洋动力学研究，数值模型的发展及应用都有重要成果和贡献。其中，首次建立了爱尔兰海的斜压模式，对锋面和冷水团的动力学过程成功地进行研究；首次利用数值模型对苏格兰海大陆架边缘过程，特别是内潮，内波和近惯性内波进行研究，取得重要进展。对海洋动力学，特别是大陆架物理过程，如湍流和内波，潮及内潮，近海环流，以及锋面等具有深入研究。以第一作者身份发表SCI论文五十余篇，其中在本专业最顶级的JPO, GRL 和JGR上共发表二十余篇。在研项目：南海亚中尺度涡（973子课题）， 深圳近海风暴潮（深圳科创委）。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+[1] Xing, J. and S. Chen （2017）. A process study of the interaction of tidal currents, tidal mixing and density gradient in a region of freshwater influence. Journal of Marine Systems, 172 (2017) 51-63.
+[2] Chen S., J. Xing and D. Chen (2017). A study on some basic features of inertial oscillations and near-inertial internal waves. Ocean Sciences, 13, 829-836, 2017
+[3] Yang Y., J. Xing, D. Chen and S. Chen (2017). A modelling eddy-splitting by an island/seamount. Ocean Sciences, 13, 837-849, 2017
+[4] Xing J., A. M. Davies and E. Jones (2012). Influence of sea surface wind wave turbulence upon wind induced circulation, tide-surge interaction and bed stress. Ocean Dynamics 62(7). 1017-1042. 10.1007/s10236-012-0542-8. 
+[5] Xing J., A. M. Davies and E. Jones (2011). Application of an unstructured mesh model to the determination of the baroclinic circulation of the Irish Sea. Journal of Geophysical Research – Oceans, Vol. 116, C10026, doi:10.1029/2011JC007063. 
+[6] Xing, J. and A. M. Davies (2011). On the interaction of internal tides over adjacent sills in a fjord. Journal of Geophysical Research – Oceans, VOL. 116, C044022, DOI 10.1029/2010JC006333.
+[7] Xing, J., E. Jones, A. M. Davies and P. Hall (2011). Modelling tide-surge interaction effects using finite volume and finite element models of the Irish Sea. Ocean Dynamics. DOI 10.1007/s10236-011-0418-333. 
+[8] Xing, J. and A. M. Davies (2009). Influence of multiple sills upon internal wave generation and the implications for mixing. Geophysical Research Letters，36, L13602, doi:10.1029/2009GL038181.
+[9] Xing, J. and A. M. Davies (2009) Influence of bottom friction effects in sill regions upon lee wave generation and implications for internal mixing. Ocean Dynamics, DOI 10.1007/s10236-009-0215-4.
+[10] Berntsen J., J. Xing and Alan M. Davies (2009). Numerical studies of flow over a sill: sensitivity of the non-hydrostatic effects to the grid size. Ocean Dynamics, DOI10.1007/s10236-009-0227-0. 
+[11]Xing, J. and Davies, A.M. (2006). Processes influencing tidal mixing in the region of sills. Geophysical Research Letters, 33, L04603, doi:10.1029/2005GL025226.
+[12] Xing, J. and Davies, A.M. (2006). Influence of stratification and topography upon internal wave spectra in the region of sills. Geophysical Research Letters, 33, L23606, doi:10.1029/2006GL028092.
+[13] Xing, J. and Davies, A.M. (2006). Internal wave trapping and mixing in a cold water dome, Journal Geophysical Research, 111, C07002, doi:10.1029/2005JC003417.
+[14] Berntsen J., Xing, J. and Guttorm A. (2006). Assessment of non-hydrostatic ocean models laboratory scale problems. Continental Shelf Research, 26 (12-13), 1433-1447, doi: 10.1016/j.csr.200602.014. 
+[15] Xing, J. and Davies, A.M. (2004). Modelling non-linear interaction between wind forced flows in surface frontal regions. Geophysical Research Letters, 31, L11308, doi:10.1029/2004GLO19490.
+代表性著作 
+主要专利成果 
+其他成果 
+ </研究成果>

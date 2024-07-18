@@ -1,0 +1,47 @@
+{"title":"郑向远","cnUrl":"http://www.sigs.tsinghua.edu.cn/zxy/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/66/b7/7054b6854b7a9160e123da4f14fc/42b9812f-48e2-401b-9b5a-38d66527a4f9.jpg","email":"zheng.xiangyuan@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+1992.09-1996.06，天津大学海洋与船舶工程系，本科
+1996.09-1999.06，中国地震局工程力学研究所，工程抗震与防灾减灾，硕士
+1999.10-2003.05，新加坡国立大学土木系，海洋结构物随机响应，博士
+2003.05-2006.06，新加坡国立大学土木系博士后
+(2005.02-2006.02)，访问挪威科技大学船舶与海洋中心，博士后
+2006.09-2007.09，挪威科技大学船舶与海洋中心，博士后
+2007.10-2012.03，新加坡吉宝海事技术中心，高级研发工程师
+2012.04-2014.04，大连理工大学深海工程研究中心，教授、博导
+2014.05至今 清华大学深圳研究生院海洋学部，研究员、博导
+教育经历 
+工作经历 
+学术兼职 
+美国机械工程学会会员
+英文期刊Marine Structures编委
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+随机振动与谱分析、海洋石油开发工艺与设备、海洋工程环境学
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+海上风电 - 国家自然科学基金项目“复杂环境荷载下海洋单桩风电机的随机响应与破坏机理分析” - 项目负责人，在研。
+ 海上风电 - 中国水电顾问集团华东勘测设计研究院“海上风电机组基础结构的台风、船舶碰撞、冰荷载、疲劳损伤研究” - 技术总负责，在研。
+ 船海水池试验 - 深圳市发改委“深圳市海洋工程装备风浪动力耦合试验公共服务平台” - 项目负责人，在研。
+ 船海装备试验 - 国家海洋局“深圳深海海洋工程装备配套试验平台项目”课题 - 技术总负责，在研。
+ 船海创新项目 - 深圳市经信委“深水海洋工程配套装备(钻井和生产)创新链+产业链融合项目”- 技术总负责，在研。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+Xiang Yuan Zheng, Hongbin Li, Weidong Rong, Wei Li (2015). Joint earthquake and wave action on the monopile wind turbine foundation: An experimental study, Marine Structures, 44: 125-141.
+Zheng, X. Y. (2013) Random Wave Forces on Monopile Wind Turbine Foundations: A Comparison of Wave Models. OMAE2013-10713, Proceedings of 32nd International Conference on Offshore Mechanics and Arctic Engineering, June 9-14, 2013, Nantes, France. (Volume 8, Paper No. 1786732).
+Moan, T., Zheng, X. Y., (2009) Quasi-Static Response of Fixed Offshore Platforms to Morison-Type Wave Loadings. ASCE Journal of Engineering Mechanics, 135(10), p 1057-1068.
+Zheng, X. Y., Moan, T. and Quek, S. T. (2007) Non-Gaussian Random Wave Simulation by Two-Dimensional Fourier Transform and Linear Oscillator Response to Morison Force. ASME Journal of Offshore Mechanics and Arctic Engineering, 129(4), p 327-334.
+Moan, T., X. Y. Zheng and S. T. Quek (2007) Frequency-domain Analysis of Nonlinear Wave Effects on Offshore Platform Responses. International Journal of Non-Linear Mechanics, 42(3), p 555-565.
+代表性著作 
+S.T. Quek, Zheng, X.Y. and Liaw, C.Y. Stochastic Response of Fixed Offshore Structures. In book: Recent Developments in Reliability-based Civil Engineering, Editor, A. Haldar, World Scientific, 2006, 24 pages in Book.
+主要专利成果 
+半潜式钻井储油平台系统 中国 201320784745.2
+一种浮式自升式钻井平台 中国 201520092166.0
+其他成果 
+ </研究成果>

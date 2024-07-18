@@ -1,0 +1,45 @@
+{"title":"付晓","cnUrl":"http://www.sigs.tsinghua.edu.cn/fx/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/37/bd/f67ba9044a27b99dcc5c7b3fab3f/c7656cb0-9556-4296-babe-114692ac075e.jpg","email":"fu.xiao@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2011年9月-2016年7月，清华大学，环境工程专业，博士
+2007年9月-2011年7月，清华大学，环境工程专业，学士
+2008年9月-2011年7月，清华大学，经济学专业，学士
+工作经历 
+2023年12月至今，清华大学深圳国际研究生院，副教授
+2021年1月-2023年12月，清华大学深圳国际研究生院，助理教授
+2019年9月-2020年12月，香港理工大学，研究助理教授
+2016年10月-2019年8月，香港理工大学，博士后
+2013年11月-2014年4月，美国环保局，访问学者
+学术兼职 
+期刊审稿人：Atmospheric Chemistry and Physics; Environmental Pollution; Atmospheric Environment; Aerosol and Air Quality Research; Journal of Environmental Sciences
+社会兼职 
+ </个人简历>
+<研究领域>
+研究领域 
+大气污染化学数值模拟，大气污染物排放表征，大气活性氮排放-转化-影响，大气活性卤素排放-转化-影响，大气-地面-海洋交互作用
+主要项目 
+[1] 亚热带城市群区域大气光化学污染：从微环境到城市-陆地-海洋的相互作用,香港研究资助局主题资助项目, 2018-2022 （参与）
+[2] 华北地区大气氮氧化物非均相化学及其对大气氧化性和区域空气污染的影响，国家自然科学基金重大研究计划重点支持项目，2016-2019 （参与）
+[3] 长三角地区大气灰霾特征与控制途径预研究，环保公益性行业科研专项，2010-2013 （参与）
+ </研究领域>
+<研究成果>
+代表性论文 
+[1]Fu, X.; Wang, T.; Gao, J.; Wang, P.; Liu, Y.; Wang, S.; Zhao, B.; Xue, L., Persistent Heavy Winter Nitrate Pollution Driven by Increased Photochemical Oxidants in Northern China. Environmental Science & Technology 2020, 54, (7), 3881-3889.
+[2] Fu, X.; Wang, T.; Zhang, L.; Li, Q. Y.; Wang, Z.; Xia, M.; Yun, H.; Wang, W. H.; Yu, C.; Yue, D. L.; Zhou, Y.; Zheng, J. Y.; Han, R., The significant contribution of HONO to secondary pollutants during a severe winter pollution event in southern China. Atmospheric Chemistry and Physics 2019, 19, (1), 1-14. 
+[3] Fu, X.; Wang, T.; Wang, S.; Zhang, L.; Cai, S.; Xing, J.; Hao, J., Anthropogenic Emissions of Hydrogen Chloride and Fine Particulate Chloride in China. Environmental Science & Technology 2018, 52, (3), 1644-1654. 
+[4] Fu, X.; Wang, S.; Xing, J.; Zhang, X.; Wang, T.; Hao, J., Increasing Ammonia Concentrations Reduce the Effectiveness of Particle Pollution Control Achieved via SO2 and NOX Emissions Reduction in East China. Environmental Science & Technology Letters 2017, 4, (6), 221-227. 
+[5] Fu, X.; Wang, S.; Chang, X.; Cai, S.; Xing, J.; Hao, J., Modeling analysis of secondary inorganic aerosols over China: pollution characteristics, and meteorological and dust impacts. Scientific Reports 2016, 6. 
+[6] Fu, X.; Cheng, Z.; Wang, S.; Hua, Y.; Xing, J.; Hao, J., Local and Regional Contributions to Fine Particle Pollution in Winter of the Yangtze River Delta, China. Aerosol and Air Quality Research 2016, 16, (4), 1067-1080. 
+[7] Fu, X.; Wang, S. X.; Ran, L. M.; Pleim, J. E.; Cooter, E.; Bash, J. O.; Benson, V.; Hao, J. M., Estimating NH3 emissions from agricultural fertilizer application in China using the bi-directional CMAQ model coupled to an agro-ecosystem model. Atmospheric Chemistry and Physics 2015, 15, (12), 6637-6649. 
+[8] Fu, X.; Wang, S. X.; Cheng, Z.; Xing, J.; Zhao, B.; Wang, J. D.; Hao, J. M., Source, transport and impacts of a heavy dust event in the Yangtze River Delta, China, in 2011. Atmospheric Chemistry and Physics 2014, 14, (3), 1239-1254. 
+[9] Fu, X.; Wang, S.; Zhao, B.; Xing, J.; Cheng, Z.; Liu, H.; Hao, J., Emission inventory of primary pollutants and chemical speciation in 2010 for the Yangtze River Delta region, China. Atmospheric Environment 2013, 70, 39-50. 
+代表性著作 
+王书肖，程真，赵斌，付晓，蒋靖坤等，长三角城市群霾污染特征、来源及控制对策. 科学出版社. 2016.
+主要专利成果 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+唐孝炎环境科学创新奖学金一等奖
+ </奖励荣誉>

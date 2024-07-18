@@ -1,0 +1,64 @@
+{"title":"李欢","cnUrl":"http://www.sigs.tsinghua.edu.cn/lh/main.htm","headerPic":"https://www.sigs.tsinghua.edu.cn/_upload/article/images/f2/fb/c3c0a3084834b516ad0f09bf8299/a482dc21-f563-40f2-8e6b-e462a28f3b39.jpg","email":"li.huan@sz.tsinghua.edu.cn"}
+<个人简历>
+概况 
+教育经历 
+2002.09-2007.12，清华大学环境科学与工程系，获工学博士学位
+1998.09-2002.07，清华大学环境科学与工程系，获工学学士学位
+工作经历 
+2013年12月-至今，清华大学深圳研究生院/深圳国际研究生院，副教授
+2016年3月-2017年3月，昆士兰科技大学，访问学者
+2010年1月-2013年12月，清华大学深圳研究生院，讲师
+2008年1月-2009年12月，清华大学环境学院，博士后
+学术兼职 
+《PLOS ONE》，学术编辑
+《Catalysts》，客座编辑
+《环境卫生工程》，编委
+广东省环境科学学会固体废物专业委员会，委员
+深圳市节能与资源综合利用专家联合会，委员
+深圳市建筑废弃物综合利用行业协会专家委员会，委员
+社会兼职 
+ </个人简历>
+<教学>
+教学课程 
+深圳国际研究生院：《固体废物处理处置工程案例分析》，32学时
+深圳国际研究生院：《环境风险分析》，32学时
+深圳国际研究生院：《生物质能源技术》，32学时
+研究生指导 
+ </教学>
+<研究领域>
+研究领域 
+以固体废物控制与资源化为研究领域，重点开展有机废弃物生物转化、催化空气氧化、燃料电池转化技术研究，已发表学术论文120余篇，其中SCI收录70多篇，授权发明专利12项，多项成果实现转化。近年来，开发了有机废物分质分相协同厌氧消化技术，用于深圳市最大的有机废物资源化工程，被生态环境部推荐为首批无废城市先进适用技术，获得广东省环境保护科技二等奖；提出了低温热催化空气氧化体系，实现了有机污染物简易、快速、经济地降解，并已开始技术转化工作；构建了新型有机废物燃料电池，实现了有机废物直接向电能的化学转化，成果已获得多个创业大赛奖励和多轮风险投资。上述工作获得了国家重大科技专项、重点研发计划、自然科学基金等多项科技资助。目前承担国家重点研发计划“固废资源化”重点专项课题以及深圳市、企业的多个项目。
+主要项目 
+ </研究领域>
+<研究成果>
+代表性论文 
+近三年部分论文
+[1] Wei Junxiao, Li Huan*, Liu Jianguo*. Curbing dioxin emissions from municipal solid waste incineration: China's action and global share. Journal of Hazardous Materials, 2022, 435, 129076.
+[2] Yang Luxin, Chen Liang, Li Huan*, Deng Zhou, Liu Jianguo. Lactic acid production from mesophilic and thermophilic fermentation of food waste at different pH. Journal of Environmental Management, 2022, 304, 114312.
+[3] Cai Jiabai, Li Huan*, Jing Qi. Copper atoms inlaid in titanium-zirconium oxide spherical shell confine free radicals for the robust Fenton-like treatment of complex biogas slurry. Applied catalysis B: environmental, 2021, 298, 120555.
+[4] Zhang Yangyang, Li Huan*, Li Debin. Maximize methane recovery from sludge anaerobic digestion by combining an optimal wet air oxidation process. Renewable Energy, 2021, 179, 359-369.
+[5] Wang Qiao, Yang Luxin, Feng Kai, Li Huan*, Deng Zhou, Liu Jianguo. Promote lactic acid production from food waste fermentation using biogas slurry recirculation. Bioresource Technology, 2021, 337, 125393.
+[6] Feng Kai, Wang Qiao, Li Huan*, Du Xinrui, Zhang Yangyang. Microbial mechanism of enhancing methane production from anaerobic digestion of food waste via phase separation and pH control. Journal of Environmental Management, 2021, 288, 112460.
+[7] Cai Jiabai, Li Huan*, Jing Qi, Li Debin, Zhang Yangyang. Embedding ruthenium nanoparticles in the shell layer of titanium zirconium oxide hollow spheres to catalyze the oxidation of lignin under mild condition. Journal of Hazardous Materials, 2021, 411(5), 125161. 
+[8] Yu Qianqian, Li Huan*. Moderate separation of household kitchen waste towards global optimization of municipal solid waste management. Journal of Cleaner Production, 2020, 277, 123330. 
+[9] Wang Qiao, Feng Kai, Li Huan*. Nano iron materials enhance food waste fermentation. Bioresource Technology, 2020, 315, 123804.
+[10]Feng Kai, Li Huan*, Wang Qiao, Zhang Yangyang, Zheng Chengzhi. Effect of pre-fermentation types on the potential of methane production and energy recovery from food waste. Renewable Energy, 2020, 146, 1588-1595.
+代表性著作 
+主要专利成果 
+[1] 李欢, 刘跃岭, 景琦. 一种有机废弃物快速转化能源的方法. CN201810482512.4.
+[2] 李欢, 冯凯, 王巧. 一种有机固体废弃物与餐厨垃圾协同处理的方法. CN202010137737.3.
+[3] 李欢, 景琦. 一种难生物降解的有机废水的处理方法. CN201810517712.9.
+[4] 李欢，冯凯，刘赛. 一种有机废弃物发酵产乙醇的方法. CN201810308305.7
+[5] 李欢, 司丹丹, 张玉瑶, 陈成. 一种脱水污泥厌氧干发酵的装置. CN201510916620.4. 
+其他成果 
+ </研究成果>
+<奖励荣誉>
+荣誉奖项 
+2004年，清华大学“一二·九”辅导员奖
+2010年，深圳市后备级领军人才
+2015年，第五届钱学森城市学金奖提名奖
+2017年，深圳市海外高层次人才
+2019年，联合国环境规划署生命周期倡议奖
+2022年，清华大学精品课、课程思政示范教师
+2022年，广东省环境保护科学技术二等奖
+ </奖励荣誉>
