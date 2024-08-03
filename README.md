@@ -6,7 +6,7 @@
 
 ### 详细文档
 
-https://chenwc-my.sharepoint.com/:w:/g/personal/cwc_cwcn_eu_org/EQmxw3kptFNAm0Hnd33uDuEBLc3-aHpG6eIJJODCS1fIhw?e=UmbRJ2
+[文档](https://github.com/Moriic/InformationRetrieval/blob/main/%E9%9D%A2%E5%90%91%E6%95%99%E5%B8%88%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E7%9A%84%E4%BF%A1%E6%81%AF%E6%A3%80%E7%B4%A2%E7%B3%BB%E7%BB%9F.md)
 
 ### 基本功能
 
